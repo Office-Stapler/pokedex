@@ -24,7 +24,7 @@ class Pokedex:
         self.rightFrame = tkinter.Frame(self.win)
         self.rightFrame.pack(side=tkinter.RIGHT)
 
-    def next_image(self, lbl, lblname, event=None):
+    def next_image(self, lbl, lblname, lbltype1, lbltype2, event=None):
         nxt = self.url['id'] + 1
         new_url = f'data/images/{nxt:03d}.png'
         if nxt <= len(os.listdir('data/images')):
@@ -33,8 +33,9 @@ class Pokedex:
             self.url['url'] = new_url
             self.url['id'] += 1
             lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
+            self.__change_types(lbltype1, lbltype2)
 
-    def prev_image(self, lbl, lblname, event=None):
+    def prev_image(self, lbl, lblname, lbltype1, lbltype2, event=None):
         prev = self.url['id'] - 1
         new_url = f'data/images/{prev:03d}.png'
         if prev >= 1:
@@ -43,8 +44,9 @@ class Pokedex:
             self.url['url'] = new_url
             self.url['id'] -= 1
             lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
+            self.__change_types(lbltype1, lbltype2)
 
-    def search_pokemon(self, lbl, lblname, search, event=None):
+    def search_pokemon(self, lbl, lblname, search, lbltype1, lbltype2, event=None):
         text = search.get().capitalize()
         if text == '':
             return
@@ -53,6 +55,8 @@ class Pokedex:
             pkid = int(text)
             if not 1 <= pkid <= len(self.pokemon):
                 return
+            types = self.get_type()
+            type_base = 'data/types_images/'
             new_url = f'data/images/{pkid:03d}.png'
             lbl.image = tkinter.PhotoImage(file=new_url)
             lbl.config(image=lbl.image)
@@ -69,6 +73,7 @@ class Pokedex:
                     self.url['id'] = i['id']
                     lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
                     break
+        self.__change_types(lbltype1, lbltype2)
         search.delete(0, tkinter.END)
         search.insert(0, '')
 
@@ -93,3 +98,20 @@ class Pokedex:
             listbox.insert(tkinter.END, f'==={i.upper()}==')
             for j in moves[i]:
                 listbox.insert(tkinter.END, j)
+
+    def get_type(self, pid=None):
+        if not pid:
+            return [x.lower() for x in self.pokemon[self.url['id'] - 1]['type']]
+        else:
+            return [x.lower() for x in self.pokemon[pid - 1]['type']]
+
+    def __change_types(self, lbltype1, lbltype2):
+        types = self.get_type()
+        type_base = 'data/types_images/'
+        lbltype1.image = tkinter.PhotoImage(file=type_base + f'{types[0]}.png')
+        if len(types) == 2:
+            lbltype2.image = tkinter.PhotoImage(file=type_base + f'{types[1]}.png')
+        else:
+            lbltype2.image = ''
+        lbltype1.config(image=lbltype1.image)
+        lbltype2.config(image=lbltype2.image)
