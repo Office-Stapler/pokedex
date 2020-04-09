@@ -35,8 +35,8 @@ scrollbar = tkinter.Scrollbar(tk.rightFrame, orient='vertical')
 scrollbar.config(command=listbox.yview)
 scrollbar.pack(side='right', fill='y')
 
-tk.win.bind('<Right>', lambda e: tk.next_image(lbl, lblname))
-tk.win.bind('<Left>', lambda e: tk.prev_image(lbl, lblname))
-tk.win.bind('<Return>', lambda e: tk.search_pokemon(lbl, lblname, search))
+tk.win.bind('<Right>', lambda e: [tk.next_image(lbl, lblname), tk.list_moves(listbox)])
+tk.win.bind('<Left>', lambda e: [tk.prev_image(lbl, lblname), tk.list_moves(listbox)])
+tk.win.bind('<Return>', lambda e: [tk.search_pokemon(lbl, lblname, search), tk.list_moves(listbox)])
 
 tk.win.mainloop()

@@ -10,6 +10,7 @@ class Pokemon:
         self.abilities = rq['abilities']
         self.forms = rq['forms']
         self.games = rq['game_indices']
+        self.id = rq['game_indices'][0]['game_index']
         self.items = rq['held_items']
         self.species = rq['species']
         self.sprites = rq['sprites']
@@ -49,32 +50,8 @@ class Pokemon:
             number += i if i.isdigit() else ''
         return int(number)
 
-    def get_levelup_moves(self):
-        moves = {}
-        for move in self.full_moves:
-            for j in move[1]:
-                ver = j['version_group']['name']
-                if ver not in moves:
-                    moves[ver] = []
-
-                if j['level_learned_at']:
-                    moves[ver].append(f'{move[0]} learnt at level {j["level_learned_at"]}')
-        self.versions = list(moves.keys())
-        for version in self.versions:
-            moves[version] = sorted(moves[version], key=lambda x: self.__convert(x))
-        return moves
-
 
 if __name__ == '__main__':
-    pid = len(os.listdir('data/moves/')) + 1
-
-    with open('data/pokedex.json', 'r+', encoding='utf-8') as f:
-        pokemon = json.loads(f.read())
-
-    while pid <= len(os.listdir('data/images')):
-        fpokemon = pokemon[pid - 1]['name']['english'].lower()
-        npokemon = Pokemon(pid)
-        with open(f'data/moves/{pid:03d}.json', 'w+') as fwrite:
-            json.dump(npokemon.get_levelup_moves(), fwrite)
-            print(f'Done Dumping {fpokemon.capitalize()}.json.... ')
-        pid += 1
+    name = input()
+    pokemon = Pokemon(name)
+    print(pokemon.get_levelup_moves())

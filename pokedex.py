@@ -3,7 +3,6 @@ import sys
 import os
 import random
 import json
-import pokeAPI
 
 class Pokedex:
     def __init__(self):
@@ -25,18 +24,15 @@ class Pokedex:
         self.rightFrame = tkinter.Frame(self.win)
         self.rightFrame.pack(side=tkinter.RIGHT)
 
-        self.current = pokeAPI.Pokemon('bulbasaur')
-
     def next_image(self, lbl, lblname, event=None):
         nxt = self.url['id'] + 1
         new_url = f'data/images/{nxt:03d}.png'
-        if nxt <= len(os.listdir('data/images')) + 1:
+        if nxt <= len(os.listdir('data/images')):
             lbl.image = tkinter.PhotoImage(file=new_url)
             lbl.config(image=lbl.image)
             self.url['url'] = new_url
             self.url['id'] += 1
             lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
-            self.current = pokeAPI.Pokemon(self.pokemon[self.url['id'] - 1]['name']['english'])
 
     def prev_image(self, lbl, lblname, event=None):
         prev = self.url['id'] - 1
@@ -47,7 +43,6 @@ class Pokedex:
             self.url['url'] = new_url
             self.url['id'] -= 1
             lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
-            self.current = pokeAPI.Pokemon(self.pokemon[self.url['id'] - 1]['name']['english'])
 
     def search_pokemon(self, lbl, lblname, search, event=None):
         text = search.get().capitalize()
@@ -64,7 +59,6 @@ class Pokedex:
             self.url['url'] = new_url
             self.url['id'] = pkid
             lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
-            self.current = pokeAPI.Pokemon(self.pokemon[self.url['id'] - 1]['name']['english'])
         except ValueError:
             for i in self.pokemon:
                 if text in i['name'].values():
@@ -74,15 +68,28 @@ class Pokedex:
                     self.url['url'] = new_url
                     self.url['id'] = i['id']
                     lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
-                    self.current = pokeAPI.Pokemon(text)
                     break
         search.delete(0, tkinter.END)
         search.insert(0, '')
 
+
+    def get_levelup_moves(self, pid = None):
+        if not pid:
+            with open(f'data/levelup_moves/{self.url["id"]:03d}.json', 'r') as fread:
+                moves =  json.load(fread)
+        else:
+            with open(f'data/levelup_moves/{pid:03d}.json', 'r') as fread:
+                moves =  json.load(fread)
+        
+        return moves
+
     def list_moves(self, listbox):
         listbox.delete('0', 'end')
-        moves = self.current.get_levelup_moves()
-        for i in self.current.versions[::-1]:
+        moves = self.get_levelup_moves()
+        if not moves:
+            return
+
+        for i in list(moves.keys())[::-1]:
             listbox.insert(tkinter.END, f'==={i.upper()}==')
             for j in moves[i]:
                 listbox.insert(tkinter.END, j)
