@@ -6,7 +6,7 @@ import pokeAPI
 tk = pokedex.Pokedex()
 
 img = tkinter.PhotoImage(file=tk.url['url'])
-lblname = tkinter.Label(tk.topFrame, text=tk.pokemon[tk.url['id'] - 1]['name']['english'])
+lblname = tkinter.Label(tk.topFrame, text=f'{tk.pokemon[tk.url["id"] - 1]["name"]["english"]}: 1', font=('Helvetica', 40))
 lbl = tkinter.Label(tk.win, image=img)
 listbox = tkinter.Listbox(tk.rightFrame, width=50, height=50, font=('Helvetica', 12))
 
@@ -34,7 +34,7 @@ lbltype2.pack()
 
 
 btnnext = tkinter.Button(tk.bottomFrame, text='>', fg='darkblue', bg='white', command=lambda: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
-btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.prev_image(llbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
+btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
 btnnext.grid(row=0, column=1, rowspan = 2)
 btnprev.grid(row=0, column=0, rowspan = 2)
 

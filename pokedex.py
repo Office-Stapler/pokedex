@@ -32,7 +32,7 @@ class Pokedex:
             lbl.config(image=lbl.image)
             self.url['url'] = new_url
             self.url['id'] += 1
-            lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
+            lblname.config(text = f'{self.pokemon[self.url["id"] - 1]["name"]["english"]}: {self.url["id"]}')
             self.__change_types(lbltype1, lbltype2)
 
     def prev_image(self, lbl, lblname, lbltype1, lbltype2, event=None):
@@ -43,7 +43,7 @@ class Pokedex:
             lbl.config(image=lbl.image)
             self.url['url'] = new_url
             self.url['id'] -= 1
-            lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
+            lblname.config(text = f'{self.pokemon[self.url["id"] - 1]["name"]["english"]}: {self.url["id"]}')
             self.__change_types(lbltype1, lbltype2)
 
     def search_pokemon(self, lbl, lblname, search, lbltype1, lbltype2, event=None):
@@ -62,7 +62,6 @@ class Pokedex:
             lbl.config(image=lbl.image)
             self.url['url'] = new_url
             self.url['id'] = pkid
-            lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
         except ValueError:
             for i in self.pokemon:
                 if text in i['name'].values():
@@ -71,8 +70,8 @@ class Pokedex:
                     lbl.config(image=lbl.image)
                     self.url['url'] = new_url
                     self.url['id'] = i['id']
-                    lblname.config(text = self.pokemon[self.url['id'] - 1]['name']['english'])
                     break
+        lblname.config(text = f'{self.pokemon[self.url["id"] - 1]["name"]["english"]}: {self.url["id"]}')
         self.__change_types(lbltype1, lbltype2)
         search.delete(0, tkinter.END)
         search.insert(0, '')
