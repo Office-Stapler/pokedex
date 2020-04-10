@@ -1,225 +1,786 @@
 {
     "ultra-sun-ultra-moon": [
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Bubble learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Bubble",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "sun-moon": [
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Bubble learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Bubble",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Bubble learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Bubble",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "black-2-white-2": [
-        "Water-sport learnt at level 1",
-        "Bubble learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Water-gun learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "xd": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Double-slap learnt at level 19",
-        "Rain-dance learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Belly-drum learnt at level 37",
-        "Hydro-pump learnt at level 43"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Double-slap",
+            19
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Belly-drum",
+            37
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "colosseum": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Double-slap learnt at level 19",
-        "Rain-dance learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Belly-drum learnt at level 37",
-        "Hydro-pump learnt at level 43"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Double-slap",
+            19
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Belly-drum",
+            37
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "black-white": [
-        "Water-sport learnt at level 1",
-        "Bubble learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Water-gun learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "heartgold-soulsilver": [
-        "Water-sport learnt at level 1",
-        "Bubble learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Water-gun learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "x-y": [
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Bubble learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Bubble",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "diamond-pearl": [
-        "Water-sport learnt at level 1",
-        "Bubble learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Water-gun learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "firered-leafgreen": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Double-slap learnt at level 19",
-        "Rain-dance learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Belly-drum learnt at level 37",
-        "Hydro-pump learnt at level 43"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Double-slap",
+            19
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Belly-drum",
+            37
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "emerald": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Double-slap learnt at level 19",
-        "Rain-dance learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Belly-drum learnt at level 37",
-        "Hydro-pump learnt at level 43"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Double-slap",
+            19
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Belly-drum",
+            37
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Double-slap learnt at level 19",
-        "Rain-dance learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Belly-drum learnt at level 37",
-        "Hydro-pump learnt at level 43"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Double-slap",
+            19
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Belly-drum",
+            37
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "crystal": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Double-slap learnt at level 19",
-        "Rain-dance learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Belly-drum learnt at level 37",
-        "Hydro-pump learnt at level 43"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Double-slap",
+            19
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Belly-drum",
+            37
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "gold-silver": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Double-slap learnt at level 19",
-        "Rain-dance learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Belly-drum learnt at level 37",
-        "Hydro-pump learnt at level 43"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Double-slap",
+            19
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Belly-drum",
+            37
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "platinum": [
-        "Water-sport learnt at level 1",
-        "Bubble learnt at level 5",
-        "Hypnosis learnt at level 8",
-        "Water-gun learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Rain-dance learnt at level 18",
-        "Body-slam learnt at level 21",
-        "Bubble-beam learnt at level 25",
-        "Mud-shot learnt at level 28",
-        "Belly-drum learnt at level 31",
-        "Wake-up-slap learnt at level 35",
-        "Hydro-pump learnt at level 38",
-        "Mud-bomb learnt at level 41"
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Hypnosis",
+            8
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Rain-dance",
+            18
+        ],
+        [
+            "Body-slam",
+            21
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Mud-shot",
+            28
+        ],
+        [
+            "Belly-drum",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            35
+        ],
+        [
+            "Hydro-pump",
+            38
+        ],
+        [
+            "Mud-bomb",
+            41
+        ]
     ],
     "yellow": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 16",
-        "Water-gun learnt at level 19",
-        "Double-slap learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Amnesia learnt at level 38",
-        "Hydro-pump learnt at level 45"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Water-gun",
+            19
+        ],
+        [
+            "Double-slap",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Amnesia",
+            38
+        ],
+        [
+            "Hydro-pump",
+            45
+        ]
     ],
     "red-blue": [
-        "Bubble learnt at level 1",
-        "Hypnosis learnt at level 16",
-        "Water-gun learnt at level 19",
-        "Double-slap learnt at level 25",
-        "Body-slam learnt at level 31",
-        "Amnesia learnt at level 38",
-        "Hydro-pump learnt at level 45"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Water-gun",
+            19
+        ],
+        [
+            "Double-slap",
+            25
+        ],
+        [
+            "Body-slam",
+            31
+        ],
+        [
+            "Amnesia",
+            38
+        ],
+        [
+            "Hydro-pump",
+            45
+        ]
     ]
 }

@@ -1,302 +1,1126 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Bite learnt at level 1",
-        "Crunch learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Echoed-voice learnt at level 1",
-        "Boomburst learnt at level 1",
-        "Echoed-voice learnt at level 4",
-        "Astonish learnt at level 9",
-        "Howl learnt at level 11",
-        "Screech learnt at level 15",
-        "Supersonic learnt at level 18",
-        "Stomp learnt at level 23",
-        "Uproar learnt at level 27",
-        "Roar learnt at level 32",
-        "Rest learnt at level 36",
-        "Sleep-talk learnt at level 42",
-        "Hyper-voice learnt at level 47",
-        "Synchronoise learnt at level 53",
-        "Boomburst learnt at level 58",
-        "Hyper-beam learnt at level 64"
+        [
+            "Crunch",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Echoed-voice",
+            1
+        ],
+        [
+            "Boomburst",
+            1
+        ],
+        [
+            "Echoed-voice",
+            4
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Howl",
+            11
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Supersonic",
+            18
+        ],
+        [
+            "Stomp",
+            23
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Roar",
+            32
+        ],
+        [
+            "Rest",
+            36
+        ],
+        [
+            "Sleep-talk",
+            42
+        ],
+        [
+            "Hyper-voice",
+            47
+        ],
+        [
+            "Synchronoise",
+            53
+        ],
+        [
+            "Boomburst",
+            58
+        ],
+        [
+            "Hyper-beam",
+            64
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Bite learnt at level 1",
-        "Crunch learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Echoed-voice learnt at level 1",
-        "Boomburst learnt at level 1",
-        "Echoed-voice learnt at level 4",
-        "Astonish learnt at level 9",
-        "Howl learnt at level 11",
-        "Screech learnt at level 15",
-        "Supersonic learnt at level 18",
-        "Stomp learnt at level 23",
-        "Uproar learnt at level 27",
-        "Roar learnt at level 32",
-        "Rest learnt at level 36",
-        "Sleep-talk learnt at level 42",
-        "Hyper-voice learnt at level 47",
-        "Synchronoise learnt at level 53",
-        "Boomburst learnt at level 58",
-        "Hyper-beam learnt at level 64"
+        [
+            "Crunch",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Echoed-voice",
+            1
+        ],
+        [
+            "Boomburst",
+            1
+        ],
+        [
+            "Echoed-voice",
+            4
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Howl",
+            11
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Supersonic",
+            18
+        ],
+        [
+            "Stomp",
+            23
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Roar",
+            32
+        ],
+        [
+            "Rest",
+            36
+        ],
+        [
+            "Sleep-talk",
+            42
+        ],
+        [
+            "Hyper-voice",
+            47
+        ],
+        [
+            "Synchronoise",
+            53
+        ],
+        [
+            "Boomburst",
+            58
+        ],
+        [
+            "Hyper-beam",
+            64
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Bite learnt at level 20",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Crunch learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Synchronoise learnt at level 55",
-        "Sleep-talk learnt at level 63",
-        "Hyper-voice learnt at level 71",
-        "Hyper-beam learnt at level 79"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Synchronoise",
+            55
+        ],
+        [
+            "Sleep-talk",
+            63
+        ],
+        [
+            "Hyper-voice",
+            71
+        ],
+        [
+            "Hyper-beam",
+            79
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Bite learnt at level 20",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Crunch learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63",
-        "Hyper-beam learnt at level 71"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ],
+        [
+            "Hyper-beam",
+            71
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Bite learnt at level 20",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Crunch learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63",
-        "Hyper-beam learnt at level 71"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ],
+        [
+            "Hyper-beam",
+            71
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Bite learnt at level 20",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Crunch learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63",
-        "Hyper-beam learnt at level 71"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ],
+        [
+            "Hyper-beam",
+            71
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Hyper-beam learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hyper-beam",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Hyper-beam learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hyper-beam",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Echoed-voice learnt at level 1",
-        "Boomburst learnt at level 1",
-        "Echoed-voice learnt at level 4",
-        "Astonish learnt at level 9",
-        "Howl learnt at level 11",
-        "Screech learnt at level 15",
-        "Supersonic learnt at level 18",
-        "Bite learnt at level 20",
-        "Stomp learnt at level 23",
-        "Uproar learnt at level 27",
-        "Roar learnt at level 32",
-        "Rest learnt at level 36",
-        "Crunch learnt at level 40",
-        "Sleep-talk learnt at level 42",
-        "Hyper-voice learnt at level 47",
-        "Synchronoise learnt at level 53",
-        "Boomburst learnt at level 58",
-        "Hyper-beam learnt at level 64"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Echoed-voice",
+            1
+        ],
+        [
+            "Boomburst",
+            1
+        ],
+        [
+            "Echoed-voice",
+            4
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Howl",
+            11
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Supersonic",
+            18
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Stomp",
+            23
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Roar",
+            32
+        ],
+        [
+            "Rest",
+            36
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Sleep-talk",
+            42
+        ],
+        [
+            "Hyper-voice",
+            47
+        ],
+        [
+            "Synchronoise",
+            53
+        ],
+        [
+            "Boomburst",
+            58
+        ],
+        [
+            "Hyper-beam",
+            64
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Boomburst learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Bite learnt at level 20",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Crunch learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Synchronoise learnt at level 55",
-        "Sleep-talk learnt at level 63",
-        "Hyper-voice learnt at level 71",
-        "Hyper-beam learnt at level 79",
-        "Boomburst learnt at level 85"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Boomburst",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Synchronoise",
+            55
+        ],
+        [
+            "Sleep-talk",
+            63
+        ],
+        [
+            "Hyper-voice",
+            71
+        ],
+        [
+            "Hyper-beam",
+            79
+        ],
+        [
+            "Boomburst",
+            85
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Bite learnt at level 20",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Crunch learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Synchronoise learnt at level 55",
-        "Sleep-talk learnt at level 63",
-        "Hyper-voice learnt at level 71",
-        "Hyper-beam learnt at level 79"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Synchronoise",
+            55
+        ],
+        [
+            "Sleep-talk",
+            63
+        ],
+        [
+            "Hyper-voice",
+            71
+        ],
+        [
+            "Hyper-beam",
+            79
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Hyper-beam learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hyper-beam",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Hyper-beam learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hyper-beam",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Howl learnt at level 1",
-        "Uproar learnt at level 5",
-        "Astonish learnt at level 11",
-        "Howl learnt at level 15",
-        "Supersonic learnt at level 23",
-        "Stomp learnt at level 29",
-        "Screech learnt at level 37",
-        "Hyper-beam learnt at level 40",
-        "Roar learnt at level 45",
-        "Rest learnt at level 55",
-        "Sleep-talk learnt at level 55",
-        "Hyper-voice learnt at level 63"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Uproar",
+            5
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Howl",
+            15
+        ],
+        [
+            "Supersonic",
+            23
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hyper-beam",
+            40
+        ],
+        [
+            "Roar",
+            45
+        ],
+        [
+            "Rest",
+            55
+        ],
+        [
+            "Sleep-talk",
+            55
+        ],
+        [
+            "Hyper-voice",
+            63
+        ]
     ]
 }

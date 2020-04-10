@@ -1,266 +1,970 @@
 {
     "ultra-sun-ultra-moon": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Earth-power learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Ember learnt at level 6",
-        "Rock-throw learnt at level 8",
-        "Harden learnt at level 13",
-        "Incinerate learnt at level 15",
-        "Clear-smog learnt at level 20",
-        "Ancient-power learnt at level 22",
-        "Flame-burst learnt at level 27",
-        "Rock-slide learnt at level 29",
-        "Lava-plume learnt at level 34",
-        "Amnesia learnt at level 36",
-        "Body-slam learnt at level 43",
-        "Recover learnt at level 47",
-        "Flamethrower learnt at level 54",
-        "Earth-power learnt at level 58"
+        [
+            "Shell-smash",
+            0
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Earth-power",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Ember",
+            6
+        ],
+        [
+            "Rock-throw",
+            8
+        ],
+        [
+            "Harden",
+            13
+        ],
+        [
+            "Incinerate",
+            15
+        ],
+        [
+            "Clear-smog",
+            20
+        ],
+        [
+            "Ancient-power",
+            22
+        ],
+        [
+            "Flame-burst",
+            27
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Lava-plume",
+            34
+        ],
+        [
+            "Amnesia",
+            36
+        ],
+        [
+            "Body-slam",
+            43
+        ],
+        [
+            "Recover",
+            47
+        ],
+        [
+            "Flamethrower",
+            54
+        ],
+        [
+            "Earth-power",
+            58
+        ]
     ],
     "sun-moon": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Earth-power learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Ember learnt at level 6",
-        "Rock-throw learnt at level 8",
-        "Harden learnt at level 13",
-        "Incinerate learnt at level 15",
-        "Clear-smog learnt at level 20",
-        "Ancient-power learnt at level 22",
-        "Flame-burst learnt at level 27",
-        "Rock-slide learnt at level 29",
-        "Lava-plume learnt at level 34",
-        "Amnesia learnt at level 36",
-        "Body-slam learnt at level 43",
-        "Recover learnt at level 47",
-        "Flamethrower learnt at level 54",
-        "Earth-power learnt at level 58"
+        [
+            "Shell-smash",
+            0
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Earth-power",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Ember",
+            6
+        ],
+        [
+            "Rock-throw",
+            8
+        ],
+        [
+            "Harden",
+            13
+        ],
+        [
+            "Incinerate",
+            15
+        ],
+        [
+            "Clear-smog",
+            20
+        ],
+        [
+            "Ancient-power",
+            22
+        ],
+        [
+            "Flame-burst",
+            27
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Lava-plume",
+            34
+        ],
+        [
+            "Amnesia",
+            36
+        ],
+        [
+            "Body-slam",
+            43
+        ],
+        [
+            "Recover",
+            47
+        ],
+        [
+            "Flamethrower",
+            54
+        ],
+        [
+            "Earth-power",
+            58
+        ]
     ],
     "black-white": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 5",
-        "Rock-throw learnt at level 10",
-        "Harden learnt at level 14",
-        "Recover learnt at level 19",
-        "Flame-burst learnt at level 23",
-        "Ancient-power learnt at level 28",
-        "Amnesia learnt at level 32",
-        "Lava-plume learnt at level 37",
-        "Shell-smash learnt at level 38",
-        "Rock-slide learnt at level 44",
-        "Body-slam learnt at level 52",
-        "Flamethrower learnt at level 59",
-        "Earth-power learnt at level 67"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Rock-throw",
+            10
+        ],
+        [
+            "Harden",
+            14
+        ],
+        [
+            "Recover",
+            19
+        ],
+        [
+            "Flame-burst",
+            23
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Amnesia",
+            32
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Shell-smash",
+            38
+        ],
+        [
+            "Rock-slide",
+            44
+        ],
+        [
+            "Body-slam",
+            52
+        ],
+        [
+            "Flamethrower",
+            59
+        ],
+        [
+            "Earth-power",
+            67
+        ]
     ],
     "heartgold-soulsilver": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Harden learnt at level 16",
-        "Recover learnt at level 23",
-        "Ancient-power learnt at level 26",
-        "Amnesia learnt at level 31",
-        "Lava-plume learnt at level 40",
-        "Rock-slide learnt at level 45",
-        "Body-slam learnt at level 52",
-        "Flamethrower learnt at level 61",
-        "Earth-power learnt at level 66"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Harden",
+            16
+        ],
+        [
+            "Recover",
+            23
+        ],
+        [
+            "Ancient-power",
+            26
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Lava-plume",
+            40
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Body-slam",
+            52
+        ],
+        [
+            "Flamethrower",
+            61
+        ],
+        [
+            "Earth-power",
+            66
+        ]
     ],
     "platinum": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Harden learnt at level 16",
-        "Recover learnt at level 23",
-        "Ancient-power learnt at level 26",
-        "Amnesia learnt at level 31",
-        "Lava-plume learnt at level 40",
-        "Rock-slide learnt at level 45",
-        "Body-slam learnt at level 52",
-        "Flamethrower learnt at level 61",
-        "Earth-power learnt at level 66"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Harden",
+            16
+        ],
+        [
+            "Recover",
+            23
+        ],
+        [
+            "Ancient-power",
+            26
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Lava-plume",
+            40
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Body-slam",
+            52
+        ],
+        [
+            "Flamethrower",
+            61
+        ],
+        [
+            "Earth-power",
+            66
+        ]
     ],
     "diamond-pearl": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Harden learnt at level 16",
-        "Recover learnt at level 23",
-        "Ancient-power learnt at level 26",
-        "Amnesia learnt at level 31",
-        "Lava-plume learnt at level 40",
-        "Rock-slide learnt at level 45",
-        "Body-slam learnt at level 52",
-        "Flamethrower learnt at level 61",
-        "Earth-power learnt at level 66"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Harden",
+            16
+        ],
+        [
+            "Recover",
+            23
+        ],
+        [
+            "Ancient-power",
+            26
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Lava-plume",
+            40
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Body-slam",
+            52
+        ],
+        [
+            "Flamethrower",
+            61
+        ],
+        [
+            "Earth-power",
+            66
+        ]
     ],
     "firered-leafgreen": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 15",
-        "Harden learnt at level 22",
-        "Amnesia learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Rock-slide learnt at level 48",
-        "Body-slam learnt at level 60"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            15
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Rock-slide",
+            48
+        ],
+        [
+            "Body-slam",
+            60
+        ]
     ],
     "emerald": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 15",
-        "Harden learnt at level 22",
-        "Amnesia learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Rock-slide learnt at level 48",
-        "Body-slam learnt at level 60"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            15
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Rock-slide",
+            48
+        ],
+        [
+            "Body-slam",
+            60
+        ]
     ],
     "ruby-sapphire": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 15",
-        "Harden learnt at level 22",
-        "Amnesia learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Rock-slide learnt at level 48",
-        "Body-slam learnt at level 60"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            15
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Rock-slide",
+            48
+        ],
+        [
+            "Body-slam",
+            60
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Earth-power learnt at level 1",
-        "Ember learnt at level 6",
-        "Rock-throw learnt at level 8",
-        "Harden learnt at level 13",
-        "Incinerate learnt at level 15",
-        "Clear-smog learnt at level 20",
-        "Ancient-power learnt at level 22",
-        "Flame-burst learnt at level 27",
-        "Rock-slide learnt at level 29",
-        "Lava-plume learnt at level 34",
-        "Amnesia learnt at level 36",
-        "Shell-smash learnt at level 38",
-        "Body-slam learnt at level 43",
-        "Recover learnt at level 47",
-        "Flamethrower learnt at level 54",
-        "Earth-power learnt at level 58"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Earth-power",
+            1
+        ],
+        [
+            "Ember",
+            6
+        ],
+        [
+            "Rock-throw",
+            8
+        ],
+        [
+            "Harden",
+            13
+        ],
+        [
+            "Incinerate",
+            15
+        ],
+        [
+            "Clear-smog",
+            20
+        ],
+        [
+            "Ancient-power",
+            22
+        ],
+        [
+            "Flame-burst",
+            27
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Lava-plume",
+            34
+        ],
+        [
+            "Amnesia",
+            36
+        ],
+        [
+            "Shell-smash",
+            38
+        ],
+        [
+            "Body-slam",
+            43
+        ],
+        [
+            "Recover",
+            47
+        ],
+        [
+            "Flamethrower",
+            54
+        ],
+        [
+            "Earth-power",
+            58
+        ]
     ],
     "x-y": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Earth-power learnt at level 1",
-        "Ember learnt at level 5",
-        "Rock-throw learnt at level 10",
-        "Harden learnt at level 14",
-        "Recover learnt at level 19",
-        "Flame-burst learnt at level 23",
-        "Ancient-power learnt at level 28",
-        "Amnesia learnt at level 32",
-        "Lava-plume learnt at level 37",
-        "Shell-smash learnt at level 38",
-        "Rock-slide learnt at level 44",
-        "Body-slam learnt at level 52",
-        "Flamethrower learnt at level 59",
-        "Earth-power learnt at level 67"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Earth-power",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Rock-throw",
+            10
+        ],
+        [
+            "Harden",
+            14
+        ],
+        [
+            "Recover",
+            19
+        ],
+        [
+            "Flame-burst",
+            23
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Amnesia",
+            32
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Shell-smash",
+            38
+        ],
+        [
+            "Rock-slide",
+            44
+        ],
+        [
+            "Body-slam",
+            52
+        ],
+        [
+            "Flamethrower",
+            59
+        ],
+        [
+            "Earth-power",
+            67
+        ]
     ],
     "black-2-white-2": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 5",
-        "Rock-throw learnt at level 10",
-        "Harden learnt at level 14",
-        "Recover learnt at level 19",
-        "Flame-burst learnt at level 23",
-        "Ancient-power learnt at level 28",
-        "Amnesia learnt at level 32",
-        "Lava-plume learnt at level 37",
-        "Shell-smash learnt at level 38",
-        "Rock-slide learnt at level 44",
-        "Body-slam learnt at level 52",
-        "Flamethrower learnt at level 59",
-        "Earth-power learnt at level 67"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Rock-throw",
+            10
+        ],
+        [
+            "Harden",
+            14
+        ],
+        [
+            "Recover",
+            19
+        ],
+        [
+            "Flame-burst",
+            23
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Amnesia",
+            32
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Shell-smash",
+            38
+        ],
+        [
+            "Rock-slide",
+            44
+        ],
+        [
+            "Body-slam",
+            52
+        ],
+        [
+            "Flamethrower",
+            59
+        ],
+        [
+            "Earth-power",
+            67
+        ]
     ],
     "xd": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 15",
-        "Harden learnt at level 22",
-        "Amnesia learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Rock-slide learnt at level 48",
-        "Body-slam learnt at level 60"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            15
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Rock-slide",
+            48
+        ],
+        [
+            "Body-slam",
+            60
+        ]
     ],
     "colosseum": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Yawn learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 15",
-        "Harden learnt at level 22",
-        "Amnesia learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Rock-slide learnt at level 48",
-        "Body-slam learnt at level 60"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            15
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Rock-slide",
+            48
+        ],
+        [
+            "Body-slam",
+            60
+        ]
     ],
     "crystal": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 15",
-        "Harden learnt at level 22",
-        "Amnesia learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Rock-slide learnt at level 48",
-        "Body-slam learnt at level 60"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            15
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Rock-slide",
+            48
+        ],
+        [
+            "Body-slam",
+            60
+        ]
     ],
     "gold-silver": [
-        "Ember learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 8",
-        "Rock-throw learnt at level 15",
-        "Harden learnt at level 22",
-        "Amnesia learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Rock-slide learnt at level 48",
-        "Body-slam learnt at level 60"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Rock-throw",
+            15
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Rock-slide",
+            48
+        ],
+        [
+            "Body-slam",
+            60
+        ]
     ]
 }

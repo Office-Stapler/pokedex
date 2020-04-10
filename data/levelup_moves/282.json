@@ -1,282 +1,1038 @@
 {
-    "emerald": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 11",
-        "Teleport learnt at level 16",
-        "Calm-mind learnt at level 21",
-        "Psychic learnt at level 26",
-        "Imprison learnt at level 33",
-        "Future-sight learnt at level 42",
-        "Hypnosis learnt at level 51",
-        "Dream-eater learnt at level 60"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Wish learnt at level 17",
-        "Magical-leaf learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Psychic learnt at level 33",
-        "Imprison learnt at level 40",
-        "Future-sight learnt at level 45",
-        "Captivate learnt at level 53",
-        "Hypnosis learnt at level 60",
-        "Dream-eater learnt at level 65"
-    ],
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Wish learnt at level 17",
-        "Magical-leaf learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Psychic learnt at level 33",
-        "Imprison learnt at level 40",
-        "Future-sight learnt at level 45",
-        "Captivate learnt at level 53",
-        "Hypnosis learnt at level 60",
-        "Dream-eater learnt at level 65"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Wish learnt at level 17",
-        "Magical-leaf learnt at level 22",
-        "Heal-pulse learnt at level 25",
-        "Calm-mind learnt at level 33",
-        "Psychic learnt at level 40",
-        "Imprison learnt at level 45",
-        "Future-sight learnt at level 53",
-        "Captivate learnt at level 60",
-        "Hypnosis learnt at level 65",
-        "Dream-eater learnt at level 73",
-        "Stored-power learnt at level 80"
+    "ultra-sun-ultra-moon": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Misty-terrain",
+            1
+        ],
+        [
+            "Moonblast",
+            1
+        ],
+        [
+            "Confusion",
+            4
+        ],
+        [
+            "Double-team",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Disarming-voice",
+            11
+        ],
+        [
+            "Wish",
+            14
+        ],
+        [
+            "Magical-leaf",
+            17
+        ],
+        [
+            "Heal-pulse",
+            19
+        ],
+        [
+            "Draining-kiss",
+            23
+        ],
+        [
+            "Calm-mind",
+            26
+        ],
+        [
+            "Psychic",
+            31
+        ],
+        [
+            "Imprison",
+            35
+        ],
+        [
+            "Future-sight",
+            40
+        ],
+        [
+            "Captivate",
+            44
+        ],
+        [
+            "Hypnosis",
+            49
+        ],
+        [
+            "Dream-eater",
+            53
+        ],
+        [
+            "Stored-power",
+            58
+        ],
+        [
+            "Moonblast",
+            62
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Misty-terrain learnt at level 1",
-        "Moonblast learnt at level 1",
-        "Confusion learnt at level 4",
-        "Double-team learnt at level 6",
-        "Teleport learnt at level 9",
-        "Disarming-voice learnt at level 11",
-        "Wish learnt at level 14",
-        "Magical-leaf learnt at level 17",
-        "Heal-pulse learnt at level 19",
-        "Draining-kiss learnt at level 23",
-        "Calm-mind learnt at level 26",
-        "Psychic learnt at level 31",
-        "Imprison learnt at level 35",
-        "Future-sight learnt at level 40",
-        "Captivate learnt at level 44",
-        "Hypnosis learnt at level 49",
-        "Dream-eater learnt at level 53",
-        "Stored-power learnt at level 58",
-        "Moonblast learnt at level 62"
-    ],
-    "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 11",
-        "Teleport learnt at level 16",
-        "Calm-mind learnt at level 21",
-        "Psychic learnt at level 26",
-        "Imprison learnt at level 33",
-        "Future-sight learnt at level 42",
-        "Hypnosis learnt at level 51",
-        "Dream-eater learnt at level 60"
-    ],
-    "xd": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 11",
-        "Teleport learnt at level 16",
-        "Calm-mind learnt at level 21",
-        "Psychic learnt at level 26",
-        "Imprison learnt at level 33",
-        "Future-sight learnt at level 42",
-        "Hypnosis learnt at level 51",
-        "Dream-eater learnt at level 60"
-    ],
-    "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Misty-terrain learnt at level 1",
-        "Moonblast learnt at level 1",
-        "Confusion learnt at level 4",
-        "Double-team learnt at level 6",
-        "Teleport learnt at level 9",
-        "Disarming-voice learnt at level 11",
-        "Wish learnt at level 14",
-        "Magical-leaf learnt at level 17",
-        "Heal-pulse learnt at level 19",
-        "Draining-kiss learnt at level 23",
-        "Calm-mind learnt at level 26",
-        "Psychic learnt at level 31",
-        "Imprison learnt at level 35",
-        "Future-sight learnt at level 40",
-        "Captivate learnt at level 44",
-        "Hypnosis learnt at level 49",
-        "Dream-eater learnt at level 53",
-        "Stored-power learnt at level 58",
-        "Moonblast learnt at level 62"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Misty-terrain",
+            1
+        ],
+        [
+            "Moonblast",
+            1
+        ],
+        [
+            "Confusion",
+            4
+        ],
+        [
+            "Double-team",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Disarming-voice",
+            11
+        ],
+        [
+            "Wish",
+            14
+        ],
+        [
+            "Magical-leaf",
+            17
+        ],
+        [
+            "Heal-pulse",
+            19
+        ],
+        [
+            "Draining-kiss",
+            23
+        ],
+        [
+            "Calm-mind",
+            26
+        ],
+        [
+            "Psychic",
+            31
+        ],
+        [
+            "Imprison",
+            35
+        ],
+        [
+            "Future-sight",
+            40
+        ],
+        [
+            "Captivate",
+            44
+        ],
+        [
+            "Hypnosis",
+            49
+        ],
+        [
+            "Dream-eater",
+            53
+        ],
+        [
+            "Stored-power",
+            58
+        ],
+        [
+            "Moonblast",
+            62
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Misty-terrain learnt at level 1",
-        "Moonblast learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Wish learnt at level 17",
-        "Magical-leaf learnt at level 22",
-        "Heal-pulse learnt at level 25",
-        "Calm-mind learnt at level 33",
-        "Psychic learnt at level 40",
-        "Imprison learnt at level 45",
-        "Future-sight learnt at level 53",
-        "Captivate learnt at level 60",
-        "Hypnosis learnt at level 65",
-        "Dream-eater learnt at level 73",
-        "Stored-power learnt at level 80",
-        "Moonblast learnt at level 85"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Misty-terrain",
+            1
+        ],
+        [
+            "Moonblast",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Wish",
+            17
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Heal-pulse",
+            25
+        ],
+        [
+            "Calm-mind",
+            33
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Imprison",
+            45
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Captivate",
+            60
+        ],
+        [
+            "Hypnosis",
+            65
+        ],
+        [
+            "Dream-eater",
+            73
+        ],
+        [
+            "Stored-power",
+            80
+        ],
+        [
+            "Moonblast",
+            85
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Wish",
+            17
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Heal-pulse",
+            25
+        ],
+        [
+            "Calm-mind",
+            33
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Imprison",
+            45
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Captivate",
+            60
+        ],
+        [
+            "Hypnosis",
+            65
+        ],
+        [
+            "Dream-eater",
+            73
+        ],
+        [
+            "Stored-power",
+            80
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Wish learnt at level 17",
-        "Magical-leaf learnt at level 22",
-        "Heal-pulse learnt at level 25",
-        "Calm-mind learnt at level 33",
-        "Psychic learnt at level 40",
-        "Imprison learnt at level 45",
-        "Future-sight learnt at level 53",
-        "Captivate learnt at level 60",
-        "Hypnosis learnt at level 65",
-        "Dream-eater learnt at level 73",
-        "Stored-power learnt at level 80"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Wish",
+            17
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Heal-pulse",
+            25
+        ],
+        [
+            "Calm-mind",
+            33
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Imprison",
+            45
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Captivate",
+            60
+        ],
+        [
+            "Hypnosis",
+            65
+        ],
+        [
+            "Dream-eater",
+            73
+        ],
+        [
+            "Stored-power",
+            80
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Wish",
+            17
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Imprison",
+            40
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Captivate",
+            53
+        ],
+        [
+            "Hypnosis",
+            60
+        ],
+        [
+            "Dream-eater",
+            65
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Misty-terrain learnt at level 1",
-        "Moonblast learnt at level 1",
-        "Confusion learnt at level 4",
-        "Double-team learnt at level 6",
-        "Teleport learnt at level 9",
-        "Disarming-voice learnt at level 11",
-        "Wish learnt at level 14",
-        "Magical-leaf learnt at level 17",
-        "Heal-pulse learnt at level 19",
-        "Draining-kiss learnt at level 23",
-        "Calm-mind learnt at level 26",
-        "Psychic learnt at level 31",
-        "Imprison learnt at level 35",
-        "Future-sight learnt at level 40",
-        "Captivate learnt at level 44",
-        "Hypnosis learnt at level 49",
-        "Dream-eater learnt at level 53",
-        "Stored-power learnt at level 58",
-        "Moonblast learnt at level 62"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Misty-terrain",
+            1
+        ],
+        [
+            "Moonblast",
+            1
+        ],
+        [
+            "Confusion",
+            4
+        ],
+        [
+            "Double-team",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Disarming-voice",
+            11
+        ],
+        [
+            "Wish",
+            14
+        ],
+        [
+            "Magical-leaf",
+            17
+        ],
+        [
+            "Heal-pulse",
+            19
+        ],
+        [
+            "Draining-kiss",
+            23
+        ],
+        [
+            "Calm-mind",
+            26
+        ],
+        [
+            "Psychic",
+            31
+        ],
+        [
+            "Imprison",
+            35
+        ],
+        [
+            "Future-sight",
+            40
+        ],
+        [
+            "Captivate",
+            44
+        ],
+        [
+            "Hypnosis",
+            49
+        ],
+        [
+            "Dream-eater",
+            53
+        ],
+        [
+            "Stored-power",
+            58
+        ],
+        [
+            "Moonblast",
+            62
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Wish",
+            17
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Imprison",
+            40
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Captivate",
+            53
+        ],
+        [
+            "Hypnosis",
+            60
+        ],
+        [
+            "Dream-eater",
+            65
+        ]
     ],
     "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Wish learnt at level 17",
-        "Magical-leaf learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Psychic learnt at level 33",
-        "Imprison learnt at level 40",
-        "Future-sight learnt at level 45",
-        "Captivate learnt at level 53",
-        "Hypnosis learnt at level 60",
-        "Dream-eater learnt at level 65"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Wish",
+            17
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Imprison",
+            40
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Captivate",
+            53
+        ],
+        [
+            "Hypnosis",
+            60
+        ],
+        [
+            "Dream-eater",
+            65
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Teleport",
+            16
+        ],
+        [
+            "Calm-mind",
+            21
+        ],
+        [
+            "Psychic",
+            26
+        ],
+        [
+            "Imprison",
+            33
+        ],
+        [
+            "Future-sight",
+            42
+        ],
+        [
+            "Hypnosis",
+            51
+        ],
+        [
+            "Dream-eater",
+            60
+        ]
+    ],
+    "emerald": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Teleport",
+            16
+        ],
+        [
+            "Calm-mind",
+            21
+        ],
+        [
+            "Psychic",
+            26
+        ],
+        [
+            "Imprison",
+            33
+        ],
+        [
+            "Future-sight",
+            42
+        ],
+        [
+            "Hypnosis",
+            51
+        ],
+        [
+            "Dream-eater",
+            60
+        ]
+    ],
+    "xd": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Teleport",
+            16
+        ],
+        [
+            "Calm-mind",
+            21
+        ],
+        [
+            "Psychic",
+            26
+        ],
+        [
+            "Imprison",
+            33
+        ],
+        [
+            "Future-sight",
+            42
+        ],
+        [
+            "Hypnosis",
+            51
+        ],
+        [
+            "Dream-eater",
+            60
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 11",
-        "Teleport learnt at level 16",
-        "Calm-mind learnt at level 21",
-        "Psychic learnt at level 26",
-        "Imprison learnt at level 33",
-        "Future-sight learnt at level 42",
-        "Hypnosis learnt at level 51",
-        "Dream-eater learnt at level 60"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Teleport",
+            16
+        ],
+        [
+            "Calm-mind",
+            21
+        ],
+        [
+            "Psychic",
+            26
+        ],
+        [
+            "Imprison",
+            33
+        ],
+        [
+            "Future-sight",
+            42
+        ],
+        [
+            "Hypnosis",
+            51
+        ],
+        [
+            "Dream-eater",
+            60
+        ]
     ],
     "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 11",
-        "Teleport learnt at level 16",
-        "Calm-mind learnt at level 21",
-        "Psychic learnt at level 26",
-        "Imprison learnt at level 33",
-        "Future-sight learnt at level 42",
-        "Hypnosis learnt at level 51",
-        "Dream-eater learnt at level 60"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Teleport",
+            16
+        ],
+        [
+            "Calm-mind",
+            21
+        ],
+        [
+            "Psychic",
+            26
+        ],
+        [
+            "Imprison",
+            33
+        ],
+        [
+            "Future-sight",
+            42
+        ],
+        [
+            "Hypnosis",
+            51
+        ],
+        [
+            "Dream-eater",
+            60
+        ]
     ]
 }

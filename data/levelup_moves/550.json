@@ -1,120 +1,438 @@
 {
     "x-y": [
-        "Tackle learnt at level 1",
-        "Thrash learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Flail learnt at level 1",
-        "Uproar learnt at level 4",
-        "Headbutt learnt at level 7",
-        "Bite learnt at level 10",
-        "Aqua-jet learnt at level 13",
-        "Chip-away learnt at level 16",
-        "Take-down learnt at level 20",
-        "Crunch learnt at level 24",
-        "Aqua-tail learnt at level 28",
-        "Soak learnt at level 32",
-        "Double-edge learnt at level 36",
-        "Scary-face learnt at level 41",
-        "Flail learnt at level 46",
-        "Final-gambit learnt at level 50",
-        "Thrash learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Flail",
+            1
+        ],
+        [
+            "Uproar",
+            4
+        ],
+        [
+            "Headbutt",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Aqua-jet",
+            13
+        ],
+        [
+            "Chip-away",
+            16
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Crunch",
+            24
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Soak",
+            32
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Flail",
+            46
+        ],
+        [
+            "Final-gambit",
+            50
+        ],
+        [
+            "Thrash",
+            56
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Uproar learnt at level 4",
-        "Headbutt learnt at level 7",
-        "Bite learnt at level 10",
-        "Aqua-jet learnt at level 13",
-        "Chip-away learnt at level 16",
-        "Take-down learnt at level 20",
-        "Crunch learnt at level 24",
-        "Aqua-tail learnt at level 28",
-        "Soak learnt at level 32",
-        "Double-edge learnt at level 36",
-        "Scary-face learnt at level 41",
-        "Flail learnt at level 46",
-        "Final-gambit learnt at level 51",
-        "Thrash learnt at level 56"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Thrash learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Flail learnt at level 1",
-        "Uproar learnt at level 4",
-        "Headbutt learnt at level 7",
-        "Bite learnt at level 10",
-        "Aqua-jet learnt at level 13",
-        "Chip-away learnt at level 16",
-        "Take-down learnt at level 20",
-        "Crunch learnt at level 24",
-        "Aqua-tail learnt at level 28",
-        "Soak learnt at level 32",
-        "Double-edge learnt at level 36",
-        "Scary-face learnt at level 41",
-        "Flail learnt at level 46",
-        "Final-gambit learnt at level 50",
-        "Thrash learnt at level 56"
-    ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Uproar learnt at level 4",
-        "Headbutt learnt at level 7",
-        "Bite learnt at level 10",
-        "Aqua-jet learnt at level 13",
-        "Chip-away learnt at level 16",
-        "Take-down learnt at level 20",
-        "Crunch learnt at level 24",
-        "Aqua-tail learnt at level 28",
-        "Soak learnt at level 32",
-        "Double-edge learnt at level 36",
-        "Scary-face learnt at level 41",
-        "Flail learnt at level 46",
-        "Final-gambit learnt at level 51",
-        "Thrash learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Uproar",
+            4
+        ],
+        [
+            "Headbutt",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Aqua-jet",
+            13
+        ],
+        [
+            "Chip-away",
+            16
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Crunch",
+            24
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Soak",
+            32
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Flail",
+            46
+        ],
+        [
+            "Final-gambit",
+            51
+        ],
+        [
+            "Thrash",
+            56
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Uproar learnt at level 3",
-        "Headbutt learnt at level 5",
-        "Bite learnt at level 7",
-        "Aqua-jet learnt at level 9",
-        "Chip-away learnt at level 11",
-        "Take-down learnt at level 14",
-        "Crunch learnt at level 17",
-        "Aqua-tail learnt at level 20",
-        "Soak learnt at level 23",
-        "Double-edge learnt at level 26",
-        "Scary-face learnt at level 30",
-        "Flail learnt at level 34",
-        "Final-gambit learnt at level 38",
-        "Thrash learnt at level 42",
-        "Head-smash learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Uproar",
+            3
+        ],
+        [
+            "Headbutt",
+            5
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Aqua-jet",
+            9
+        ],
+        [
+            "Chip-away",
+            11
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Crunch",
+            17
+        ],
+        [
+            "Aqua-tail",
+            20
+        ],
+        [
+            "Soak",
+            23
+        ],
+        [
+            "Double-edge",
+            26
+        ],
+        [
+            "Scary-face",
+            30
+        ],
+        [
+            "Flail",
+            34
+        ],
+        [
+            "Final-gambit",
+            38
+        ],
+        [
+            "Thrash",
+            42
+        ],
+        [
+            "Head-smash",
+            46
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Uproar learnt at level 3",
-        "Headbutt learnt at level 5",
-        "Bite learnt at level 7",
-        "Aqua-jet learnt at level 9",
-        "Chip-away learnt at level 11",
-        "Take-down learnt at level 14",
-        "Crunch learnt at level 17",
-        "Aqua-tail learnt at level 20",
-        "Soak learnt at level 23",
-        "Double-edge learnt at level 26",
-        "Scary-face learnt at level 30",
-        "Flail learnt at level 34",
-        "Final-gambit learnt at level 38",
-        "Thrash learnt at level 42",
-        "Head-smash learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Uproar",
+            3
+        ],
+        [
+            "Headbutt",
+            5
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Aqua-jet",
+            9
+        ],
+        [
+            "Chip-away",
+            11
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Crunch",
+            17
+        ],
+        [
+            "Aqua-tail",
+            20
+        ],
+        [
+            "Soak",
+            23
+        ],
+        [
+            "Double-edge",
+            26
+        ],
+        [
+            "Scary-face",
+            30
+        ],
+        [
+            "Flail",
+            34
+        ],
+        [
+            "Final-gambit",
+            38
+        ],
+        [
+            "Thrash",
+            42
+        ],
+        [
+            "Head-smash",
+            46
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Flail",
+            1
+        ],
+        [
+            "Uproar",
+            4
+        ],
+        [
+            "Headbutt",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Aqua-jet",
+            13
+        ],
+        [
+            "Chip-away",
+            16
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Crunch",
+            24
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Soak",
+            32
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Flail",
+            46
+        ],
+        [
+            "Final-gambit",
+            50
+        ],
+        [
+            "Thrash",
+            56
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Uproar",
+            4
+        ],
+        [
+            "Headbutt",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Aqua-jet",
+            13
+        ],
+        [
+            "Chip-away",
+            16
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Crunch",
+            24
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Soak",
+            32
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Flail",
+            46
+        ],
+        [
+            "Final-gambit",
+            51
+        ],
+        [
+            "Thrash",
+            56
+        ]
     ]
 }

@@ -1,66 +1,234 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Fairy-wind learnt at level 6",
-        "Lucky-chant learnt at level 10",
-        "Razor-leaf learnt at level 15",
-        "Wish learnt at level 20",
-        "Magical-leaf learnt at level 22",
-        "Grassy-terrain learnt at level 24",
-        "Petal-blizzard learnt at level 28",
-        "Aromatherapy learnt at level 33",
-        "Misty-terrain learnt at level 37",
-        "Moonblast learnt at level 41",
-        "Petal-dance learnt at level 45",
-        "Solar-beam learnt at level 48"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Fairy-wind",
+            6
+        ],
+        [
+            "Lucky-chant",
+            10
+        ],
+        [
+            "Razor-leaf",
+            15
+        ],
+        [
+            "Wish",
+            20
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Grassy-terrain",
+            24
+        ],
+        [
+            "Petal-blizzard",
+            28
+        ],
+        [
+            "Aromatherapy",
+            33
+        ],
+        [
+            "Misty-terrain",
+            37
+        ],
+        [
+            "Moonblast",
+            41
+        ],
+        [
+            "Petal-dance",
+            45
+        ],
+        [
+            "Solar-beam",
+            48
+        ]
     ],
     "sun-moon": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Fairy-wind learnt at level 6",
-        "Lucky-chant learnt at level 10",
-        "Razor-leaf learnt at level 15",
-        "Wish learnt at level 20",
-        "Magical-leaf learnt at level 22",
-        "Grassy-terrain learnt at level 24",
-        "Petal-blizzard learnt at level 28",
-        "Aromatherapy learnt at level 33",
-        "Misty-terrain learnt at level 37",
-        "Moonblast learnt at level 41",
-        "Petal-dance learnt at level 45",
-        "Solar-beam learnt at level 48"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Fairy-wind",
+            6
+        ],
+        [
+            "Lucky-chant",
+            10
+        ],
+        [
+            "Razor-leaf",
+            15
+        ],
+        [
+            "Wish",
+            20
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Grassy-terrain",
+            24
+        ],
+        [
+            "Petal-blizzard",
+            28
+        ],
+        [
+            "Aromatherapy",
+            33
+        ],
+        [
+            "Misty-terrain",
+            37
+        ],
+        [
+            "Moonblast",
+            41
+        ],
+        [
+            "Petal-dance",
+            45
+        ],
+        [
+            "Solar-beam",
+            48
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Fairy-wind learnt at level 6",
-        "Lucky-chant learnt at level 10",
-        "Razor-leaf learnt at level 15",
-        "Wish learnt at level 20",
-        "Magical-leaf learnt at level 22",
-        "Grassy-terrain learnt at level 24",
-        "Petal-blizzard learnt at level 28",
-        "Aromatherapy learnt at level 33",
-        "Misty-terrain learnt at level 37",
-        "Moonblast learnt at level 41",
-        "Petal-dance learnt at level 45",
-        "Solar-beam learnt at level 48"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Fairy-wind",
+            6
+        ],
+        [
+            "Lucky-chant",
+            10
+        ],
+        [
+            "Razor-leaf",
+            15
+        ],
+        [
+            "Wish",
+            20
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Grassy-terrain",
+            24
+        ],
+        [
+            "Petal-blizzard",
+            28
+        ],
+        [
+            "Aromatherapy",
+            33
+        ],
+        [
+            "Misty-terrain",
+            37
+        ],
+        [
+            "Moonblast",
+            41
+        ],
+        [
+            "Petal-dance",
+            45
+        ],
+        [
+            "Solar-beam",
+            48
+        ]
     ],
     "x-y": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Fairy-wind learnt at level 6",
-        "Lucky-chant learnt at level 10",
-        "Razor-leaf learnt at level 15",
-        "Wish learnt at level 20",
-        "Magical-leaf learnt at level 22",
-        "Grassy-terrain learnt at level 24",
-        "Petal-blizzard learnt at level 28",
-        "Aromatherapy learnt at level 33",
-        "Misty-terrain learnt at level 37",
-        "Moonblast learnt at level 41",
-        "Petal-dance learnt at level 45",
-        "Solar-beam learnt at level 48"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Fairy-wind",
+            6
+        ],
+        [
+            "Lucky-chant",
+            10
+        ],
+        [
+            "Razor-leaf",
+            15
+        ],
+        [
+            "Wish",
+            20
+        ],
+        [
+            "Magical-leaf",
+            22
+        ],
+        [
+            "Grassy-terrain",
+            24
+        ],
+        [
+            "Petal-blizzard",
+            28
+        ],
+        [
+            "Aromatherapy",
+            33
+        ],
+        [
+            "Misty-terrain",
+            37
+        ],
+        [
+            "Moonblast",
+            41
+        ],
+        [
+            "Petal-dance",
+            45
+        ],
+        [
+            "Solar-beam",
+            48
+        ]
     ]
 }

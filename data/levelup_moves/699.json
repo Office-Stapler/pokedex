@@ -1,92 +1,346 @@
 {
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Freeze-dry learnt at level 1",
-        "Thunder-wave learnt at level 5",
-        "Rock-throw learnt at level 10",
-        "Icy-wind learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mist learnt at level 18",
-        "Aurora-beam learnt at level 20",
-        "Ancient-power learnt at level 26",
-        "Round learnt at level 30",
-        "Avalanche learnt at level 34",
-        "Hail learnt at level 38",
-        "Nature-power learnt at level 43",
-        "Encore learnt at level 46",
-        "Light-screen learnt at level 50",
-        "Ice-beam learnt at level 56",
-        "Hyper-beam learnt at level 63",
-        "Blizzard learnt at level 74"
+        [
+            "Freeze-dry",
+            0
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Freeze-dry",
+            1
+        ],
+        [
+            "Thunder-wave",
+            5
+        ],
+        [
+            "Rock-throw",
+            10
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mist",
+            18
+        ],
+        [
+            "Aurora-beam",
+            20
+        ],
+        [
+            "Ancient-power",
+            26
+        ],
+        [
+            "Round",
+            30
+        ],
+        [
+            "Avalanche",
+            34
+        ],
+        [
+            "Hail",
+            38
+        ],
+        [
+            "Nature-power",
+            43
+        ],
+        [
+            "Encore",
+            46
+        ],
+        [
+            "Light-screen",
+            50
+        ],
+        [
+            "Ice-beam",
+            56
+        ],
+        [
+            "Hyper-beam",
+            63
+        ],
+        [
+            "Blizzard",
+            74
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Freeze-dry learnt at level 1",
-        "Thunder-wave learnt at level 5",
-        "Rock-throw learnt at level 10",
-        "Icy-wind learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mist learnt at level 18",
-        "Aurora-beam learnt at level 20",
-        "Ancient-power learnt at level 26",
-        "Round learnt at level 30",
-        "Avalanche learnt at level 34",
-        "Hail learnt at level 38",
-        "Nature-power learnt at level 43",
-        "Encore learnt at level 46",
-        "Light-screen learnt at level 50",
-        "Ice-beam learnt at level 56",
-        "Hyper-beam learnt at level 63",
-        "Blizzard learnt at level 74"
+        [
+            "Freeze-dry",
+            0
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Freeze-dry",
+            1
+        ],
+        [
+            "Thunder-wave",
+            5
+        ],
+        [
+            "Rock-throw",
+            10
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mist",
+            18
+        ],
+        [
+            "Aurora-beam",
+            20
+        ],
+        [
+            "Ancient-power",
+            26
+        ],
+        [
+            "Round",
+            30
+        ],
+        [
+            "Avalanche",
+            34
+        ],
+        [
+            "Hail",
+            38
+        ],
+        [
+            "Nature-power",
+            43
+        ],
+        [
+            "Encore",
+            46
+        ],
+        [
+            "Light-screen",
+            50
+        ],
+        [
+            "Ice-beam",
+            56
+        ],
+        [
+            "Hyper-beam",
+            63
+        ],
+        [
+            "Blizzard",
+            74
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Freeze-dry learnt at level 1",
-        "Thunder-wave learnt at level 5",
-        "Rock-throw learnt at level 10",
-        "Icy-wind learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mist learnt at level 18",
-        "Aurora-beam learnt at level 20",
-        "Ancient-power learnt at level 26",
-        "Round learnt at level 30",
-        "Avalanche learnt at level 34",
-        "Hail learnt at level 38",
-        "Nature-power learnt at level 43",
-        "Encore learnt at level 46",
-        "Light-screen learnt at level 50",
-        "Ice-beam learnt at level 56",
-        "Hyper-beam learnt at level 63",
-        "Blizzard learnt at level 74",
-        "Freeze-dry learnt at level 77"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Freeze-dry",
+            1
+        ],
+        [
+            "Thunder-wave",
+            5
+        ],
+        [
+            "Rock-throw",
+            10
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mist",
+            18
+        ],
+        [
+            "Aurora-beam",
+            20
+        ],
+        [
+            "Ancient-power",
+            26
+        ],
+        [
+            "Round",
+            30
+        ],
+        [
+            "Avalanche",
+            34
+        ],
+        [
+            "Hail",
+            38
+        ],
+        [
+            "Nature-power",
+            43
+        ],
+        [
+            "Encore",
+            46
+        ],
+        [
+            "Light-screen",
+            50
+        ],
+        [
+            "Ice-beam",
+            56
+        ],
+        [
+            "Hyper-beam",
+            63
+        ],
+        [
+            "Blizzard",
+            74
+        ],
+        [
+            "Freeze-dry",
+            77
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Freeze-dry learnt at level 1",
-        "Thunder-wave learnt at level 5",
-        "Rock-throw learnt at level 10",
-        "Icy-wind learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mist learnt at level 18",
-        "Aurora-beam learnt at level 20",
-        "Ancient-power learnt at level 26",
-        "Round learnt at level 30",
-        "Avalanche learnt at level 34",
-        "Hail learnt at level 38",
-        "Nature-power learnt at level 43",
-        "Encore learnt at level 46",
-        "Light-screen learnt at level 50",
-        "Ice-beam learnt at level 56",
-        "Hyper-beam learnt at level 63",
-        "Blizzard learnt at level 74",
-        "Freeze-dry learnt at level 77"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Freeze-dry",
+            1
+        ],
+        [
+            "Thunder-wave",
+            5
+        ],
+        [
+            "Rock-throw",
+            10
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mist",
+            18
+        ],
+        [
+            "Aurora-beam",
+            20
+        ],
+        [
+            "Ancient-power",
+            26
+        ],
+        [
+            "Round",
+            30
+        ],
+        [
+            "Avalanche",
+            34
+        ],
+        [
+            "Hail",
+            38
+        ],
+        [
+            "Nature-power",
+            43
+        ],
+        [
+            "Encore",
+            46
+        ],
+        [
+            "Light-screen",
+            50
+        ],
+        [
+            "Ice-beam",
+            56
+        ],
+        [
+            "Hyper-beam",
+            63
+        ],
+        [
+            "Blizzard",
+            74
+        ],
+        [
+            "Freeze-dry",
+            77
+        ]
     ]
 }

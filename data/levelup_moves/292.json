@@ -1,196 +1,694 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Absorb learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Spite learnt at level 17",
-        "Shadow-sneak learnt at level 21",
-        "Mind-reader learnt at level 25",
-        "Confuse-ray learnt at level 29",
-        "Shadow-ball learnt at level 33",
-        "Grudge learnt at level 37",
-        "Heal-block learnt at level 41",
-        "Phantom-force learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Spite",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            21
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "Confuse-ray",
+            29
+        ],
+        [
+            "Shadow-ball",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Heal-block",
+            41
+        ],
+        [
+            "Phantom-force",
+            45
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Absorb learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Spite learnt at level 17",
-        "Shadow-sneak learnt at level 21",
-        "Mind-reader learnt at level 25",
-        "Confuse-ray learnt at level 29",
-        "Shadow-ball learnt at level 33",
-        "Grudge learnt at level 37",
-        "Heal-block learnt at level 41",
-        "Phantom-force learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Spite",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            21
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "Confuse-ray",
+            29
+        ],
+        [
+            "Shadow-ball",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Heal-block",
+            41
+        ],
+        [
+            "Phantom-force",
+            45
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Spite learnt at level 17",
-        "Shadow-sneak learnt at level 21",
-        "Mind-reader learnt at level 25",
-        "Confuse-ray learnt at level 29",
-        "Shadow-ball learnt at level 33",
-        "Grudge learnt at level 37",
-        "Heal-block learnt at level 41",
-        "Phantom-force learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Spite",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            21
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "Confuse-ray",
+            29
+        ],
+        [
+            "Shadow-ball",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Heal-block",
+            41
+        ],
+        [
+            "Phantom-force",
+            45
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-ball learnt at level 38",
-        "Grudge learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-ball",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-ball learnt at level 38",
-        "Grudge learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-ball",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-sneak learnt at level 38",
-        "Grudge learnt at level 45",
-        "Heal-block learnt at level 52",
-        "Shadow-ball learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-sneak",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Shadow-ball",
+            59
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-sneak learnt at level 38",
-        "Grudge learnt at level 45",
-        "Heal-block learnt at level 52",
-        "Shadow-ball learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-sneak",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Shadow-ball",
+            59
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-sneak learnt at level 38",
-        "Grudge learnt at level 45",
-        "Heal-block learnt at level 52",
-        "Shadow-ball learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-sneak",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Shadow-ball",
+            59
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-sneak learnt at level 38",
-        "Grudge learnt at level 45",
-        "Heal-block learnt at level 52",
-        "Shadow-ball learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-sneak",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Shadow-ball",
+            59
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-ball learnt at level 38",
-        "Grudge learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-ball",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-sneak learnt at level 38",
-        "Grudge learnt at level 43",
-        "Phantom-force learnt at level 47",
-        "Heal-block learnt at level 50",
-        "Shadow-ball learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-sneak",
+            38
+        ],
+        [
+            "Grudge",
+            43
+        ],
+        [
+            "Phantom-force",
+            47
+        ],
+        [
+            "Heal-block",
+            50
+        ],
+        [
+            "Shadow-ball",
+            59
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-sneak learnt at level 38",
-        "Grudge learnt at level 45",
-        "Heal-block learnt at level 52",
-        "Shadow-ball learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-sneak",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Shadow-ball",
+            59
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-ball learnt at level 38",
-        "Grudge learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-ball",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Spite learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Shadow-ball learnt at level 38",
-        "Grudge learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Spite",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Shadow-ball",
+            38
+        ],
+        [
+            "Grudge",
+            45
+        ]
     ]
 }

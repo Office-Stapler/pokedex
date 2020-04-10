@@ -1,173 +1,602 @@
 {
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Quick-attack learnt at level 9",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 17",
-        "Aerial-ace learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Agility learnt at level 29",
-        "Air-slash learnt at level 33",
-        "Endeavor learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Reversal learnt at level 45"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            17
+        ],
+        [
+            "Aerial-ace",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Air-slash",
+            33
+        ],
+        [
+            "Endeavor",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Reversal",
+            45
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Quick-attack learnt at level 9",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 17",
-        "Aerial-ace learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Agility learnt at level 29",
-        "Air-slash learnt at level 33",
-        "Endeavor learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Reversal learnt at level 45"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            17
+        ],
+        [
+            "Aerial-ace",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Air-slash",
+            33
+        ],
+        [
+            "Endeavor",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Reversal",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43",
-        "Air-slash learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Air-slash",
+            53
+        ]
     ],
     "xd": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43",
-        "Air-slash learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Air-slash",
+            53
+        ]
     ],
     "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43",
-        "Air-slash learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Air-slash",
+            53
+        ]
     ],
     "platinum": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43",
-        "Air-slash learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Air-slash",
+            53
+        ]
     ],
     "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43",
-        "Air-slash learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Air-slash",
+            53
+        ]
     ],
     "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Quick-attack learnt at level 9",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 17",
-        "Aerial-ace learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Agility learnt at level 29",
-        "Air-slash learnt at level 33",
-        "Endeavor learnt at level 37",
-        "Brave-bird learnt at level 41"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            17
+        ],
+        [
+            "Aerial-ace",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Air-slash",
+            33
+        ],
+        [
+            "Endeavor",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43",
-        "Air-slash learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Air-slash",
+            53
+        ]
     ],
     "emerald": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Quick-attack learnt at level 8",
-        "Wing-attack learnt at level 13",
-        "Double-team learnt at level 19",
-        "Endeavor learnt at level 26",
-        "Aerial-ace learnt at level 34",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Endeavor",
+            26
+        ],
+        [
+            "Aerial-ace",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ]
     ]
 }

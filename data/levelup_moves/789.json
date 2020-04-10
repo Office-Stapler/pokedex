@@ -1,10 +1,22 @@
 {
     "ultra-sun-ultra-moon": [
-        "Splash learnt at level 1",
-        "Teleport learnt at level 23"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Teleport",
+            23
+        ]
     ],
     "sun-moon": [
-        "Splash learnt at level 1",
-        "Teleport learnt at level 23"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Teleport",
+            23
+        ]
     ]
 }

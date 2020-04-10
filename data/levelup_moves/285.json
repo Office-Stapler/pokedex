@@ -1,191 +1,674 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 5",
-        "Leech-seed learnt at level 8",
-        "Mega-drain learnt at level 12",
-        "Headbutt learnt at level 15",
-        "Poison-powder learnt at level 19",
-        "Worry-seed learnt at level 22",
-        "Giga-drain learnt at level 26",
-        "Growth learnt at level 29",
-        "Toxic learnt at level 33",
-        "Seed-bomb learnt at level 36",
-        "Spore learnt at level 40"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            5
+        ],
+        [
+            "Leech-seed",
+            8
+        ],
+        [
+            "Mega-drain",
+            12
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Worry-seed",
+            22
+        ],
+        [
+            "Giga-drain",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Toxic",
+            33
+        ],
+        [
+            "Seed-bomb",
+            36
+        ],
+        [
+            "Spore",
+            40
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 5",
-        "Leech-seed learnt at level 8",
-        "Mega-drain learnt at level 12",
-        "Headbutt learnt at level 15",
-        "Poison-powder learnt at level 19",
-        "Worry-seed learnt at level 22",
-        "Giga-drain learnt at level 26",
-        "Growth learnt at level 29",
-        "Toxic learnt at level 33",
-        "Seed-bomb learnt at level 36",
-        "Spore learnt at level 40"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            5
+        ],
+        [
+            "Leech-seed",
+            8
+        ],
+        [
+            "Mega-drain",
+            12
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Worry-seed",
+            22
+        ],
+        [
+            "Giga-drain",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Toxic",
+            33
+        ],
+        [
+            "Seed-bomb",
+            36
+        ],
+        [
+            "Spore",
+            40
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 5",
-        "Leech-seed learnt at level 8",
-        "Mega-drain learnt at level 12",
-        "Headbutt learnt at level 15",
-        "Poison-powder learnt at level 19",
-        "Worry-seed learnt at level 22",
-        "Giga-drain learnt at level 26",
-        "Growth learnt at level 29",
-        "Toxic learnt at level 33",
-        "Seed-bomb learnt at level 36",
-        "Spore learnt at level 40"
-    ],
-    "black-white": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Poison-powder learnt at level 25",
-        "Worry-seed learnt at level 29",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Spore learnt at level 45"
-    ],
-    "heartgold-soulsilver": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Poison-powder learnt at level 25",
-        "Worry-seed learnt at level 29",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Spore learnt at level 45"
-    ],
-    "platinum": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Poison-powder learnt at level 25",
-        "Worry-seed learnt at level 29",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Spore learnt at level 45"
-    ],
-    "diamond-pearl": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Poison-powder learnt at level 25",
-        "Worry-seed learnt at level 29",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Spore learnt at level 45"
-    ],
-    "firered-leafgreen": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Poison-powder learnt at level 28",
-        "Growth learnt at level 36",
-        "Giga-drain learnt at level 45",
-        "Spore learnt at level 54"
-    ],
-    "x-y": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Poison-powder learnt at level 25",
-        "Worry-seed learnt at level 29",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Spore learnt at level 45"
-    ],
-    "black-2-white-2": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Poison-powder learnt at level 25",
-        "Worry-seed learnt at level 29",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Spore learnt at level 45"
-    ],
-    "emerald": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Poison-powder learnt at level 28",
-        "Growth learnt at level 36",
-        "Giga-drain learnt at level 45",
-        "Spore learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            5
+        ],
+        [
+            "Leech-seed",
+            8
+        ],
+        [
+            "Mega-drain",
+            12
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Worry-seed",
+            22
+        ],
+        [
+            "Giga-drain",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Toxic",
+            33
+        ],
+        [
+            "Seed-bomb",
+            36
+        ],
+        [
+            "Spore",
+            40
+        ]
     ],
     "xd": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Poison-powder learnt at level 28",
-        "Growth learnt at level 36",
-        "Giga-drain learnt at level 45",
-        "Spore learnt at level 54"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Poison-powder",
+            28
+        ],
+        [
+            "Growth",
+            36
+        ],
+        [
+            "Giga-drain",
+            45
+        ],
+        [
+            "Spore",
+            54
+        ]
     ],
     "colosseum": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Poison-powder learnt at level 28",
-        "Growth learnt at level 36",
-        "Giga-drain learnt at level 45",
-        "Spore learnt at level 54"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Poison-powder",
+            28
+        ],
+        [
+            "Growth",
+            36
+        ],
+        [
+            "Giga-drain",
+            45
+        ],
+        [
+            "Spore",
+            54
+        ]
+    ],
+    "black-white": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Poison-powder",
+            25
+        ],
+        [
+            "Worry-seed",
+            29
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Spore",
+            45
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Poison-powder",
+            25
+        ],
+        [
+            "Worry-seed",
+            29
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Spore",
+            45
+        ]
+    ],
+    "platinum": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Poison-powder",
+            25
+        ],
+        [
+            "Worry-seed",
+            29
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Spore",
+            45
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Poison-powder",
+            25
+        ],
+        [
+            "Worry-seed",
+            29
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Spore",
+            45
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Poison-powder",
+            28
+        ],
+        [
+            "Growth",
+            36
+        ],
+        [
+            "Giga-drain",
+            45
+        ],
+        [
+            "Spore",
+            54
+        ]
+    ],
+    "x-y": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Poison-powder",
+            25
+        ],
+        [
+            "Worry-seed",
+            29
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Spore",
+            45
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Poison-powder",
+            25
+        ],
+        [
+            "Worry-seed",
+            29
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Spore",
+            45
+        ]
+    ],
+    "emerald": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Poison-powder",
+            28
+        ],
+        [
+            "Growth",
+            36
+        ],
+        [
+            "Giga-drain",
+            45
+        ],
+        [
+            "Spore",
+            54
+        ]
     ],
     "ruby-sapphire": [
-        "Absorb learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Poison-powder learnt at level 28",
-        "Growth learnt at level 36",
-        "Giga-drain learnt at level 45",
-        "Spore learnt at level 54"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Poison-powder",
+            28
+        ],
+        [
+            "Growth",
+            36
+        ],
+        [
+            "Giga-drain",
+            45
+        ],
+        [
+            "Spore",
+            54
+        ]
     ]
 }

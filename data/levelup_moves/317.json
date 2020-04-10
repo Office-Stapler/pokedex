@@ -1,287 +1,1066 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Body-slam learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Gunk-shot learnt at level 1",
-        "Venom-drench learnt at level 1",
-        "Yawn learnt at level 5",
-        "Poison-gas learnt at level 8",
-        "Sludge learnt at level 10",
-        "Amnesia learnt at level 12",
-        "Acid-spray learnt at level 17",
-        "Encore learnt at level 20",
-        "Toxic learnt at level 25",
-        "Stockpile learnt at level 30",
-        "Spit-up learnt at level 30",
-        "Swallow learnt at level 30",
-        "Sludge-bomb learnt at level 37",
-        "Gastro-acid learnt at level 42",
-        "Belch learnt at level 49",
-        "Wring-out learnt at level 54",
-        "Gunk-shot learnt at level 61"
+        [
+            "Body-slam",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Body-slam",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Gunk-shot",
+            1
+        ],
+        [
+            "Venom-drench",
+            1
+        ],
+        [
+            "Yawn",
+            5
+        ],
+        [
+            "Poison-gas",
+            8
+        ],
+        [
+            "Sludge",
+            10
+        ],
+        [
+            "Amnesia",
+            12
+        ],
+        [
+            "Acid-spray",
+            17
+        ],
+        [
+            "Encore",
+            20
+        ],
+        [
+            "Toxic",
+            25
+        ],
+        [
+            "Stockpile",
+            30
+        ],
+        [
+            "Spit-up",
+            30
+        ],
+        [
+            "Swallow",
+            30
+        ],
+        [
+            "Sludge-bomb",
+            37
+        ],
+        [
+            "Gastro-acid",
+            42
+        ],
+        [
+            "Belch",
+            49
+        ],
+        [
+            "Wring-out",
+            54
+        ],
+        [
+            "Gunk-shot",
+            61
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Body-slam learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Gunk-shot learnt at level 1",
-        "Venom-drench learnt at level 1",
-        "Yawn learnt at level 5",
-        "Poison-gas learnt at level 8",
-        "Sludge learnt at level 10",
-        "Amnesia learnt at level 12",
-        "Acid-spray learnt at level 17",
-        "Encore learnt at level 20",
-        "Toxic learnt at level 25",
-        "Stockpile learnt at level 30",
-        "Spit-up learnt at level 30",
-        "Swallow learnt at level 30",
-        "Sludge-bomb learnt at level 37",
-        "Gastro-acid learnt at level 42",
-        "Belch learnt at level 49",
-        "Wring-out learnt at level 54",
-        "Gunk-shot learnt at level 61"
+        [
+            "Body-slam",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Body-slam",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Gunk-shot",
+            1
+        ],
+        [
+            "Venom-drench",
+            1
+        ],
+        [
+            "Yawn",
+            5
+        ],
+        [
+            "Poison-gas",
+            8
+        ],
+        [
+            "Sludge",
+            10
+        ],
+        [
+            "Amnesia",
+            12
+        ],
+        [
+            "Acid-spray",
+            17
+        ],
+        [
+            "Encore",
+            20
+        ],
+        [
+            "Toxic",
+            25
+        ],
+        [
+            "Stockpile",
+            30
+        ],
+        [
+            "Spit-up",
+            30
+        ],
+        [
+            "Swallow",
+            30
+        ],
+        [
+            "Sludge-bomb",
+            37
+        ],
+        [
+            "Gastro-acid",
+            42
+        ],
+        [
+            "Belch",
+            49
+        ],
+        [
+            "Wring-out",
+            54
+        ],
+        [
+            "Gunk-shot",
+            61
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Gunk-shot learnt at level 1",
-        "Yawn learnt at level 5",
-        "Poison-gas learnt at level 8",
-        "Sludge learnt at level 10",
-        "Amnesia learnt at level 12",
-        "Acid-spray learnt at level 17",
-        "Encore learnt at level 20",
-        "Toxic learnt at level 25",
-        "Body-slam learnt at level 26",
-        "Stockpile learnt at level 30",
-        "Spit-up learnt at level 30",
-        "Swallow learnt at level 30",
-        "Sludge-bomb learnt at level 37",
-        "Gastro-acid learnt at level 42",
-        "Belch learnt at level 49",
-        "Wring-out learnt at level 54",
-        "Gunk-shot learnt at level 61"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Gunk-shot",
+            1
+        ],
+        [
+            "Yawn",
+            5
+        ],
+        [
+            "Poison-gas",
+            8
+        ],
+        [
+            "Sludge",
+            10
+        ],
+        [
+            "Amnesia",
+            12
+        ],
+        [
+            "Acid-spray",
+            17
+        ],
+        [
+            "Encore",
+            20
+        ],
+        [
+            "Toxic",
+            25
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Stockpile",
+            30
+        ],
+        [
+            "Spit-up",
+            30
+        ],
+        [
+            "Swallow",
+            30
+        ],
+        [
+            "Sludge-bomb",
+            37
+        ],
+        [
+            "Gastro-acid",
+            42
+        ],
+        [
+            "Belch",
+            49
+        ],
+        [
+            "Wring-out",
+            54
+        ],
+        [
+            "Gunk-shot",
+            61
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 30",
-        "Acid-spray learnt at level 38",
-        "Stockpile learnt at level 45",
-        "Spit-up learnt at level 45",
-        "Swallow learnt at level 45",
-        "Sludge-bomb learnt at level 52",
-        "Gastro-acid learnt at level 59",
-        "Wring-out learnt at level 66",
-        "Gunk-shot learnt at level 73"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            30
+        ],
+        [
+            "Acid-spray",
+            38
+        ],
+        [
+            "Stockpile",
+            45
+        ],
+        [
+            "Spit-up",
+            45
+        ],
+        [
+            "Swallow",
+            45
+        ],
+        [
+            "Sludge-bomb",
+            52
+        ],
+        [
+            "Gastro-acid",
+            59
+        ],
+        [
+            "Wring-out",
+            66
+        ],
+        [
+            "Gunk-shot",
+            73
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 30",
-        "Stockpile learnt at level 38",
-        "Spit-up learnt at level 38",
-        "Swallow learnt at level 38",
-        "Sludge-bomb learnt at level 45",
-        "Gastro-acid learnt at level 52",
-        "Wring-out learnt at level 59",
-        "Gunk-shot learnt at level 66"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            30
+        ],
+        [
+            "Stockpile",
+            38
+        ],
+        [
+            "Spit-up",
+            38
+        ],
+        [
+            "Swallow",
+            38
+        ],
+        [
+            "Sludge-bomb",
+            45
+        ],
+        [
+            "Gastro-acid",
+            52
+        ],
+        [
+            "Wring-out",
+            59
+        ],
+        [
+            "Gunk-shot",
+            66
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 30",
-        "Stockpile learnt at level 38",
-        "Spit-up learnt at level 38",
-        "Swallow learnt at level 38",
-        "Sludge-bomb learnt at level 45",
-        "Gastro-acid learnt at level 52",
-        "Wring-out learnt at level 59",
-        "Gunk-shot learnt at level 66"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            30
+        ],
+        [
+            "Stockpile",
+            38
+        ],
+        [
+            "Spit-up",
+            38
+        ],
+        [
+            "Swallow",
+            38
+        ],
+        [
+            "Sludge-bomb",
+            45
+        ],
+        [
+            "Gastro-acid",
+            52
+        ],
+        [
+            "Wring-out",
+            59
+        ],
+        [
+            "Gunk-shot",
+            66
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 30",
-        "Stockpile learnt at level 38",
-        "Spit-up learnt at level 38",
-        "Swallow learnt at level 38",
-        "Sludge-bomb learnt at level 45",
-        "Gastro-acid learnt at level 52",
-        "Wring-out learnt at level 59",
-        "Gunk-shot learnt at level 66"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            30
+        ],
+        [
+            "Stockpile",
+            38
+        ],
+        [
+            "Spit-up",
+            38
+        ],
+        [
+            "Swallow",
+            38
+        ],
+        [
+            "Sludge-bomb",
+            45
+        ],
+        [
+            "Gastro-acid",
+            52
+        ],
+        [
+            "Wring-out",
+            59
+        ],
+        [
+            "Gunk-shot",
+            66
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 31",
-        "Stockpile learnt at level 40",
-        "Spit-up learnt at level 40",
-        "Swallow learnt at level 40",
-        "Sludge-bomb learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            31
+        ],
+        [
+            "Stockpile",
+            40
+        ],
+        [
+            "Spit-up",
+            40
+        ],
+        [
+            "Swallow",
+            40
+        ],
+        [
+            "Sludge-bomb",
+            48
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Gunk-shot learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 30",
-        "Acid-spray learnt at level 38",
-        "Stockpile learnt at level 45",
-        "Spit-up learnt at level 45",
-        "Swallow learnt at level 45",
-        "Belch learnt at level 46",
-        "Sludge-bomb learnt at level 52",
-        "Gastro-acid learnt at level 59",
-        "Wring-out learnt at level 66",
-        "Gunk-shot learnt at level 73"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Gunk-shot",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            30
+        ],
+        [
+            "Acid-spray",
+            38
+        ],
+        [
+            "Stockpile",
+            45
+        ],
+        [
+            "Spit-up",
+            45
+        ],
+        [
+            "Swallow",
+            45
+        ],
+        [
+            "Belch",
+            46
+        ],
+        [
+            "Sludge-bomb",
+            52
+        ],
+        [
+            "Gastro-acid",
+            59
+        ],
+        [
+            "Wring-out",
+            66
+        ],
+        [
+            "Gunk-shot",
+            73
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 30",
-        "Acid-spray learnt at level 38",
-        "Stockpile learnt at level 45",
-        "Spit-up learnt at level 45",
-        "Swallow learnt at level 45",
-        "Sludge-bomb learnt at level 52",
-        "Gastro-acid learnt at level 59",
-        "Wring-out learnt at level 66",
-        "Gunk-shot learnt at level 73"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            30
+        ],
+        [
+            "Acid-spray",
+            38
+        ],
+        [
+            "Stockpile",
+            45
+        ],
+        [
+            "Spit-up",
+            45
+        ],
+        [
+            "Swallow",
+            45
+        ],
+        [
+            "Sludge-bomb",
+            52
+        ],
+        [
+            "Gastro-acid",
+            59
+        ],
+        [
+            "Wring-out",
+            66
+        ],
+        [
+            "Gunk-shot",
+            73
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 31",
-        "Stockpile learnt at level 40",
-        "Spit-up learnt at level 40",
-        "Swallow learnt at level 40",
-        "Sludge-bomb learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            31
+        ],
+        [
+            "Stockpile",
+            40
+        ],
+        [
+            "Spit-up",
+            40
+        ],
+        [
+            "Swallow",
+            40
+        ],
+        [
+            "Sludge-bomb",
+            48
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 31",
-        "Stockpile learnt at level 40",
-        "Spit-up learnt at level 40",
-        "Swallow learnt at level 40",
-        "Sludge-bomb learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            31
+        ],
+        [
+            "Stockpile",
+            40
+        ],
+        [
+            "Spit-up",
+            40
+        ],
+        [
+            "Swallow",
+            40
+        ],
+        [
+            "Sludge-bomb",
+            48
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 31",
-        "Stockpile learnt at level 40",
-        "Spit-up learnt at level 40",
-        "Swallow learnt at level 40",
-        "Sludge-bomb learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            31
+        ],
+        [
+            "Stockpile",
+            40
+        ],
+        [
+            "Spit-up",
+            40
+        ],
+        [
+            "Swallow",
+            40
+        ],
+        [
+            "Sludge-bomb",
+            48
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Sludge learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Yawn learnt at level 1",
-        "Yawn learnt at level 6",
-        "Poison-gas learnt at level 9",
-        "Sludge learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Encore learnt at level 23",
-        "Body-slam learnt at level 26",
-        "Toxic learnt at level 31",
-        "Stockpile learnt at level 40",
-        "Spit-up learnt at level 40",
-        "Swallow learnt at level 40",
-        "Sludge-bomb learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Sludge",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Yawn",
+            6
+        ],
+        [
+            "Poison-gas",
+            9
+        ],
+        [
+            "Sludge",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Encore",
+            23
+        ],
+        [
+            "Body-slam",
+            26
+        ],
+        [
+            "Toxic",
+            31
+        ],
+        [
+            "Stockpile",
+            40
+        ],
+        [
+            "Spit-up",
+            40
+        ],
+        [
+            "Swallow",
+            40
+        ],
+        [
+            "Sludge-bomb",
+            48
+        ]
     ]
 }

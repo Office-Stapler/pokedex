@@ -1,44 +1,158 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Acid learnt at level 1",
-        "Constrict learnt at level 1",
-        "Tickle learnt at level 1",
-        "Guard-split learnt at level 1",
-        "Power-split learnt at level 1",
-        "Clear-smog learnt at level 7",
-        "Psywave learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Venoshock learnt at level 23",
-        "Toxic-spikes learnt at level 29",
-        "Safeguard learnt at level 31",
-        "Power-gem learnt at level 37",
-        "Mirror-coat learnt at level 43",
-        "Acid-spray learnt at level 47",
-        "Venom-drench learnt at level 53",
-        "Stealth-rock learnt at level 59",
-        "Wonder-room learnt at level 67",
-        "Head-smash learnt at level 73"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Guard-split",
+            1
+        ],
+        [
+            "Power-split",
+            1
+        ],
+        [
+            "Clear-smog",
+            7
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Venoshock",
+            23
+        ],
+        [
+            "Toxic-spikes",
+            29
+        ],
+        [
+            "Safeguard",
+            31
+        ],
+        [
+            "Power-gem",
+            37
+        ],
+        [
+            "Mirror-coat",
+            43
+        ],
+        [
+            "Acid-spray",
+            47
+        ],
+        [
+            "Venom-drench",
+            53
+        ],
+        [
+            "Stealth-rock",
+            59
+        ],
+        [
+            "Wonder-room",
+            67
+        ],
+        [
+            "Head-smash",
+            73
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Acid learnt at level 1",
-        "Constrict learnt at level 1",
-        "Tickle learnt at level 1",
-        "Guard-split learnt at level 1",
-        "Power-split learnt at level 1",
-        "Clear-smog learnt at level 7",
-        "Psywave learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Venoshock learnt at level 23",
-        "Toxic-spikes learnt at level 29",
-        "Safeguard learnt at level 31",
-        "Power-gem learnt at level 37",
-        "Mirror-coat learnt at level 43",
-        "Acid-spray learnt at level 47",
-        "Venom-drench learnt at level 53",
-        "Stealth-rock learnt at level 59",
-        "Wonder-room learnt at level 67",
-        "Head-smash learnt at level 73"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Guard-split",
+            1
+        ],
+        [
+            "Power-split",
+            1
+        ],
+        [
+            "Clear-smog",
+            7
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Venoshock",
+            23
+        ],
+        [
+            "Toxic-spikes",
+            29
+        ],
+        [
+            "Safeguard",
+            31
+        ],
+        [
+            "Power-gem",
+            37
+        ],
+        [
+            "Mirror-coat",
+            43
+        ],
+        [
+            "Acid-spray",
+            47
+        ],
+        [
+            "Venom-drench",
+            53
+        ],
+        [
+            "Stealth-rock",
+            59
+        ],
+        [
+            "Wonder-room",
+            67
+        ],
+        [
+            "Head-smash",
+            73
+        ]
     ]
 }

@@ -1,293 +1,1058 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 4",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 10",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 15",
-        "Razor-leaf learnt at level 22",
-        "Sweet-scent learnt at level 29",
-        "Growth learnt at level 38",
-        "Synthesis learnt at level 47",
-        "Solar-beam learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            10
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Razor-leaf",
+            22
+        ],
+        [
+            "Sweet-scent",
+            29
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Synthesis",
+            47
+        ],
+        [
+            "Solar-beam",
+            56
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 4",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 10",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 15",
-        "Razor-leaf learnt at level 22",
-        "Sweet-scent learnt at level 29",
-        "Growth learnt at level 38",
-        "Synthesis learnt at level 47",
-        "Solar-beam learnt at level 56"
-    ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 3",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Sleep-powder learnt at level 13",
-        "Take-down learnt at level 15",
-        "Razor-leaf learnt at level 20",
-        "Sweet-scent learnt at level 23",
-        "Growth learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Worry-seed learnt at level 36",
-        "Synthesis learnt at level 39",
-        "Solar-beam learnt at level 44"
-    ],
-    "yellow": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 13",
-        "Poison-powder learnt at level 22",
-        "Razor-leaf learnt at level 30",
-        "Growth learnt at level 38",
-        "Sleep-powder learnt at level 46",
-        "Solar-beam learnt at level 54"
-    ],
-    "red-blue": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 13",
-        "Poison-powder learnt at level 22",
-        "Razor-leaf learnt at level 30",
-        "Growth learnt at level 38",
-        "Sleep-powder learnt at level 46",
-        "Solar-beam learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            10
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Razor-leaf",
+            22
+        ],
+        [
+            "Sweet-scent",
+            29
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Synthesis",
+            47
+        ],
+        [
+            "Solar-beam",
+            56
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 4",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 10",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 15",
-        "Razor-leaf learnt at level 22",
-        "Sweet-scent learnt at level 29",
-        "Growth learnt at level 38",
-        "Synthesis learnt at level 47",
-        "Solar-beam learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            10
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Razor-leaf",
+            22
+        ],
+        [
+            "Sweet-scent",
+            29
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Synthesis",
+            47
+        ],
+        [
+            "Solar-beam",
+            56
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 4",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 10",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 15",
-        "Razor-leaf learnt at level 22",
-        "Sweet-scent learnt at level 29",
-        "Growth learnt at level 38",
-        "Synthesis learnt at level 47",
-        "Solar-beam learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            10
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Razor-leaf",
+            22
+        ],
+        [
+            "Sweet-scent",
+            29
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Synthesis",
+            47
+        ],
+        [
+            "Solar-beam",
+            56
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 4",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 10",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 15",
-        "Razor-leaf learnt at level 22",
-        "Sweet-scent learnt at level 29",
-        "Growth learnt at level 38",
-        "Synthesis learnt at level 47",
-        "Solar-beam learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            10
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Razor-leaf",
+            22
+        ],
+        [
+            "Sweet-scent",
+            29
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Synthesis",
+            47
+        ],
+        [
+            "Solar-beam",
+            56
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 4",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 10",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 15",
-        "Razor-leaf learnt at level 22",
-        "Sweet-scent learnt at level 29",
-        "Growth learnt at level 38",
-        "Synthesis learnt at level 47",
-        "Solar-beam learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            10
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Razor-leaf",
+            22
+        ],
+        [
+            "Sweet-scent",
+            29
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Synthesis",
+            47
+        ],
+        [
+            "Solar-beam",
+            56
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growl learnt at level 4",
-        "Leech-seed learnt at level 7",
-        "Vine-whip learnt at level 10",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 15",
-        "Razor-leaf learnt at level 22",
-        "Sweet-scent learnt at level 29",
-        "Growth learnt at level 38",
-        "Synthesis learnt at level 47",
-        "Solar-beam learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            10
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Razor-leaf",
+            22
+        ],
+        [
+            "Sweet-scent",
+            29
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Synthesis",
+            47
+        ],
+        [
+            "Solar-beam",
+            56
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Sleep-powder",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Razor-leaf",
+            20
+        ],
+        [
+            "Sweet-scent",
+            23
+        ],
+        [
+            "Growth",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Worry-seed",
+            36
+        ],
+        [
+            "Synthesis",
+            39
+        ],
+        [
+            "Solar-beam",
+            44
+        ]
+    ],
+    "yellow": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            13
+        ],
+        [
+            "Poison-powder",
+            22
+        ],
+        [
+            "Razor-leaf",
+            30
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Sleep-powder",
+            46
+        ],
+        [
+            "Solar-beam",
+            54
+        ]
+    ],
+    "red-blue": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Leech-seed",
+            7
+        ],
+        [
+            "Vine-whip",
+            13
+        ],
+        [
+            "Poison-powder",
+            22
+        ],
+        [
+            "Razor-leaf",
+            30
+        ],
+        [
+            "Growth",
+            38
+        ],
+        [
+            "Sleep-powder",
+            46
+        ],
+        [
+            "Solar-beam",
+            54
+        ]
     ]
 }

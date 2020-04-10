@@ -1,116 +1,422 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Confusion learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Searing-shot learnt at level 1",
-        "Endure learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Flame-charge learnt at level 25",
-        "Reversal learnt at level 33",
-        "Flame-burst learnt at level 41",
-        "Zen-headbutt learnt at level 49",
-        "Inferno learnt at level 57",
-        "Double-edge learnt at level 65",
-        "Flare-blitz learnt at level 73",
-        "Final-gambit learnt at level 81",
-        "Stored-power learnt at level 89",
-        "Overheat learnt at level 97"
-    ],
-    "black-2-white-2": [
-        "Confusion learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Searing-shot learnt at level 1",
-        "Endure learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Flame-charge learnt at level 25",
-        "Reversal learnt at level 33",
-        "Flame-burst learnt at level 41",
-        "Zen-headbutt learnt at level 49",
-        "Inferno learnt at level 57",
-        "Double-edge learnt at level 65",
-        "Flare-blitz learnt at level 73",
-        "Final-gambit learnt at level 81",
-        "Stored-power learnt at level 89",
-        "Overheat learnt at level 97"
-    ],
     "ultra-sun-ultra-moon": [
-        "Confusion learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Searing-shot learnt at level 1",
-        "Endure learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Flame-charge learnt at level 25",
-        "Reversal learnt at level 33",
-        "Flame-burst learnt at level 41",
-        "Zen-headbutt learnt at level 49",
-        "Inferno learnt at level 57",
-        "Double-edge learnt at level 65",
-        "Flare-blitz learnt at level 73",
-        "Final-gambit learnt at level 81",
-        "Stored-power learnt at level 89",
-        "Overheat learnt at level 97"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Searing-shot",
+            1
+        ],
+        [
+            "Endure",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Flame-charge",
+            25
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Flame-burst",
+            41
+        ],
+        [
+            "Zen-headbutt",
+            49
+        ],
+        [
+            "Inferno",
+            57
+        ],
+        [
+            "Double-edge",
+            65
+        ],
+        [
+            "Flare-blitz",
+            73
+        ],
+        [
+            "Final-gambit",
+            81
+        ],
+        [
+            "Stored-power",
+            89
+        ],
+        [
+            "Overheat",
+            97
+        ]
     ],
     "sun-moon": [
-        "Confusion learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Searing-shot learnt at level 1",
-        "Endure learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Flame-charge learnt at level 25",
-        "Reversal learnt at level 33",
-        "Flame-burst learnt at level 41",
-        "Zen-headbutt learnt at level 49",
-        "Inferno learnt at level 57",
-        "Double-edge learnt at level 65",
-        "Flare-blitz learnt at level 73",
-        "Final-gambit learnt at level 81",
-        "Stored-power learnt at level 89",
-        "Overheat learnt at level 97"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Searing-shot",
+            1
+        ],
+        [
+            "Endure",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Flame-charge",
+            25
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Flame-burst",
+            41
+        ],
+        [
+            "Zen-headbutt",
+            49
+        ],
+        [
+            "Inferno",
+            57
+        ],
+        [
+            "Double-edge",
+            65
+        ],
+        [
+            "Flare-blitz",
+            73
+        ],
+        [
+            "Final-gambit",
+            81
+        ],
+        [
+            "Stored-power",
+            89
+        ],
+        [
+            "Overheat",
+            97
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Searing-shot",
+            1
+        ],
+        [
+            "Endure",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Flame-charge",
+            25
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Flame-burst",
+            41
+        ],
+        [
+            "Zen-headbutt",
+            49
+        ],
+        [
+            "Inferno",
+            57
+        ],
+        [
+            "Double-edge",
+            65
+        ],
+        [
+            "Flare-blitz",
+            73
+        ],
+        [
+            "Final-gambit",
+            81
+        ],
+        [
+            "Stored-power",
+            89
+        ],
+        [
+            "Overheat",
+            97
+        ]
     ],
     "x-y": [
-        "Confusion learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Searing-shot learnt at level 1",
-        "Endure learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Flame-charge learnt at level 25",
-        "Reversal learnt at level 33",
-        "Flame-burst learnt at level 41",
-        "Zen-headbutt learnt at level 49",
-        "Inferno learnt at level 57",
-        "Double-edge learnt at level 65",
-        "Flare-blitz learnt at level 73",
-        "Final-gambit learnt at level 81",
-        "Stored-power learnt at level 89",
-        "Overheat learnt at level 97"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Searing-shot",
+            1
+        ],
+        [
+            "Endure",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Flame-charge",
+            25
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Flame-burst",
+            41
+        ],
+        [
+            "Zen-headbutt",
+            49
+        ],
+        [
+            "Inferno",
+            57
+        ],
+        [
+            "Double-edge",
+            65
+        ],
+        [
+            "Flare-blitz",
+            73
+        ],
+        [
+            "Final-gambit",
+            81
+        ],
+        [
+            "Stored-power",
+            89
+        ],
+        [
+            "Overheat",
+            97
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Searing-shot",
+            1
+        ],
+        [
+            "Endure",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Flame-charge",
+            25
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Flame-burst",
+            41
+        ],
+        [
+            "Zen-headbutt",
+            49
+        ],
+        [
+            "Inferno",
+            57
+        ],
+        [
+            "Double-edge",
+            65
+        ],
+        [
+            "Flare-blitz",
+            73
+        ],
+        [
+            "Final-gambit",
+            81
+        ],
+        [
+            "Stored-power",
+            89
+        ],
+        [
+            "Overheat",
+            97
+        ]
     ],
     "black-white": [
-        "Confusion learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Searing-shot learnt at level 1",
-        "Endure learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Flame-charge learnt at level 25",
-        "Reversal learnt at level 33",
-        "Flame-burst learnt at level 41",
-        "Zen-headbutt learnt at level 49",
-        "Inferno learnt at level 57",
-        "Double-edge learnt at level 65",
-        "Flare-blitz learnt at level 73",
-        "Final-gambit learnt at level 81",
-        "Stored-power learnt at level 89",
-        "Overheat learnt at level 97"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Searing-shot",
+            1
+        ],
+        [
+            "Endure",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Flame-charge",
+            25
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Flame-burst",
+            41
+        ],
+        [
+            "Zen-headbutt",
+            49
+        ],
+        [
+            "Inferno",
+            57
+        ],
+        [
+            "Double-edge",
+            65
+        ],
+        [
+            "Flare-blitz",
+            73
+        ],
+        [
+            "Final-gambit",
+            81
+        ],
+        [
+            "Stored-power",
+            89
+        ],
+        [
+            "Overheat",
+            97
+        ]
     ]
 }

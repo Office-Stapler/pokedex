@@ -1,335 +1,1226 @@
 {
     "red-blue": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 12",
-        "Confusion learnt at level 17",
-        "Headbutt learnt at level 24",
-        "Poison-gas learnt at level 33",
-        "Psychic learnt at level 37",
-        "Meditate learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            12
+        ],
+        [
+            "Confusion",
+            17
+        ],
+        [
+            "Headbutt",
+            24
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Meditate",
+            43
+        ]
     ],
     "yellow": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 12",
-        "Confusion learnt at level 17",
-        "Headbutt learnt at level 24",
-        "Poison-gas learnt at level 33",
-        "Psychic learnt at level 37",
-        "Meditate learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            12
+        ],
+        [
+            "Confusion",
+            17
+        ],
+        [
+            "Headbutt",
+            24
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Meditate",
+            43
+        ]
     ],
     "gold-silver": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 18",
-        "Headbutt learnt at level 25",
-        "Poison-gas learnt at level 33",
-        "Meditate learnt at level 40",
-        "Psychic learnt at level 49",
-        "Psych-up learnt at level 55",
-        "Future-sight learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Meditate",
+            40
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Psych-up",
+            55
+        ],
+        [
+            "Future-sight",
+            60
+        ]
     ],
     "crystal": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 18",
-        "Headbutt learnt at level 25",
-        "Poison-gas learnt at level 33",
-        "Meditate learnt at level 40",
-        "Psychic learnt at level 49",
-        "Psych-up learnt at level 55",
-        "Future-sight learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Meditate",
+            40
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Psych-up",
+            55
+        ],
+        [
+            "Future-sight",
+            60
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 18",
-        "Headbutt learnt at level 25",
-        "Poison-gas learnt at level 33",
-        "Meditate learnt at level 40",
-        "Psychic learnt at level 49",
-        "Psych-up learnt at level 55",
-        "Future-sight learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Meditate",
+            40
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Psych-up",
+            55
+        ],
+        [
+            "Future-sight",
+            60
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 18",
-        "Headbutt learnt at level 25",
-        "Poison-gas learnt at level 33",
-        "Meditate learnt at level 40",
-        "Psychic learnt at level 49",
-        "Psych-up learnt at level 55",
-        "Future-sight learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Meditate",
+            40
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Psych-up",
+            55
+        ],
+        [
+            "Future-sight",
+            60
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Disable learnt at level 7",
-        "Confusion learnt at level 11",
-        "Headbutt learnt at level 17",
-        "Poison-gas learnt at level 21",
-        "Meditate learnt at level 29",
-        "Psychic learnt at level 35",
-        "Psych-up learnt at level 43",
-        "Swagger learnt at level 49",
-        "Future-sight learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Disable",
+            7
+        ],
+        [
+            "Confusion",
+            11
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Poison-gas",
+            21
+        ],
+        [
+            "Meditate",
+            29
+        ],
+        [
+            "Psychic",
+            35
+        ],
+        [
+            "Psych-up",
+            43
+        ],
+        [
+            "Swagger",
+            49
+        ],
+        [
+            "Future-sight",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Disable learnt at level 7",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 15",
-        "Poison-gas learnt at level 18",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 28",
-        "Psych-up learnt at level 33",
-        "Headbutt learnt at level 38",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 50",
-        "Nasty-plot learnt at level 55",
-        "Zen-headbutt learnt at level 64",
-        "Future-sight learnt at level 69"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Disable",
+            7
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Poison-gas",
+            18
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Headbutt",
+            38
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            50
+        ],
+        [
+            "Nasty-plot",
+            55
+        ],
+        [
+            "Zen-headbutt",
+            64
+        ],
+        [
+            "Future-sight",
+            69
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Disable learnt at level 7",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 15",
-        "Poison-gas learnt at level 18",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 28",
-        "Psych-up learnt at level 33",
-        "Headbutt learnt at level 38",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 50",
-        "Nasty-plot learnt at level 55",
-        "Zen-headbutt learnt at level 64",
-        "Future-sight learnt at level 69"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Disable",
+            7
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Poison-gas",
+            18
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Headbutt",
+            38
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            50
+        ],
+        [
+            "Nasty-plot",
+            55
+        ],
+        [
+            "Zen-headbutt",
+            64
+        ],
+        [
+            "Future-sight",
+            69
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Disable learnt at level 7",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 15",
-        "Poison-gas learnt at level 18",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 28",
-        "Psych-up learnt at level 33",
-        "Headbutt learnt at level 38",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 50",
-        "Nasty-plot learnt at level 55",
-        "Zen-headbutt learnt at level 64",
-        "Future-sight learnt at level 69"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Disable",
+            7
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Poison-gas",
+            18
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Headbutt",
+            38
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            50
+        ],
+        [
+            "Nasty-plot",
+            55
+        ],
+        [
+            "Zen-headbutt",
+            64
+        ],
+        [
+            "Future-sight",
+            69
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Disable learnt at level 5",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Poison-gas learnt at level 17",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 25",
-        "Headbutt learnt at level 29",
-        "Psych-up learnt at level 33",
-        "Synchronoise learnt at level 37",
-        "Zen-headbutt learnt at level 41",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 49",
-        "Nasty-plot learnt at level 53",
-        "Psyshock learnt at level 57",
-        "Future-sight learnt at level 61"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Poison-gas",
+            17
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Headbutt",
+            29
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Synchronoise",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Nasty-plot",
+            53
+        ],
+        [
+            "Psyshock",
+            57
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 18",
-        "Headbutt learnt at level 25",
-        "Poison-gas learnt at level 33",
-        "Meditate learnt at level 40",
-        "Psychic learnt at level 49",
-        "Psych-up learnt at level 55",
-        "Future-sight learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Meditate",
+            40
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Psych-up",
+            55
+        ],
+        [
+            "Future-sight",
+            60
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 18",
-        "Headbutt learnt at level 25",
-        "Poison-gas learnt at level 33",
-        "Meditate learnt at level 40",
-        "Psychic learnt at level 49",
-        "Psych-up learnt at level 55",
-        "Future-sight learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Poison-gas",
+            33
+        ],
+        [
+            "Meditate",
+            40
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Psych-up",
+            55
+        ],
+        [
+            "Future-sight",
+            60
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Disable learnt at level 5",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Poison-gas learnt at level 17",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 25",
-        "Headbutt learnt at level 29",
-        "Psych-up learnt at level 33",
-        "Synchronoise learnt at level 37",
-        "Zen-headbutt learnt at level 41",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 49",
-        "Nasty-plot learnt at level 53",
-        "Psyshock learnt at level 57",
-        "Future-sight learnt at level 61"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Poison-gas",
+            17
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Headbutt",
+            29
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Synchronoise",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Nasty-plot",
+            53
+        ],
+        [
+            "Psyshock",
+            57
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Disable learnt at level 5",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Poison-gas learnt at level 17",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 25",
-        "Headbutt learnt at level 29",
-        "Psych-up learnt at level 33",
-        "Synchronoise learnt at level 37",
-        "Zen-headbutt learnt at level 41",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 49",
-        "Nasty-plot learnt at level 53",
-        "Psyshock learnt at level 57",
-        "Future-sight learnt at level 61"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Poison-gas",
+            17
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Headbutt",
+            29
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Synchronoise",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Nasty-plot",
+            53
+        ],
+        [
+            "Psyshock",
+            57
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Disable learnt at level 5",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Poison-gas learnt at level 17",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 25",
-        "Headbutt learnt at level 29",
-        "Psych-up learnt at level 33",
-        "Synchronoise learnt at level 37",
-        "Zen-headbutt learnt at level 41",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 49",
-        "Nasty-plot learnt at level 53",
-        "Psyshock learnt at level 57",
-        "Future-sight learnt at level 61"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Poison-gas",
+            17
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Headbutt",
+            29
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Synchronoise",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Nasty-plot",
+            53
+        ],
+        [
+            "Psyshock",
+            57
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Disable learnt at level 5",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Poison-gas learnt at level 17",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 25",
-        "Headbutt learnt at level 29",
-        "Psych-up learnt at level 33",
-        "Synchronoise learnt at level 37",
-        "Zen-headbutt learnt at level 41",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 49",
-        "Nasty-plot learnt at level 53",
-        "Psyshock learnt at level 57",
-        "Future-sight learnt at level 61"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Poison-gas",
+            17
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Headbutt",
+            29
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Synchronoise",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Nasty-plot",
+            53
+        ],
+        [
+            "Psyshock",
+            57
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Nightmare learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Disable learnt at level 5",
-        "Confusion learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Poison-gas learnt at level 17",
-        "Meditate learnt at level 21",
-        "Psybeam learnt at level 25",
-        "Wake-up-slap learnt at level 29",
-        "Psych-up learnt at level 33",
-        "Synchronoise learnt at level 37",
-        "Zen-headbutt learnt at level 41",
-        "Swagger learnt at level 45",
-        "Psychic learnt at level 49",
-        "Nasty-plot learnt at level 53",
-        "Psyshock learnt at level 57",
-        "Future-sight learnt at level 61"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Nightmare",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Poison-gas",
+            17
+        ],
+        [
+            "Meditate",
+            21
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Wake-up-slap",
+            29
+        ],
+        [
+            "Psych-up",
+            33
+        ],
+        [
+            "Synchronoise",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Swagger",
+            45
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Nasty-plot",
+            53
+        ],
+        [
+            "Psyshock",
+            57
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ]
 }

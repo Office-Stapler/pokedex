@@ -1,132 +1,486 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Sand-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Outrage learnt at level 1",
-        "Bite learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Torment learnt at level 10",
-        "Sand-tomb learnt at level 13",
-        "Assurance learnt at level 16",
-        "Mud-slap learnt at level 19",
-        "Embargo learnt at level 22",
-        "Swagger learnt at level 25",
-        "Crunch learnt at level 28",
-        "Dig learnt at level 32",
-        "Scary-face learnt at level 36",
-        "Foul-play learnt at level 42",
-        "Sandstorm learnt at level 48",
-        "Earthquake learnt at level 54",
-        "Outrage learnt at level 60"
-    ],
-    "x-y": [
-        "Sand-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Outrage learnt at level 1",
-        "Bite learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Torment learnt at level 10",
-        "Sand-tomb learnt at level 13",
-        "Assurance learnt at level 16",
-        "Mud-slap learnt at level 19",
-        "Embargo learnt at level 22",
-        "Swagger learnt at level 25",
-        "Crunch learnt at level 28",
-        "Dig learnt at level 32",
-        "Scary-face learnt at level 36",
-        "Foul-play learnt at level 42",
-        "Sandstorm learnt at level 48",
-        "Earthquake learnt at level 54",
-        "Outrage learnt at level 60"
-    ],
-    "black-2-white-2": [
-        "Sand-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Torment learnt at level 10",
-        "Sand-tomb learnt at level 13",
-        "Assurance learnt at level 16",
-        "Mud-slap learnt at level 19",
-        "Embargo learnt at level 22",
-        "Swagger learnt at level 25",
-        "Crunch learnt at level 28",
-        "Dig learnt at level 32",
-        "Scary-face learnt at level 36",
-        "Foul-play learnt at level 42",
-        "Sandstorm learnt at level 48",
-        "Earthquake learnt at level 54",
-        "Outrage learnt at level 60"
-    ],
-    "black-white": [
-        "Sand-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Torment learnt at level 10",
-        "Sand-tomb learnt at level 13",
-        "Assurance learnt at level 16",
-        "Mud-slap learnt at level 19",
-        "Embargo learnt at level 22",
-        "Swagger learnt at level 25",
-        "Crunch learnt at level 28",
-        "Dig learnt at level 32",
-        "Scary-face learnt at level 36",
-        "Foul-play learnt at level 42",
-        "Sandstorm learnt at level 48",
-        "Earthquake learnt at level 54",
-        "Outrage learnt at level 60"
-    ],
     "ultra-sun-ultra-moon": [
-        "Sand-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Power-trip learnt at level 1",
-        "Bite learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Torment learnt at level 10",
-        "Sand-tomb learnt at level 13",
-        "Assurance learnt at level 16",
-        "Mud-slap learnt at level 19",
-        "Embargo learnt at level 22",
-        "Swagger learnt at level 25",
-        "Crunch learnt at level 28",
-        "Dig learnt at level 32",
-        "Scary-face learnt at level 36",
-        "Foul-play learnt at level 42",
-        "Sandstorm learnt at level 48",
-        "Earthquake learnt at level 54",
-        "Outrage learnt at level 60"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Power-trip",
+            1
+        ],
+        [
+            "Bite",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Torment",
+            10
+        ],
+        [
+            "Sand-tomb",
+            13
+        ],
+        [
+            "Assurance",
+            16
+        ],
+        [
+            "Mud-slap",
+            19
+        ],
+        [
+            "Embargo",
+            22
+        ],
+        [
+            "Swagger",
+            25
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Dig",
+            32
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Foul-play",
+            42
+        ],
+        [
+            "Sandstorm",
+            48
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Outrage",
+            60
+        ]
     ],
     "sun-moon": [
-        "Sand-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Power-trip learnt at level 1",
-        "Bite learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Torment learnt at level 10",
-        "Sand-tomb learnt at level 13",
-        "Assurance learnt at level 16",
-        "Mud-slap learnt at level 19",
-        "Embargo learnt at level 22",
-        "Swagger learnt at level 25",
-        "Crunch learnt at level 28",
-        "Dig learnt at level 32",
-        "Scary-face learnt at level 36",
-        "Foul-play learnt at level 42",
-        "Sandstorm learnt at level 48",
-        "Earthquake learnt at level 54",
-        "Outrage learnt at level 60"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Power-trip",
+            1
+        ],
+        [
+            "Bite",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Torment",
+            10
+        ],
+        [
+            "Sand-tomb",
+            13
+        ],
+        [
+            "Assurance",
+            16
+        ],
+        [
+            "Mud-slap",
+            19
+        ],
+        [
+            "Embargo",
+            22
+        ],
+        [
+            "Swagger",
+            25
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Dig",
+            32
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Foul-play",
+            42
+        ],
+        [
+            "Sandstorm",
+            48
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Outrage",
+            60
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Bite",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Torment",
+            10
+        ],
+        [
+            "Sand-tomb",
+            13
+        ],
+        [
+            "Assurance",
+            16
+        ],
+        [
+            "Mud-slap",
+            19
+        ],
+        [
+            "Embargo",
+            22
+        ],
+        [
+            "Swagger",
+            25
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Dig",
+            32
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Foul-play",
+            42
+        ],
+        [
+            "Sandstorm",
+            48
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Outrage",
+            60
+        ]
+    ],
+    "x-y": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Bite",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Torment",
+            10
+        ],
+        [
+            "Sand-tomb",
+            13
+        ],
+        [
+            "Assurance",
+            16
+        ],
+        [
+            "Mud-slap",
+            19
+        ],
+        [
+            "Embargo",
+            22
+        ],
+        [
+            "Swagger",
+            25
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Dig",
+            32
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Foul-play",
+            42
+        ],
+        [
+            "Sandstorm",
+            48
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Outrage",
+            60
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Torment",
+            10
+        ],
+        [
+            "Sand-tomb",
+            13
+        ],
+        [
+            "Assurance",
+            16
+        ],
+        [
+            "Mud-slap",
+            19
+        ],
+        [
+            "Embargo",
+            22
+        ],
+        [
+            "Swagger",
+            25
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Dig",
+            32
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Foul-play",
+            42
+        ],
+        [
+            "Sandstorm",
+            48
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Outrage",
+            60
+        ]
+    ],
+    "black-white": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Torment",
+            10
+        ],
+        [
+            "Sand-tomb",
+            13
+        ],
+        [
+            "Assurance",
+            16
+        ],
+        [
+            "Mud-slap",
+            19
+        ],
+        [
+            "Embargo",
+            22
+        ],
+        [
+            "Swagger",
+            25
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Dig",
+            32
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Foul-play",
+            42
+        ],
+        [
+            "Sandstorm",
+            48
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Outrage",
+            60
+        ]
     ]
 }

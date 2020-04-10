@@ -1,253 +1,898 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 11",
-        "Revenge learnt at level 15",
-        "Vital-throw learnt at level 18",
-        "Double-hit learnt at level 22",
-        "Brick-break learnt at level 26",
-        "X-scissor learnt at level 29",
-        "Submission learnt at level 33",
-        "Storm-throw learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Thrash learnt at level 43",
-        "Superpower learnt at level 47",
-        "Guillotine learnt at level 50"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            11
+        ],
+        [
+            "Revenge",
+            15
+        ],
+        [
+            "Vital-throw",
+            18
+        ],
+        [
+            "Double-hit",
+            22
+        ],
+        [
+            "Brick-break",
+            26
+        ],
+        [
+            "X-scissor",
+            29
+        ],
+        [
+            "Submission",
+            33
+        ],
+        [
+            "Storm-throw",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Guillotine",
+            50
+        ]
     ],
     "sun-moon": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 11",
-        "Revenge learnt at level 15",
-        "Vital-throw learnt at level 18",
-        "Double-hit learnt at level 22",
-        "Brick-break learnt at level 26",
-        "X-scissor learnt at level 29",
-        "Submission learnt at level 33",
-        "Storm-throw learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Thrash learnt at level 43",
-        "Superpower learnt at level 47",
-        "Guillotine learnt at level 50"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            11
+        ],
+        [
+            "Revenge",
+            15
+        ],
+        [
+            "Vital-throw",
+            18
+        ],
+        [
+            "Double-hit",
+            22
+        ],
+        [
+            "Brick-break",
+            26
+        ],
+        [
+            "X-scissor",
+            29
+        ],
+        [
+            "Submission",
+            33
+        ],
+        [
+            "Storm-throw",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Guillotine",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 11",
-        "Revenge learnt at level 15",
-        "Vital-throw learnt at level 18",
-        "Double-hit learnt at level 22",
-        "Brick-break learnt at level 26",
-        "Submission learnt at level 29",
-        "X-scissor learnt at level 33",
-        "Storm-throw learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Thrash learnt at level 43",
-        "Superpower learnt at level 47",
-        "Guillotine learnt at level 50"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            11
+        ],
+        [
+            "Revenge",
+            15
+        ],
+        [
+            "Vital-throw",
+            18
+        ],
+        [
+            "Double-hit",
+            22
+        ],
+        [
+            "Brick-break",
+            26
+        ],
+        [
+            "Submission",
+            29
+        ],
+        [
+            "X-scissor",
+            33
+        ],
+        [
+            "Storm-throw",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Guillotine",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 11",
-        "Revenge learnt at level 15",
-        "Brick-break learnt at level 18",
-        "Vital-throw learnt at level 22",
-        "Submission learnt at level 26",
-        "X-scissor learnt at level 29",
-        "Storm-throw learnt at level 33",
-        "Thrash learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Superpower learnt at level 43",
-        "Guillotine learnt at level 47"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            11
+        ],
+        [
+            "Revenge",
+            15
+        ],
+        [
+            "Brick-break",
+            18
+        ],
+        [
+            "Vital-throw",
+            22
+        ],
+        [
+            "Submission",
+            26
+        ],
+        [
+            "X-scissor",
+            29
+        ],
+        [
+            "Storm-throw",
+            33
+        ],
+        [
+            "Thrash",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Superpower",
+            43
+        ],
+        [
+            "Guillotine",
+            47
+        ]
     ],
     "xd": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 7",
-        "Seismic-toss learnt at level 13",
-        "Harden learnt at level 19",
-        "Revenge learnt at level 25",
-        "Brick-break learnt at level 31",
-        "Guillotine learnt at level 37",
-        "Submission learnt at level 43",
-        "Swords-dance learnt at level 49"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            7
+        ],
+        [
+            "Seismic-toss",
+            13
+        ],
+        [
+            "Harden",
+            19
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Brick-break",
+            31
+        ],
+        [
+            "Guillotine",
+            37
+        ],
+        [
+            "Submission",
+            43
+        ],
+        [
+            "Swords-dance",
+            49
+        ]
     ],
     "colosseum": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 7",
-        "Seismic-toss learnt at level 13",
-        "Harden learnt at level 19",
-        "Revenge learnt at level 25",
-        "Brick-break learnt at level 31",
-        "Guillotine learnt at level 37",
-        "Submission learnt at level 43",
-        "Swords-dance learnt at level 49"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            7
+        ],
+        [
+            "Seismic-toss",
+            13
+        ],
+        [
+            "Harden",
+            19
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Brick-break",
+            31
+        ],
+        [
+            "Guillotine",
+            37
+        ],
+        [
+            "Submission",
+            43
+        ],
+        [
+            "Swords-dance",
+            49
+        ]
     ],
     "black-white": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 13",
-        "Revenge learnt at level 18",
-        "Brick-break learnt at level 21",
-        "Vital-throw learnt at level 25",
-        "X-scissor learnt at level 30",
-        "Thrash learnt at level 35",
-        "Swords-dance learnt at level 38",
-        "Submission learnt at level 42",
-        "Guillotine learnt at level 47",
-        "Superpower learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            13
+        ],
+        [
+            "Revenge",
+            18
+        ],
+        [
+            "Brick-break",
+            21
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Thrash",
+            35
+        ],
+        [
+            "Swords-dance",
+            38
+        ],
+        [
+            "Submission",
+            42
+        ],
+        [
+            "Guillotine",
+            47
+        ],
+        [
+            "Superpower",
+            52
+        ]
     ],
     "heartgold-soulsilver": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 13",
-        "Revenge learnt at level 18",
-        "Brick-break learnt at level 21",
-        "Vital-throw learnt at level 25",
-        "X-scissor learnt at level 30",
-        "Thrash learnt at level 35",
-        "Swords-dance learnt at level 38",
-        "Submission learnt at level 42",
-        "Guillotine learnt at level 47",
-        "Superpower learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            13
+        ],
+        [
+            "Revenge",
+            18
+        ],
+        [
+            "Brick-break",
+            21
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Thrash",
+            35
+        ],
+        [
+            "Swords-dance",
+            38
+        ],
+        [
+            "Submission",
+            42
+        ],
+        [
+            "Guillotine",
+            47
+        ],
+        [
+            "Superpower",
+            52
+        ]
     ],
     "platinum": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 13",
-        "Revenge learnt at level 18",
-        "Brick-break learnt at level 21",
-        "Vital-throw learnt at level 25",
-        "X-scissor learnt at level 30",
-        "Thrash learnt at level 35",
-        "Swords-dance learnt at level 38",
-        "Submission learnt at level 42",
-        "Guillotine learnt at level 47",
-        "Superpower learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            13
+        ],
+        [
+            "Revenge",
+            18
+        ],
+        [
+            "Brick-break",
+            21
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Thrash",
+            35
+        ],
+        [
+            "Swords-dance",
+            38
+        ],
+        [
+            "Submission",
+            42
+        ],
+        [
+            "Guillotine",
+            47
+        ],
+        [
+            "Superpower",
+            52
+        ]
     ],
     "x-y": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 11",
-        "Revenge learnt at level 15",
-        "Brick-break learnt at level 18",
-        "Vital-throw learnt at level 22",
-        "Submission learnt at level 26",
-        "X-scissor learnt at level 29",
-        "Storm-throw learnt at level 33",
-        "Thrash learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Superpower learnt at level 43",
-        "Guillotine learnt at level 47"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            11
+        ],
+        [
+            "Revenge",
+            15
+        ],
+        [
+            "Brick-break",
+            18
+        ],
+        [
+            "Vital-throw",
+            22
+        ],
+        [
+            "Submission",
+            26
+        ],
+        [
+            "X-scissor",
+            29
+        ],
+        [
+            "Storm-throw",
+            33
+        ],
+        [
+            "Thrash",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Superpower",
+            43
+        ],
+        [
+            "Guillotine",
+            47
+        ]
     ],
     "diamond-pearl": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 4",
-        "Seismic-toss learnt at level 8",
-        "Harden learnt at level 13",
-        "Revenge learnt at level 18",
-        "Brick-break learnt at level 21",
-        "Vital-throw learnt at level 25",
-        "X-scissor learnt at level 30",
-        "Thrash learnt at level 35",
-        "Swords-dance learnt at level 38",
-        "Submission learnt at level 42",
-        "Guillotine learnt at level 47",
-        "Superpower learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Seismic-toss",
+            8
+        ],
+        [
+            "Harden",
+            13
+        ],
+        [
+            "Revenge",
+            18
+        ],
+        [
+            "Brick-break",
+            21
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Thrash",
+            35
+        ],
+        [
+            "Swords-dance",
+            38
+        ],
+        [
+            "Submission",
+            42
+        ],
+        [
+            "Guillotine",
+            47
+        ],
+        [
+            "Superpower",
+            52
+        ]
     ],
     "firered-leafgreen": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 7",
-        "Seismic-toss learnt at level 13",
-        "Harden learnt at level 19",
-        "Revenge learnt at level 25",
-        "Brick-break learnt at level 31",
-        "Guillotine learnt at level 37",
-        "Submission learnt at level 43",
-        "Swords-dance learnt at level 49"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            7
+        ],
+        [
+            "Seismic-toss",
+            13
+        ],
+        [
+            "Harden",
+            19
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Brick-break",
+            31
+        ],
+        [
+            "Guillotine",
+            37
+        ],
+        [
+            "Submission",
+            43
+        ],
+        [
+            "Swords-dance",
+            49
+        ]
     ],
     "emerald": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 7",
-        "Seismic-toss learnt at level 13",
-        "Harden learnt at level 19",
-        "Revenge learnt at level 25",
-        "Brick-break learnt at level 31",
-        "Guillotine learnt at level 37",
-        "Submission learnt at level 43",
-        "Swords-dance learnt at level 49"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            7
+        ],
+        [
+            "Seismic-toss",
+            13
+        ],
+        [
+            "Harden",
+            19
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Brick-break",
+            31
+        ],
+        [
+            "Guillotine",
+            37
+        ],
+        [
+            "Submission",
+            43
+        ],
+        [
+            "Swords-dance",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bind learnt at level 7",
-        "Seismic-toss learnt at level 13",
-        "Harden learnt at level 19",
-        "Revenge learnt at level 25",
-        "Brick-break learnt at level 31",
-        "Guillotine learnt at level 37",
-        "Submission learnt at level 43",
-        "Swords-dance learnt at level 49"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bind",
+            7
+        ],
+        [
+            "Seismic-toss",
+            13
+        ],
+        [
+            "Harden",
+            19
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Brick-break",
+            31
+        ],
+        [
+            "Guillotine",
+            37
+        ],
+        [
+            "Submission",
+            43
+        ],
+        [
+            "Swords-dance",
+            49
+        ]
     ],
     "crystal": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Bind learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Harden learnt at level 25",
-        "Guillotine learnt at level 31",
-        "Submission learnt at level 37",
-        "Swords-dance learnt at level 43"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bind",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Harden",
+            25
+        ],
+        [
+            "Guillotine",
+            31
+        ],
+        [
+            "Submission",
+            37
+        ],
+        [
+            "Swords-dance",
+            43
+        ]
     ],
     "gold-silver": [
-        "Vice-grip learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Bind learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Harden learnt at level 25",
-        "Guillotine learnt at level 31",
-        "Submission learnt at level 37",
-        "Swords-dance learnt at level 43"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bind",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Harden",
+            25
+        ],
+        [
+            "Guillotine",
+            31
+        ],
+        [
+            "Submission",
+            37
+        ],
+        [
+            "Swords-dance",
+            43
+        ]
     ],
     "yellow": [
-        "Vice-grip learnt at level 1",
-        "Bind learnt at level 21",
-        "Seismic-toss learnt at level 25",
-        "Guillotine learnt at level 30",
-        "Focus-energy learnt at level 36",
-        "Harden learnt at level 43",
-        "Slash learnt at level 49",
-        "Swords-dance learnt at level 54"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Bind",
+            21
+        ],
+        [
+            "Seismic-toss",
+            25
+        ],
+        [
+            "Guillotine",
+            30
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Harden",
+            43
+        ],
+        [
+            "Slash",
+            49
+        ],
+        [
+            "Swords-dance",
+            54
+        ]
     ],
     "red-blue": [
-        "Vice-grip learnt at level 1",
-        "Seismic-toss learnt at level 25",
-        "Guillotine learnt at level 30",
-        "Focus-energy learnt at level 36",
-        "Harden learnt at level 43",
-        "Slash learnt at level 49",
-        "Swords-dance learnt at level 54"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Seismic-toss",
+            25
+        ],
+        [
+            "Guillotine",
+            30
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Harden",
+            43
+        ],
+        [
+            "Slash",
+            49
+        ],
+        [
+            "Swords-dance",
+            54
+        ]
     ]
 }

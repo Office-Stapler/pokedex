@@ -1,189 +1,674 @@
 {
     "black-white": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38",
-        "Bug-buzz learnt at level 41",
-        "Quiver-dance learnt at level 45"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Bug-buzz",
+            41
+        ],
+        [
+            "Quiver-dance",
+            45
+        ]
     ],
     "heartgold-soulsilver": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38",
-        "Bug-buzz learnt at level 41"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Bug-buzz",
+            41
+        ]
     ],
     "platinum": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38",
-        "Bug-buzz learnt at level 41"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Bug-buzz",
+            41
+        ]
     ],
     "diamond-pearl": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38",
-        "Bug-buzz learnt at level 41"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Bug-buzz",
+            41
+        ]
     ],
     "firered-leafgreen": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Absorb learnt at level 12",
-        "Stun-spore learnt at level 15",
-        "Morning-sun learnt at level 17",
-        "Air-cutter learnt at level 20",
-        "Mega-drain learnt at level 22",
-        "Silver-wind learnt at level 25",
-        "Attract learnt at level 27",
-        "Whirlwind learnt at level 30",
-        "Giga-drain learnt at level 32",
-        "Bug-buzz learnt at level 35",
-        "Rage learnt at level 37",
-        "Quiver-dance learnt at level 40"
+        [
+            "Gust",
+            0
+        ],
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Absorb",
+            12
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Morning-sun",
+            17
+        ],
+        [
+            "Air-cutter",
+            20
+        ],
+        [
+            "Mega-drain",
+            22
+        ],
+        [
+            "Silver-wind",
+            25
+        ],
+        [
+            "Attract",
+            27
+        ],
+        [
+            "Whirlwind",
+            30
+        ],
+        [
+            "Giga-drain",
+            32
+        ],
+        [
+            "Bug-buzz",
+            35
+        ],
+        [
+            "Rage",
+            37
+        ],
+        [
+            "Quiver-dance",
+            40
+        ]
     ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Absorb learnt at level 12",
-        "Stun-spore learnt at level 15",
-        "Morning-sun learnt at level 17",
-        "Air-cutter learnt at level 20",
-        "Mega-drain learnt at level 22",
-        "Silver-wind learnt at level 25",
-        "Attract learnt at level 27",
-        "Whirlwind learnt at level 30",
-        "Giga-drain learnt at level 32",
-        "Bug-buzz learnt at level 35",
-        "Rage learnt at level 37",
-        "Quiver-dance learnt at level 40"
+        [
+            "Gust",
+            0
+        ],
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Absorb",
+            12
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Morning-sun",
+            17
+        ],
+        [
+            "Air-cutter",
+            20
+        ],
+        [
+            "Mega-drain",
+            22
+        ],
+        [
+            "Silver-wind",
+            25
+        ],
+        [
+            "Attract",
+            27
+        ],
+        [
+            "Whirlwind",
+            30
+        ],
+        [
+            "Giga-drain",
+            32
+        ],
+        [
+            "Bug-buzz",
+            35
+        ],
+        [
+            "Rage",
+            37
+        ],
+        [
+            "Quiver-dance",
+            40
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Gust learnt at level 10",
-        "Absorb learnt at level 12",
-        "Stun-spore learnt at level 15",
-        "Morning-sun learnt at level 17",
-        "Air-cutter learnt at level 20",
-        "Mega-drain learnt at level 22",
-        "Silver-wind learnt at level 25",
-        "Attract learnt at level 27",
-        "Whirlwind learnt at level 30",
-        "Giga-drain learnt at level 32",
-        "Bug-buzz learnt at level 35",
-        "Rage learnt at level 37",
-        "Quiver-dance learnt at level 40"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Gust",
+            10
+        ],
+        [
+            "Absorb",
+            12
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Morning-sun",
+            17
+        ],
+        [
+            "Air-cutter",
+            20
+        ],
+        [
+            "Mega-drain",
+            22
+        ],
+        [
+            "Silver-wind",
+            25
+        ],
+        [
+            "Attract",
+            27
+        ],
+        [
+            "Whirlwind",
+            30
+        ],
+        [
+            "Giga-drain",
+            32
+        ],
+        [
+            "Bug-buzz",
+            35
+        ],
+        [
+            "Rage",
+            37
+        ],
+        [
+            "Quiver-dance",
+            40
+        ]
     ],
     "x-y": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38",
-        "Bug-buzz learnt at level 41",
-        "Quiver-dance learnt at level 45"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Bug-buzz",
+            41
+        ],
+        [
+            "Quiver-dance",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38",
-        "Bug-buzz learnt at level 41",
-        "Quiver-dance learnt at level 45"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Bug-buzz",
+            41
+        ],
+        [
+            "Quiver-dance",
+            45
+        ]
     ],
     "xd": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ]
     ],
     "colosseum": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ]
     ],
     "emerald": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ]
     ],
     "ruby-sapphire": [
-        "Absorb learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 13",
-        "Stun-spore learnt at level 17",
-        "Morning-sun learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Whirlwind learnt at level 27",
-        "Attract learnt at level 31",
-        "Silver-wind learnt at level 34",
-        "Giga-drain learnt at level 38"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            13
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Morning-sun",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Whirlwind",
+            27
+        ],
+        [
+            "Attract",
+            31
+        ],
+        [
+            "Silver-wind",
+            34
+        ],
+        [
+            "Giga-drain",
+            38
+        ]
     ]
 }

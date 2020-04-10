@@ -1,295 +1,1098 @@
 {
-    "firered-leafgreen": [
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Disable learnt at level 5",
-        "Foresight learnt at level 12",
-        "Astonish learnt at level 16",
-        "Confuse-ray learnt at level 23",
-        "Pursuit learnt at level 27",
-        "Curse learnt at level 34",
-        "Shadow-punch learnt at level 37",
-        "Will-o-wisp learnt at level 41",
-        "Mean-look learnt at level 51",
-        "Future-sight learnt at level 58"
-    ],
-    "emerald": [
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Disable learnt at level 5",
-        "Foresight learnt at level 12",
-        "Astonish learnt at level 16",
-        "Confuse-ray learnt at level 23",
-        "Pursuit learnt at level 27",
-        "Curse learnt at level 34",
-        "Shadow-punch learnt at level 37",
-        "Will-o-wisp learnt at level 41",
-        "Mean-look learnt at level 51",
-        "Future-sight learnt at level 58"
-    ],
     "ultra-sun-ultra-moon": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Astonish learnt at level 1",
-        "Shadow-punch learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Astonish learnt at level 9",
-        "Foresight learnt at level 14",
-        "Shadow-sneak learnt at level 17",
-        "Pursuit learnt at level 22",
-        "Will-o-wisp learnt at level 25",
-        "Confuse-ray learnt at level 30",
-        "Curse learnt at level 33",
-        "Hex learnt at level 40",
-        "Shadow-ball learnt at level 45",
-        "Mean-look learnt at level 52",
-        "Payback learnt at level 57",
-        "Future-sight learnt at level 64"
+        [
+            "Shadow-punch",
+            0
+        ],
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Shadow-punch",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Foresight",
+            14
+        ],
+        [
+            "Shadow-sneak",
+            17
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Will-o-wisp",
+            25
+        ],
+        [
+            "Confuse-ray",
+            30
+        ],
+        [
+            "Curse",
+            33
+        ],
+        [
+            "Hex",
+            40
+        ],
+        [
+            "Shadow-ball",
+            45
+        ],
+        [
+            "Mean-look",
+            52
+        ],
+        [
+            "Payback",
+            57
+        ],
+        [
+            "Future-sight",
+            64
+        ]
     ],
     "sun-moon": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Astonish learnt at level 1",
-        "Shadow-punch learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Astonish learnt at level 9",
-        "Foresight learnt at level 14",
-        "Shadow-sneak learnt at level 17",
-        "Pursuit learnt at level 22",
-        "Will-o-wisp learnt at level 25",
-        "Confuse-ray learnt at level 30",
-        "Curse learnt at level 33",
-        "Hex learnt at level 40",
-        "Shadow-ball learnt at level 45",
-        "Mean-look learnt at level 52",
-        "Payback learnt at level 57",
-        "Future-sight learnt at level 64"
+        [
+            "Shadow-punch",
+            0
+        ],
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Shadow-punch",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Foresight",
+            14
+        ],
+        [
+            "Shadow-sneak",
+            17
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Will-o-wisp",
+            25
+        ],
+        [
+            "Confuse-ray",
+            30
+        ],
+        [
+            "Curse",
+            33
+        ],
+        [
+            "Hex",
+            40
+        ],
+        [
+            "Shadow-ball",
+            45
+        ],
+        [
+            "Mean-look",
+            52
+        ],
+        [
+            "Payback",
+            57
+        ],
+        [
+            "Future-sight",
+            64
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Astonish learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Astonish learnt at level 9",
-        "Foresight learnt at level 14",
-        "Shadow-sneak learnt at level 17",
-        "Pursuit learnt at level 22",
-        "Will-o-wisp learnt at level 25",
-        "Confuse-ray learnt at level 30",
-        "Curse learnt at level 33",
-        "Shadow-punch learnt at level 37",
-        "Hex learnt at level 40",
-        "Shadow-ball learnt at level 45",
-        "Mean-look learnt at level 52",
-        "Payback learnt at level 57",
-        "Future-sight learnt at level 64"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Foresight",
+            14
+        ],
+        [
+            "Shadow-sneak",
+            17
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Will-o-wisp",
+            25
+        ],
+        [
+            "Confuse-ray",
+            30
+        ],
+        [
+            "Curse",
+            33
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Hex",
+            40
+        ],
+        [
+            "Shadow-ball",
+            45
+        ],
+        [
+            "Mean-look",
+            52
+        ],
+        [
+            "Payback",
+            57
+        ],
+        [
+            "Future-sight",
+            64
+        ]
     ],
     "x-y": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Foresight learnt at level 9",
-        "Astonish learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Shadow-sneak learnt at level 22",
-        "Pursuit learnt at level 25",
-        "Curse learnt at level 30",
-        "Will-o-wisp learnt at level 33",
-        "Shadow-punch learnt at level 37",
-        "Hex learnt at level 42",
-        "Mean-look learnt at level 49",
-        "Payback learnt at level 58",
-        "Future-sight learnt at level 61"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Astonish",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Curse",
+            30
+        ],
+        [
+            "Will-o-wisp",
+            33
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Hex",
+            42
+        ],
+        [
+            "Mean-look",
+            49
+        ],
+        [
+            "Payback",
+            58
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "black-2-white-2": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Foresight learnt at level 9",
-        "Astonish learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Shadow-sneak learnt at level 22",
-        "Pursuit learnt at level 25",
-        "Curse learnt at level 30",
-        "Will-o-wisp learnt at level 33",
-        "Shadow-punch learnt at level 37",
-        "Hex learnt at level 42",
-        "Mean-look learnt at level 49",
-        "Payback learnt at level 58",
-        "Future-sight learnt at level 61"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Astonish",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Curse",
+            30
+        ],
+        [
+            "Will-o-wisp",
+            33
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Hex",
+            42
+        ],
+        [
+            "Mean-look",
+            49
+        ],
+        [
+            "Payback",
+            58
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "heartgold-soulsilver": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Foresight learnt at level 9",
-        "Astonish learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Shadow-sneak learnt at level 22",
-        "Pursuit learnt at level 25",
-        "Curse learnt at level 30",
-        "Will-o-wisp learnt at level 33",
-        "Shadow-punch learnt at level 37",
-        "Mean-look learnt at level 43",
-        "Payback learnt at level 51",
-        "Future-sight learnt at level 61"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Astonish",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Curse",
+            30
+        ],
+        [
+            "Will-o-wisp",
+            33
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Mean-look",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "platinum": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Foresight learnt at level 9",
-        "Astonish learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Shadow-sneak learnt at level 22",
-        "Pursuit learnt at level 25",
-        "Curse learnt at level 30",
-        "Will-o-wisp learnt at level 33",
-        "Shadow-punch learnt at level 37",
-        "Mean-look learnt at level 43",
-        "Payback learnt at level 51",
-        "Future-sight learnt at level 61"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Astonish",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Curse",
+            30
+        ],
+        [
+            "Will-o-wisp",
+            33
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Mean-look",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "diamond-pearl": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Foresight learnt at level 9",
-        "Astonish learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Shadow-sneak learnt at level 22",
-        "Pursuit learnt at level 25",
-        "Curse learnt at level 30",
-        "Will-o-wisp learnt at level 33",
-        "Shadow-punch learnt at level 37",
-        "Mean-look learnt at level 43",
-        "Payback learnt at level 51",
-        "Future-sight learnt at level 61"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Astonish",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Curse",
+            30
+        ],
+        [
+            "Will-o-wisp",
+            33
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Mean-look",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "black-white": [
-        "Fire-punch learnt at level 1",
-        "Ice-punch learnt at level 1",
-        "Thunder-punch learnt at level 1",
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Gravity learnt at level 1",
-        "Disable learnt at level 6",
-        "Foresight learnt at level 9",
-        "Astonish learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Shadow-sneak learnt at level 22",
-        "Pursuit learnt at level 25",
-        "Curse learnt at level 30",
-        "Will-o-wisp learnt at level 33",
-        "Shadow-punch learnt at level 37",
-        "Hex learnt at level 42",
-        "Mean-look learnt at level 49",
-        "Payback learnt at level 58",
-        "Future-sight learnt at level 61"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Ice-punch",
+            1
+        ],
+        [
+            "Thunder-punch",
+            1
+        ],
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Disable",
+            6
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Astonish",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Curse",
+            30
+        ],
+        [
+            "Will-o-wisp",
+            33
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Hex",
+            42
+        ],
+        [
+            "Mean-look",
+            49
+        ],
+        [
+            "Payback",
+            58
+        ],
+        [
+            "Future-sight",
+            61
+        ]
     ],
     "xd": [
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Disable learnt at level 5",
-        "Foresight learnt at level 12",
-        "Astonish learnt at level 16",
-        "Confuse-ray learnt at level 23",
-        "Pursuit learnt at level 27",
-        "Curse learnt at level 34",
-        "Shadow-punch learnt at level 37",
-        "Will-o-wisp learnt at level 41",
-        "Mean-look learnt at level 51",
-        "Future-sight learnt at level 58"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Astonish",
+            16
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Curse",
+            34
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Will-o-wisp",
+            41
+        ],
+        [
+            "Mean-look",
+            51
+        ],
+        [
+            "Future-sight",
+            58
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Astonish",
+            16
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Curse",
+            34
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Will-o-wisp",
+            41
+        ],
+        [
+            "Mean-look",
+            51
+        ],
+        [
+            "Future-sight",
+            58
+        ]
+    ],
+    "emerald": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Astonish",
+            16
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Curse",
+            34
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Will-o-wisp",
+            41
+        ],
+        [
+            "Mean-look",
+            51
+        ],
+        [
+            "Future-sight",
+            58
+        ]
     ],
     "colosseum": [
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Disable learnt at level 5",
-        "Foresight learnt at level 12",
-        "Astonish learnt at level 16",
-        "Confuse-ray learnt at level 23",
-        "Pursuit learnt at level 27",
-        "Curse learnt at level 34",
-        "Shadow-punch learnt at level 37",
-        "Will-o-wisp learnt at level 41",
-        "Mean-look learnt at level 51",
-        "Future-sight learnt at level 58"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Astonish",
+            16
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Curse",
+            34
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Will-o-wisp",
+            41
+        ],
+        [
+            "Mean-look",
+            51
+        ],
+        [
+            "Future-sight",
+            58
+        ]
     ],
     "ruby-sapphire": [
-        "Bind learnt at level 1",
-        "Leer learnt at level 1",
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Disable learnt at level 5",
-        "Foresight learnt at level 12",
-        "Astonish learnt at level 16",
-        "Confuse-ray learnt at level 23",
-        "Pursuit learnt at level 27",
-        "Curse learnt at level 34",
-        "Shadow-punch learnt at level 37",
-        "Will-o-wisp learnt at level 41",
-        "Mean-look learnt at level 51",
-        "Future-sight learnt at level 58"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Disable",
+            5
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Astonish",
+            16
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Curse",
+            34
+        ],
+        [
+            "Shadow-punch",
+            37
+        ],
+        [
+            "Will-o-wisp",
+            41
+        ],
+        [
+            "Mean-look",
+            51
+        ],
+        [
+            "Future-sight",
+            58
+        ]
     ]
 }

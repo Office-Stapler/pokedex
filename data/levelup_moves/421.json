@@ -1,140 +1,508 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growth learnt at level 1",
-        "Petal-dance learnt at level 1",
-        "Morning-sun learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48",
-        "Petal-blizzard learnt at level 50"
+        [
+            "Petal-dance",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Petal-dance",
+            1
+        ],
+        [
+            "Morning-sun",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ],
+        [
+            "Petal-blizzard",
+            50
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Growth learnt at level 1",
-        "Petal-dance learnt at level 1",
-        "Morning-sun learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48",
-        "Petal-blizzard learnt at level 50"
+        [
+            "Petal-dance",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Petal-dance",
+            1
+        ],
+        [
+            "Morning-sun",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ],
+        [
+            "Petal-blizzard",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Morning-sun learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Petal-dance learnt at level 25",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48",
-        "Petal-blizzard learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Morning-sun",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Petal-dance",
+            25
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ],
+        [
+            "Petal-blizzard",
+            50
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Morning-sun learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Petal-dance learnt at level 25",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48",
-        "Petal-blizzard learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Morning-sun",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Petal-dance",
+            25
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ],
+        [
+            "Petal-blizzard",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Morning-sun learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Petal-dance learnt at level 25",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Morning-sun",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Petal-dance",
+            25
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Morning-sun learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Petal-dance learnt at level 25",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Morning-sun",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Petal-dance",
+            25
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Petal-dance learnt at level 25",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Petal-dance",
+            25
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Petal-dance learnt at level 25",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Petal-dance",
+            25
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Magical-leaf learnt at level 19",
-        "Sunny-day learnt at level 22",
-        "Petal-dance learnt at level 25",
-        "Worry-seed learnt at level 30",
-        "Take-down learnt at level 35",
-        "Solar-beam learnt at level 43",
-        "Lucky-chant learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Magical-leaf",
+            19
+        ],
+        [
+            "Sunny-day",
+            22
+        ],
+        [
+            "Petal-dance",
+            25
+        ],
+        [
+            "Worry-seed",
+            30
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Lucky-chant",
+            48
+        ]
     ]
 }

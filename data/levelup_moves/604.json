@@ -1,64 +1,214 @@
 {
-    "black-2-white-2": [
-        "Headbutt learnt at level 1",
-        "Acid learnt at level 1",
-        "Crunch learnt at level 1",
-        "Crush-claw learnt at level 1",
-        "Discharge learnt at level 1"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Headbutt learnt at level 1",
-        "Thrash learnt at level 1",
-        "Acid learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Crunch learnt at level 1",
-        "Crush-claw learnt at level 1",
-        "Gastro-acid learnt at level 1",
-        "Discharge learnt at level 1",
-        "Coil learnt at level 1",
-        "Ion-deluge learnt at level 1"
-    ],
-    "x-y": [
-        "Headbutt learnt at level 1",
-        "Thrash learnt at level 1",
-        "Acid learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Crunch learnt at level 1",
-        "Crush-claw learnt at level 1",
-        "Gastro-acid learnt at level 1",
-        "Discharge learnt at level 1",
-        "Coil learnt at level 1",
-        "Ion-deluge learnt at level 1"
-    ],
-    "black-white": [
-        "Headbutt learnt at level 1",
-        "Acid learnt at level 1",
-        "Crunch learnt at level 1",
-        "Crush-claw learnt at level 1",
-        "Discharge learnt at level 1"
-    ],
     "ultra-sun-ultra-moon": [
-        "Headbutt learnt at level 1",
-        "Thrash learnt at level 1",
-        "Acid learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Crunch learnt at level 1",
-        "Crush-claw learnt at level 1",
-        "Gastro-acid learnt at level 1",
-        "Discharge learnt at level 1",
-        "Coil learnt at level 1",
-        "Ion-deluge learnt at level 1"
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Crush-claw",
+            1
+        ],
+        [
+            "Gastro-acid",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Coil",
+            1
+        ],
+        [
+            "Ion-deluge",
+            1
+        ]
     ],
     "sun-moon": [
-        "Headbutt learnt at level 1",
-        "Thrash learnt at level 1",
-        "Acid learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Crunch learnt at level 1",
-        "Crush-claw learnt at level 1",
-        "Gastro-acid learnt at level 1",
-        "Discharge learnt at level 1",
-        "Coil learnt at level 1",
-        "Ion-deluge learnt at level 1"
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Crush-claw",
+            1
+        ],
+        [
+            "Gastro-acid",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Coil",
+            1
+        ],
+        [
+            "Ion-deluge",
+            1
+        ]
+    ],
+    "x-y": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Crush-claw",
+            1
+        ],
+        [
+            "Gastro-acid",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Coil",
+            1
+        ],
+        [
+            "Ion-deluge",
+            1
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Crush-claw",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Crush-claw",
+            1
+        ],
+        [
+            "Gastro-acid",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Coil",
+            1
+        ],
+        [
+            "Ion-deluge",
+            1
+        ]
+    ],
+    "black-white": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Crush-claw",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ]
     ]
 }

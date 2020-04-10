@@ -1,114 +1,414 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vice-grip learnt at level 1",
-        "Guillotine learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Agility learnt at level 6",
-        "Metal-claw learnt at level 11",
-        "Bug-bite learnt at level 16",
-        "Crunch learnt at level 21",
-        "Iron-head learnt at level 26",
-        "Dig learnt at level 31",
-        "Entrainment learnt at level 36",
-        "X-scissor learnt at level 41",
-        "Iron-defense learnt at level 46",
-        "Guillotine learnt at level 51",
-        "Metal-sound learnt at level 56"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Guillotine",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Agility",
+            6
+        ],
+        [
+            "Metal-claw",
+            11
+        ],
+        [
+            "Bug-bite",
+            16
+        ],
+        [
+            "Crunch",
+            21
+        ],
+        [
+            "Iron-head",
+            26
+        ],
+        [
+            "Dig",
+            31
+        ],
+        [
+            "Entrainment",
+            36
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Iron-defense",
+            46
+        ],
+        [
+            "Guillotine",
+            51
+        ],
+        [
+            "Metal-sound",
+            56
+        ]
     ],
     "sun-moon": [
-        "Vice-grip learnt at level 1",
-        "Guillotine learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Agility learnt at level 6",
-        "Metal-claw learnt at level 11",
-        "Bug-bite learnt at level 16",
-        "Crunch learnt at level 21",
-        "Iron-head learnt at level 26",
-        "Dig learnt at level 31",
-        "Entrainment learnt at level 36",
-        "X-scissor learnt at level 41",
-        "Iron-defense learnt at level 46",
-        "Guillotine learnt at level 51",
-        "Metal-sound learnt at level 56"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Guillotine",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Agility",
+            6
+        ],
+        [
+            "Metal-claw",
+            11
+        ],
+        [
+            "Bug-bite",
+            16
+        ],
+        [
+            "Crunch",
+            21
+        ],
+        [
+            "Iron-head",
+            26
+        ],
+        [
+            "Dig",
+            31
+        ],
+        [
+            "Entrainment",
+            36
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Iron-defense",
+            46
+        ],
+        [
+            "Guillotine",
+            51
+        ],
+        [
+            "Metal-sound",
+            56
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Vice-grip learnt at level 1",
-        "Guillotine learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Fury-cutter learnt at level 6",
-        "Bite learnt at level 11",
-        "Agility learnt at level 16",
-        "Metal-claw learnt at level 21",
-        "Bug-bite learnt at level 26",
-        "Crunch learnt at level 31",
-        "Iron-head learnt at level 36",
-        "Dig learnt at level 41",
-        "Entrainment learnt at level 46",
-        "X-scissor learnt at level 51",
-        "Iron-defense learnt at level 56",
-        "Guillotine learnt at level 61",
-        "Metal-sound learnt at level 66"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Guillotine",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Fury-cutter",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Metal-claw",
+            21
+        ],
+        [
+            "Bug-bite",
+            26
+        ],
+        [
+            "Crunch",
+            31
+        ],
+        [
+            "Iron-head",
+            36
+        ],
+        [
+            "Dig",
+            41
+        ],
+        [
+            "Entrainment",
+            46
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Iron-defense",
+            56
+        ],
+        [
+            "Guillotine",
+            61
+        ],
+        [
+            "Metal-sound",
+            66
+        ]
     ],
     "x-y": [
-        "Vice-grip learnt at level 1",
-        "Guillotine learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Fury-cutter learnt at level 6",
-        "Bite learnt at level 11",
-        "Agility learnt at level 16",
-        "Metal-claw learnt at level 21",
-        "Bug-bite learnt at level 26",
-        "Crunch learnt at level 31",
-        "Iron-head learnt at level 36",
-        "Dig learnt at level 41",
-        "Entrainment learnt at level 46",
-        "X-scissor learnt at level 51",
-        "Iron-defense learnt at level 56",
-        "Guillotine learnt at level 61",
-        "Metal-sound learnt at level 66"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Guillotine",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Fury-cutter",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Metal-claw",
+            21
+        ],
+        [
+            "Bug-bite",
+            26
+        ],
+        [
+            "Crunch",
+            31
+        ],
+        [
+            "Iron-head",
+            36
+        ],
+        [
+            "Dig",
+            41
+        ],
+        [
+            "Entrainment",
+            46
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Iron-defense",
+            56
+        ],
+        [
+            "Guillotine",
+            61
+        ],
+        [
+            "Metal-sound",
+            66
+        ]
     ],
     "black-2-white-2": [
-        "Vice-grip learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Fury-cutter learnt at level 6",
-        "Bite learnt at level 11",
-        "Agility learnt at level 16",
-        "Metal-claw learnt at level 21",
-        "Bug-bite learnt at level 26",
-        "Crunch learnt at level 31",
-        "Iron-head learnt at level 36",
-        "Dig learnt at level 41",
-        "Entrainment learnt at level 46",
-        "X-scissor learnt at level 51",
-        "Iron-defense learnt at level 56",
-        "Guillotine learnt at level 61",
-        "Metal-sound learnt at level 66"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Fury-cutter",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Metal-claw",
+            21
+        ],
+        [
+            "Bug-bite",
+            26
+        ],
+        [
+            "Crunch",
+            31
+        ],
+        [
+            "Iron-head",
+            36
+        ],
+        [
+            "Dig",
+            41
+        ],
+        [
+            "Entrainment",
+            46
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Iron-defense",
+            56
+        ],
+        [
+            "Guillotine",
+            61
+        ],
+        [
+            "Metal-sound",
+            66
+        ]
     ],
     "black-white": [
-        "Vice-grip learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Fury-cutter learnt at level 6",
-        "Bite learnt at level 11",
-        "Agility learnt at level 16",
-        "Metal-claw learnt at level 21",
-        "Bug-bite learnt at level 26",
-        "Crunch learnt at level 31",
-        "Iron-head learnt at level 36",
-        "Dig learnt at level 41",
-        "Entrainment learnt at level 46",
-        "X-scissor learnt at level 51",
-        "Iron-defense learnt at level 56",
-        "Guillotine learnt at level 61",
-        "Metal-sound learnt at level 66"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Fury-cutter",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Metal-claw",
+            21
+        ],
+        [
+            "Bug-bite",
+            26
+        ],
+        [
+            "Crunch",
+            31
+        ],
+        [
+            "Iron-head",
+            36
+        ],
+        [
+            "Dig",
+            41
+        ],
+        [
+            "Entrainment",
+            46
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Iron-defense",
+            56
+        ],
+        [
+            "Guillotine",
+            61
+        ],
+        [
+            "Metal-sound",
+            66
+        ]
     ]
 }

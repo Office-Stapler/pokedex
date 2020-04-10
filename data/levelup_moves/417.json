@@ -1,141 +1,504 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Nuzzle learnt at level 19",
-        "Swift learnt at level 21",
-        "Electro-ball learnt at level 25",
-        "Sweet-kiss learnt at level 29",
-        "Thunder-wave learnt at level 33",
-        "Super-fang learnt at level 37",
-        "Discharge learnt at level 41",
-        "Last-resort learnt at level 45",
-        "Hyper-fang learnt at level 49"
-    ],
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Swift learnt at level 21",
-        "Sweet-kiss learnt at level 25",
-        "Discharge learnt at level 29",
-        "Super-fang learnt at level 33",
-        "Last-resort learnt at level 37"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Swift learnt at level 21",
-        "Sweet-kiss learnt at level 25",
-        "Discharge learnt at level 29",
-        "Super-fang learnt at level 33",
-        "Last-resort learnt at level 37"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Swift learnt at level 21",
-        "Electro-ball learnt at level 25",
-        "Sweet-kiss learnt at level 29",
-        "Thunder-wave learnt at level 33",
-        "Super-fang learnt at level 37",
-        "Discharge learnt at level 41",
-        "Last-resort learnt at level 45",
-        "Hyper-fang learnt at level 49"
-    ],
-    "black-white": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Swift learnt at level 21",
-        "Electro-ball learnt at level 25",
-        "Sweet-kiss learnt at level 29",
-        "Thunder-wave learnt at level 33",
-        "Super-fang learnt at level 37",
-        "Discharge learnt at level 41",
-        "Last-resort learnt at level 45",
-        "Hyper-fang learnt at level 49"
-    ],
-    "x-y": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Nuzzle learnt at level 19",
-        "Swift learnt at level 21",
-        "Electro-ball learnt at level 25",
-        "Sweet-kiss learnt at level 29",
-        "Thunder-wave learnt at level 33",
-        "Super-fang learnt at level 37",
-        "Discharge learnt at level 41",
-        "Last-resort learnt at level 45",
-        "Hyper-fang learnt at level 49"
-    ],
-    "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Swift learnt at level 21",
-        "Sweet-kiss learnt at level 25",
-        "Discharge learnt at level 29",
-        "Super-fang learnt at level 33",
-        "Last-resort learnt at level 37"
-    ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Nuzzle learnt at level 19",
-        "Swift learnt at level 21",
-        "Electro-ball learnt at level 25",
-        "Sweet-kiss learnt at level 29",
-        "Thunder-wave learnt at level 33",
-        "Super-fang learnt at level 37",
-        "Discharge learnt at level 41",
-        "Last-resort learnt at level 45",
-        "Hyper-fang learnt at level 49"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Nuzzle",
+            19
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Electro-ball",
+            25
+        ],
+        [
+            "Sweet-kiss",
+            29
+        ],
+        [
+            "Thunder-wave",
+            33
+        ],
+        [
+            "Super-fang",
+            37
+        ],
+        [
+            "Discharge",
+            41
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "Hyper-fang",
+            49
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Charm learnt at level 9",
-        "Spark learnt at level 13",
-        "Endure learnt at level 17",
-        "Nuzzle learnt at level 19",
-        "Swift learnt at level 21",
-        "Electro-ball learnt at level 25",
-        "Sweet-kiss learnt at level 29",
-        "Thunder-wave learnt at level 33",
-        "Super-fang learnt at level 37",
-        "Discharge learnt at level 41",
-        "Last-resort learnt at level 45",
-        "Hyper-fang learnt at level 49"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Nuzzle",
+            19
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Electro-ball",
+            25
+        ],
+        [
+            "Sweet-kiss",
+            29
+        ],
+        [
+            "Thunder-wave",
+            33
+        ],
+        [
+            "Super-fang",
+            37
+        ],
+        [
+            "Discharge",
+            41
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "Hyper-fang",
+            49
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Nuzzle",
+            19
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Electro-ball",
+            25
+        ],
+        [
+            "Sweet-kiss",
+            29
+        ],
+        [
+            "Thunder-wave",
+            33
+        ],
+        [
+            "Super-fang",
+            37
+        ],
+        [
+            "Discharge",
+            41
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "Hyper-fang",
+            49
+        ]
+    ],
+    "black-white": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Electro-ball",
+            25
+        ],
+        [
+            "Sweet-kiss",
+            29
+        ],
+        [
+            "Thunder-wave",
+            33
+        ],
+        [
+            "Super-fang",
+            37
+        ],
+        [
+            "Discharge",
+            41
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "Hyper-fang",
+            49
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Sweet-kiss",
+            25
+        ],
+        [
+            "Discharge",
+            29
+        ],
+        [
+            "Super-fang",
+            33
+        ],
+        [
+            "Last-resort",
+            37
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Sweet-kiss",
+            25
+        ],
+        [
+            "Discharge",
+            29
+        ],
+        [
+            "Super-fang",
+            33
+        ],
+        [
+            "Last-resort",
+            37
+        ]
+    ],
+    "x-y": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Nuzzle",
+            19
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Electro-ball",
+            25
+        ],
+        [
+            "Sweet-kiss",
+            29
+        ],
+        [
+            "Thunder-wave",
+            33
+        ],
+        [
+            "Super-fang",
+            37
+        ],
+        [
+            "Discharge",
+            41
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "Hyper-fang",
+            49
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Electro-ball",
+            25
+        ],
+        [
+            "Sweet-kiss",
+            29
+        ],
+        [
+            "Thunder-wave",
+            33
+        ],
+        [
+            "Super-fang",
+            37
+        ],
+        [
+            "Discharge",
+            41
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "Hyper-fang",
+            49
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Charm",
+            9
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Endure",
+            17
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Sweet-kiss",
+            25
+        ],
+        [
+            "Discharge",
+            29
+        ],
+        [
+            "Super-fang",
+            33
+        ],
+        [
+            "Last-resort",
+            37
+        ]
     ]
 }

@@ -1,40 +1,142 @@
 {
     "ultra-sun-ultra-moon": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Bulldoze learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Mud-sport learnt at level 3",
-        "Rototiller learnt at level 8",
-        "Bulldoze learnt at level 10",
-        "Double-kick learnt at level 15",
-        "Stomp learnt at level 17",
-        "Bide learnt at level 22",
-        "High-horsepower learnt at level 24",
-        "Iron-defense learnt at level 29",
-        "Heavy-slam learnt at level 34",
-        "Counter learnt at level 42",
-        "Earthquake learnt at level 47",
-        "Mega-kick learnt at level 55",
-        "Superpower learnt at level 60"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Bulldoze",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Mud-sport",
+            3
+        ],
+        [
+            "Rototiller",
+            8
+        ],
+        [
+            "Bulldoze",
+            10
+        ],
+        [
+            "Double-kick",
+            15
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "High-horsepower",
+            24
+        ],
+        [
+            "Iron-defense",
+            29
+        ],
+        [
+            "Heavy-slam",
+            34
+        ],
+        [
+            "Counter",
+            42
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Mega-kick",
+            55
+        ],
+        [
+            "Superpower",
+            60
+        ]
     ],
     "sun-moon": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Bulldoze learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Mud-sport learnt at level 3",
-        "Rototiller learnt at level 8",
-        "Bulldoze learnt at level 10",
-        "Double-kick learnt at level 15",
-        "Stomp learnt at level 17",
-        "Bide learnt at level 22",
-        "High-horsepower learnt at level 24",
-        "Iron-defense learnt at level 29",
-        "Heavy-slam learnt at level 34",
-        "Counter learnt at level 42",
-        "Earthquake learnt at level 47",
-        "Mega-kick learnt at level 55",
-        "Superpower learnt at level 60"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Bulldoze",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Mud-sport",
+            3
+        ],
+        [
+            "Rototiller",
+            8
+        ],
+        [
+            "Bulldoze",
+            10
+        ],
+        [
+            "Double-kick",
+            15
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "High-horsepower",
+            24
+        ],
+        [
+            "Iron-defense",
+            29
+        ],
+        [
+            "Heavy-slam",
+            34
+        ],
+        [
+            "Counter",
+            42
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Mega-kick",
+            55
+        ],
+        [
+            "Superpower",
+            60
+        ]
     ]
 }

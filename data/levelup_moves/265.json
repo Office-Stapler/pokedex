@@ -1,80 +1,230 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Poison-sting learnt at level 5"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Poison-sting",
+            5
+        ]
     ]
 }

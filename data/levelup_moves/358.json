@@ -1,236 +1,854 @@
 {
-    "black-2-white-2": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Uproar learnt at level 17",
-        "Take-down learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Extrasensory learnt at level 46",
-        "Heal-pulse learnt at level 49",
-        "Synchronoise learnt at level 54",
-        "Healing-wish learnt at level 57"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Astonish learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Synchronoise learnt at level 1",
-        "Growl learnt at level 4",
-        "Astonish learnt at level 7",
-        "Confusion learnt at level 10",
-        "Yawn learnt at level 13",
-        "Psywave learnt at level 16",
-        "Take-down learnt at level 19",
-        "Extrasensory learnt at level 22",
-        "Heal-bell learnt at level 27",
-        "Uproar learnt at level 32",
-        "Safeguard learnt at level 37",
-        "Double-edge learnt at level 42",
-        "Heal-pulse learnt at level 47",
-        "Synchronoise learnt at level 52",
-        "Healing-wish learnt at level 57"
-    ],
     "x-y": [
-        "Wrap learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Synchronoise learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Uproar learnt at level 17",
-        "Take-down learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Extrasensory learnt at level 46",
-        "Heal-pulse learnt at level 49",
-        "Synchronoise learnt at level 54",
-        "Healing-wish learnt at level 57"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Synchronoise",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Extrasensory",
+            46
+        ],
+        [
+            "Heal-pulse",
+            49
+        ],
+        [
+            "Synchronoise",
+            54
+        ],
+        [
+            "Healing-wish",
+            57
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Extrasensory",
+            46
+        ],
+        [
+            "Heal-pulse",
+            49
+        ],
+        [
+            "Synchronoise",
+            54
+        ],
+        [
+            "Healing-wish",
+            57
+        ]
     ],
     "xd": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Take-down learnt at level 17",
-        "Uproar learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Psychic learnt at level 46"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Take-down",
+            17
+        ],
+        [
+            "Uproar",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Psychic",
+            46
+        ]
     ],
     "colosseum": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Take-down learnt at level 17",
-        "Uproar learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Psychic learnt at level 46"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Take-down",
+            17
+        ],
+        [
+            "Uproar",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Psychic",
+            46
+        ]
     ],
     "heartgold-soulsilver": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Uproar learnt at level 17",
-        "Take-down learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Extrasensory learnt at level 46",
-        "Healing-wish learnt at level 49"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Extrasensory",
+            46
+        ],
+        [
+            "Healing-wish",
+            49
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Astonish learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Synchronoise learnt at level 1",
-        "Growl learnt at level 4",
-        "Astonish learnt at level 7",
-        "Confusion learnt at level 10",
-        "Yawn learnt at level 13",
-        "Psywave learnt at level 16",
-        "Take-down learnt at level 19",
-        "Extrasensory learnt at level 22",
-        "Heal-bell learnt at level 27",
-        "Uproar learnt at level 32",
-        "Safeguard learnt at level 37",
-        "Double-edge learnt at level 42",
-        "Heal-pulse learnt at level 47",
-        "Synchronoise learnt at level 52",
-        "Healing-wish learnt at level 57"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Synchronoise",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Astonish",
+            7
+        ],
+        [
+            "Confusion",
+            10
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Psywave",
+            16
+        ],
+        [
+            "Take-down",
+            19
+        ],
+        [
+            "Extrasensory",
+            22
+        ],
+        [
+            "Heal-bell",
+            27
+        ],
+        [
+            "Uproar",
+            32
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Double-edge",
+            42
+        ],
+        [
+            "Heal-pulse",
+            47
+        ],
+        [
+            "Synchronoise",
+            52
+        ],
+        [
+            "Healing-wish",
+            57
+        ]
     ],
     "sun-moon": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 1",
-        "Confusion learnt at level 1",
-        "Astonish learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Synchronoise learnt at level 1",
-        "Growl learnt at level 4",
-        "Astonish learnt at level 7",
-        "Confusion learnt at level 10",
-        "Yawn learnt at level 13",
-        "Psywave learnt at level 16",
-        "Take-down learnt at level 19",
-        "Extrasensory learnt at level 22",
-        "Heal-bell learnt at level 27",
-        "Uproar learnt at level 32",
-        "Safeguard learnt at level 37",
-        "Double-edge learnt at level 42",
-        "Heal-pulse learnt at level 47",
-        "Synchronoise learnt at level 52",
-        "Healing-wish learnt at level 57"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Synchronoise",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Astonish",
+            7
+        ],
+        [
+            "Confusion",
+            10
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Psywave",
+            16
+        ],
+        [
+            "Take-down",
+            19
+        ],
+        [
+            "Extrasensory",
+            22
+        ],
+        [
+            "Heal-bell",
+            27
+        ],
+        [
+            "Uproar",
+            32
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Double-edge",
+            42
+        ],
+        [
+            "Heal-pulse",
+            47
+        ],
+        [
+            "Synchronoise",
+            52
+        ],
+        [
+            "Healing-wish",
+            57
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Synchronoise",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Astonish",
+            7
+        ],
+        [
+            "Confusion",
+            10
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Psywave",
+            16
+        ],
+        [
+            "Take-down",
+            19
+        ],
+        [
+            "Extrasensory",
+            22
+        ],
+        [
+            "Heal-bell",
+            27
+        ],
+        [
+            "Uproar",
+            32
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Double-edge",
+            42
+        ],
+        [
+            "Heal-pulse",
+            47
+        ],
+        [
+            "Synchronoise",
+            52
+        ],
+        [
+            "Healing-wish",
+            57
+        ]
     ],
     "platinum": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Uproar learnt at level 17",
-        "Take-down learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Extrasensory learnt at level 46",
-        "Healing-wish learnt at level 49"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Extrasensory",
+            46
+        ],
+        [
+            "Healing-wish",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Uproar learnt at level 17",
-        "Take-down learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Extrasensory learnt at level 46",
-        "Healing-wish learnt at level 49"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Extrasensory",
+            46
+        ],
+        [
+            "Healing-wish",
+            49
+        ]
     ],
     "firered-leafgreen": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Take-down learnt at level 17",
-        "Uproar learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Psychic learnt at level 46"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Take-down",
+            17
+        ],
+        [
+            "Uproar",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Psychic",
+            46
+        ]
     ],
     "black-white": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Uproar learnt at level 17",
-        "Take-down learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Extrasensory learnt at level 46",
-        "Heal-pulse learnt at level 49",
-        "Synchronoise learnt at level 54",
-        "Healing-wish learnt at level 57"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Extrasensory",
+            46
+        ],
+        [
+            "Heal-pulse",
+            49
+        ],
+        [
+            "Synchronoise",
+            54
+        ],
+        [
+            "Healing-wish",
+            57
+        ]
     ],
     "emerald": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Take-down learnt at level 17",
-        "Uproar learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Psychic learnt at level 46"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Take-down",
+            17
+        ],
+        [
+            "Uproar",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Psychic",
+            46
+        ]
     ],
     "ruby-sapphire": [
-        "Wrap learnt at level 1",
-        "Growl learnt at level 6",
-        "Astonish learnt at level 9",
-        "Confusion learnt at level 14",
-        "Take-down learnt at level 17",
-        "Uproar learnt at level 22",
-        "Yawn learnt at level 25",
-        "Psywave learnt at level 30",
-        "Double-edge learnt at level 33",
-        "Heal-bell learnt at level 38",
-        "Safeguard learnt at level 41",
-        "Psychic learnt at level 46"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Astonish",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Take-down",
+            17
+        ],
+        [
+            "Uproar",
+            22
+        ],
+        [
+            "Yawn",
+            25
+        ],
+        [
+            "Psywave",
+            30
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Heal-bell",
+            38
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Psychic",
+            46
+        ]
     ]
 }

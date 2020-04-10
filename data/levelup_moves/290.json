@@ -1,173 +1,602 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Mud-slap learnt at level 17",
-        "Metal-claw learnt at level 21",
-        "Mind-reader learnt at level 25",
-        "Bide learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Dig learnt at level 37"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Metal-claw",
+            21
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Dig",
+            37
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Mud-slap learnt at level 17",
-        "Metal-claw learnt at level 21",
-        "Mind-reader learnt at level 25",
-        "Bide learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Dig learnt at level 37"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Metal-claw",
+            21
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Dig",
+            37
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Mud-slap learnt at level 17",
-        "Metal-claw learnt at level 21",
-        "Mind-reader learnt at level 25",
-        "Bide learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Dig learnt at level 37"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Metal-claw",
+            21
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Dig",
+            37
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "False-swipe learnt at level 25",
-        "Mud-slap learnt at level 31",
-        "Metal-claw learnt at level 38",
-        "Dig learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "False-swipe",
+            25
+        ],
+        [
+            "Mud-slap",
+            31
+        ],
+        [
+            "Metal-claw",
+            38
+        ],
+        [
+            "Dig",
+            45
+        ]
     ]
 }

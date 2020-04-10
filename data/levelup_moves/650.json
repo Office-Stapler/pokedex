@@ -1,66 +1,234 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Vine-whip learnt at level 5",
-        "Rollout learnt at level 8",
-        "Bite learnt at level 11",
-        "Leech-seed learnt at level 15",
-        "Pin-missile learnt at level 18",
-        "Take-down learnt at level 27",
-        "Seed-bomb learnt at level 32",
-        "Mud-shot learnt at level 35",
-        "Bulk-up learnt at level 39",
-        "Body-slam learnt at level 42",
-        "Pain-split learnt at level 45",
-        "Wood-hammer learnt at level 48"
-    ],
     "ultra-sun-ultra-moon": [
-        "Vine-whip learnt at level 1",
-        "Growl learnt at level 1",
-        "Vine-whip learnt at level 5",
-        "Rollout learnt at level 8",
-        "Bite learnt at level 11",
-        "Leech-seed learnt at level 15",
-        "Pin-missile learnt at level 18",
-        "Take-down learnt at level 27",
-        "Seed-bomb learnt at level 32",
-        "Mud-shot learnt at level 35",
-        "Bulk-up learnt at level 39",
-        "Body-slam learnt at level 42",
-        "Pain-split learnt at level 45",
-        "Wood-hammer learnt at level 48"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Vine-whip",
+            5
+        ],
+        [
+            "Rollout",
+            8
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Leech-seed",
+            15
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Seed-bomb",
+            32
+        ],
+        [
+            "Mud-shot",
+            35
+        ],
+        [
+            "Bulk-up",
+            39
+        ],
+        [
+            "Body-slam",
+            42
+        ],
+        [
+            "Pain-split",
+            45
+        ],
+        [
+            "Wood-hammer",
+            48
+        ]
     ],
     "sun-moon": [
-        "Vine-whip learnt at level 1",
-        "Growl learnt at level 1",
-        "Vine-whip learnt at level 5",
-        "Rollout learnt at level 8",
-        "Bite learnt at level 11",
-        "Leech-seed learnt at level 15",
-        "Pin-missile learnt at level 18",
-        "Take-down learnt at level 27",
-        "Seed-bomb learnt at level 32",
-        "Mud-shot learnt at level 35",
-        "Bulk-up learnt at level 39",
-        "Body-slam learnt at level 42",
-        "Pain-split learnt at level 45",
-        "Wood-hammer learnt at level 48"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Vine-whip",
+            5
+        ],
+        [
+            "Rollout",
+            8
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Leech-seed",
+            15
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Seed-bomb",
+            32
+        ],
+        [
+            "Mud-shot",
+            35
+        ],
+        [
+            "Bulk-up",
+            39
+        ],
+        [
+            "Body-slam",
+            42
+        ],
+        [
+            "Pain-split",
+            45
+        ],
+        [
+            "Wood-hammer",
+            48
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Vine-whip",
+            5
+        ],
+        [
+            "Rollout",
+            8
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Leech-seed",
+            15
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Seed-bomb",
+            32
+        ],
+        [
+            "Mud-shot",
+            35
+        ],
+        [
+            "Bulk-up",
+            39
+        ],
+        [
+            "Body-slam",
+            42
+        ],
+        [
+            "Pain-split",
+            45
+        ],
+        [
+            "Wood-hammer",
+            48
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Vine-whip learnt at level 5",
-        "Rollout learnt at level 8",
-        "Bite learnt at level 11",
-        "Leech-seed learnt at level 15",
-        "Pin-missile learnt at level 18",
-        "Take-down learnt at level 27",
-        "Seed-bomb learnt at level 32",
-        "Mud-shot learnt at level 35",
-        "Bulk-up learnt at level 39",
-        "Body-slam learnt at level 42",
-        "Pain-split learnt at level 45",
-        "Wood-hammer learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Vine-whip",
+            5
+        ],
+        [
+            "Rollout",
+            8
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Leech-seed",
+            15
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Seed-bomb",
+            32
+        ],
+        [
+            "Mud-shot",
+            35
+        ],
+        [
+            "Bulk-up",
+            39
+        ],
+        [
+            "Body-slam",
+            42
+        ],
+        [
+            "Pain-split",
+            45
+        ],
+        [
+            "Wood-hammer",
+            48
+        ]
     ]
 }

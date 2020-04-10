@@ -1,147 +1,554 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Thrash learnt at level 1",
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Superpower learnt at level 1",
-        "Sheer-cold learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Play-nice learnt at level 9",
-        "Icy-wind learnt at level 13",
-        "Fury-swipes learnt at level 17",
-        "Brine learnt at level 21",
-        "Endure learnt at level 25",
-        "Swagger learnt at level 29",
-        "Slash learnt at level 33",
-        "Flail learnt at level 36",
-        "Icicle-crash learnt at level 37",
-        "Rest learnt at level 41",
-        "Blizzard learnt at level 45",
-        "Hail learnt at level 53",
-        "Thrash learnt at level 59",
-        "Sheer-cold learnt at level 66"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Superpower learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Growl learnt at level 5",
-        "Bide learnt at level 9",
-        "Icy-wind learnt at level 13",
-        "Fury-swipes learnt at level 17",
-        "Brine learnt at level 21",
-        "Endure learnt at level 25",
-        "Swagger learnt at level 29",
-        "Slash learnt at level 33",
-        "Flail learnt at level 36",
-        "Icicle-crash learnt at level 37",
-        "Rest learnt at level 41",
-        "Blizzard learnt at level 45",
-        "Hail learnt at level 53",
-        "Thrash learnt at level 59",
-        "Sheer-cold learnt at level 66"
-    ],
     "ultra-sun-ultra-moon": [
-        "Thrash learnt at level 1",
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Superpower learnt at level 1",
-        "Sheer-cold learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Icicle-crash learnt at level 1",
-        "Powder-snow learnt at level 5",
-        "Bide learnt at level 9",
-        "Icy-wind learnt at level 13",
-        "Play-nice learnt at level 15",
-        "Fury-swipes learnt at level 17",
-        "Brine learnt at level 21",
-        "Endure learnt at level 25",
-        "Swagger learnt at level 29",
-        "Slash learnt at level 33",
-        "Flail learnt at level 36",
-        "Rest learnt at level 41",
-        "Blizzard learnt at level 45",
-        "Hail learnt at level 53",
-        "Thrash learnt at level 59",
-        "Sheer-cold learnt at level 66"
+        [
+            "Icicle-crash",
+            0
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Sheer-cold",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Icicle-crash",
+            1
+        ],
+        [
+            "Powder-snow",
+            5
+        ],
+        [
+            "Bide",
+            9
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Play-nice",
+            15
+        ],
+        [
+            "Fury-swipes",
+            17
+        ],
+        [
+            "Brine",
+            21
+        ],
+        [
+            "Endure",
+            25
+        ],
+        [
+            "Swagger",
+            29
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Flail",
+            36
+        ],
+        [
+            "Rest",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ],
+        [
+            "Hail",
+            53
+        ],
+        [
+            "Thrash",
+            59
+        ],
+        [
+            "Sheer-cold",
+            66
+        ]
     ],
     "sun-moon": [
-        "Thrash learnt at level 1",
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Superpower learnt at level 1",
-        "Sheer-cold learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Icicle-crash learnt at level 1",
-        "Powder-snow learnt at level 5",
-        "Bide learnt at level 9",
-        "Icy-wind learnt at level 13",
-        "Play-nice learnt at level 15",
-        "Fury-swipes learnt at level 17",
-        "Brine learnt at level 21",
-        "Endure learnt at level 25",
-        "Swagger learnt at level 29",
-        "Slash learnt at level 33",
-        "Flail learnt at level 36",
-        "Rest learnt at level 41",
-        "Blizzard learnt at level 45",
-        "Hail learnt at level 53",
-        "Thrash learnt at level 59",
-        "Sheer-cold learnt at level 66"
+        [
+            "Icicle-crash",
+            0
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Sheer-cold",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Icicle-crash",
+            1
+        ],
+        [
+            "Powder-snow",
+            5
+        ],
+        [
+            "Bide",
+            9
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Play-nice",
+            15
+        ],
+        [
+            "Fury-swipes",
+            17
+        ],
+        [
+            "Brine",
+            21
+        ],
+        [
+            "Endure",
+            25
+        ],
+        [
+            "Swagger",
+            29
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Flail",
+            36
+        ],
+        [
+            "Rest",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ],
+        [
+            "Hail",
+            53
+        ],
+        [
+            "Thrash",
+            59
+        ],
+        [
+            "Sheer-cold",
+            66
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Sheer-cold",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Play-nice",
+            9
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Fury-swipes",
+            17
+        ],
+        [
+            "Brine",
+            21
+        ],
+        [
+            "Endure",
+            25
+        ],
+        [
+            "Swagger",
+            29
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Flail",
+            36
+        ],
+        [
+            "Icicle-crash",
+            37
+        ],
+        [
+            "Rest",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ],
+        [
+            "Hail",
+            53
+        ],
+        [
+            "Thrash",
+            59
+        ],
+        [
+            "Sheer-cold",
+            66
+        ]
     ],
     "x-y": [
-        "Thrash learnt at level 1",
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Superpower learnt at level 1",
-        "Sheer-cold learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Play-nice learnt at level 9",
-        "Icy-wind learnt at level 13",
-        "Fury-swipes learnt at level 17",
-        "Brine learnt at level 21",
-        "Endure learnt at level 25",
-        "Swagger learnt at level 29",
-        "Slash learnt at level 33",
-        "Flail learnt at level 36",
-        "Icicle-crash learnt at level 37",
-        "Rest learnt at level 41",
-        "Blizzard learnt at level 45",
-        "Hail learnt at level 53",
-        "Thrash learnt at level 59",
-        "Sheer-cold learnt at level 66"
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Sheer-cold",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Play-nice",
+            9
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Fury-swipes",
+            17
+        ],
+        [
+            "Brine",
+            21
+        ],
+        [
+            "Endure",
+            25
+        ],
+        [
+            "Swagger",
+            29
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Flail",
+            36
+        ],
+        [
+            "Icicle-crash",
+            37
+        ],
+        [
+            "Rest",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ],
+        [
+            "Hail",
+            53
+        ],
+        [
+            "Thrash",
+            59
+        ],
+        [
+            "Sheer-cold",
+            66
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Bide",
+            9
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Fury-swipes",
+            17
+        ],
+        [
+            "Brine",
+            21
+        ],
+        [
+            "Endure",
+            25
+        ],
+        [
+            "Swagger",
+            29
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Flail",
+            36
+        ],
+        [
+            "Icicle-crash",
+            37
+        ],
+        [
+            "Rest",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ],
+        [
+            "Hail",
+            53
+        ],
+        [
+            "Thrash",
+            59
+        ],
+        [
+            "Sheer-cold",
+            66
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Superpower learnt at level 1",
-        "Growl learnt at level 5",
-        "Bide learnt at level 9",
-        "Icy-wind learnt at level 13",
-        "Fury-swipes learnt at level 17",
-        "Brine learnt at level 21",
-        "Endure learnt at level 25",
-        "Swagger learnt at level 29",
-        "Slash learnt at level 33",
-        "Flail learnt at level 36",
-        "Icicle-crash learnt at level 37",
-        "Rest learnt at level 41",
-        "Blizzard learnt at level 45",
-        "Hail learnt at level 53",
-        "Thrash learnt at level 59",
-        "Sheer-cold learnt at level 66"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Bide",
+            9
+        ],
+        [
+            "Icy-wind",
+            13
+        ],
+        [
+            "Fury-swipes",
+            17
+        ],
+        [
+            "Brine",
+            21
+        ],
+        [
+            "Endure",
+            25
+        ],
+        [
+            "Swagger",
+            29
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Flail",
+            36
+        ],
+        [
+            "Icicle-crash",
+            37
+        ],
+        [
+            "Rest",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ],
+        [
+            "Hail",
+            53
+        ],
+        [
+            "Thrash",
+            59
+        ],
+        [
+            "Sheer-cold",
+            66
+        ]
     ]
 }

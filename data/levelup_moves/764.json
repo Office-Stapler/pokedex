@@ -1,44 +1,158 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vine-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Flower-shield learnt at level 1",
-        "Leech-seed learnt at level 4",
-        "Draining-kiss learnt at level 7",
-        "Magical-leaf learnt at level 10",
-        "Growth learnt at level 13",
-        "Wrap learnt at level 16",
-        "Sweet-kiss learnt at level 19",
-        "Natural-gift learnt at level 22",
-        "Petal-blizzard learnt at level 25",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 31",
-        "Grass-knot learnt at level 34",
-        "Floral-healing learnt at level 37",
-        "Petal-dance learnt at level 40",
-        "Aromatherapy learnt at level 43",
-        "Grassy-terrain learnt at level 46",
-        "Play-rough learnt at level 49"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Flower-shield",
+            1
+        ],
+        [
+            "Leech-seed",
+            4
+        ],
+        [
+            "Draining-kiss",
+            7
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Wrap",
+            16
+        ],
+        [
+            "Sweet-kiss",
+            19
+        ],
+        [
+            "Natural-gift",
+            22
+        ],
+        [
+            "Petal-blizzard",
+            25
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            31
+        ],
+        [
+            "Grass-knot",
+            34
+        ],
+        [
+            "Floral-healing",
+            37
+        ],
+        [
+            "Petal-dance",
+            40
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Grassy-terrain",
+            46
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ],
     "sun-moon": [
-        "Vine-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Flower-shield learnt at level 1",
-        "Leech-seed learnt at level 4",
-        "Draining-kiss learnt at level 7",
-        "Magical-leaf learnt at level 10",
-        "Growth learnt at level 13",
-        "Wrap learnt at level 16",
-        "Sweet-kiss learnt at level 19",
-        "Natural-gift learnt at level 22",
-        "Petal-blizzard learnt at level 25",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 31",
-        "Grass-knot learnt at level 34",
-        "Floral-healing learnt at level 37",
-        "Petal-dance learnt at level 40",
-        "Aromatherapy learnt at level 43",
-        "Grassy-terrain learnt at level 46",
-        "Play-rough learnt at level 49"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Flower-shield",
+            1
+        ],
+        [
+            "Leech-seed",
+            4
+        ],
+        [
+            "Draining-kiss",
+            7
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Wrap",
+            16
+        ],
+        [
+            "Sweet-kiss",
+            19
+        ],
+        [
+            "Natural-gift",
+            22
+        ],
+        [
+            "Petal-blizzard",
+            25
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            31
+        ],
+        [
+            "Grass-knot",
+            34
+        ],
+        [
+            "Floral-healing",
+            37
+        ],
+        [
+            "Petal-dance",
+            40
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Grassy-terrain",
+            46
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ]
 }

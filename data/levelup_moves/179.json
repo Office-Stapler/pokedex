@@ -1,204 +1,714 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Thunder-shock learnt at level 8",
-        "Cotton-spore learnt at level 11",
-        "Charge learnt at level 15",
-        "Take-down learnt at level 18",
-        "Electro-ball learnt at level 22",
-        "Confuse-ray learnt at level 25",
-        "Power-gem learnt at level 29",
-        "Discharge learnt at level 32",
-        "Cotton-guard learnt at level 36",
-        "Signal-beam learnt at level 39",
-        "Light-screen learnt at level 43",
-        "Thunder learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Cotton-spore",
+            11
+        ],
+        [
+            "Charge",
+            15
+        ],
+        [
+            "Take-down",
+            18
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Discharge",
+            32
+        ],
+        [
+            "Cotton-guard",
+            36
+        ],
+        [
+            "Signal-beam",
+            39
+        ],
+        [
+            "Light-screen",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Thunder-shock learnt at level 8",
-        "Cotton-spore learnt at level 11",
-        "Charge learnt at level 15",
-        "Take-down learnt at level 18",
-        "Electro-ball learnt at level 22",
-        "Confuse-ray learnt at level 25",
-        "Power-gem learnt at level 29",
-        "Discharge learnt at level 32",
-        "Cotton-guard learnt at level 36",
-        "Signal-beam learnt at level 39",
-        "Light-screen learnt at level 43",
-        "Thunder learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Cotton-spore",
+            11
+        ],
+        [
+            "Charge",
+            15
+        ],
+        [
+            "Take-down",
+            18
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Discharge",
+            32
+        ],
+        [
+            "Cotton-guard",
+            36
+        ],
+        [
+            "Signal-beam",
+            39
+        ],
+        [
+            "Light-screen",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Thunder-shock learnt at level 8",
-        "Cotton-spore learnt at level 11",
-        "Charge learnt at level 15",
-        "Take-down learnt at level 18",
-        "Electro-ball learnt at level 22",
-        "Confuse-ray learnt at level 25",
-        "Power-gem learnt at level 29",
-        "Discharge learnt at level 32",
-        "Cotton-guard learnt at level 36",
-        "Signal-beam learnt at level 39",
-        "Light-screen learnt at level 43",
-        "Thunder learnt at level 46"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Thunder-shock learnt at level 10",
-        "Thunder-wave learnt at level 14",
-        "Cotton-spore learnt at level 19",
-        "Charge learnt at level 23",
-        "Discharge learnt at level 28",
-        "Signal-beam learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Power-gem learnt at level 41",
-        "Thunder learnt at level 46"
-    ],
-    "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Thunder-shock learnt at level 8",
-        "Cotton-spore learnt at level 11",
-        "Charge learnt at level 15",
-        "Take-down learnt at level 18",
-        "Electro-ball learnt at level 22",
-        "Confuse-ray learnt at level 25",
-        "Power-gem learnt at level 29",
-        "Discharge learnt at level 32",
-        "Cotton-guard learnt at level 36",
-        "Signal-beam learnt at level 39",
-        "Light-screen learnt at level 43",
-        "Thunder learnt at level 46"
-    ],
-    "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Thunder-shock learnt at level 8",
-        "Cotton-spore learnt at level 11",
-        "Charge learnt at level 15",
-        "Take-down learnt at level 18",
-        "Electro-ball learnt at level 22",
-        "Confuse-ray learnt at level 25",
-        "Power-gem learnt at level 29",
-        "Discharge learnt at level 32",
-        "Cotton-guard learnt at level 36",
-        "Signal-beam learnt at level 39",
-        "Light-screen learnt at level 43",
-        "Thunder learnt at level 46"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Thunder-shock learnt at level 10",
-        "Thunder-wave learnt at level 14",
-        "Cotton-spore learnt at level 19",
-        "Charge learnt at level 23",
-        "Discharge learnt at level 28",
-        "Signal-beam learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Power-gem learnt at level 41",
-        "Thunder learnt at level 46"
-    ],
-    "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Thunder-shock learnt at level 10",
-        "Thunder-wave learnt at level 14",
-        "Cotton-spore learnt at level 19",
-        "Charge learnt at level 23",
-        "Discharge learnt at level 28",
-        "Signal-beam learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Power-gem learnt at level 41",
-        "Thunder learnt at level 46"
-    ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Thunder-shock learnt at level 10",
-        "Thunder-wave learnt at level 14",
-        "Cotton-spore learnt at level 19",
-        "Charge learnt at level 23",
-        "Electro-ball learnt at level 28",
-        "Cotton-guard learnt at level 32",
-        "Discharge learnt at level 37",
-        "Signal-beam learnt at level 41",
-        "Light-screen learnt at level 46",
-        "Power-gem learnt at level 50",
-        "Thunder learnt at level 55"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-shock learnt at level 9",
-        "Thunder-wave learnt at level 16",
-        "Cotton-spore learnt at level 23",
-        "Light-screen learnt at level 30",
-        "Thunder learnt at level 37"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-shock learnt at level 9",
-        "Thunder-wave learnt at level 16",
-        "Cotton-spore learnt at level 23",
-        "Light-screen learnt at level 30",
-        "Thunder learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Cotton-spore",
+            11
+        ],
+        [
+            "Charge",
+            15
+        ],
+        [
+            "Take-down",
+            18
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Discharge",
+            32
+        ],
+        [
+            "Cotton-guard",
+            36
+        ],
+        [
+            "Signal-beam",
+            39
+        ],
+        [
+            "Light-screen",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-shock learnt at level 9",
-        "Thunder-wave learnt at level 16",
-        "Cotton-spore learnt at level 23",
-        "Light-screen learnt at level 30",
-        "Thunder learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-shock",
+            9
+        ],
+        [
+            "Thunder-wave",
+            16
+        ],
+        [
+            "Cotton-spore",
+            23
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Thunder",
+            37
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-shock learnt at level 9",
-        "Thunder-wave learnt at level 16",
-        "Cotton-spore learnt at level 23",
-        "Light-screen learnt at level 30",
-        "Thunder learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-shock",
+            9
+        ],
+        [
+            "Thunder-wave",
+            16
+        ],
+        [
+            "Cotton-spore",
+            23
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Thunder",
+            37
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Thunder-shock",
+            10
+        ],
+        [
+            "Thunder-wave",
+            14
+        ],
+        [
+            "Cotton-spore",
+            19
+        ],
+        [
+            "Charge",
+            23
+        ],
+        [
+            "Discharge",
+            28
+        ],
+        [
+            "Signal-beam",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Power-gem",
+            41
+        ],
+        [
+            "Thunder",
+            46
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Cotton-spore",
+            11
+        ],
+        [
+            "Charge",
+            15
+        ],
+        [
+            "Take-down",
+            18
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Discharge",
+            32
+        ],
+        [
+            "Cotton-guard",
+            36
+        ],
+        [
+            "Signal-beam",
+            39
+        ],
+        [
+            "Light-screen",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Cotton-spore",
+            11
+        ],
+        [
+            "Charge",
+            15
+        ],
+        [
+            "Take-down",
+            18
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Discharge",
+            32
+        ],
+        [
+            "Cotton-guard",
+            36
+        ],
+        [
+            "Signal-beam",
+            39
+        ],
+        [
+            "Light-screen",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Thunder-shock",
+            10
+        ],
+        [
+            "Thunder-wave",
+            14
+        ],
+        [
+            "Cotton-spore",
+            19
+        ],
+        [
+            "Charge",
+            23
+        ],
+        [
+            "Discharge",
+            28
+        ],
+        [
+            "Signal-beam",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Power-gem",
+            41
+        ],
+        [
+            "Thunder",
+            46
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Thunder-shock",
+            10
+        ],
+        [
+            "Thunder-wave",
+            14
+        ],
+        [
+            "Cotton-spore",
+            19
+        ],
+        [
+            "Charge",
+            23
+        ],
+        [
+            "Discharge",
+            28
+        ],
+        [
+            "Signal-beam",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Power-gem",
+            41
+        ],
+        [
+            "Thunder",
+            46
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-shock learnt at level 9",
-        "Thunder-wave learnt at level 16",
-        "Cotton-spore learnt at level 23",
-        "Light-screen learnt at level 30",
-        "Thunder learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-shock",
+            9
+        ],
+        [
+            "Thunder-wave",
+            16
+        ],
+        [
+            "Cotton-spore",
+            23
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Thunder",
+            37
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-shock learnt at level 9",
-        "Thunder-wave learnt at level 16",
-        "Cotton-spore learnt at level 23",
-        "Light-screen learnt at level 30",
-        "Thunder learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-shock",
+            9
+        ],
+        [
+            "Thunder-wave",
+            16
+        ],
+        [
+            "Cotton-spore",
+            23
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Thunder",
+            37
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Thunder-shock learnt at level 9",
-        "Thunder-wave learnt at level 16",
-        "Cotton-spore learnt at level 23",
-        "Light-screen learnt at level 30",
-        "Thunder learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-shock",
+            9
+        ],
+        [
+            "Thunder-wave",
+            16
+        ],
+        [
+            "Cotton-spore",
+            23
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Thunder",
+            37
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Thunder-shock",
+            10
+        ],
+        [
+            "Thunder-wave",
+            14
+        ],
+        [
+            "Cotton-spore",
+            19
+        ],
+        [
+            "Charge",
+            23
+        ],
+        [
+            "Electro-ball",
+            28
+        ],
+        [
+            "Cotton-guard",
+            32
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Signal-beam",
+            41
+        ],
+        [
+            "Light-screen",
+            46
+        ],
+        [
+            "Power-gem",
+            50
+        ],
+        [
+            "Thunder",
+            55
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-shock",
+            9
+        ],
+        [
+            "Thunder-wave",
+            16
+        ],
+        [
+            "Cotton-spore",
+            23
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Thunder",
+            37
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-shock",
+            9
+        ],
+        [
+            "Thunder-wave",
+            16
+        ],
+        [
+            "Cotton-spore",
+            23
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Thunder",
+            37
+        ]
     ]
 }

@@ -1,238 +1,838 @@
 {
     "red-blue": [
-        "Tackle learnt at level 1",
-        "Stomp learnt at level 21",
-        "Tail-whip learnt at level 28",
-        "Leer learnt at level 35",
-        "Rage learnt at level 44",
-        "Take-down learnt at level 51"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Stomp",
+            21
+        ],
+        [
+            "Tail-whip",
+            28
+        ],
+        [
+            "Leer",
+            35
+        ],
+        [
+            "Rage",
+            44
+        ],
+        [
+            "Take-down",
+            51
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Stomp learnt at level 21",
-        "Tail-whip learnt at level 28",
-        "Leer learnt at level 35",
-        "Rage learnt at level 44",
-        "Take-down learnt at level 51"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Zen-headbutt learnt at level 29",
-        "Take-down learnt at level 35",
-        "Swagger learnt at level 41",
-        "Thrash learnt at level 48",
-        "Giga-impact learnt at level 55"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Rage learnt at level 8",
-        "Horn-attack learnt at level 13",
-        "Scary-face learnt at level 19",
-        "Pursuit learnt at level 26",
-        "Rest learnt at level 34",
-        "Thrash learnt at level 43",
-        "Take-down learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Stomp",
+            21
+        ],
+        [
+            "Tail-whip",
+            28
+        ],
+        [
+            "Leer",
+            35
+        ],
+        [
+            "Rage",
+            44
+        ],
+        [
+            "Take-down",
+            51
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Rage learnt at level 8",
-        "Horn-attack learnt at level 13",
-        "Scary-face learnt at level 19",
-        "Pursuit learnt at level 26",
-        "Rest learnt at level 34",
-        "Thrash learnt at level 43",
-        "Take-down learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Horn-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Pursuit",
+            26
+        ],
+        [
+            "Rest",
+            34
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Take-down",
+            53
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Horn-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Pursuit",
+            26
+        ],
+        [
+            "Rest",
+            34
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Take-down",
+            53
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Rage learnt at level 8",
-        "Horn-attack learnt at level 13",
-        "Scary-face learnt at level 19",
-        "Pursuit learnt at level 26",
-        "Rest learnt at level 34",
-        "Thrash learnt at level 43",
-        "Take-down learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Horn-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Pursuit",
+            26
+        ],
+        [
+            "Rest",
+            34
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Take-down",
+            53
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Rage learnt at level 8",
-        "Horn-attack learnt at level 13",
-        "Scary-face learnt at level 19",
-        "Pursuit learnt at level 26",
-        "Rest learnt at level 34",
-        "Thrash learnt at level 43",
-        "Take-down learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Horn-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Pursuit",
+            26
+        ],
+        [
+            "Rest",
+            34
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Take-down",
+            53
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Rage learnt at level 4",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 13",
-        "Pursuit learnt at level 19",
-        "Swagger learnt at level 26",
-        "Rest learnt at level 34",
-        "Thrash learnt at level 43",
-        "Take-down learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Rage",
+            4
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            13
+        ],
+        [
+            "Pursuit",
+            19
+        ],
+        [
+            "Swagger",
+            26
+        ],
+        [
+            "Rest",
+            34
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Take-down",
+            53
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Zen-headbutt learnt at level 29",
-        "Take-down learnt at level 35",
-        "Swagger learnt at level 41",
-        "Thrash learnt at level 48",
-        "Giga-impact learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Zen-headbutt",
+            29
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Swagger",
+            41
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Giga-impact",
+            55
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Zen-headbutt learnt at level 29",
-        "Take-down learnt at level 35",
-        "Swagger learnt at level 41",
-        "Thrash learnt at level 48",
-        "Giga-impact learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Zen-headbutt",
+            29
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Swagger",
+            41
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Giga-impact",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Zen-headbutt",
+            29
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Swagger",
+            41
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Giga-impact",
+            55
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Work-up learnt at level 29",
-        "Zen-headbutt learnt at level 35",
-        "Take-down learnt at level 41",
-        "Swagger learnt at level 48",
-        "Thrash learnt at level 55",
-        "Giga-impact learnt at level 63"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Swagger",
+            48
+        ],
+        [
+            "Thrash",
+            55
+        ],
+        [
+            "Giga-impact",
+            63
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Rage learnt at level 8",
-        "Horn-attack learnt at level 13",
-        "Scary-face learnt at level 19",
-        "Pursuit learnt at level 26",
-        "Rest learnt at level 34",
-        "Thrash learnt at level 43",
-        "Take-down learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Horn-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Pursuit",
+            26
+        ],
+        [
+            "Rest",
+            34
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Take-down",
+            53
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Rage learnt at level 8",
-        "Horn-attack learnt at level 13",
-        "Scary-face learnt at level 19",
-        "Pursuit learnt at level 26",
-        "Rest learnt at level 34",
-        "Thrash learnt at level 43",
-        "Take-down learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Horn-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Pursuit",
+            26
+        ],
+        [
+            "Rest",
+            34
+        ],
+        [
+            "Thrash",
+            43
+        ],
+        [
+            "Take-down",
+            53
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Work-up learnt at level 29",
-        "Zen-headbutt learnt at level 35",
-        "Take-down learnt at level 41",
-        "Swagger learnt at level 48",
-        "Thrash learnt at level 55",
-        "Giga-impact learnt at level 63"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Swagger",
+            48
+        ],
+        [
+            "Thrash",
+            55
+        ],
+        [
+            "Giga-impact",
+            63
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Work-up learnt at level 29",
-        "Zen-headbutt learnt at level 35",
-        "Take-down learnt at level 41",
-        "Swagger learnt at level 48",
-        "Thrash learnt at level 50",
-        "Giga-impact learnt at level 63"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Swagger",
+            48
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Giga-impact",
+            63
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Work-up learnt at level 29",
-        "Zen-headbutt learnt at level 35",
-        "Take-down learnt at level 41",
-        "Swagger learnt at level 48",
-        "Thrash learnt at level 50",
-        "Giga-impact learnt at level 63"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Swagger",
+            48
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Giga-impact",
+            63
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Work-up learnt at level 29",
-        "Zen-headbutt learnt at level 35",
-        "Take-down learnt at level 41",
-        "Swagger learnt at level 48",
-        "Thrash learnt at level 50",
-        "Giga-impact learnt at level 63"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Swagger",
+            48
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Giga-impact",
+            63
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Rage learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pursuit learnt at level 15",
-        "Rest learnt at level 19",
-        "Payback learnt at level 24",
-        "Work-up learnt at level 29",
-        "Take-down learnt at level 35",
-        "Zen-headbutt learnt at level 41",
-        "Swagger learnt at level 48",
-        "Thrash learnt at level 55",
-        "Double-edge learnt at level 63",
-        "Giga-impact learnt at level 71"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Rage",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Rest",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Swagger",
+            48
+        ],
+        [
+            "Thrash",
+            55
+        ],
+        [
+            "Double-edge",
+            63
+        ],
+        [
+            "Giga-impact",
+            71
+        ]
     ]
 }

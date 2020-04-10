@@ -1,235 +1,838 @@
 {
+    "sun-moon": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Extrasensory",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
+    ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Extrasensory learnt at level 1",
-        "Discharge learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Extrasensory",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Extrasensory learnt at level 1",
-        "Discharge learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Extrasensory",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Thunder learnt at level 71",
-        "Calm-mind learnt at level 78"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Thunder",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ]
     ],
     "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 11",
-        "Roar learnt at level 21",
-        "Quick-attack learnt at level 31",
-        "Spark learnt at level 41",
-        "Reflect learnt at level 51",
-        "Crunch learnt at level 61",
-        "Thunder learnt at level 71",
-        "Calm-mind learnt at level 81"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Quick-attack",
+            31
+        ],
+        [
+            "Spark",
+            41
+        ],
+        [
+            "Reflect",
+            51
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Thunder",
+            71
+        ],
+        [
+            "Calm-mind",
+            81
+        ]
     ],
     "emerald": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 11",
-        "Roar learnt at level 21",
-        "Quick-attack learnt at level 31",
-        "Spark learnt at level 41",
-        "Reflect learnt at level 51",
-        "Crunch learnt at level 61",
-        "Thunder learnt at level 71",
-        "Calm-mind learnt at level 81"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Quick-attack",
+            31
+        ],
+        [
+            "Spark",
+            41
+        ],
+        [
+            "Reflect",
+            51
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Thunder",
+            71
+        ],
+        [
+            "Calm-mind",
+            81
+        ]
     ],
     "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 11",
-        "Roar learnt at level 21",
-        "Quick-attack learnt at level 31",
-        "Spark learnt at level 41",
-        "Reflect learnt at level 51",
-        "Crunch learnt at level 61",
-        "Thunder learnt at level 71",
-        "Calm-mind learnt at level 81"
-    ],
-    "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
-    ],
-    "xd": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 11",
-        "Roar learnt at level 21",
-        "Quick-attack learnt at level 31",
-        "Spark learnt at level 41",
-        "Reflect learnt at level 51",
-        "Crunch learnt at level 61",
-        "Thunder learnt at level 71",
-        "Calm-mind learnt at level 81"
-    ],
-    "colosseum": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 11",
-        "Roar learnt at level 21",
-        "Quick-attack learnt at level 31",
-        "Spark learnt at level 41",
-        "Reflect learnt at level 51",
-        "Crunch learnt at level 61",
-        "Thunder learnt at level 71",
-        "Calm-mind learnt at level 81"
-    ],
-    "black-white": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
-    ],
-    "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
-    ],
-    "platinum": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
-    ],
-    "crystal": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 11",
-        "Roar learnt at level 21",
-        "Quick-attack learnt at level 31",
-        "Spark learnt at level 41",
-        "Reflect learnt at level 51",
-        "Crunch learnt at level 61",
-        "Thunder learnt at level 71"
-    ],
-    "gold-silver": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Thunder-shock learnt at level 11",
-        "Roar learnt at level 21",
-        "Quick-attack learnt at level 31",
-        "Spark learnt at level 41",
-        "Reflect learnt at level 51",
-        "Crunch learnt at level 61",
-        "Thunder learnt at level 71"
-    ],
-    "sun-moon": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Extrasensory learnt at level 1",
-        "Discharge learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Quick-attack",
+            31
+        ],
+        [
+            "Spark",
+            41
+        ],
+        [
+            "Reflect",
+            51
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Thunder",
+            71
+        ],
+        [
+            "Calm-mind",
+            81
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Extrasensory learnt at level 1",
-        "Discharge learnt at level 1",
-        "Thunder-shock learnt at level 8",
-        "Roar learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Spark learnt at level 29",
-        "Reflect learnt at level 36",
-        "Crunch learnt at level 43",
-        "Thunder-fang learnt at level 50",
-        "Discharge learnt at level 57",
-        "Extrasensory learnt at level 64",
-        "Rain-dance learnt at level 71",
-        "Calm-mind learnt at level 78",
-        "Thunder learnt at level 85"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Extrasensory",
+            1
+        ],
+        [
+            "Discharge",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
+    ],
+    "xd": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Quick-attack",
+            31
+        ],
+        [
+            "Spark",
+            41
+        ],
+        [
+            "Reflect",
+            51
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Thunder",
+            71
+        ],
+        [
+            "Calm-mind",
+            81
+        ]
+    ],
+    "colosseum": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Quick-attack",
+            31
+        ],
+        [
+            "Spark",
+            41
+        ],
+        [
+            "Reflect",
+            51
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Thunder",
+            71
+        ],
+        [
+            "Calm-mind",
+            81
+        ]
+    ],
+    "black-white": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
+    ],
+    "platinum": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            8
+        ],
+        [
+            "Roar",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Spark",
+            29
+        ],
+        [
+            "Reflect",
+            36
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Thunder-fang",
+            50
+        ],
+        [
+            "Discharge",
+            57
+        ],
+        [
+            "Extrasensory",
+            64
+        ],
+        [
+            "Rain-dance",
+            71
+        ],
+        [
+            "Calm-mind",
+            78
+        ],
+        [
+            "Thunder",
+            85
+        ]
+    ],
+    "crystal": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Quick-attack",
+            31
+        ],
+        [
+            "Spark",
+            41
+        ],
+        [
+            "Reflect",
+            51
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Thunder",
+            71
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Quick-attack",
+            31
+        ],
+        [
+            "Spark",
+            41
+        ],
+        [
+            "Reflect",
+            51
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Thunder",
+            71
+        ]
     ]
 }

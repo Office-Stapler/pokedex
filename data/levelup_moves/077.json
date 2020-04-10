@@ -1,239 +1,842 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Ember learnt at level 9",
-        "Flame-wheel learnt at level 13",
-        "Stomp learnt at level 17",
-        "Flame-charge learnt at level 21",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 29",
-        "Inferno learnt at level 33",
-        "Agility learnt at level 37",
-        "Fire-blast learnt at level 41",
-        "Bounce learnt at level 45",
-        "Flare-blitz learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Flame-wheel",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Flame-charge",
+            21
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Inferno",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Fire-blast",
+            41
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Ember learnt at level 9",
-        "Flame-wheel learnt at level 13",
-        "Stomp learnt at level 17",
-        "Flame-charge learnt at level 21",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 29",
-        "Inferno learnt at level 33",
-        "Agility learnt at level 37",
-        "Fire-blast learnt at level 41",
-        "Bounce learnt at level 45",
-        "Flare-blitz learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Flame-wheel",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Flame-charge",
+            21
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Inferno",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Fire-blast",
+            41
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Ember learnt at level 9",
-        "Flame-wheel learnt at level 13",
-        "Stomp learnt at level 17",
-        "Flame-charge learnt at level 21",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 29",
-        "Inferno learnt at level 33",
-        "Agility learnt at level 37",
-        "Fire-blast learnt at level 41",
-        "Bounce learnt at level 45",
-        "Flare-blitz learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Flame-wheel",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Flame-charge",
+            21
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Inferno",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Fire-blast",
+            41
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Ember learnt at level 9",
-        "Flame-wheel learnt at level 13",
-        "Stomp learnt at level 17",
-        "Flame-charge learnt at level 21",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 29",
-        "Inferno learnt at level 33",
-        "Agility learnt at level 37",
-        "Fire-blast learnt at level 41",
-        "Bounce learnt at level 45",
-        "Flare-blitz learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Flame-wheel",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Flame-charge",
+            21
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Inferno",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Fire-blast",
+            41
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Ember learnt at level 14",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 31",
-        "Agility learnt at level 38",
-        "Bounce learnt at level 45",
-        "Fire-blast learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Ember",
+            14
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Fire-blast",
+            53
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Ember learnt at level 14",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 31",
-        "Agility learnt at level 38",
-        "Bounce learnt at level 45",
-        "Fire-blast learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Ember",
+            14
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Fire-blast",
+            53
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Ember learnt at level 10",
-        "Flame-wheel learnt at level 15",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 24",
-        "Take-down learnt at level 28",
-        "Agility learnt at level 33",
-        "Fire-blast learnt at level 37",
-        "Bounce learnt at level 42",
-        "Flare-blitz learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Flame-wheel",
+            15
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Fire-blast",
+            37
+        ],
+        [
+            "Bounce",
+            42
+        ],
+        [
+            "Flare-blitz",
+            46
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Ember learnt at level 9",
-        "Flame-wheel learnt at level 13",
-        "Stomp learnt at level 17",
-        "Flame-charge learnt at level 21",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 29",
-        "Inferno learnt at level 33",
-        "Agility learnt at level 37",
-        "Fire-blast learnt at level 41",
-        "Bounce learnt at level 45",
-        "Flare-blitz learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Flame-wheel",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Flame-charge",
+            21
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Inferno",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Fire-blast",
+            41
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Ember learnt at level 16",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 28",
-        "Agility learnt at level 34",
-        "Fire-blast learnt at level 38",
-        "Bounce learnt at level 44",
-        "Flare-blitz learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Ember",
+            16
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Agility",
+            34
+        ],
+        [
+            "Fire-blast",
+            38
+        ],
+        [
+            "Bounce",
+            44
+        ],
+        [
+            "Flare-blitz",
+            48
+        ]
     ],
     "firered-leafgreen": [
-        "Quick-attack learnt at level 1",
-        "Growl learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Ember learnt at level 14",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 31",
-        "Agility learnt at level 38",
-        "Bounce learnt at level 45",
-        "Fire-blast learnt at level 53"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Ember",
+            14
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Fire-blast",
+            53
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Ember learnt at level 14",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 31",
-        "Agility learnt at level 38",
-        "Bounce learnt at level 45",
-        "Fire-blast learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Ember",
+            14
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Fire-blast",
+            53
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Ember learnt at level 14",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 31",
-        "Agility learnt at level 38",
-        "Bounce learnt at level 45",
-        "Fire-blast learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Ember",
+            14
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Fire-blast",
+            53
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 4",
-        "Tail-whip learnt at level 8",
-        "Ember learnt at level 13",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 26",
-        "Take-down learnt at level 34",
-        "Agility learnt at level 43",
-        "Fire-blast learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Tail-whip",
+            8
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            26
+        ],
+        [
+            "Take-down",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Fire-blast",
+            53
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 4",
-        "Tail-whip learnt at level 8",
-        "Ember learnt at level 13",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 26",
-        "Take-down learnt at level 34",
-        "Agility learnt at level 43",
-        "Fire-blast learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Tail-whip",
+            8
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            26
+        ],
+        [
+            "Take-down",
+            34
+        ],
+        [
+            "Agility",
+            43
+        ],
+        [
+            "Fire-blast",
+            53
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Ember learnt at level 9",
-        "Flame-wheel learnt at level 13",
-        "Stomp learnt at level 17",
-        "Flame-charge learnt at level 21",
-        "Fire-spin learnt at level 25",
-        "Take-down learnt at level 29",
-        "Inferno learnt at level 33",
-        "Agility learnt at level 37",
-        "Fire-blast learnt at level 41",
-        "Bounce learnt at level 45",
-        "Flare-blitz learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Flame-wheel",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Flame-charge",
+            21
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Inferno",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Fire-blast",
+            41
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Ember learnt at level 10",
-        "Flame-wheel learnt at level 15",
-        "Stomp learnt at level 19",
-        "Fire-spin learnt at level 24",
-        "Take-down learnt at level 28",
-        "Agility learnt at level 33",
-        "Fire-blast learnt at level 37",
-        "Bounce learnt at level 42",
-        "Flare-blitz learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Flame-wheel",
+            15
+        ],
+        [
+            "Stomp",
+            19
+        ],
+        [
+            "Fire-spin",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Fire-blast",
+            37
+        ],
+        [
+            "Bounce",
+            42
+        ],
+        [
+            "Flare-blitz",
+            46
+        ]
     ],
     "yellow": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 30",
-        "Stomp learnt at level 32",
-        "Growl learnt at level 35",
-        "Fire-spin learnt at level 39",
-        "Take-down learnt at level 43",
-        "Agility learnt at level 48"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            30
+        ],
+        [
+            "Stomp",
+            32
+        ],
+        [
+            "Growl",
+            35
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Agility",
+            48
+        ]
     ],
     "red-blue": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 30",
-        "Stomp learnt at level 32",
-        "Growl learnt at level 35",
-        "Fire-spin learnt at level 39",
-        "Take-down learnt at level 43",
-        "Agility learnt at level 48"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            30
+        ],
+        [
+            "Stomp",
+            32
+        ],
+        [
+            "Growl",
+            35
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Agility",
+            48
+        ]
     ]
 }

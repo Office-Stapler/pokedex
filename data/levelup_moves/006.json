@@ -1,330 +1,1214 @@
 {
     "red-blue": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 9",
-        "Leer learnt at level 15",
-        "Rage learnt at level 24",
-        "Slash learnt at level 36",
-        "Flamethrower learnt at level 46",
-        "Fire-spin learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Leer",
+            15
+        ],
+        [
+            "Rage",
+            24
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ],
+        [
+            "Fire-spin",
+            55
+        ]
     ],
     "yellow": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 9",
-        "Leer learnt at level 15",
-        "Rage learnt at level 24",
-        "Slash learnt at level 36",
-        "Flamethrower learnt at level 46",
-        "Fire-spin learnt at level 55"
-    ],
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 13",
-        "Rage learnt at level 20",
-        "Scary-face learnt at level 27",
-        "Flamethrower learnt at level 34",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 44",
-        "Dragon-rage learnt at level 54",
-        "Fire-spin learnt at level 64"
-    ],
-    "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Ember learnt at level 7",
-        "Metal-claw learnt at level 13",
-        "Smokescreen learnt at level 20",
-        "Scary-face learnt at level 27",
-        "Flamethrower learnt at level 34",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 44",
-        "Dragon-rage learnt at level 54",
-        "Fire-spin learnt at level 64"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            9
+        ],
+        [
+            "Leer",
+            15
+        ],
+        [
+            "Rage",
+            24
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ],
+        [
+            "Fire-spin",
+            55
+        ]
     ],
     "gold-silver": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 13",
-        "Rage learnt at level 20",
-        "Scary-face learnt at level 27",
-        "Flamethrower learnt at level 34",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 44",
-        "Dragon-rage learnt at level 54",
-        "Fire-spin learnt at level 64"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Rage",
+            20
+        ],
+        [
+            "Scary-face",
+            27
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Dragon-rage",
+            54
+        ],
+        [
+            "Fire-spin",
+            64
+        ]
     ],
     "crystal": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 13",
-        "Rage learnt at level 20",
-        "Scary-face learnt at level 27",
-        "Flamethrower learnt at level 34",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 44",
-        "Dragon-rage learnt at level 54",
-        "Fire-spin learnt at level 64"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Slash learnt at level 32",
-        "Wing-attack learnt at level 36",
-        "Flamethrower learnt at level 42",
-        "Fire-spin learnt at level 49",
-        "Heat-wave learnt at level 59",
-        "Flare-blitz learnt at level 66"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Slash learnt at level 32",
-        "Wing-attack learnt at level 36",
-        "Flamethrower learnt at level 42",
-        "Fire-spin learnt at level 49",
-        "Heat-wave learnt at level 59",
-        "Flare-blitz learnt at level 66"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Flame-burst learnt at level 32",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 41",
-        "Flamethrower learnt at level 47",
-        "Fire-spin learnt at level 56",
-        "Inferno learnt at level 62",
-        "Heat-wave learnt at level 71",
-        "Flare-blitz learnt at level 77"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Flame-burst learnt at level 32",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 41",
-        "Flamethrower learnt at level 47",
-        "Fire-spin learnt at level 56",
-        "Inferno learnt at level 62",
-        "Heat-wave learnt at level 71",
-        "Flare-blitz learnt at level 77"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Rage",
+            20
+        ],
+        [
+            "Scary-face",
+            27
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Dragon-rage",
+            54
+        ],
+        [
+            "Fire-spin",
+            64
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 13",
-        "Rage learnt at level 20",
-        "Scary-face learnt at level 27",
-        "Flamethrower learnt at level 34",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 44",
-        "Dragon-rage learnt at level 54",
-        "Fire-spin learnt at level 64"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Rage",
+            20
+        ],
+        [
+            "Scary-face",
+            27
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Dragon-rage",
+            54
+        ],
+        [
+            "Fire-spin",
+            64
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Rage",
+            20
+        ],
+        [
+            "Scary-face",
+            27
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Dragon-rage",
+            54
+        ],
+        [
+            "Fire-spin",
+            64
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Metal-claw",
+            13
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Scary-face",
+            27
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Dragon-rage",
+            54
+        ],
+        [
+            "Fire-spin",
+            64
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Slash learnt at level 32",
-        "Wing-attack learnt at level 36",
-        "Flamethrower learnt at level 42",
-        "Fire-spin learnt at level 49",
-        "Heat-wave learnt at level 59",
-        "Flare-blitz learnt at level 66"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Slash",
+            32
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Flamethrower",
+            42
+        ],
+        [
+            "Fire-spin",
+            49
+        ],
+        [
+            "Heat-wave",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Slash",
+            32
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Flamethrower",
+            42
+        ],
+        [
+            "Fire-spin",
+            49
+        ],
+        [
+            "Heat-wave",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Slash",
+            32
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Flamethrower",
+            42
+        ],
+        [
+            "Fire-spin",
+            49
+        ],
+        [
+            "Heat-wave",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Flame-burst learnt at level 32",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 41",
-        "Flamethrower learnt at level 47",
-        "Fire-spin learnt at level 56",
-        "Inferno learnt at level 62",
-        "Heat-wave learnt at level 71",
-        "Flare-blitz learnt at level 77"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Flame-burst",
+            32
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            41
+        ],
+        [
+            "Flamethrower",
+            47
+        ],
+        [
+            "Fire-spin",
+            56
+        ],
+        [
+            "Inferno",
+            62
+        ],
+        [
+            "Heat-wave",
+            71
+        ],
+        [
+            "Flare-blitz",
+            77
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 13",
-        "Rage learnt at level 20",
-        "Scary-face learnt at level 27",
-        "Flamethrower learnt at level 34",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 44",
-        "Dragon-rage learnt at level 54",
-        "Fire-spin learnt at level 64"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Rage",
+            20
+        ],
+        [
+            "Scary-face",
+            27
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Dragon-rage",
+            54
+        ],
+        [
+            "Fire-spin",
+            64
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 13",
-        "Rage learnt at level 20",
-        "Scary-face learnt at level 27",
-        "Flamethrower learnt at level 34",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 44",
-        "Dragon-rage learnt at level 54",
-        "Fire-spin learnt at level 64"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Rage",
+            20
+        ],
+        [
+            "Scary-face",
+            27
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Dragon-rage",
+            54
+        ],
+        [
+            "Fire-spin",
+            64
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Flame-burst",
+            32
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            41
+        ],
+        [
+            "Flamethrower",
+            47
+        ],
+        [
+            "Fire-spin",
+            56
+        ],
+        [
+            "Inferno",
+            62
+        ],
+        [
+            "Heat-wave",
+            71
+        ],
+        [
+            "Flare-blitz",
+            77
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Flame-burst learnt at level 32",
-        "Wing-attack learnt at level 36",
-        "Slash learnt at level 41",
-        "Flamethrower learnt at level 47",
-        "Fire-spin learnt at level 56",
-        "Inferno learnt at level 62",
-        "Heat-wave learnt at level 71",
-        "Flare-blitz learnt at level 77"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Flame-burst",
+            32
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            41
+        ],
+        [
+            "Flamethrower",
+            47
+        ],
+        [
+            "Fire-spin",
+            56
+        ],
+        [
+            "Inferno",
+            62
+        ],
+        [
+            "Heat-wave",
+            71
+        ],
+        [
+            "Flare-blitz",
+            77
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Flame-burst",
+            32
+        ],
+        [
+            "Wing-attack",
+            36
+        ],
+        [
+            "Slash",
+            41
+        ],
+        [
+            "Flamethrower",
+            47
+        ],
+        [
+            "Fire-spin",
+            56
+        ],
+        [
+            "Inferno",
+            62
+        ],
+        [
+            "Heat-wave",
+            71
+        ],
+        [
+            "Flare-blitz",
+            77
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Flame-burst learnt at level 32",
-        "Slash learnt at level 41",
-        "Flamethrower learnt at level 47",
-        "Fire-spin learnt at level 56",
-        "Inferno learnt at level 62",
-        "Heat-wave learnt at level 71",
-        "Flare-blitz learnt at level 77"
+        [
+            "Wing-attack",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Flame-burst",
+            32
+        ],
+        [
+            "Slash",
+            41
+        ],
+        [
+            "Flamethrower",
+            47
+        ],
+        [
+            "Fire-spin",
+            56
+        ],
+        [
+            "Inferno",
+            62
+        ],
+        [
+            "Heat-wave",
+            71
+        ],
+        [
+            "Flare-blitz",
+            77
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Dragon-claw learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Shadow-claw learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Dragon-rage learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Fire-fang learnt at level 28",
-        "Flame-burst learnt at level 32",
-        "Slash learnt at level 41",
-        "Flamethrower learnt at level 47",
-        "Fire-spin learnt at level 56",
-        "Inferno learnt at level 62",
-        "Heat-wave learnt at level 71",
-        "Flare-blitz learnt at level 77"
+        [
+            "Wing-attack",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Dragon-claw",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Shadow-claw",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Dragon-rage",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Flame-burst",
+            32
+        ],
+        [
+            "Slash",
+            41
+        ],
+        [
+            "Flamethrower",
+            47
+        ],
+        [
+            "Fire-spin",
+            56
+        ],
+        [
+            "Inferno",
+            62
+        ],
+        [
+            "Heat-wave",
+            71
+        ],
+        [
+            "Flare-blitz",
+            77
+        ]
     ]
 }

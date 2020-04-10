@@ -1,183 +1,672 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Double-slap learnt at level 11",
-        "Mimic learnt at level 15",
-        "Encore learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Double-slap",
+            11
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Encore",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "sun-moon": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Double-slap learnt at level 11",
-        "Mimic learnt at level 15",
-        "Encore learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Double-slap",
+            11
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Encore",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Double-slap learnt at level 11",
-        "Mimic learnt at level 15",
-        "Encore learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Double-slap",
+            11
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Encore",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "x-y": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Double-slap learnt at level 11",
-        "Mimic learnt at level 15",
-        "Encore learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Double-slap",
+            11
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Encore",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Double-slap learnt at level 11",
-        "Mimic learnt at level 15",
-        "Encore learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Double-slap",
+            11
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Encore",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "black-white": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Encore learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Mimic learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Encore",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Mimic",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "heartgold-soulsilver": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Encore learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Mimic learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Encore",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Mimic",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "platinum": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Encore learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Mimic learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Encore",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Mimic",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ],
     "diamond-pearl": [
-        "Confusion learnt at level 1",
-        "Barrier learnt at level 1",
-        "Tickle learnt at level 1",
-        "Copycat learnt at level 4",
-        "Meditate learnt at level 8",
-        "Encore learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Mimic learnt at level 18",
-        "Light-screen learnt at level 22",
-        "Reflect learnt at level 22",
-        "Psybeam learnt at level 25",
-        "Substitute learnt at level 29",
-        "Recycle learnt at level 32",
-        "Trick learnt at level 36",
-        "Psychic learnt at level 39",
-        "Role-play learnt at level 43",
-        "Baton-pass learnt at level 46",
-        "Safeguard learnt at level 50"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Barrier",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Copycat",
+            4
+        ],
+        [
+            "Meditate",
+            8
+        ],
+        [
+            "Encore",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Mimic",
+            18
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Reflect",
+            22
+        ],
+        [
+            "Psybeam",
+            25
+        ],
+        [
+            "Substitute",
+            29
+        ],
+        [
+            "Recycle",
+            32
+        ],
+        [
+            "Trick",
+            36
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Role-play",
+            43
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Safeguard",
+            50
+        ]
     ]
 }

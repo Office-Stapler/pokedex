@@ -1,246 +1,870 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Razor-shell learnt at level 32",
-        "Aurora-beam learnt at level 37",
-        "Whirlpool learnt at level 40",
-        "Brine learnt at level 44",
-        "Iron-defense learnt at level 49",
-        "Ice-beam learnt at level 52",
-        "Shell-smash learnt at level 56",
-        "Hydro-pump learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Aurora-beam",
+            37
+        ],
+        [
+            "Whirlpool",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Iron-defense",
+            49
+        ],
+        [
+            "Ice-beam",
+            52
+        ],
+        [
+            "Shell-smash",
+            56
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Razor-shell learnt at level 32",
-        "Aurora-beam learnt at level 37",
-        "Whirlpool learnt at level 40",
-        "Brine learnt at level 44",
-        "Iron-defense learnt at level 49",
-        "Ice-beam learnt at level 52",
-        "Shell-smash learnt at level 56",
-        "Hydro-pump learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Aurora-beam",
+            37
+        ],
+        [
+            "Whirlpool",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Iron-defense",
+            49
+        ],
+        [
+            "Ice-beam",
+            52
+        ],
+        [
+            "Shell-smash",
+            56
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Razor-shell learnt at level 32",
-        "Aurora-beam learnt at level 37",
-        "Whirlpool learnt at level 40",
-        "Brine learnt at level 44",
-        "Iron-defense learnt at level 49",
-        "Ice-beam learnt at level 52",
-        "Shell-smash learnt at level 56",
-        "Hydro-pump learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Aurora-beam",
+            37
+        ],
+        [
+            "Whirlpool",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Iron-defense",
+            49
+        ],
+        [
+            "Ice-beam",
+            52
+        ],
+        [
+            "Shell-smash",
+            56
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Razor-shell learnt at level 32",
-        "Aurora-beam learnt at level 37",
-        "Whirlpool learnt at level 40",
-        "Brine learnt at level 44",
-        "Iron-defense learnt at level 49",
-        "Ice-beam learnt at level 52",
-        "Shell-smash learnt at level 56",
-        "Hydro-pump learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Aurora-beam",
+            37
+        ],
+        [
+            "Whirlpool",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Iron-defense",
+            49
+        ],
+        [
+            "Ice-beam",
+            52
+        ],
+        [
+            "Shell-smash",
+            56
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Protect learnt at level 25",
-        "Leer learnt at level 33",
-        "Clamp learnt at level 41",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Leer",
+            33
+        ],
+        [
+            "Clamp",
+            41
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Protect learnt at level 25",
-        "Leer learnt at level 33",
-        "Clamp learnt at level 41",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Leer",
+            33
+        ],
+        [
+            "Clamp",
+            41
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Razor-shell learnt at level 32",
-        "Aurora-beam learnt at level 37",
-        "Whirlpool learnt at level 40",
-        "Brine learnt at level 44",
-        "Iron-defense learnt at level 49",
-        "Ice-beam learnt at level 52",
-        "Shell-smash learnt at level 56",
-        "Hydro-pump learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Aurora-beam",
+            37
+        ],
+        [
+            "Whirlpool",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Iron-defense",
+            49
+        ],
+        [
+            "Ice-beam",
+            52
+        ],
+        [
+            "Shell-smash",
+            56
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Aurora-beam learnt at level 32",
-        "Whirlpool learnt at level 37",
-        "Iron-defense learnt at level 40",
-        "Brine learnt at level 44",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Aurora-beam",
+            32
+        ],
+        [
+            "Whirlpool",
+            37
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Aurora-beam learnt at level 32",
-        "Whirlpool learnt at level 37",
-        "Iron-defense learnt at level 40",
-        "Brine learnt at level 44",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Aurora-beam",
+            32
+        ],
+        [
+            "Whirlpool",
+            37
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Razor-shell learnt at level 32",
-        "Aurora-beam learnt at level 37",
-        "Whirlpool learnt at level 40",
-        "Brine learnt at level 44",
-        "Iron-defense learnt at level 49",
-        "Ice-beam learnt at level 52",
-        "Shell-smash learnt at level 56",
-        "Hydro-pump learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Aurora-beam",
+            37
+        ],
+        [
+            "Whirlpool",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Iron-defense",
+            49
+        ],
+        [
+            "Ice-beam",
+            52
+        ],
+        [
+            "Shell-smash",
+            56
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 4",
-        "Supersonic learnt at level 8",
-        "Icicle-spear learnt at level 13",
-        "Protect learnt at level 16",
-        "Leer learnt at level 20",
-        "Clamp learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Aurora-beam learnt at level 32",
-        "Whirlpool learnt at level 37",
-        "Iron-defense learnt at level 40",
-        "Brine learnt at level 44",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            4
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Icicle-spear",
+            13
+        ],
+        [
+            "Protect",
+            16
+        ],
+        [
+            "Leer",
+            20
+        ],
+        [
+            "Clamp",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Aurora-beam",
+            32
+        ],
+        [
+            "Whirlpool",
+            37
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Brine",
+            44
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Icicle-spear learnt at level 8",
-        "Supersonic learnt at level 15",
-        "Aurora-beam learnt at level 22",
-        "Protect learnt at level 29",
-        "Leer learnt at level 36",
-        "Clamp learnt at level 43",
-        "Ice-beam learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Icicle-spear",
+            8
+        ],
+        [
+            "Supersonic",
+            15
+        ],
+        [
+            "Aurora-beam",
+            22
+        ],
+        [
+            "Protect",
+            29
+        ],
+        [
+            "Leer",
+            36
+        ],
+        [
+            "Clamp",
+            43
+        ],
+        [
+            "Ice-beam",
+            50
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Protect learnt at level 25",
-        "Leer learnt at level 33",
-        "Clamp learnt at level 41",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Leer",
+            33
+        ],
+        [
+            "Clamp",
+            41
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Protect learnt at level 25",
-        "Leer learnt at level 33",
-        "Clamp learnt at level 41",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Leer",
+            33
+        ],
+        [
+            "Clamp",
+            41
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Protect learnt at level 25",
-        "Leer learnt at level 33",
-        "Clamp learnt at level 41",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Leer",
+            33
+        ],
+        [
+            "Clamp",
+            41
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Protect learnt at level 25",
-        "Leer learnt at level 33",
-        "Clamp learnt at level 41",
-        "Ice-beam learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Leer",
+            33
+        ],
+        [
+            "Clamp",
+            41
+        ],
+        [
+            "Ice-beam",
+            49
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 18",
-        "Clamp learnt at level 23",
-        "Aurora-beam learnt at level 30",
-        "Leer learnt at level 39",
-        "Ice-beam learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            18
+        ],
+        [
+            "Clamp",
+            23
+        ],
+        [
+            "Aurora-beam",
+            30
+        ],
+        [
+            "Leer",
+            39
+        ],
+        [
+            "Ice-beam",
+            50
+        ]
     ],
     "red-blue": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Supersonic learnt at level 18",
-        "Clamp learnt at level 23",
-        "Aurora-beam learnt at level 30",
-        "Leer learnt at level 39",
-        "Ice-beam learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Supersonic",
+            18
+        ],
+        [
+            "Clamp",
+            23
+        ],
+        [
+            "Aurora-beam",
+            30
+        ],
+        [
+            "Leer",
+            39
+        ],
+        [
+            "Ice-beam",
+            50
+        ]
     ]
 }

@@ -1,138 +1,500 @@
 {
-    "heartgold-soulsilver": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endeavor learnt at level 30",
-        "Zen-headbutt learnt at level 36",
-        "Screech learnt at level 43",
-        "Head-smash learnt at level 52"
-    ],
-    "platinum": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endeavor learnt at level 30",
-        "Zen-headbutt learnt at level 36",
-        "Screech learnt at level 43",
-        "Head-smash learnt at level 52"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Chip-away learnt at level 28",
-        "Endeavor learnt at level 30",
-        "Ancient-power learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Screech learnt at level 51",
-        "Head-smash learnt at level 58"
-    ],
-    "black-2-white-2": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Chip-away learnt at level 28",
-        "Endeavor learnt at level 30",
-        "Ancient-power learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Screech learnt at level 51",
-        "Head-smash learnt at level 58"
-    ],
     "ultra-sun-ultra-moon": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Endeavor learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Chip-away learnt at level 28",
-        "Ancient-power learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Screech learnt at level 51",
-        "Head-smash learnt at level 58"
+        [
+            "Endeavor",
+            0
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Endeavor",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Chip-away",
+            28
+        ],
+        [
+            "Ancient-power",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Screech",
+            51
+        ],
+        [
+            "Head-smash",
+            58
+        ]
     ],
     "sun-moon": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Endeavor learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Chip-away learnt at level 28",
-        "Ancient-power learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Screech learnt at level 51",
-        "Head-smash learnt at level 58"
+        [
+            "Endeavor",
+            0
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Endeavor",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Chip-away",
+            28
+        ],
+        [
+            "Ancient-power",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Screech",
+            51
+        ],
+        [
+            "Head-smash",
+            58
+        ]
     ],
     "black-white": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Chip-away learnt at level 28",
-        "Endeavor learnt at level 30",
-        "Ancient-power learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Screech learnt at level 51",
-        "Head-smash learnt at level 58"
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Chip-away",
+            28
+        ],
+        [
+            "Endeavor",
+            30
+        ],
+        [
+            "Ancient-power",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Screech",
+            51
+        ],
+        [
+            "Head-smash",
+            58
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endeavor",
+            30
+        ],
+        [
+            "Zen-headbutt",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Head-smash",
+            52
+        ]
+    ],
+    "platinum": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endeavor",
+            30
+        ],
+        [
+            "Zen-headbutt",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Head-smash",
+            52
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Chip-away",
+            28
+        ],
+        [
+            "Endeavor",
+            30
+        ],
+        [
+            "Ancient-power",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Screech",
+            51
+        ],
+        [
+            "Head-smash",
+            58
+        ]
     ],
     "x-y": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Chip-away learnt at level 28",
-        "Endeavor learnt at level 30",
-        "Ancient-power learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Screech learnt at level 51",
-        "Head-smash learnt at level 58"
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Chip-away",
+            28
+        ],
+        [
+            "Endeavor",
+            30
+        ],
+        [
+            "Ancient-power",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Screech",
+            51
+        ],
+        [
+            "Head-smash",
+            58
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Chip-away",
+            28
+        ],
+        [
+            "Endeavor",
+            30
+        ],
+        [
+            "Ancient-power",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Screech",
+            51
+        ],
+        [
+            "Head-smash",
+            58
+        ]
     ],
     "diamond-pearl": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Take-down learnt at level 15",
-        "Scary-face learnt at level 19",
-        "Assurance learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endeavor learnt at level 30",
-        "Zen-headbutt learnt at level 36",
-        "Screech learnt at level 43",
-        "Head-smash learnt at level 52"
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endeavor",
+            30
+        ],
+        [
+            "Zen-headbutt",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Head-smash",
+            52
+        ]
     ]
 }

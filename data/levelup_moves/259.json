@@ -1,243 +1,890 @@
 {
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-sport learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-sport learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Mud-slap learnt at level 9",
-        "Foresight learnt at level 12",
-        "Mud-shot learnt at level 16",
-        "Bide learnt at level 18",
-        "Mud-bomb learnt at level 22",
-        "Rock-slide learnt at level 28",
-        "Protect learnt at level 32",
-        "Muddy-water learnt at level 38",
-        "Take-down learnt at level 42",
-        "Earthquake learnt at level 48",
-        "Endeavor learnt at level 52"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-bomb learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-bomb learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-bomb learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-shot learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Mud-slap learnt at level 9",
-        "Foresight learnt at level 12",
-        "Bide learnt at level 18",
-        "Mud-bomb learnt at level 22",
-        "Rock-slide learnt at level 28",
-        "Protect learnt at level 32",
-        "Muddy-water learnt at level 38",
-        "Take-down learnt at level 42",
-        "Earthquake learnt at level 48",
-        "Endeavor learnt at level 52"
+        [
+            "Mud-shot",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Mud-slap",
+            9
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Bide",
+            18
+        ],
+        [
+            "Mud-bomb",
+            22
+        ],
+        [
+            "Rock-slide",
+            28
+        ],
+        [
+            "Protect",
+            32
+        ],
+        [
+            "Muddy-water",
+            38
+        ],
+        [
+            "Take-down",
+            42
+        ],
+        [
+            "Earthquake",
+            48
+        ],
+        [
+            "Endeavor",
+            52
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-shot learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Mud-slap learnt at level 9",
-        "Foresight learnt at level 12",
-        "Bide learnt at level 18",
-        "Mud-bomb learnt at level 22",
-        "Rock-slide learnt at level 28",
-        "Protect learnt at level 32",
-        "Muddy-water learnt at level 38",
-        "Take-down learnt at level 42",
-        "Earthquake learnt at level 48",
-        "Endeavor learnt at level 52"
+        [
+            "Mud-shot",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Mud-slap",
+            9
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Bide",
+            18
+        ],
+        [
+            "Mud-bomb",
+            22
+        ],
+        [
+            "Rock-slide",
+            28
+        ],
+        [
+            "Protect",
+            32
+        ],
+        [
+            "Muddy-water",
+            38
+        ],
+        [
+            "Take-down",
+            42
+        ],
+        [
+            "Earthquake",
+            48
+        ],
+        [
+            "Endeavor",
+            52
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Mud-slap",
+            9
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Bide",
+            18
+        ],
+        [
+            "Mud-bomb",
+            22
+        ],
+        [
+            "Rock-slide",
+            28
+        ],
+        [
+            "Protect",
+            32
+        ],
+        [
+            "Muddy-water",
+            38
+        ],
+        [
+            "Take-down",
+            42
+        ],
+        [
+            "Earthquake",
+            48
+        ],
+        [
+            "Endeavor",
+            52
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-sport learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-sport",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-bomb learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-bomb",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-bomb",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-bomb",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-bomb learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-bomb",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-sport",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-sport",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-bomb learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-bomb",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-bomb",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-sport learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-sport",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Mud-shot learnt at level 16",
-        "Foresight learnt at level 20",
-        "Mud-sport learnt at level 25",
-        "Take-down learnt at level 31",
-        "Muddy-water learnt at level 37",
-        "Protect learnt at level 42",
-        "Earthquake learnt at level 46",
-        "Endeavor learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Foresight",
+            20
+        ],
+        [
+            "Mud-sport",
+            25
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Muddy-water",
+            37
+        ],
+        [
+            "Protect",
+            42
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Endeavor",
+            53
+        ]
     ]
 }

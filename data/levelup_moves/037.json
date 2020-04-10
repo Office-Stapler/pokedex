@@ -1,284 +1,1022 @@
 {
-    "crystal": [
-        "Tail-whip learnt at level 1",
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Roar learnt at level 13",
-        "Confuse-ray learnt at level 19",
-        "Safeguard learnt at level 25",
-        "Flamethrower learnt at level 31",
-        "Fire-spin learnt at level 37"
-    ],
-    "gold-silver": [
-        "Tail-whip learnt at level 1",
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Roar learnt at level 13",
-        "Confuse-ray learnt at level 19",
-        "Safeguard learnt at level 25",
-        "Flamethrower learnt at level 31",
-        "Fire-spin learnt at level 37"
-    ],
-    "heartgold-soulsilver": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Will-o-wisp learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Imprison learnt at level 21",
-        "Flamethrower learnt at level 24",
-        "Safeguard learnt at level 27",
-        "Payback learnt at level 31",
-        "Fire-spin learnt at level 34",
-        "Captivate learnt at level 37",
-        "Grudge learnt at level 41",
-        "Extrasensory learnt at level 44",
-        "Fire-blast learnt at level 47"
-    ],
-    "xd": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Roar learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Will-o-wisp learnt at level 17",
-        "Confuse-ray learnt at level 21",
-        "Imprison learnt at level 25",
-        "Flamethrower learnt at level 29",
-        "Safeguard learnt at level 33",
-        "Grudge learnt at level 37",
-        "Fire-spin learnt at level 41"
-    ],
-    "firered-leafgreen": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Roar learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Will-o-wisp learnt at level 17",
-        "Confuse-ray learnt at level 21",
-        "Imprison learnt at level 25",
-        "Flamethrower learnt at level 29",
-        "Safeguard learnt at level 33",
-        "Grudge learnt at level 37",
-        "Fire-spin learnt at level 41"
-    ],
-    "emerald": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Roar learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Will-o-wisp learnt at level 17",
-        "Confuse-ray learnt at level 21",
-        "Imprison learnt at level 25",
-        "Flamethrower learnt at level 29",
-        "Safeguard learnt at level 33",
-        "Grudge learnt at level 37",
-        "Fire-spin learnt at level 41"
-    ],
-    "yellow": [
-        "Tail-whip learnt at level 1",
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 16",
-        "Roar learnt at level 21",
-        "Confuse-ray learnt at level 28",
-        "Flamethrower learnt at level 35",
-        "Fire-spin learnt at level 42"
-    ],
-    "red-blue": [
-        "Tail-whip learnt at level 1",
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 16",
-        "Roar learnt at level 21",
-        "Confuse-ray learnt at level 28",
-        "Flamethrower learnt at level 35",
-        "Fire-spin learnt at level 42"
-    ],
     "ultra-sun-ultra-moon": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Baby-doll-eyes learnt at level 9",
-        "Quick-attack learnt at level 10",
-        "Confuse-ray learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Payback learnt at level 18",
-        "Will-o-wisp learnt at level 20",
-        "Feint-attack learnt at level 23",
-        "Hex learnt at level 26",
-        "Flame-burst learnt at level 28",
-        "Extrasensory learnt at level 31",
-        "Safeguard learnt at level 34",
-        "Flamethrower learnt at level 36",
-        "Imprison learnt at level 39",
-        "Fire-blast learnt at level 42",
-        "Grudge learnt at level 44",
-        "Captivate learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Confuse-ray",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Payback",
+            18
+        ],
+        [
+            "Will-o-wisp",
+            20
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Hex",
+            26
+        ],
+        [
+            "Flame-burst",
+            28
+        ],
+        [
+            "Extrasensory",
+            31
+        ],
+        [
+            "Safeguard",
+            34
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Imprison",
+            39
+        ],
+        [
+            "Fire-blast",
+            42
+        ],
+        [
+            "Grudge",
+            44
+        ],
+        [
+            "Captivate",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
     ],
     "sun-moon": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Baby-doll-eyes learnt at level 9",
-        "Quick-attack learnt at level 10",
-        "Confuse-ray learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Payback learnt at level 18",
-        "Will-o-wisp learnt at level 20",
-        "Feint-attack learnt at level 23",
-        "Hex learnt at level 26",
-        "Flame-burst learnt at level 28",
-        "Extrasensory learnt at level 31",
-        "Safeguard learnt at level 34",
-        "Flamethrower learnt at level 36",
-        "Imprison learnt at level 39",
-        "Fire-blast learnt at level 42",
-        "Grudge learnt at level 44",
-        "Captivate learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Confuse-ray",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Payback",
+            18
+        ],
+        [
+            "Will-o-wisp",
+            20
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Hex",
+            26
+        ],
+        [
+            "Flame-burst",
+            28
+        ],
+        [
+            "Extrasensory",
+            31
+        ],
+        [
+            "Safeguard",
+            34
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Imprison",
+            39
+        ],
+        [
+            "Fire-blast",
+            42
+        ],
+        [
+            "Grudge",
+            44
+        ],
+        [
+            "Captivate",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Baby-doll-eyes learnt at level 9",
-        "Quick-attack learnt at level 10",
-        "Confuse-ray learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Payback learnt at level 18",
-        "Will-o-wisp learnt at level 20",
-        "Feint-attack learnt at level 23",
-        "Hex learnt at level 26",
-        "Flame-burst learnt at level 28",
-        "Extrasensory learnt at level 31",
-        "Safeguard learnt at level 34",
-        "Flamethrower learnt at level 36",
-        "Imprison learnt at level 39",
-        "Fire-blast learnt at level 42",
-        "Grudge learnt at level 44",
-        "Captivate learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Confuse-ray",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Payback",
+            18
+        ],
+        [
+            "Will-o-wisp",
+            20
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Hex",
+            26
+        ],
+        [
+            "Flame-burst",
+            28
+        ],
+        [
+            "Extrasensory",
+            31
+        ],
+        [
+            "Safeguard",
+            34
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Imprison",
+            39
+        ],
+        [
+            "Fire-blast",
+            42
+        ],
+        [
+            "Grudge",
+            44
+        ],
+        [
+            "Captivate",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
     ],
     "x-y": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Baby-doll-eyes learnt at level 9",
-        "Quick-attack learnt at level 10",
-        "Fire-spin learnt at level 12",
-        "Confuse-ray learnt at level 15",
-        "Imprison learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Flame-burst learnt at level 23",
-        "Will-o-wisp learnt at level 26",
-        "Hex learnt at level 28",
-        "Payback learnt at level 31",
-        "Flamethrower learnt at level 34",
-        "Safeguard learnt at level 36",
-        "Extrasensory learnt at level 39",
-        "Fire-blast learnt at level 42",
-        "Grudge learnt at level 44",
-        "Captivate learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Fire-spin",
+            12
+        ],
+        [
+            "Confuse-ray",
+            15
+        ],
+        [
+            "Imprison",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Flame-burst",
+            23
+        ],
+        [
+            "Will-o-wisp",
+            26
+        ],
+        [
+            "Hex",
+            28
+        ],
+        [
+            "Payback",
+            31
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Safeguard",
+            36
+        ],
+        [
+            "Extrasensory",
+            39
+        ],
+        [
+            "Fire-blast",
+            42
+        ],
+        [
+            "Grudge",
+            44
+        ],
+        [
+            "Captivate",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Quick-attack learnt at level 10",
-        "Fire-spin learnt at level 12",
-        "Confuse-ray learnt at level 15",
-        "Imprison learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Flame-burst learnt at level 23",
-        "Will-o-wisp learnt at level 26",
-        "Hex learnt at level 28",
-        "Payback learnt at level 31",
-        "Flamethrower learnt at level 34",
-        "Safeguard learnt at level 36",
-        "Extrasensory learnt at level 39",
-        "Fire-blast learnt at level 42",
-        "Grudge learnt at level 44",
-        "Captivate learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Fire-spin",
+            12
+        ],
+        [
+            "Confuse-ray",
+            15
+        ],
+        [
+            "Imprison",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Flame-burst",
+            23
+        ],
+        [
+            "Will-o-wisp",
+            26
+        ],
+        [
+            "Hex",
+            28
+        ],
+        [
+            "Payback",
+            31
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Safeguard",
+            36
+        ],
+        [
+            "Extrasensory",
+            39
+        ],
+        [
+            "Fire-blast",
+            42
+        ],
+        [
+            "Grudge",
+            44
+        ],
+        [
+            "Captivate",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
+    ],
+    "xd": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Will-o-wisp",
+            17
+        ],
+        [
+            "Confuse-ray",
+            21
+        ],
+        [
+            "Imprison",
+            25
+        ],
+        [
+            "Flamethrower",
+            29
+        ],
+        [
+            "Safeguard",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Fire-spin",
+            41
+        ]
     ],
     "platinum": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Will-o-wisp learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Imprison learnt at level 21",
-        "Flamethrower learnt at level 24",
-        "Safeguard learnt at level 27",
-        "Payback learnt at level 31",
-        "Fire-spin learnt at level 34",
-        "Captivate learnt at level 37",
-        "Grudge learnt at level 41",
-        "Extrasensory learnt at level 44",
-        "Fire-blast learnt at level 47"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Will-o-wisp",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Imprison",
+            21
+        ],
+        [
+            "Flamethrower",
+            24
+        ],
+        [
+            "Safeguard",
+            27
+        ],
+        [
+            "Payback",
+            31
+        ],
+        [
+            "Fire-spin",
+            34
+        ],
+        [
+            "Captivate",
+            37
+        ],
+        [
+            "Grudge",
+            41
+        ],
+        [
+            "Extrasensory",
+            44
+        ],
+        [
+            "Fire-blast",
+            47
+        ]
     ],
     "diamond-pearl": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Will-o-wisp learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Imprison learnt at level 21",
-        "Flamethrower learnt at level 24",
-        "Safeguard learnt at level 27",
-        "Payback learnt at level 31",
-        "Fire-spin learnt at level 34",
-        "Captivate learnt at level 37",
-        "Grudge learnt at level 41",
-        "Extrasensory learnt at level 44",
-        "Fire-blast learnt at level 47"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Will-o-wisp",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Imprison",
+            21
+        ],
+        [
+            "Flamethrower",
+            24
+        ],
+        [
+            "Safeguard",
+            27
+        ],
+        [
+            "Payback",
+            31
+        ],
+        [
+            "Fire-spin",
+            34
+        ],
+        [
+            "Captivate",
+            37
+        ],
+        [
+            "Grudge",
+            41
+        ],
+        [
+            "Extrasensory",
+            44
+        ],
+        [
+            "Fire-blast",
+            47
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Will-o-wisp",
+            17
+        ],
+        [
+            "Confuse-ray",
+            21
+        ],
+        [
+            "Imprison",
+            25
+        ],
+        [
+            "Flamethrower",
+            29
+        ],
+        [
+            "Safeguard",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Fire-spin",
+            41
+        ]
+    ],
+    "emerald": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Will-o-wisp",
+            17
+        ],
+        [
+            "Confuse-ray",
+            21
+        ],
+        [
+            "Imprison",
+            25
+        ],
+        [
+            "Flamethrower",
+            29
+        ],
+        [
+            "Safeguard",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Fire-spin",
+            41
+        ]
     ],
     "ruby-sapphire": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Roar learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Will-o-wisp learnt at level 17",
-        "Confuse-ray learnt at level 21",
-        "Imprison learnt at level 25",
-        "Flamethrower learnt at level 29",
-        "Safeguard learnt at level 33",
-        "Grudge learnt at level 37",
-        "Fire-spin learnt at level 41"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Will-o-wisp",
+            17
+        ],
+        [
+            "Confuse-ray",
+            21
+        ],
+        [
+            "Imprison",
+            25
+        ],
+        [
+            "Flamethrower",
+            29
+        ],
+        [
+            "Safeguard",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Fire-spin",
+            41
+        ]
+    ],
+    "crystal": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Confuse-ray",
+            19
+        ],
+        [
+            "Safeguard",
+            25
+        ],
+        [
+            "Flamethrower",
+            31
+        ],
+        [
+            "Fire-spin",
+            37
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Confuse-ray",
+            19
+        ],
+        [
+            "Safeguard",
+            25
+        ],
+        [
+            "Flamethrower",
+            31
+        ],
+        [
+            "Fire-spin",
+            37
+        ]
     ],
     "colosseum": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Roar learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Will-o-wisp learnt at level 17",
-        "Confuse-ray learnt at level 21",
-        "Imprison learnt at level 25",
-        "Flamethrower learnt at level 29",
-        "Safeguard learnt at level 33",
-        "Grudge learnt at level 37",
-        "Fire-spin learnt at level 41"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Will-o-wisp",
+            17
+        ],
+        [
+            "Confuse-ray",
+            21
+        ],
+        [
+            "Imprison",
+            25
+        ],
+        [
+            "Flamethrower",
+            29
+        ],
+        [
+            "Safeguard",
+            33
+        ],
+        [
+            "Grudge",
+            37
+        ],
+        [
+            "Fire-spin",
+            41
+        ]
     ],
     "black-white": [
-        "Ember learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Roar learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Fire-spin learnt at level 14",
-        "Confuse-ray learnt at level 17",
-        "Imprison learnt at level 21",
-        "Flame-burst learnt at level 24",
-        "Safeguard learnt at level 27",
-        "Will-o-wisp learnt at level 31",
-        "Payback learnt at level 34",
-        "Flamethrower learnt at level 37",
-        "Captivate learnt at level 41",
-        "Inferno learnt at level 44",
-        "Grudge learnt at level 47",
-        "Extrasensory learnt at level 51",
-        "Fire-blast learnt at level 54"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fire-spin",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Imprison",
+            21
+        ],
+        [
+            "Flame-burst",
+            24
+        ],
+        [
+            "Safeguard",
+            27
+        ],
+        [
+            "Will-o-wisp",
+            31
+        ],
+        [
+            "Payback",
+            34
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Captivate",
+            41
+        ],
+        [
+            "Inferno",
+            44
+        ],
+        [
+            "Grudge",
+            47
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Fire-blast",
+            54
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Will-o-wisp",
+            14
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Imprison",
+            21
+        ],
+        [
+            "Flamethrower",
+            24
+        ],
+        [
+            "Safeguard",
+            27
+        ],
+        [
+            "Payback",
+            31
+        ],
+        [
+            "Fire-spin",
+            34
+        ],
+        [
+            "Captivate",
+            37
+        ],
+        [
+            "Grudge",
+            41
+        ],
+        [
+            "Extrasensory",
+            44
+        ],
+        [
+            "Fire-blast",
+            47
+        ]
+    ],
+    "yellow": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            16
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Confuse-ray",
+            28
+        ],
+        [
+            "Flamethrower",
+            35
+        ],
+        [
+            "Fire-spin",
+            42
+        ]
+    ],
+    "red-blue": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            16
+        ],
+        [
+            "Roar",
+            21
+        ],
+        [
+            "Confuse-ray",
+            28
+        ],
+        [
+            "Flamethrower",
+            35
+        ],
+        [
+            "Fire-spin",
+            42
+        ]
     ]
 }

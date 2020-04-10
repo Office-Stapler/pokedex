@@ -1,51 +1,144 @@
 {
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13",
-        "Bug-buzz learnt at level 29"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Bug-buzz",
+            29
+        ]
     ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13",
-        "Bug-buzz learnt at level 29"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Bug-buzz",
+            29
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13",
-        "Bug-buzz learnt at level 29"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Bug-buzz",
+            29
+        ]
     ],
     "x-y": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13",
-        "Bug-buzz learnt at level 29"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Bug-buzz",
+            29
+        ]
     ],
     "black-2-white-2": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13",
-        "Bug-buzz learnt at level 29"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Bug-buzz",
+            29
+        ]
     ],
     "black-white": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ]
     ],
     "heartgold-soulsilver": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ]
     ],
     "platinum": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Bug-bite learnt at level 13"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Bug-bite",
+            13
+        ]
     ],
     "diamond-pearl": [
-        "Gust learnt at level 1",
-        "Sweet-scent learnt at level 1"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ]
     ]
 }

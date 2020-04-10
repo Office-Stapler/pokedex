@@ -1,104 +1,326 @@
 {
     "colosseum": [
-        "Pound learnt at level 1",
-        "Growth learnt at level 1",
-        "Harden learnt at level 1",
-        "Nature-power learnt at level 1"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Nature-power",
+            1
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Growth learnt at level 1",
-        "Harden learnt at level 1",
-        "Nature-power learnt at level 1"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Nature-power",
+            1
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Growth learnt at level 1",
-        "Harden learnt at level 1",
-        "Nature-power learnt at level 1"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Nature-power",
+            1
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Growth learnt at level 1",
-        "Harden learnt at level 1",
-        "Nature-power learnt at level 1"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Nature-power",
+            1
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Growth learnt at level 1",
-        "Harden learnt at level 1",
-        "Nature-power learnt at level 1"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Nature-power",
+            1
+        ]
     ],
     "sun-moon": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-tornado learnt at level 20",
-        "Hurricane learnt at level 32",
-        "Leaf-storm learnt at level 44"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            20
+        ],
+        [
+            "Hurricane",
+            32
+        ],
+        [
+            "Leaf-storm",
+            44
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-tornado learnt at level 20",
-        "Hurricane learnt at level 32",
-        "Leaf-storm learnt at level 44"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            20
+        ],
+        [
+            "Hurricane",
+            32
+        ],
+        [
+            "Leaf-storm",
+            44
+        ]
     ],
     "x-y": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-tornado learnt at level 19",
-        "Leaf-storm learnt at level 49"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            19
+        ],
+        [
+            "Leaf-storm",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-tornado learnt at level 19",
-        "Leaf-storm learnt at level 49"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            19
+        ],
+        [
+            "Leaf-storm",
+            49
+        ]
     ],
     "black-white": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-tornado learnt at level 19",
-        "Leaf-storm learnt at level 49"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            19
+        ],
+        [
+            "Leaf-storm",
+            49
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-tornado learnt at level 20",
-        "Hurricane learnt at level 32",
-        "Leaf-storm learnt at level 44"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            20
+        ],
+        [
+            "Hurricane",
+            32
+        ],
+        [
+            "Leaf-storm",
+            44
+        ]
     ],
     "heartgold-soulsilver": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-storm learnt at level 49"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-storm",
+            49
+        ]
     ],
     "platinum": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-storm learnt at level 49"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-storm",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Whirlwind learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Feint-attack learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Leaf-storm learnt at level 49"
+        [
+            "Whirlwind",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Feint-attack",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Leaf-storm",
+            49
+        ]
     ]
 }

@@ -1,200 +1,710 @@
 {
     "ultra-sun-ultra-moon": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Crunch learnt at level 20",
-        "Air-slash learnt at level 30",
-        "Rest learnt at level 35",
-        "Extreme-speed learnt at level 45",
-        "Dragon-pulse learnt at level 50",
-        "Dragon-dance learnt at level 60",
-        "Fly learnt at level 65",
-        "Hyper-voice learnt at level 75",
-        "Outrage learnt at level 80",
-        "Hyper-beam learnt at level 90"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Crunch",
+            20
+        ],
+        [
+            "Air-slash",
+            30
+        ],
+        [
+            "Rest",
+            35
+        ],
+        [
+            "Extreme-speed",
+            45
+        ],
+        [
+            "Dragon-pulse",
+            50
+        ],
+        [
+            "Dragon-dance",
+            60
+        ],
+        [
+            "Fly",
+            65
+        ],
+        [
+            "Hyper-voice",
+            75
+        ],
+        [
+            "Outrage",
+            80
+        ],
+        [
+            "Hyper-beam",
+            90
+        ]
     ],
     "sun-moon": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Crunch learnt at level 20",
-        "Air-slash learnt at level 30",
-        "Rest learnt at level 35",
-        "Extreme-speed learnt at level 45",
-        "Dragon-pulse learnt at level 50",
-        "Dragon-dance learnt at level 60",
-        "Fly learnt at level 65",
-        "Hyper-voice learnt at level 75",
-        "Outrage learnt at level 80",
-        "Hyper-beam learnt at level 90"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Crunch",
+            20
+        ],
+        [
+            "Air-slash",
+            30
+        ],
+        [
+            "Rest",
+            35
+        ],
+        [
+            "Extreme-speed",
+            45
+        ],
+        [
+            "Dragon-pulse",
+            50
+        ],
+        [
+            "Dragon-dance",
+            60
+        ],
+        [
+            "Fly",
+            65
+        ],
+        [
+            "Hyper-voice",
+            75
+        ],
+        [
+            "Outrage",
+            80
+        ],
+        [
+            "Hyper-beam",
+            90
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Crunch learnt at level 20",
-        "Air-slash learnt at level 30",
-        "Rest learnt at level 35",
-        "Extreme-speed learnt at level 45",
-        "Dragon-pulse learnt at level 50",
-        "Dragon-dance learnt at level 60",
-        "Fly learnt at level 65",
-        "Hyper-voice learnt at level 75",
-        "Outrage learnt at level 80",
-        "Hyper-beam learnt at level 90"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Crunch",
+            20
+        ],
+        [
+            "Air-slash",
+            30
+        ],
+        [
+            "Rest",
+            35
+        ],
+        [
+            "Extreme-speed",
+            45
+        ],
+        [
+            "Dragon-pulse",
+            50
+        ],
+        [
+            "Dragon-dance",
+            60
+        ],
+        [
+            "Fly",
+            65
+        ],
+        [
+            "Hyper-voice",
+            75
+        ],
+        [
+            "Outrage",
+            80
+        ],
+        [
+            "Hyper-beam",
+            90
+        ]
     ],
     "black-2-white-2": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Crunch learnt at level 15",
-        "Hyper-voice learnt at level 20",
-        "Rest learnt at level 30",
-        "Air-slash learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Outrage learnt at level 50",
-        "Dragon-dance learnt at level 60",
-        "Fly learnt at level 65",
-        "Extreme-speed learnt at level 75",
-        "Hyper-beam learnt at level 80",
-        "Dragon-pulse learnt at level 90"
-    ],
-    "black-white": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Crunch learnt at level 15",
-        "Hyper-voice learnt at level 20",
-        "Rest learnt at level 30",
-        "Air-slash learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Outrage learnt at level 50",
-        "Dragon-dance learnt at level 60",
-        "Fly learnt at level 65",
-        "Extreme-speed learnt at level 75",
-        "Hyper-beam learnt at level 80",
-        "Dragon-pulse learnt at level 90"
-    ],
-    "heartgold-soulsilver": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Crunch learnt at level 15",
-        "Hyper-voice learnt at level 20",
-        "Rest learnt at level 30",
-        "Air-slash learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Outrage learnt at level 50",
-        "Dragon-dance learnt at level 60",
-        "Fly learnt at level 65",
-        "Extreme-speed learnt at level 75",
-        "Hyper-beam learnt at level 80",
-        "Dragon-pulse learnt at level 90"
-    ],
-    "x-y": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Crunch learnt at level 15",
-        "Hyper-voice learnt at level 20",
-        "Rest learnt at level 30",
-        "Air-slash learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Outrage learnt at level 50",
-        "Dragon-dance learnt at level 60",
-        "Fly learnt at level 65",
-        "Extreme-speed learnt at level 75",
-        "Hyper-beam learnt at level 80",
-        "Dragon-pulse learnt at level 90"
-    ],
-    "platinum": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Dragon-claw learnt at level 20",
-        "Dragon-dance learnt at level 30",
-        "Crunch learnt at level 35",
-        "Fly learnt at level 45",
-        "Rest learnt at level 50",
-        "Extreme-speed learnt at level 60",
-        "Hyper-beam learnt at level 65",
-        "Dragon-pulse learnt at level 75",
-        "Outrage learnt at level 80"
-    ],
-    "diamond-pearl": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Dragon-claw learnt at level 20",
-        "Dragon-dance learnt at level 30",
-        "Crunch learnt at level 35",
-        "Fly learnt at level 45",
-        "Rest learnt at level 50",
-        "Extreme-speed learnt at level 60",
-        "Hyper-beam learnt at level 65",
-        "Dragon-pulse learnt at level 75",
-        "Outrage learnt at level 80"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Crunch",
+            15
+        ],
+        [
+            "Hyper-voice",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Air-slash",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Outrage",
+            50
+        ],
+        [
+            "Dragon-dance",
+            60
+        ],
+        [
+            "Fly",
+            65
+        ],
+        [
+            "Extreme-speed",
+            75
+        ],
+        [
+            "Hyper-beam",
+            80
+        ],
+        [
+            "Dragon-pulse",
+            90
+        ]
     ],
     "xd": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Dragon-claw learnt at level 20",
-        "Dragon-dance learnt at level 30",
-        "Crunch learnt at level 35",
-        "Fly learnt at level 45",
-        "Rest learnt at level 50",
-        "Extreme-speed learnt at level 60",
-        "Outrage learnt at level 65",
-        "Hyper-beam learnt at level 75"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Dragon-claw",
+            20
+        ],
+        [
+            "Dragon-dance",
+            30
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Fly",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Extreme-speed",
+            60
+        ],
+        [
+            "Outrage",
+            65
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
     ],
     "colosseum": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Dragon-claw learnt at level 20",
-        "Dragon-dance learnt at level 30",
-        "Crunch learnt at level 35",
-        "Fly learnt at level 45",
-        "Rest learnt at level 50",
-        "Extreme-speed learnt at level 60",
-        "Outrage learnt at level 65",
-        "Hyper-beam learnt at level 75"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Dragon-claw",
+            20
+        ],
+        [
+            "Dragon-dance",
+            30
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Fly",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Extreme-speed",
+            60
+        ],
+        [
+            "Outrage",
+            65
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
+    ],
+    "black-white": [
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Crunch",
+            15
+        ],
+        [
+            "Hyper-voice",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Air-slash",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Outrage",
+            50
+        ],
+        [
+            "Dragon-dance",
+            60
+        ],
+        [
+            "Fly",
+            65
+        ],
+        [
+            "Extreme-speed",
+            75
+        ],
+        [
+            "Hyper-beam",
+            80
+        ],
+        [
+            "Dragon-pulse",
+            90
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Crunch",
+            15
+        ],
+        [
+            "Hyper-voice",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Air-slash",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Outrage",
+            50
+        ],
+        [
+            "Dragon-dance",
+            60
+        ],
+        [
+            "Fly",
+            65
+        ],
+        [
+            "Extreme-speed",
+            75
+        ],
+        [
+            "Hyper-beam",
+            80
+        ],
+        [
+            "Dragon-pulse",
+            90
+        ]
+    ],
+    "x-y": [
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Crunch",
+            15
+        ],
+        [
+            "Hyper-voice",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Air-slash",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Outrage",
+            50
+        ],
+        [
+            "Dragon-dance",
+            60
+        ],
+        [
+            "Fly",
+            65
+        ],
+        [
+            "Extreme-speed",
+            75
+        ],
+        [
+            "Hyper-beam",
+            80
+        ],
+        [
+            "Dragon-pulse",
+            90
+        ]
+    ],
+    "platinum": [
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Dragon-claw",
+            20
+        ],
+        [
+            "Dragon-dance",
+            30
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Fly",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Extreme-speed",
+            60
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Dragon-pulse",
+            75
+        ],
+        [
+            "Outrage",
+            80
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Dragon-claw",
+            20
+        ],
+        [
+            "Dragon-dance",
+            30
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Fly",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Extreme-speed",
+            60
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Dragon-pulse",
+            75
+        ],
+        [
+            "Outrage",
+            80
+        ]
     ],
     "firered-leafgreen": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Dragon-claw learnt at level 20",
-        "Dragon-dance learnt at level 30",
-        "Crunch learnt at level 35",
-        "Fly learnt at level 45",
-        "Rest learnt at level 50",
-        "Extreme-speed learnt at level 60",
-        "Outrage learnt at level 65",
-        "Hyper-beam learnt at level 75"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Dragon-claw",
+            20
+        ],
+        [
+            "Dragon-dance",
+            30
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Fly",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Extreme-speed",
+            60
+        ],
+        [
+            "Outrage",
+            65
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
     ],
     "emerald": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Dragon-claw learnt at level 20",
-        "Dragon-dance learnt at level 30",
-        "Crunch learnt at level 35",
-        "Fly learnt at level 45",
-        "Rest learnt at level 50",
-        "Extreme-speed learnt at level 60",
-        "Outrage learnt at level 65",
-        "Hyper-beam learnt at level 75"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Dragon-claw",
+            20
+        ],
+        [
+            "Dragon-dance",
+            30
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Fly",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Extreme-speed",
+            60
+        ],
+        [
+            "Outrage",
+            65
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
     ],
     "ruby-sapphire": [
-        "Twister learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Dragon-claw learnt at level 20",
-        "Dragon-dance learnt at level 30",
-        "Crunch learnt at level 35",
-        "Fly learnt at level 45",
-        "Rest learnt at level 50",
-        "Extreme-speed learnt at level 60",
-        "Outrage learnt at level 65",
-        "Hyper-beam learnt at level 75"
+        [
+            "Twister",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Dragon-claw",
+            20
+        ],
+        [
+            "Dragon-dance",
+            30
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Fly",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Extreme-speed",
+            60
+        ],
+        [
+            "Outrage",
+            65
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
     ]
 }

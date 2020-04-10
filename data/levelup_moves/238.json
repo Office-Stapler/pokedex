@@ -1,241 +1,862 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Lucky-chant learnt at level 31",
-        "Avalanche learnt at level 35",
-        "Psychic learnt at level 38",
-        "Copycat learnt at level 41",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Lucky-chant",
+            31
+        ],
+        [
+            "Avalanche",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Copycat",
+            41
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            48
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Lucky-chant learnt at level 31",
-        "Avalanche learnt at level 35",
-        "Psychic learnt at level 38",
-        "Copycat learnt at level 41",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Lucky-chant",
+            31
+        ],
+        [
+            "Avalanche",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Copycat",
+            41
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            48
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Lucky-chant learnt at level 31",
-        "Avalanche learnt at level 35",
-        "Psychic learnt at level 38",
-        "Copycat learnt at level 41",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Lucky-chant",
+            31
+        ],
+        [
+            "Avalanche",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Copycat",
+            41
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            48
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Lucky-chant learnt at level 31",
-        "Avalanche learnt at level 35",
-        "Psychic learnt at level 38",
-        "Copycat learnt at level 41",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Lucky-chant",
+            31
+        ],
+        [
+            "Avalanche",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Copycat",
+            41
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            48
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Lucky-chant learnt at level 31",
-        "Avalanche learnt at level 35",
-        "Psychic learnt at level 38",
-        "Copycat learnt at level 41",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Lucky-chant",
+            31
+        ],
+        [
+            "Avalanche",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Copycat",
+            41
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            48
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Sweet-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Confusion learnt at level 21",
-        "Sing learnt at level 25",
-        "Mean-look learnt at level 33",
-        "Fake-tears learnt at level 37",
-        "Psychic learnt at level 45",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Sing",
+            25
+        ],
+        [
+            "Mean-look",
+            33
+        ],
+        [
+            "Fake-tears",
+            37
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            57
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Sweet-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Confusion learnt at level 21",
-        "Sing learnt at level 25",
-        "Mean-look learnt at level 33",
-        "Fake-tears learnt at level 37",
-        "Psychic learnt at level 45",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Sing",
+            25
+        ],
+        [
+            "Mean-look",
+            33
+        ],
+        [
+            "Fake-tears",
+            37
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            57
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Mean-look learnt at level 21",
-        "Fake-tears learnt at level 25",
-        "Lucky-chant learnt at level 28",
-        "Avalanche learnt at level 31",
-        "Psychic learnt at level 35",
-        "Copycat learnt at level 38",
-        "Perish-song learnt at level 41",
-        "Blizzard learnt at level 45"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Mean-look",
+            21
+        ],
+        [
+            "Fake-tears",
+            25
+        ],
+        [
+            "Lucky-chant",
+            28
+        ],
+        [
+            "Avalanche",
+            31
+        ],
+        [
+            "Psychic",
+            35
+        ],
+        [
+            "Copycat",
+            38
+        ],
+        [
+            "Perish-song",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Mean-look learnt at level 21",
-        "Fake-tears learnt at level 25",
-        "Lucky-chant learnt at level 28",
-        "Avalanche learnt at level 31",
-        "Psychic learnt at level 35",
-        "Copycat learnt at level 38",
-        "Perish-song learnt at level 41",
-        "Blizzard learnt at level 45"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Mean-look",
+            21
+        ],
+        [
+            "Fake-tears",
+            25
+        ],
+        [
+            "Lucky-chant",
+            28
+        ],
+        [
+            "Avalanche",
+            31
+        ],
+        [
+            "Psychic",
+            35
+        ],
+        [
+            "Copycat",
+            38
+        ],
+        [
+            "Perish-song",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Mean-look learnt at level 21",
-        "Fake-tears learnt at level 25",
-        "Lucky-chant learnt at level 28",
-        "Avalanche learnt at level 31",
-        "Psychic learnt at level 35",
-        "Copycat learnt at level 38",
-        "Perish-song learnt at level 41",
-        "Blizzard learnt at level 45"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Mean-look",
+            21
+        ],
+        [
+            "Fake-tears",
+            25
+        ],
+        [
+            "Lucky-chant",
+            28
+        ],
+        [
+            "Avalanche",
+            31
+        ],
+        [
+            "Psychic",
+            35
+        ],
+        [
+            "Copycat",
+            38
+        ],
+        [
+            "Perish-song",
+            41
+        ],
+        [
+            "Blizzard",
+            45
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Sweet-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Confusion learnt at level 21",
-        "Sing learnt at level 25",
-        "Mean-look learnt at level 33",
-        "Fake-tears learnt at level 37",
-        "Psychic learnt at level 45",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Sing",
+            25
+        ],
+        [
+            "Mean-look",
+            33
+        ],
+        [
+            "Fake-tears",
+            37
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            57
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Sweet-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Confusion learnt at level 21",
-        "Sing learnt at level 25",
-        "Mean-look learnt at level 33",
-        "Fake-tears learnt at level 37",
-        "Psychic learnt at level 45",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Sing",
+            25
+        ],
+        [
+            "Mean-look",
+            33
+        ],
+        [
+            "Fake-tears",
+            37
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            57
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Sweet-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Confusion learnt at level 21",
-        "Sing learnt at level 25",
-        "Mean-look learnt at level 33",
-        "Fake-tears learnt at level 37",
-        "Psychic learnt at level 45",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Sing",
+            25
+        ],
+        [
+            "Mean-look",
+            33
+        ],
+        [
+            "Fake-tears",
+            37
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            57
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 5",
-        "Sweet-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Confusion learnt at level 15",
-        "Sing learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Lucky-chant learnt at level 31",
-        "Avalanche learnt at level 35",
-        "Psychic learnt at level 38",
-        "Copycat learnt at level 41",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 48"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Lucky-chant",
+            31
+        ],
+        [
+            "Avalanche",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Copycat",
+            41
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            48
+        ]
     ],
     "crystal": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Sweet-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Confusion learnt at level 21",
-        "Sing learnt at level 25",
-        "Mean-look learnt at level 33",
-        "Psychic learnt at level 37",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Sing",
+            25
+        ],
+        [
+            "Mean-look",
+            33
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            49
+        ]
     ],
     "gold-silver": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Sweet-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Confusion learnt at level 21",
-        "Sing learnt at level 25",
-        "Mean-look learnt at level 33",
-        "Psychic learnt at level 37",
-        "Perish-song learnt at level 45",
-        "Blizzard learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Sing",
+            25
+        ],
+        [
+            "Mean-look",
+            33
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Blizzard",
+            49
+        ]
     ]
 }

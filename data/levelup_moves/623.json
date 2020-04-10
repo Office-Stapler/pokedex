@@ -1,128 +1,478 @@
 {
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Astonish learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "High-horsepower learnt at level 1",
-        "Mud-slap learnt at level 5",
-        "Rollout learnt at level 9",
-        "Shadow-punch learnt at level 13",
-        "Iron-defense learnt at level 17",
-        "Stomping-tantrum learnt at level 21",
-        "Mega-punch learnt at level 25",
-        "Magnitude learnt at level 30",
-        "Dynamic-punch learnt at level 35",
-        "Night-shade learnt at level 40",
-        "Curse learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Hammer-arm learnt at level 61",
-        "Focus-punch learnt at level 69",
-        "Phantom-force learnt at level 76"
+        [
+            "Heavy-slam",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "High-horsepower",
+            1
+        ],
+        [
+            "Mud-slap",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Shadow-punch",
+            13
+        ],
+        [
+            "Iron-defense",
+            17
+        ],
+        [
+            "Stomping-tantrum",
+            21
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Magnitude",
+            30
+        ],
+        [
+            "Dynamic-punch",
+            35
+        ],
+        [
+            "Night-shade",
+            40
+        ],
+        [
+            "Curse",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Hammer-arm",
+            61
+        ],
+        [
+            "Focus-punch",
+            69
+        ],
+        [
+            "Phantom-force",
+            76
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Focus-punch learnt at level 1",
-        "Astonish learnt at level 1",
-        "Phantom-force learnt at level 1",
-        "Mud-slap learnt at level 5",
-        "Rollout learnt at level 9",
-        "Shadow-punch learnt at level 13",
-        "Iron-defense learnt at level 17",
-        "Mega-punch learnt at level 21",
-        "Magnitude learnt at level 25",
-        "Dynamic-punch learnt at level 30",
-        "Night-shade learnt at level 35",
-        "Curse learnt at level 40",
-        "Heavy-slam learnt at level 43",
-        "Earthquake learnt at level 50",
-        "Hammer-arm learnt at level 60",
-        "Focus-punch learnt at level 70",
-        "Phantom-force learnt at level 75"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Focus-punch",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Phantom-force",
+            1
+        ],
+        [
+            "Mud-slap",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Shadow-punch",
+            13
+        ],
+        [
+            "Iron-defense",
+            17
+        ],
+        [
+            "Mega-punch",
+            21
+        ],
+        [
+            "Magnitude",
+            25
+        ],
+        [
+            "Dynamic-punch",
+            30
+        ],
+        [
+            "Night-shade",
+            35
+        ],
+        [
+            "Curse",
+            40
+        ],
+        [
+            "Heavy-slam",
+            43
+        ],
+        [
+            "Earthquake",
+            50
+        ],
+        [
+            "Hammer-arm",
+            60
+        ],
+        [
+            "Focus-punch",
+            70
+        ],
+        [
+            "Phantom-force",
+            75
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Focus-punch learnt at level 1",
-        "Astonish learnt at level 1",
-        "Phantom-force learnt at level 1",
-        "Mud-slap learnt at level 5",
-        "Rollout learnt at level 9",
-        "Shadow-punch learnt at level 13",
-        "Iron-defense learnt at level 17",
-        "Mega-punch learnt at level 21",
-        "Magnitude learnt at level 25",
-        "Dynamic-punch learnt at level 30",
-        "Night-shade learnt at level 35",
-        "Curse learnt at level 40",
-        "Heavy-slam learnt at level 43",
-        "Earthquake learnt at level 50",
-        "Hammer-arm learnt at level 60",
-        "Focus-punch learnt at level 70",
-        "Phantom-force learnt at level 75"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Focus-punch",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Phantom-force",
+            1
+        ],
+        [
+            "Mud-slap",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Shadow-punch",
+            13
+        ],
+        [
+            "Iron-defense",
+            17
+        ],
+        [
+            "Mega-punch",
+            21
+        ],
+        [
+            "Magnitude",
+            25
+        ],
+        [
+            "Dynamic-punch",
+            30
+        ],
+        [
+            "Night-shade",
+            35
+        ],
+        [
+            "Curse",
+            40
+        ],
+        [
+            "Heavy-slam",
+            43
+        ],
+        [
+            "Earthquake",
+            50
+        ],
+        [
+            "Hammer-arm",
+            60
+        ],
+        [
+            "Focus-punch",
+            70
+        ],
+        [
+            "Phantom-force",
+            75
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Astonish learnt at level 1",
-        "Mud-slap learnt at level 5",
-        "Rollout learnt at level 9",
-        "Shadow-punch learnt at level 13",
-        "Iron-defense learnt at level 17",
-        "Mega-punch learnt at level 21",
-        "Magnitude learnt at level 25",
-        "Dynamic-punch learnt at level 30",
-        "Night-shade learnt at level 35",
-        "Curse learnt at level 40",
-        "Heavy-slam learnt at level 43",
-        "Earthquake learnt at level 50",
-        "Hammer-arm learnt at level 60",
-        "Focus-punch learnt at level 70"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Mud-slap",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Shadow-punch",
+            13
+        ],
+        [
+            "Iron-defense",
+            17
+        ],
+        [
+            "Mega-punch",
+            21
+        ],
+        [
+            "Magnitude",
+            25
+        ],
+        [
+            "Dynamic-punch",
+            30
+        ],
+        [
+            "Night-shade",
+            35
+        ],
+        [
+            "Curse",
+            40
+        ],
+        [
+            "Heavy-slam",
+            43
+        ],
+        [
+            "Earthquake",
+            50
+        ],
+        [
+            "Hammer-arm",
+            60
+        ],
+        [
+            "Focus-punch",
+            70
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Astonish learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "High-horsepower learnt at level 1",
-        "Mud-slap learnt at level 5",
-        "Rollout learnt at level 9",
-        "Shadow-punch learnt at level 13",
-        "Iron-defense learnt at level 17",
-        "Stomping-tantrum learnt at level 21",
-        "Mega-punch learnt at level 25",
-        "Magnitude learnt at level 30",
-        "Dynamic-punch learnt at level 35",
-        "Night-shade learnt at level 40",
-        "Curse learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Hammer-arm learnt at level 61",
-        "Focus-punch learnt at level 69",
-        "Phantom-force learnt at level 76"
+        [
+            "Heavy-slam",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "High-horsepower",
+            1
+        ],
+        [
+            "Mud-slap",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Shadow-punch",
+            13
+        ],
+        [
+            "Iron-defense",
+            17
+        ],
+        [
+            "Stomping-tantrum",
+            21
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Magnitude",
+            30
+        ],
+        [
+            "Dynamic-punch",
+            35
+        ],
+        [
+            "Night-shade",
+            40
+        ],
+        [
+            "Curse",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Hammer-arm",
+            61
+        ],
+        [
+            "Focus-punch",
+            69
+        ],
+        [
+            "Phantom-force",
+            76
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Astonish learnt at level 1",
-        "Mud-slap learnt at level 5",
-        "Rollout learnt at level 9",
-        "Shadow-punch learnt at level 13",
-        "Iron-defense learnt at level 17",
-        "Mega-punch learnt at level 21",
-        "Magnitude learnt at level 25",
-        "Dynamic-punch learnt at level 30",
-        "Night-shade learnt at level 35",
-        "Curse learnt at level 40",
-        "Heavy-slam learnt at level 43",
-        "Earthquake learnt at level 50",
-        "Hammer-arm learnt at level 60",
-        "Focus-punch learnt at level 70"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Mud-slap",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Shadow-punch",
+            13
+        ],
+        [
+            "Iron-defense",
+            17
+        ],
+        [
+            "Mega-punch",
+            21
+        ],
+        [
+            "Magnitude",
+            25
+        ],
+        [
+            "Dynamic-punch",
+            30
+        ],
+        [
+            "Night-shade",
+            35
+        ],
+        [
+            "Curse",
+            40
+        ],
+        [
+            "Heavy-slam",
+            43
+        ],
+        [
+            "Earthquake",
+            50
+        ],
+        [
+            "Hammer-arm",
+            60
+        ],
+        [
+            "Focus-punch",
+            70
+        ]
     ]
 }

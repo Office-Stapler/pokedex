@@ -1,82 +1,298 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Take-down learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Aromatherapy learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Light-screen learnt at level 5",
-        "Aurora-beam learnt at level 10",
-        "Gravity learnt at level 18",
-        "Geomancy learnt at level 26",
-        "Moonblast learnt at level 35",
-        "Megahorn learnt at level 44",
-        "Night-slash learnt at level 51",
-        "Horn-leech learnt at level 55",
-        "Psych-up learnt at level 59",
-        "Misty-terrain learnt at level 63",
-        "Nature-power learnt at level 72",
-        "Close-combat learnt at level 80",
-        "Giga-impact learnt at level 88",
-        "Outrage learnt at level 93"
-    ],
-    "x-y": [
-        "Take-down learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Aromatherapy learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Light-screen learnt at level 5",
-        "Aurora-beam learnt at level 10",
-        "Gravity learnt at level 18",
-        "Geomancy learnt at level 26",
-        "Moonblast learnt at level 35",
-        "Megahorn learnt at level 44",
-        "Night-slash learnt at level 51",
-        "Horn-leech learnt at level 55",
-        "Psych-up learnt at level 59",
-        "Misty-terrain learnt at level 63",
-        "Nature-power learnt at level 72",
-        "Close-combat learnt at level 80",
-        "Giga-impact learnt at level 88",
-        "Outrage learnt at level 93"
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Aromatherapy",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Light-screen",
+            5
+        ],
+        [
+            "Aurora-beam",
+            10
+        ],
+        [
+            "Gravity",
+            18
+        ],
+        [
+            "Geomancy",
+            26
+        ],
+        [
+            "Moonblast",
+            35
+        ],
+        [
+            "Megahorn",
+            44
+        ],
+        [
+            "Night-slash",
+            51
+        ],
+        [
+            "Horn-leech",
+            55
+        ],
+        [
+            "Psych-up",
+            59
+        ],
+        [
+            "Misty-terrain",
+            63
+        ],
+        [
+            "Nature-power",
+            72
+        ],
+        [
+            "Close-combat",
+            80
+        ],
+        [
+            "Giga-impact",
+            88
+        ],
+        [
+            "Outrage",
+            93
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Take-down learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Aromatherapy learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Light-screen learnt at level 5",
-        "Aurora-beam learnt at level 10",
-        "Gravity learnt at level 18",
-        "Geomancy learnt at level 26",
-        "Moonblast learnt at level 35",
-        "Megahorn learnt at level 44",
-        "Night-slash learnt at level 51",
-        "Horn-leech learnt at level 55",
-        "Psych-up learnt at level 59",
-        "Misty-terrain learnt at level 63",
-        "Nature-power learnt at level 72",
-        "Close-combat learnt at level 80",
-        "Giga-impact learnt at level 88",
-        "Outrage learnt at level 93"
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Aromatherapy",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Light-screen",
+            5
+        ],
+        [
+            "Aurora-beam",
+            10
+        ],
+        [
+            "Gravity",
+            18
+        ],
+        [
+            "Geomancy",
+            26
+        ],
+        [
+            "Moonblast",
+            35
+        ],
+        [
+            "Megahorn",
+            44
+        ],
+        [
+            "Night-slash",
+            51
+        ],
+        [
+            "Horn-leech",
+            55
+        ],
+        [
+            "Psych-up",
+            59
+        ],
+        [
+            "Misty-terrain",
+            63
+        ],
+        [
+            "Nature-power",
+            72
+        ],
+        [
+            "Close-combat",
+            80
+        ],
+        [
+            "Giga-impact",
+            88
+        ],
+        [
+            "Outrage",
+            93
+        ]
     ],
     "sun-moon": [
-        "Take-down learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Aromatherapy learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Light-screen learnt at level 5",
-        "Aurora-beam learnt at level 10",
-        "Gravity learnt at level 18",
-        "Geomancy learnt at level 26",
-        "Moonblast learnt at level 35",
-        "Megahorn learnt at level 44",
-        "Night-slash learnt at level 51",
-        "Horn-leech learnt at level 55",
-        "Psych-up learnt at level 59",
-        "Misty-terrain learnt at level 63",
-        "Nature-power learnt at level 72",
-        "Close-combat learnt at level 80",
-        "Giga-impact learnt at level 88",
-        "Outrage learnt at level 93"
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Aromatherapy",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Light-screen",
+            5
+        ],
+        [
+            "Aurora-beam",
+            10
+        ],
+        [
+            "Gravity",
+            18
+        ],
+        [
+            "Geomancy",
+            26
+        ],
+        [
+            "Moonblast",
+            35
+        ],
+        [
+            "Megahorn",
+            44
+        ],
+        [
+            "Night-slash",
+            51
+        ],
+        [
+            "Horn-leech",
+            55
+        ],
+        [
+            "Psych-up",
+            59
+        ],
+        [
+            "Misty-terrain",
+            63
+        ],
+        [
+            "Nature-power",
+            72
+        ],
+        [
+            "Close-combat",
+            80
+        ],
+        [
+            "Giga-impact",
+            88
+        ],
+        [
+            "Outrage",
+            93
+        ]
+    ],
+    "x-y": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Aromatherapy",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Light-screen",
+            5
+        ],
+        [
+            "Aurora-beam",
+            10
+        ],
+        [
+            "Gravity",
+            18
+        ],
+        [
+            "Geomancy",
+            26
+        ],
+        [
+            "Moonblast",
+            35
+        ],
+        [
+            "Megahorn",
+            44
+        ],
+        [
+            "Night-slash",
+            51
+        ],
+        [
+            "Horn-leech",
+            55
+        ],
+        [
+            "Psych-up",
+            59
+        ],
+        [
+            "Misty-terrain",
+            63
+        ],
+        [
+            "Nature-power",
+            72
+        ],
+        [
+            "Close-combat",
+            80
+        ],
+        [
+            "Giga-impact",
+            88
+        ],
+        [
+            "Outrage",
+            93
+        ]
     ]
 }

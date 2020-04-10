@@ -1,217 +1,766 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
-    ],
-    "heartgold-soulsilver": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
-    ],
-    "platinum": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
-    ],
-    "emerald": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slam learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Yawn learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Rain-dance learnt at level 41",
-        "Mist learnt at level 51",
-        "Haze learnt at level 51"
-    ],
-    "black-2-white-2": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
-    ],
-    "crystal": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slam learnt at level 11",
-        "Amnesia learnt at level 21",
-        "Earthquake learnt at level 31",
-        "Rain-dance learnt at level 41",
-        "Mist learnt at level 51",
-        "Haze learnt at level 51"
-    ],
-    "gold-silver": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slam learnt at level 11",
-        "Amnesia learnt at level 21",
-        "Earthquake learnt at level 31",
-        "Rain-dance learnt at level 41",
-        "Mist learnt at level 51",
-        "Haze learnt at level 51"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
     ],
     "sun-moon": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
+    ],
+    "platinum": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
     ],
     "diamond-pearl": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
     ],
     "firered-leafgreen": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slam learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Yawn learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Rain-dance learnt at level 41",
-        "Mist learnt at level 51",
-        "Haze learnt at level 51"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slam",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Rain-dance",
+            41
+        ],
+        [
+            "Mist",
+            51
+        ],
+        [
+            "Haze",
+            51
+        ]
+    ],
+    "emerald": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slam",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Rain-dance",
+            41
+        ],
+        [
+            "Mist",
+            51
+        ],
+        [
+            "Haze",
+            51
+        ]
     ],
     "ruby-sapphire": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slam learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Yawn learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Rain-dance learnt at level 41",
-        "Mist learnt at level 51",
-        "Haze learnt at level 51"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slam",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Rain-dance",
+            41
+        ],
+        [
+            "Mist",
+            51
+        ],
+        [
+            "Haze",
+            51
+        ]
     ],
     "x-y": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
     ],
     "xd": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slam learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Yawn learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Rain-dance learnt at level 41",
-        "Mist learnt at level 51",
-        "Haze learnt at level 51"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slam",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Rain-dance",
+            41
+        ],
+        [
+            "Mist",
+            51
+        ],
+        [
+            "Haze",
+            51
+        ]
     ],
     "colosseum": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slam learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Yawn learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Rain-dance learnt at level 41",
-        "Mist learnt at level 51",
-        "Haze learnt at level 51"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slam",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Rain-dance",
+            41
+        ],
+        [
+            "Mist",
+            51
+        ],
+        [
+            "Haze",
+            51
+        ]
     ],
     "black-white": [
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Mud-shot learnt at level 9",
-        "Slam learnt at level 15",
-        "Mud-bomb learnt at level 19",
-        "Amnesia learnt at level 23",
-        "Yawn learnt at level 29",
-        "Earthquake learnt at level 33",
-        "Rain-dance learnt at level 37",
-        "Mist learnt at level 43",
-        "Haze learnt at level 43",
-        "Muddy-water learnt at level 47"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Mud-shot",
+            9
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Mud-bomb",
+            19
+        ],
+        [
+            "Amnesia",
+            23
+        ],
+        [
+            "Yawn",
+            29
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Mist",
+            43
+        ],
+        [
+            "Haze",
+            43
+        ],
+        [
+            "Muddy-water",
+            47
+        ]
+    ],
+    "crystal": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slam",
+            11
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Earthquake",
+            31
+        ],
+        [
+            "Rain-dance",
+            41
+        ],
+        [
+            "Mist",
+            51
+        ],
+        [
+            "Haze",
+            51
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slam",
+            11
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Earthquake",
+            31
+        ],
+        [
+            "Rain-dance",
+            41
+        ],
+        [
+            "Mist",
+            51
+        ],
+        [
+            "Haze",
+            51
+        ]
     ]
 }

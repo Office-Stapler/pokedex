@@ -1,205 +1,730 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Agility learnt at level 7",
-        "Draining-kiss learnt at level 9",
-        "Lucky-chant learnt at level 13",
-        "Water-pulse learnt at level 17",
-        "Attract learnt at level 20",
-        "Heart-stamp learnt at level 22",
-        "Flail learnt at level 26",
-        "Sweet-kiss learnt at level 31",
-        "Take-down learnt at level 34",
-        "Captivate learnt at level 37",
-        "Aqua-ring learnt at level 40",
-        "Soak learnt at level 42",
-        "Hydro-pump learnt at level 46",
-        "Safeguard learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Agility",
+            7
+        ],
+        [
+            "Draining-kiss",
+            9
+        ],
+        [
+            "Lucky-chant",
+            13
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Attract",
+            20
+        ],
+        [
+            "Heart-stamp",
+            22
+        ],
+        [
+            "Flail",
+            26
+        ],
+        [
+            "Sweet-kiss",
+            31
+        ],
+        [
+            "Take-down",
+            34
+        ],
+        [
+            "Captivate",
+            37
+        ],
+        [
+            "Aqua-ring",
+            40
+        ],
+        [
+            "Soak",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Safeguard",
+            49
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Agility learnt at level 7",
-        "Draining-kiss learnt at level 9",
-        "Lucky-chant learnt at level 13",
-        "Water-pulse learnt at level 17",
-        "Attract learnt at level 20",
-        "Heart-stamp learnt at level 22",
-        "Flail learnt at level 26",
-        "Sweet-kiss learnt at level 31",
-        "Take-down learnt at level 34",
-        "Captivate learnt at level 37",
-        "Aqua-ring learnt at level 40",
-        "Soak learnt at level 42",
-        "Hydro-pump learnt at level 46",
-        "Safeguard learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Agility",
+            7
+        ],
+        [
+            "Draining-kiss",
+            9
+        ],
+        [
+            "Lucky-chant",
+            13
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Attract",
+            20
+        ],
+        [
+            "Heart-stamp",
+            22
+        ],
+        [
+            "Flail",
+            26
+        ],
+        [
+            "Sweet-kiss",
+            31
+        ],
+        [
+            "Take-down",
+            34
+        ],
+        [
+            "Captivate",
+            37
+        ],
+        [
+            "Aqua-ring",
+            40
+        ],
+        [
+            "Soak",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Safeguard",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Agility learnt at level 7",
-        "Draining-kiss learnt at level 9",
-        "Lucky-chant learnt at level 14",
-        "Water-pulse learnt at level 17",
-        "Attract learnt at level 22",
-        "Flail learnt at level 27",
-        "Sweet-kiss learnt at level 31",
-        "Take-down learnt at level 37",
-        "Aqua-ring learnt at level 40",
-        "Captivate learnt at level 46",
-        "Hydro-pump learnt at level 50",
-        "Safeguard learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Agility",
+            7
+        ],
+        [
+            "Draining-kiss",
+            9
+        ],
+        [
+            "Lucky-chant",
+            14
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Attract",
+            22
+        ],
+        [
+            "Flail",
+            27
+        ],
+        [
+            "Sweet-kiss",
+            31
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Aqua-ring",
+            40
+        ],
+        [
+            "Captivate",
+            46
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Safeguard",
+            55
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Agility learnt at level 9",
-        "Take-down learnt at level 14",
-        "Lucky-chant learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Attract learnt at level 27",
-        "Flail learnt at level 31",
-        "Sweet-kiss learnt at level 37",
-        "Hydro-pump learnt at level 40",
-        "Aqua-ring learnt at level 46",
-        "Captivate learnt at level 50",
-        "Safeguard learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Agility",
+            9
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Lucky-chant",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Attract",
+            27
+        ],
+        [
+            "Flail",
+            31
+        ],
+        [
+            "Sweet-kiss",
+            37
+        ],
+        [
+            "Hydro-pump",
+            40
+        ],
+        [
+            "Aqua-ring",
+            46
+        ],
+        [
+            "Captivate",
+            50
+        ],
+        [
+            "Safeguard",
+            55
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Agility learnt at level 9",
-        "Take-down learnt at level 14",
-        "Lucky-chant learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Attract learnt at level 27",
-        "Flail learnt at level 31",
-        "Sweet-kiss learnt at level 37",
-        "Hydro-pump learnt at level 40",
-        "Aqua-ring learnt at level 46",
-        "Captivate learnt at level 51",
-        "Safeguard learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Agility",
+            9
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Lucky-chant",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Attract",
+            27
+        ],
+        [
+            "Flail",
+            31
+        ],
+        [
+            "Sweet-kiss",
+            37
+        ],
+        [
+            "Hydro-pump",
+            40
+        ],
+        [
+            "Aqua-ring",
+            46
+        ],
+        [
+            "Captivate",
+            51
+        ],
+        [
+            "Safeguard",
+            55
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 12",
-        "Agility learnt at level 16",
-        "Take-down learnt at level 24",
-        "Attract learnt at level 28",
-        "Sweet-kiss learnt at level 36",
-        "Flail learnt at level 40",
-        "Safeguard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Take-down",
+            24
+        ],
+        [
+            "Attract",
+            28
+        ],
+        [
+            "Sweet-kiss",
+            36
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Safeguard",
+            48
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 12",
-        "Agility learnt at level 16",
-        "Take-down learnt at level 24",
-        "Attract learnt at level 28",
-        "Sweet-kiss learnt at level 36",
-        "Flail learnt at level 40",
-        "Safeguard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Take-down",
+            24
+        ],
+        [
+            "Attract",
+            28
+        ],
+        [
+            "Sweet-kiss",
+            36
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Safeguard",
+            48
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Agility learnt at level 9",
-        "Take-down learnt at level 14",
-        "Lucky-chant learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Attract learnt at level 27",
-        "Flail learnt at level 31",
-        "Sweet-kiss learnt at level 37",
-        "Hydro-pump learnt at level 40",
-        "Aqua-ring learnt at level 46",
-        "Captivate learnt at level 51",
-        "Safeguard learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Agility",
+            9
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Lucky-chant",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Attract",
+            27
+        ],
+        [
+            "Flail",
+            31
+        ],
+        [
+            "Sweet-kiss",
+            37
+        ],
+        [
+            "Hydro-pump",
+            40
+        ],
+        [
+            "Aqua-ring",
+            46
+        ],
+        [
+            "Captivate",
+            51
+        ],
+        [
+            "Safeguard",
+            55
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Agility learnt at level 9",
-        "Take-down learnt at level 14",
-        "Lucky-chant learnt at level 17",
-        "Attract learnt at level 22",
-        "Sweet-kiss learnt at level 27",
-        "Water-pulse learnt at level 31",
-        "Aqua-ring learnt at level 37",
-        "Captivate learnt at level 40",
-        "Flail learnt at level 46",
-        "Safeguard learnt at level 51"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Agility",
+            9
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Lucky-chant",
+            17
+        ],
+        [
+            "Attract",
+            22
+        ],
+        [
+            "Sweet-kiss",
+            27
+        ],
+        [
+            "Water-pulse",
+            31
+        ],
+        [
+            "Aqua-ring",
+            37
+        ],
+        [
+            "Captivate",
+            40
+        ],
+        [
+            "Flail",
+            46
+        ],
+        [
+            "Safeguard",
+            51
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Agility learnt at level 9",
-        "Take-down learnt at level 14",
-        "Lucky-chant learnt at level 17",
-        "Attract learnt at level 22",
-        "Sweet-kiss learnt at level 27",
-        "Water-pulse learnt at level 31",
-        "Aqua-ring learnt at level 37",
-        "Captivate learnt at level 40",
-        "Flail learnt at level 46",
-        "Safeguard learnt at level 51"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Agility",
+            9
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Lucky-chant",
+            17
+        ],
+        [
+            "Attract",
+            22
+        ],
+        [
+            "Sweet-kiss",
+            27
+        ],
+        [
+            "Water-pulse",
+            31
+        ],
+        [
+            "Aqua-ring",
+            37
+        ],
+        [
+            "Captivate",
+            40
+        ],
+        [
+            "Flail",
+            46
+        ],
+        [
+            "Safeguard",
+            51
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Agility learnt at level 9",
-        "Take-down learnt at level 14",
-        "Lucky-chant learnt at level 17",
-        "Attract learnt at level 22",
-        "Sweet-kiss learnt at level 27",
-        "Water-pulse learnt at level 31",
-        "Aqua-ring learnt at level 37",
-        "Captivate learnt at level 40",
-        "Flail learnt at level 46",
-        "Safeguard learnt at level 51"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Agility",
+            9
+        ],
+        [
+            "Take-down",
+            14
+        ],
+        [
+            "Lucky-chant",
+            17
+        ],
+        [
+            "Attract",
+            22
+        ],
+        [
+            "Sweet-kiss",
+            27
+        ],
+        [
+            "Water-pulse",
+            31
+        ],
+        [
+            "Aqua-ring",
+            37
+        ],
+        [
+            "Captivate",
+            40
+        ],
+        [
+            "Flail",
+            46
+        ],
+        [
+            "Safeguard",
+            51
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 12",
-        "Agility learnt at level 16",
-        "Take-down learnt at level 24",
-        "Attract learnt at level 28",
-        "Sweet-kiss learnt at level 36",
-        "Flail learnt at level 40",
-        "Safeguard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Take-down",
+            24
+        ],
+        [
+            "Attract",
+            28
+        ],
+        [
+            "Sweet-kiss",
+            36
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Safeguard",
+            48
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 12",
-        "Agility learnt at level 16",
-        "Take-down learnt at level 24",
-        "Attract learnt at level 28",
-        "Sweet-kiss learnt at level 36",
-        "Flail learnt at level 40",
-        "Safeguard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Take-down",
+            24
+        ],
+        [
+            "Attract",
+            28
+        ],
+        [
+            "Sweet-kiss",
+            36
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Safeguard",
+            48
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Charm learnt at level 4",
-        "Water-gun learnt at level 12",
-        "Agility learnt at level 16",
-        "Take-down learnt at level 24",
-        "Attract learnt at level 28",
-        "Sweet-kiss learnt at level 36",
-        "Flail learnt at level 40",
-        "Safeguard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charm",
+            4
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Agility",
+            16
+        ],
+        [
+            "Take-down",
+            24
+        ],
+        [
+            "Attract",
+            28
+        ],
+        [
+            "Sweet-kiss",
+            36
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Safeguard",
+            48
+        ]
     ]
 }

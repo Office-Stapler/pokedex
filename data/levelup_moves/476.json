@@ -1,207 +1,776 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Wide-guard learnt at level 1",
-        "Iron-defense learnt at level 4",
-        "Block learnt at level 7",
-        "Magnet-bomb learnt at level 10",
-        "Thunder-wave learnt at level 13",
-        "Rest learnt at level 16",
-        "Spark learnt at level 19",
-        "Rock-slide learnt at level 22",
-        "Power-gem learnt at level 25",
-        "Rock-blast learnt at level 28",
-        "Discharge learnt at level 31",
-        "Sandstorm learnt at level 34",
-        "Earth-power learnt at level 37",
-        "Stone-edge learnt at level 40",
-        "Zap-cannon learnt at level 43",
-        "Lock-on learnt at level 43"
+    "x-y": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Iron-defense",
+            4
+        ],
+        [
+            "Block",
+            8
+        ],
+        [
+            "Magnet-bomb",
+            11
+        ],
+        [
+            "Thunder-wave",
+            15
+        ],
+        [
+            "Rock-blast",
+            18
+        ],
+        [
+            "Rest",
+            22
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Power-gem",
+            32
+        ],
+        [
+            "Sandstorm",
+            36
+        ],
+        [
+            "Discharge",
+            39
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Stone-edge",
+            46
+        ],
+        [
+            "Zap-cannon",
+            50
+        ],
+        [
+            "Lock-on",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Iron-defense learnt at level 4",
-        "Block learnt at level 8",
-        "Magnet-bomb learnt at level 11",
-        "Thunder-wave learnt at level 15",
-        "Rock-blast learnt at level 18",
-        "Rest learnt at level 22",
-        "Spark learnt at level 25",
-        "Rock-slide learnt at level 29",
-        "Power-gem learnt at level 32",
-        "Sandstorm learnt at level 36",
-        "Discharge learnt at level 39",
-        "Earth-power learnt at level 43",
-        "Stone-edge learnt at level 46",
-        "Zap-cannon learnt at level 50",
-        "Lock-on learnt at level 50"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Iron-defense learnt at level 7",
-        "Magnet-bomb learnt at level 13",
-        "Block learnt at level 19",
-        "Thunder-wave learnt at level 25",
-        "Rock-slide learnt at level 31",
-        "Sandstorm learnt at level 37",
-        "Rest learnt at level 43",
-        "Power-gem learnt at level 49",
-        "Discharge learnt at level 55",
-        "Stone-edge learnt at level 61",
-        "Zap-cannon learnt at level 67",
-        "Lock-on learnt at level 73",
-        "Earth-power learnt at level 79"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Iron-defense learnt at level 7",
-        "Magnet-bomb learnt at level 13",
-        "Block learnt at level 19",
-        "Thunder-wave learnt at level 25",
-        "Rock-slide learnt at level 31",
-        "Sandstorm learnt at level 37",
-        "Rest learnt at level 43",
-        "Power-gem learnt at level 49",
-        "Discharge learnt at level 55",
-        "Stone-edge learnt at level 61",
-        "Zap-cannon learnt at level 67",
-        "Lock-on learnt at level 73",
-        "Earth-power learnt at level 79"
-    ],
-    "x-y": [
-        "Tackle learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Iron-defense learnt at level 4",
-        "Block learnt at level 8",
-        "Magnet-bomb learnt at level 11",
-        "Thunder-wave learnt at level 15",
-        "Rock-blast learnt at level 18",
-        "Rest learnt at level 22",
-        "Spark learnt at level 25",
-        "Rock-slide learnt at level 29",
-        "Power-gem learnt at level 32",
-        "Sandstorm learnt at level 36",
-        "Discharge learnt at level 39",
-        "Earth-power learnt at level 43",
-        "Stone-edge learnt at level 46",
-        "Zap-cannon learnt at level 50",
-        "Lock-on learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Iron-defense",
+            4
+        ],
+        [
+            "Block",
+            8
+        ],
+        [
+            "Magnet-bomb",
+            11
+        ],
+        [
+            "Thunder-wave",
+            15
+        ],
+        [
+            "Rock-blast",
+            18
+        ],
+        [
+            "Rest",
+            22
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Power-gem",
+            32
+        ],
+        [
+            "Sandstorm",
+            36
+        ],
+        [
+            "Discharge",
+            39
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Stone-edge",
+            46
+        ],
+        [
+            "Zap-cannon",
+            50
+        ],
+        [
+            "Lock-on",
+            50
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Iron-defense learnt at level 7",
-        "Magnet-bomb learnt at level 13",
-        "Block learnt at level 19",
-        "Thunder-wave learnt at level 25",
-        "Rock-slide learnt at level 31",
-        "Sandstorm learnt at level 37",
-        "Rest learnt at level 43",
-        "Power-gem learnt at level 49",
-        "Discharge learnt at level 55",
-        "Stone-edge learnt at level 61",
-        "Zap-cannon learnt at level 67",
-        "Lock-on learnt at level 73",
-        "Earth-power learnt at level 79"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Iron-defense",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            13
+        ],
+        [
+            "Block",
+            19
+        ],
+        [
+            "Thunder-wave",
+            25
+        ],
+        [
+            "Rock-slide",
+            31
+        ],
+        [
+            "Sandstorm",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Power-gem",
+            49
+        ],
+        [
+            "Discharge",
+            55
+        ],
+        [
+            "Stone-edge",
+            61
+        ],
+        [
+            "Zap-cannon",
+            67
+        ],
+        [
+            "Lock-on",
+            73
+        ],
+        [
+            "Earth-power",
+            79
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Iron-defense",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            13
+        ],
+        [
+            "Block",
+            19
+        ],
+        [
+            "Thunder-wave",
+            25
+        ],
+        [
+            "Rock-slide",
+            31
+        ],
+        [
+            "Sandstorm",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Power-gem",
+            49
+        ],
+        [
+            "Discharge",
+            55
+        ],
+        [
+            "Stone-edge",
+            61
+        ],
+        [
+            "Zap-cannon",
+            67
+        ],
+        [
+            "Lock-on",
+            73
+        ],
+        [
+            "Earth-power",
+            79
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Iron-defense",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            13
+        ],
+        [
+            "Block",
+            19
+        ],
+        [
+            "Thunder-wave",
+            25
+        ],
+        [
+            "Rock-slide",
+            31
+        ],
+        [
+            "Sandstorm",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Power-gem",
+            49
+        ],
+        [
+            "Discharge",
+            55
+        ],
+        [
+            "Stone-edge",
+            61
+        ],
+        [
+            "Zap-cannon",
+            67
+        ],
+        [
+            "Lock-on",
+            73
+        ],
+        [
+            "Earth-power",
+            79
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tri-attack learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Wide-guard learnt at level 1",
-        "Magnetic-flux learnt at level 1",
-        "Iron-defense learnt at level 4",
-        "Block learnt at level 7",
-        "Magnet-bomb learnt at level 10",
-        "Thunder-wave learnt at level 13",
-        "Rest learnt at level 16",
-        "Spark learnt at level 19",
-        "Rock-slide learnt at level 22",
-        "Power-gem learnt at level 25",
-        "Rock-blast learnt at level 28",
-        "Discharge learnt at level 31",
-        "Sandstorm learnt at level 34",
-        "Earth-power learnt at level 37",
-        "Stone-edge learnt at level 40",
-        "Zap-cannon learnt at level 43",
-        "Lock-on learnt at level 43"
+        [
+            "Tri-attack",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tri-attack",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Wide-guard",
+            1
+        ],
+        [
+            "Magnetic-flux",
+            1
+        ],
+        [
+            "Iron-defense",
+            4
+        ],
+        [
+            "Block",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            10
+        ],
+        [
+            "Thunder-wave",
+            13
+        ],
+        [
+            "Rest",
+            16
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Power-gem",
+            25
+        ],
+        [
+            "Rock-blast",
+            28
+        ],
+        [
+            "Discharge",
+            31
+        ],
+        [
+            "Sandstorm",
+            34
+        ],
+        [
+            "Earth-power",
+            37
+        ],
+        [
+            "Stone-edge",
+            40
+        ],
+        [
+            "Zap-cannon",
+            43
+        ],
+        [
+            "Lock-on",
+            43
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tri-attack learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Wide-guard learnt at level 1",
-        "Magnetic-flux learnt at level 1",
-        "Iron-defense learnt at level 4",
-        "Block learnt at level 7",
-        "Magnet-bomb learnt at level 10",
-        "Thunder-wave learnt at level 13",
-        "Rest learnt at level 16",
-        "Spark learnt at level 19",
-        "Rock-slide learnt at level 22",
-        "Power-gem learnt at level 25",
-        "Rock-blast learnt at level 28",
-        "Discharge learnt at level 31",
-        "Sandstorm learnt at level 34",
-        "Earth-power learnt at level 37",
-        "Stone-edge learnt at level 40",
-        "Zap-cannon learnt at level 43",
-        "Lock-on learnt at level 43"
+        [
+            "Tri-attack",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tri-attack",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Wide-guard",
+            1
+        ],
+        [
+            "Magnetic-flux",
+            1
+        ],
+        [
+            "Iron-defense",
+            4
+        ],
+        [
+            "Block",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            10
+        ],
+        [
+            "Thunder-wave",
+            13
+        ],
+        [
+            "Rest",
+            16
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Power-gem",
+            25
+        ],
+        [
+            "Rock-blast",
+            28
+        ],
+        [
+            "Discharge",
+            31
+        ],
+        [
+            "Sandstorm",
+            34
+        ],
+        [
+            "Earth-power",
+            37
+        ],
+        [
+            "Stone-edge",
+            40
+        ],
+        [
+            "Zap-cannon",
+            43
+        ],
+        [
+            "Lock-on",
+            43
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Wide-guard",
+            1
+        ],
+        [
+            "Iron-defense",
+            4
+        ],
+        [
+            "Block",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            10
+        ],
+        [
+            "Thunder-wave",
+            13
+        ],
+        [
+            "Rest",
+            16
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Power-gem",
+            25
+        ],
+        [
+            "Rock-blast",
+            28
+        ],
+        [
+            "Discharge",
+            31
+        ],
+        [
+            "Sandstorm",
+            34
+        ],
+        [
+            "Earth-power",
+            37
+        ],
+        [
+            "Stone-edge",
+            40
+        ],
+        [
+            "Zap-cannon",
+            43
+        ],
+        [
+            "Lock-on",
+            43
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Block learnt at level 1",
-        "Gravity learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Magnet-bomb learnt at level 1",
-        "Iron-defense learnt at level 7",
-        "Magnet-bomb learnt at level 13",
-        "Block learnt at level 19",
-        "Thunder-wave learnt at level 25",
-        "Rock-slide learnt at level 31",
-        "Sandstorm learnt at level 37",
-        "Rest learnt at level 43",
-        "Discharge learnt at level 49",
-        "Stone-edge learnt at level 55",
-        "Zap-cannon learnt at level 61",
-        "Lock-on learnt at level 67",
-        "Earth-power learnt at level 73"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Gravity",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Magnet-bomb",
+            1
+        ],
+        [
+            "Iron-defense",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            13
+        ],
+        [
+            "Block",
+            19
+        ],
+        [
+            "Thunder-wave",
+            25
+        ],
+        [
+            "Rock-slide",
+            31
+        ],
+        [
+            "Sandstorm",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Discharge",
+            49
+        ],
+        [
+            "Stone-edge",
+            55
+        ],
+        [
+            "Zap-cannon",
+            61
+        ],
+        [
+            "Lock-on",
+            67
+        ],
+        [
+            "Earth-power",
+            73
+        ]
     ]
 }

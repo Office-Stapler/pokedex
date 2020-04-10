@@ -1,224 +1,794 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Rollout learnt at level 1",
-        "Sticky-web learnt at level 1",
-        "Encore learnt at level 5",
-        "Wrap learnt at level 9",
-        "Struggle-bug learnt at level 12",
-        "Safeguard learnt at level 16",
-        "Rest learnt at level 20",
-        "Rock-throw learnt at level 23",
-        "Gastro-acid learnt at level 27",
-        "Power-trick learnt at level 31",
-        "Shell-smash learnt at level 34",
-        "Rock-slide learnt at level 38",
-        "Bug-bite learnt at level 42",
-        "Guard-split learnt at level 45",
-        "Power-split learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Sticky-web learnt at level 53"
-    ],
-    "black-2-white-2": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Rollout learnt at level 1",
-        "Encore learnt at level 5",
-        "Wrap learnt at level 9",
-        "Struggle-bug learnt at level 12",
-        "Safeguard learnt at level 16",
-        "Rest learnt at level 20",
-        "Rock-throw learnt at level 23",
-        "Gastro-acid learnt at level 27",
-        "Power-trick learnt at level 31",
-        "Shell-smash learnt at level 34",
-        "Rock-slide learnt at level 38",
-        "Bug-bite learnt at level 42",
-        "Guard-split learnt at level 45",
-        "Power-split learnt at level 45",
-        "Stone-edge learnt at level 49"
-    ],
-    "heartgold-soulsilver": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Encore learnt at level 9",
-        "Safeguard learnt at level 14",
-        "Wrap learnt at level 22",
-        "Rest learnt at level 27",
-        "Gastro-acid learnt at level 35",
-        "Bug-bite learnt at level 40",
-        "Power-trick learnt at level 48"
-    ],
-    "crystal": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Wrap learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 23",
-        "Bide learnt at level 28",
-        "Rest learnt at level 37"
-    ],
-    "gold-silver": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Wrap learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 23",
-        "Bide learnt at level 28",
-        "Rest learnt at level 37"
-    ],
-    "firered-leafgreen": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Wrap learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 23",
-        "Bide learnt at level 28",
-        "Rest learnt at level 37"
-    ],
-    "emerald": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Wrap learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 23",
-        "Bide learnt at level 28",
-        "Rest learnt at level 37"
-    ],
-    "xd": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Wrap learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 23",
-        "Bide learnt at level 28",
-        "Rest learnt at level 37"
-    ],
     "ultra-sun-ultra-moon": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Rollout learnt at level 1",
-        "Sticky-web learnt at level 1",
-        "Encore learnt at level 5",
-        "Wrap learnt at level 9",
-        "Struggle-bug learnt at level 12",
-        "Safeguard learnt at level 16",
-        "Rest learnt at level 20",
-        "Rock-throw learnt at level 23",
-        "Gastro-acid learnt at level 27",
-        "Power-trick learnt at level 31",
-        "Shell-smash learnt at level 34",
-        "Rock-slide learnt at level 38",
-        "Bug-bite learnt at level 42",
-        "Guard-split learnt at level 45",
-        "Power-split learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Sticky-web learnt at level 53"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Sticky-web",
+            1
+        ],
+        [
+            "Encore",
+            5
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Struggle-bug",
+            12
+        ],
+        [
+            "Safeguard",
+            16
+        ],
+        [
+            "Rest",
+            20
+        ],
+        [
+            "Rock-throw",
+            23
+        ],
+        [
+            "Gastro-acid",
+            27
+        ],
+        [
+            "Power-trick",
+            31
+        ],
+        [
+            "Shell-smash",
+            34
+        ],
+        [
+            "Rock-slide",
+            38
+        ],
+        [
+            "Bug-bite",
+            42
+        ],
+        [
+            "Guard-split",
+            45
+        ],
+        [
+            "Power-split",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Sticky-web",
+            53
+        ]
     ],
     "sun-moon": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Rollout learnt at level 1",
-        "Sticky-web learnt at level 1",
-        "Encore learnt at level 5",
-        "Wrap learnt at level 9",
-        "Struggle-bug learnt at level 12",
-        "Safeguard learnt at level 16",
-        "Rest learnt at level 20",
-        "Rock-throw learnt at level 23",
-        "Gastro-acid learnt at level 27",
-        "Power-trick learnt at level 31",
-        "Shell-smash learnt at level 34",
-        "Rock-slide learnt at level 38",
-        "Bug-bite learnt at level 42",
-        "Guard-split learnt at level 45",
-        "Power-split learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Sticky-web learnt at level 53"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Sticky-web",
+            1
+        ],
+        [
+            "Encore",
+            5
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Struggle-bug",
+            12
+        ],
+        [
+            "Safeguard",
+            16
+        ],
+        [
+            "Rest",
+            20
+        ],
+        [
+            "Rock-throw",
+            23
+        ],
+        [
+            "Gastro-acid",
+            27
+        ],
+        [
+            "Power-trick",
+            31
+        ],
+        [
+            "Shell-smash",
+            34
+        ],
+        [
+            "Rock-slide",
+            38
+        ],
+        [
+            "Bug-bite",
+            42
+        ],
+        [
+            "Guard-split",
+            45
+        ],
+        [
+            "Power-split",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Sticky-web",
+            53
+        ]
     ],
     "colosseum": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Wrap learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 23",
-        "Bide learnt at level 28",
-        "Rest learnt at level 37"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            23
+        ],
+        [
+            "Bide",
+            28
+        ],
+        [
+            "Rest",
+            37
+        ]
     ],
     "black-white": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Struggle-bug learnt at level 1",
-        "Encore learnt at level 7",
-        "Wrap learnt at level 13",
-        "Safeguard learnt at level 19",
-        "Rest learnt at level 25",
-        "Gastro-acid learnt at level 31",
-        "Rollout learnt at level 37",
-        "Power-trick learnt at level 43",
-        "Bug-bite learnt at level 49",
-        "Guard-split learnt at level 55",
-        "Power-split learnt at level 55"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Struggle-bug",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Wrap",
+            13
+        ],
+        [
+            "Safeguard",
+            19
+        ],
+        [
+            "Rest",
+            25
+        ],
+        [
+            "Gastro-acid",
+            31
+        ],
+        [
+            "Rollout",
+            37
+        ],
+        [
+            "Power-trick",
+            43
+        ],
+        [
+            "Bug-bite",
+            49
+        ],
+        [
+            "Guard-split",
+            55
+        ],
+        [
+            "Power-split",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Encore",
+            9
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Rest",
+            27
+        ],
+        [
+            "Gastro-acid",
+            35
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Power-trick",
+            48
+        ]
     ],
     "platinum": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Encore learnt at level 9",
-        "Safeguard learnt at level 14",
-        "Wrap learnt at level 22",
-        "Rest learnt at level 27",
-        "Gastro-acid learnt at level 35",
-        "Bug-bite learnt at level 40",
-        "Power-trick learnt at level 48"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Encore",
+            9
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Rest",
+            27
+        ],
+        [
+            "Gastro-acid",
+            35
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Power-trick",
+            48
+        ]
     ],
     "diamond-pearl": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Bide learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 22",
-        "Wrap learnt at level 27",
-        "Rest learnt at level 35",
-        "Gastro-acid learnt at level 40",
-        "Power-trick learnt at level 48"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Bide",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            22
+        ],
+        [
+            "Wrap",
+            27
+        ],
+        [
+            "Rest",
+            35
+        ],
+        [
+            "Gastro-acid",
+            40
+        ],
+        [
+            "Power-trick",
+            48
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            23
+        ],
+        [
+            "Bide",
+            28
+        ],
+        [
+            "Rest",
+            37
+        ]
+    ],
+    "emerald": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            23
+        ],
+        [
+            "Bide",
+            28
+        ],
+        [
+            "Rest",
+            37
+        ]
     ],
     "ruby-sapphire": [
-        "Withdraw learnt at level 1",
-        "Constrict learnt at level 1",
-        "Wrap learnt at level 9",
-        "Encore learnt at level 14",
-        "Safeguard learnt at level 23",
-        "Bide learnt at level 28",
-        "Rest learnt at level 37"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            23
+        ],
+        [
+            "Bide",
+            28
+        ],
+        [
+            "Rest",
+            37
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Sticky-web",
+            1
+        ],
+        [
+            "Encore",
+            5
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Struggle-bug",
+            12
+        ],
+        [
+            "Safeguard",
+            16
+        ],
+        [
+            "Rest",
+            20
+        ],
+        [
+            "Rock-throw",
+            23
+        ],
+        [
+            "Gastro-acid",
+            27
+        ],
+        [
+            "Power-trick",
+            31
+        ],
+        [
+            "Shell-smash",
+            34
+        ],
+        [
+            "Rock-slide",
+            38
+        ],
+        [
+            "Bug-bite",
+            42
+        ],
+        [
+            "Guard-split",
+            45
+        ],
+        [
+            "Power-split",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Sticky-web",
+            53
+        ]
     ],
     "x-y": [
-        "Withdraw learnt at level 1",
-        "Bide learnt at level 1",
-        "Constrict learnt at level 1",
-        "Rollout learnt at level 1",
-        "Sticky-web learnt at level 1",
-        "Encore learnt at level 5",
-        "Wrap learnt at level 9",
-        "Struggle-bug learnt at level 12",
-        "Safeguard learnt at level 16",
-        "Rest learnt at level 20",
-        "Rock-throw learnt at level 23",
-        "Gastro-acid learnt at level 27",
-        "Power-trick learnt at level 31",
-        "Shell-smash learnt at level 34",
-        "Rock-slide learnt at level 38",
-        "Bug-bite learnt at level 42",
-        "Guard-split learnt at level 45",
-        "Power-split learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Sticky-web learnt at level 53"
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Sticky-web",
+            1
+        ],
+        [
+            "Encore",
+            5
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Struggle-bug",
+            12
+        ],
+        [
+            "Safeguard",
+            16
+        ],
+        [
+            "Rest",
+            20
+        ],
+        [
+            "Rock-throw",
+            23
+        ],
+        [
+            "Gastro-acid",
+            27
+        ],
+        [
+            "Power-trick",
+            31
+        ],
+        [
+            "Shell-smash",
+            34
+        ],
+        [
+            "Rock-slide",
+            38
+        ],
+        [
+            "Bug-bite",
+            42
+        ],
+        [
+            "Guard-split",
+            45
+        ],
+        [
+            "Power-split",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Sticky-web",
+            53
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Encore",
+            5
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Struggle-bug",
+            12
+        ],
+        [
+            "Safeguard",
+            16
+        ],
+        [
+            "Rest",
+            20
+        ],
+        [
+            "Rock-throw",
+            23
+        ],
+        [
+            "Gastro-acid",
+            27
+        ],
+        [
+            "Power-trick",
+            31
+        ],
+        [
+            "Shell-smash",
+            34
+        ],
+        [
+            "Rock-slide",
+            38
+        ],
+        [
+            "Bug-bite",
+            42
+        ],
+        [
+            "Guard-split",
+            45
+        ],
+        [
+            "Power-split",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ]
+    ],
+    "xd": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            23
+        ],
+        [
+            "Bide",
+            28
+        ],
+        [
+            "Rest",
+            37
+        ]
+    ],
+    "crystal": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            23
+        ],
+        [
+            "Bide",
+            28
+        ],
+        [
+            "Rest",
+            37
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Wrap",
+            9
+        ],
+        [
+            "Encore",
+            14
+        ],
+        [
+            "Safeguard",
+            23
+        ],
+        [
+            "Bide",
+            28
+        ],
+        [
+            "Rest",
+            37
+        ]
     ]
 }

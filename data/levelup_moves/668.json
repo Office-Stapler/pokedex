@@ -1,78 +1,282 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Hyper-beam learnt at level 1",
-        "Work-up learnt at level 1",
-        "Ember learnt at level 5",
-        "Work-up learnt at level 8",
-        "Headbutt learnt at level 11",
-        "Noble-roar learnt at level 15",
-        "Take-down learnt at level 20",
-        "Fire-fang learnt at level 23",
-        "Endeavor learnt at level 28",
-        "Echoed-voice learnt at level 33",
-        "Flamethrower learnt at level 38",
-        "Crunch learnt at level 42",
-        "Hyper-voice learnt at level 48",
-        "Incinerate learnt at level 51",
-        "Overheat learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Hyper-beam",
+            1
+        ],
+        [
+            "Work-up",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Work-up",
+            8
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Noble-roar",
+            15
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Fire-fang",
+            23
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Flamethrower",
+            38
+        ],
+        [
+            "Crunch",
+            42
+        ],
+        [
+            "Hyper-voice",
+            48
+        ],
+        [
+            "Incinerate",
+            51
+        ],
+        [
+            "Overheat",
+            57
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Hyper-beam learnt at level 1",
-        "Work-up learnt at level 1",
-        "Ember learnt at level 5",
-        "Work-up learnt at level 8",
-        "Headbutt learnt at level 11",
-        "Noble-roar learnt at level 15",
-        "Take-down learnt at level 20",
-        "Fire-fang learnt at level 23",
-        "Endeavor learnt at level 28",
-        "Echoed-voice learnt at level 33",
-        "Flamethrower learnt at level 38",
-        "Crunch learnt at level 42",
-        "Hyper-voice learnt at level 48",
-        "Incinerate learnt at level 51",
-        "Overheat learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Hyper-beam",
+            1
+        ],
+        [
+            "Work-up",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Work-up",
+            8
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Noble-roar",
+            15
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Fire-fang",
+            23
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Flamethrower",
+            38
+        ],
+        [
+            "Crunch",
+            42
+        ],
+        [
+            "Hyper-voice",
+            48
+        ],
+        [
+            "Incinerate",
+            51
+        ],
+        [
+            "Overheat",
+            57
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Hyper-beam learnt at level 1",
-        "Ember learnt at level 5",
-        "Work-up learnt at level 8",
-        "Headbutt learnt at level 11",
-        "Noble-roar learnt at level 15",
-        "Take-down learnt at level 20",
-        "Fire-fang learnt at level 23",
-        "Endeavor learnt at level 28",
-        "Echoed-voice learnt at level 33",
-        "Flamethrower learnt at level 38",
-        "Crunch learnt at level 42",
-        "Hyper-voice learnt at level 48",
-        "Incinerate learnt at level 51",
-        "Overheat learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hyper-beam",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Work-up",
+            8
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Noble-roar",
+            15
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Fire-fang",
+            23
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Flamethrower",
+            38
+        ],
+        [
+            "Crunch",
+            42
+        ],
+        [
+            "Hyper-voice",
+            48
+        ],
+        [
+            "Incinerate",
+            51
+        ],
+        [
+            "Overheat",
+            57
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Hyper-beam learnt at level 1",
-        "Ember learnt at level 5",
-        "Work-up learnt at level 8",
-        "Headbutt learnt at level 11",
-        "Noble-roar learnt at level 15",
-        "Take-down learnt at level 20",
-        "Fire-fang learnt at level 23",
-        "Endeavor learnt at level 28",
-        "Echoed-voice learnt at level 33",
-        "Flamethrower learnt at level 38",
-        "Crunch learnt at level 42",
-        "Hyper-voice learnt at level 48",
-        "Incinerate learnt at level 51",
-        "Overheat learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hyper-beam",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Work-up",
+            8
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Noble-roar",
+            15
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Fire-fang",
+            23
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Flamethrower",
+            38
+        ],
+        [
+            "Crunch",
+            42
+        ],
+        [
+            "Hyper-voice",
+            48
+        ],
+        [
+            "Incinerate",
+            51
+        ],
+        [
+            "Overheat",
+            57
+        ]
     ]
 }

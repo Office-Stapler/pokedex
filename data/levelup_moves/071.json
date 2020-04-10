@@ -1,169 +1,570 @@
 {
-    "ultra-sun-ultra-moon": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-tornado learnt at level 1",
-        "Leaf-storm learnt at level 32",
-        "Leaf-blade learnt at level 44"
-    ],
     "sun-moon": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-tornado learnt at level 1",
-        "Leaf-storm learnt at level 32",
-        "Leaf-blade learnt at level 44"
+        [
+            "Leaf-tornado",
+            0
+        ],
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            1
+        ],
+        [
+            "Leaf-storm",
+            32
+        ],
+        [
+            "Leaf-blade",
+            44
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-tornado learnt at level 27",
-        "Leaf-blade learnt at level 47",
-        "Leaf-storm learnt at level 47"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            27
+        ],
+        [
+            "Leaf-blade",
+            47
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "x-y": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-tornado learnt at level 27",
-        "Leaf-blade learnt at level 47",
-        "Leaf-storm learnt at level 47"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            27
+        ],
+        [
+            "Leaf-blade",
+            47
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "black-2-white-2": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-tornado learnt at level 27",
-        "Leaf-blade learnt at level 47",
-        "Leaf-storm learnt at level 47"
-    ],
-    "black-white": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-tornado learnt at level 27",
-        "Leaf-blade learnt at level 47",
-        "Leaf-storm learnt at level 47"
-    ],
-    "heartgold-soulsilver": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-blade learnt at level 47",
-        "Leaf-storm learnt at level 47"
-    ],
-    "platinum": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-blade learnt at level 47",
-        "Leaf-storm learnt at level 47"
-    ],
-    "diamond-pearl": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Leaf-storm learnt at level 47"
-    ],
-    "firered-leafgreen": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1"
-    ],
-    "emerald": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1"
-    ],
-    "yellow": [
-        "Acid learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Wrap learnt at level 13",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 18"
-    ],
-    "red-blue": [
-        "Acid learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Wrap learnt at level 13",
-        "Poison-powder learnt at level 15",
-        "Sleep-powder learnt at level 18"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            27
+        ],
+        [
+            "Leaf-blade",
+            47
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "ruby-sapphire": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ]
     ],
     "crystal": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ]
     ],
     "gold-silver": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Leaf-tornado",
+            0
+        ],
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            1
+        ],
+        [
+            "Leaf-storm",
+            32
+        ],
+        [
+            "Leaf-blade",
+            44
+        ]
     ],
     "xd": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ]
     ],
     "colosseum": [
-        "Vine-whip learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Sweet-scent learnt at level 1"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ]
+    ],
+    "black-white": [
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-tornado",
+            27
+        ],
+        [
+            "Leaf-blade",
+            47
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-blade",
+            47
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
+    ],
+    "platinum": [
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-blade",
+            47
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ]
+    ],
+    "emerald": [
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ]
+    ],
+    "yellow": [
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Wrap",
+            13
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            18
+        ]
+    ],
+    "red-blue": [
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Wrap",
+            13
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Sleep-powder",
+            18
+        ]
     ]
 }

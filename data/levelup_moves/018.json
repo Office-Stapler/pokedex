@@ -1,292 +1,1054 @@
 {
-    "yellow": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Quick-attack learnt at level 12",
-        "Whirlwind learnt at level 21",
-        "Wing-attack learnt at level 31",
-        "Agility learnt at level 44",
-        "Mirror-move learnt at level 54"
-    ],
-    "red-blue": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Quick-attack learnt at level 12",
-        "Whirlwind learnt at level 21",
-        "Wing-attack learnt at level 31",
-        "Agility learnt at level 44",
-        "Mirror-move learnt at level 54"
-    ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62",
-        "Hurricane learnt at level 68"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ],
+        [
+            "Hurricane",
+            68
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62",
-        "Hurricane learnt at level 68"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ],
+        [
+            "Hurricane",
+            68
+        ]
     ],
     "x-y": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62",
-        "Hurricane learnt at level 68"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ],
+        [
+            "Hurricane",
+            68
+        ]
     ],
     "black-2-white-2": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62",
-        "Hurricane learnt at level 68"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ],
+        [
+            "Hurricane",
+            68
+        ]
     ],
     "xd": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 20",
-        "Wing-attack learnt at level 27",
-        "Feather-dance learnt at level 34",
-        "Agility learnt at level 48",
-        "Mirror-move learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            20
+        ],
+        [
+            "Wing-attack",
+            27
+        ],
+        [
+            "Feather-dance",
+            34
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Mirror-move",
+            62
+        ]
     ],
     "heartgold-soulsilver": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ]
     ],
     "platinum": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62",
-        "Hurricane learnt at level 68"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ],
+        [
+            "Hurricane",
+            68
+        ]
     ],
     "diamond-pearl": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ]
     ],
     "firered-leafgreen": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 20",
-        "Wing-attack learnt at level 27",
-        "Feather-dance learnt at level 34",
-        "Agility learnt at level 48",
-        "Mirror-move learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            20
+        ],
+        [
+            "Wing-attack",
+            27
+        ],
+        [
+            "Feather-dance",
+            34
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Mirror-move",
+            62
+        ]
     ],
     "emerald": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 20",
-        "Wing-attack learnt at level 27",
-        "Feather-dance learnt at level 34",
-        "Agility learnt at level 48",
-        "Mirror-move learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            20
+        ],
+        [
+            "Wing-attack",
+            27
+        ],
+        [
+            "Feather-dance",
+            34
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Mirror-move",
+            62
+        ]
     ],
     "ruby-sapphire": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 20",
-        "Wing-attack learnt at level 27",
-        "Feather-dance learnt at level 34",
-        "Agility learnt at level 48",
-        "Mirror-move learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            20
+        ],
+        [
+            "Wing-attack",
+            27
+        ],
+        [
+            "Feather-dance",
+            34
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Mirror-move",
+            62
+        ]
     ],
     "crystal": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 15",
-        "Whirlwind learnt at level 23",
-        "Wing-attack learnt at level 33",
-        "Agility learnt at level 46",
-        "Mirror-move learnt at level 61"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            15
+        ],
+        [
+            "Whirlwind",
+            23
+        ],
+        [
+            "Wing-attack",
+            33
+        ],
+        [
+            "Agility",
+            46
+        ],
+        [
+            "Mirror-move",
+            61
+        ]
     ],
     "gold-silver": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 15",
-        "Whirlwind learnt at level 23",
-        "Wing-attack learnt at level 33",
-        "Agility learnt at level 46",
-        "Mirror-move learnt at level 61"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            15
+        ],
+        [
+            "Whirlwind",
+            23
+        ],
+        [
+            "Wing-attack",
+            33
+        ],
+        [
+            "Agility",
+            46
+        ],
+        [
+            "Mirror-move",
+            61
+        ]
     ],
     "colosseum": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 20",
-        "Wing-attack learnt at level 27",
-        "Feather-dance learnt at level 34",
-        "Agility learnt at level 48",
-        "Mirror-move learnt at level 62"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            20
+        ],
+        [
+            "Wing-attack",
+            27
+        ],
+        [
+            "Feather-dance",
+            34
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Mirror-move",
+            62
+        ]
     ],
     "black-white": [
-        "Gust learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Gust learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Whirlwind learnt at level 17",
-        "Twister learnt at level 22",
-        "Feather-dance learnt at level 27",
-        "Agility learnt at level 32",
-        "Wing-attack learnt at level 38",
-        "Roost learnt at level 44",
-        "Tailwind learnt at level 50",
-        "Mirror-move learnt at level 56",
-        "Air-slash learnt at level 62",
-        "Hurricane learnt at level 68"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Gust",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Whirlwind",
+            17
+        ],
+        [
+            "Twister",
+            22
+        ],
+        [
+            "Feather-dance",
+            27
+        ],
+        [
+            "Agility",
+            32
+        ],
+        [
+            "Wing-attack",
+            38
+        ],
+        [
+            "Roost",
+            44
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Mirror-move",
+            56
+        ],
+        [
+            "Air-slash",
+            62
+        ],
+        [
+            "Hurricane",
+            68
+        ]
+    ],
+    "yellow": [
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Quick-attack",
+            12
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Wing-attack",
+            31
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Mirror-move",
+            54
+        ]
+    ],
+    "red-blue": [
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Quick-attack",
+            12
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Wing-attack",
+            31
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Mirror-move",
+            54
+        ]
     ]
 }

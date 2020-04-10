@@ -1,260 +1,926 @@
 {
     "red-blue": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 1",
-        "Supersonic learnt at level 33",
-        "Bite learnt at level 38",
-        "Take-down learnt at level 45",
-        "Hyper-beam learnt at level 54"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Supersonic",
+            33
+        ],
+        [
+            "Bite",
+            38
+        ],
+        [
+            "Take-down",
+            45
+        ],
+        [
+            "Hyper-beam",
+            54
+        ]
     ],
     "yellow": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 1",
-        "Supersonic learnt at level 33",
-        "Bite learnt at level 38",
-        "Take-down learnt at level 45",
-        "Hyper-beam learnt at level 54"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Supersonic",
+            33
+        ],
+        [
+            "Bite",
+            38
+        ],
+        [
+            "Take-down",
+            45
+        ],
+        [
+            "Hyper-beam",
+            54
+        ]
     ],
     "gold-silver": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 8",
-        "Bite learnt at level 15",
-        "Supersonic learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Scary-face learnt at level 36",
-        "Take-down learnt at level 43",
-        "Hyper-beam learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            8
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "crystal": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 8",
-        "Bite learnt at level 15",
-        "Supersonic learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Scary-face learnt at level 36",
-        "Take-down learnt at level 43",
-        "Hyper-beam learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            8
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "ruby-sapphire": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 8",
-        "Bite learnt at level 15",
-        "Supersonic learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Scary-face learnt at level 36",
-        "Take-down learnt at level 43",
-        "Hyper-beam learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            8
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "emerald": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 8",
-        "Bite learnt at level 15",
-        "Supersonic learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Scary-face learnt at level 36",
-        "Take-down learnt at level 43",
-        "Hyper-beam learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            8
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "firered-leafgreen": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 8",
-        "Bite learnt at level 15",
-        "Supersonic learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Scary-face learnt at level 36",
-        "Take-down learnt at level 43",
-        "Hyper-beam learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            8
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "diamond-pearl": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Iron-head learnt at level 49",
-        "Hyper-beam learnt at level 57",
-        "Rock-slide learnt at level 65",
-        "Giga-impact learnt at level 73"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Iron-head",
+            49
+        ],
+        [
+            "Hyper-beam",
+            57
+        ],
+        [
+            "Rock-slide",
+            65
+        ],
+        [
+            "Giga-impact",
+            73
+        ]
     ],
     "platinum": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Iron-head learnt at level 49",
-        "Hyper-beam learnt at level 57",
-        "Rock-slide learnt at level 65",
-        "Giga-impact learnt at level 73"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Iron-head",
+            49
+        ],
+        [
+            "Hyper-beam",
+            57
+        ],
+        [
+            "Rock-slide",
+            65
+        ],
+        [
+            "Giga-impact",
+            73
+        ]
     ],
     "heartgold-soulsilver": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Iron-head learnt at level 49",
-        "Hyper-beam learnt at level 57",
-        "Rock-slide learnt at level 65",
-        "Giga-impact learnt at level 73"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Iron-head",
+            49
+        ],
+        [
+            "Hyper-beam",
+            57
+        ],
+        [
+            "Rock-slide",
+            65
+        ],
+        [
+            "Giga-impact",
+            73
+        ]
     ],
     "black-white": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Sky-drop learnt at level 49",
-        "Iron-head learnt at level 57",
-        "Hyper-beam learnt at level 65",
-        "Rock-slide learnt at level 73",
-        "Giga-impact learnt at level 81"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Sky-drop",
+            49
+        ],
+        [
+            "Iron-head",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Rock-slide",
+            73
+        ],
+        [
+            "Giga-impact",
+            81
+        ]
     ],
     "colosseum": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 8",
-        "Bite learnt at level 15",
-        "Supersonic learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Scary-face learnt at level 36",
-        "Take-down learnt at level 43",
-        "Hyper-beam learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            8
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "xd": [
-        "Wing-attack learnt at level 1",
-        "Agility learnt at level 8",
-        "Bite learnt at level 15",
-        "Supersonic learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Scary-face learnt at level 36",
-        "Take-down learnt at level 43",
-        "Hyper-beam learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Agility",
+            8
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Scary-face",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Sky-drop learnt at level 49",
-        "Iron-head learnt at level 57",
-        "Hyper-beam learnt at level 65",
-        "Rock-slide learnt at level 73",
-        "Giga-impact learnt at level 81"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Sky-drop",
+            49
+        ],
+        [
+            "Iron-head",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Rock-slide",
+            73
+        ],
+        [
+            "Giga-impact",
+            81
+        ]
     ],
     "x-y": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Sky-drop learnt at level 49",
-        "Iron-head learnt at level 57",
-        "Hyper-beam learnt at level 65",
-        "Rock-slide learnt at level 73",
-        "Giga-impact learnt at level 81"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Sky-drop",
+            49
+        ],
+        [
+            "Iron-head",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Rock-slide",
+            73
+        ],
+        [
+            "Giga-impact",
+            81
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Sky-drop learnt at level 49",
-        "Iron-head learnt at level 57",
-        "Hyper-beam learnt at level 65",
-        "Rock-slide learnt at level 73",
-        "Giga-impact learnt at level 81"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Sky-drop",
+            49
+        ],
+        [
+            "Iron-head",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Rock-slide",
+            73
+        ],
+        [
+            "Giga-impact",
+            81
+        ]
     ],
     "sun-moon": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Sky-drop learnt at level 49",
-        "Iron-head learnt at level 57",
-        "Hyper-beam learnt at level 65",
-        "Rock-slide learnt at level 73",
-        "Giga-impact learnt at level 81"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Sky-drop",
+            49
+        ],
+        [
+            "Iron-head",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Rock-slide",
+            73
+        ],
+        [
+            "Giga-impact",
+            81
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Wing-attack learnt at level 1",
-        "Bite learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Roar learnt at level 9",
-        "Agility learnt at level 17",
-        "Ancient-power learnt at level 25",
-        "Crunch learnt at level 33",
-        "Take-down learnt at level 41",
-        "Sky-drop learnt at level 49",
-        "Iron-head learnt at level 57",
-        "Hyper-beam learnt at level 65",
-        "Rock-slide learnt at level 73",
-        "Giga-impact learnt at level 81"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Roar",
+            9
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Ancient-power",
+            25
+        ],
+        [
+            "Crunch",
+            33
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Sky-drop",
+            49
+        ],
+        [
+            "Iron-head",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ],
+        [
+            "Rock-slide",
+            73
+        ],
+        [
+            "Giga-impact",
+            81
+        ]
     ]
 }

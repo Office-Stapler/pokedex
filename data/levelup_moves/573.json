@@ -1,50 +1,158 @@
 {
     "ultra-sun-ultra-moon": [
-        "Sing learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Tickle learnt at level 1",
-        "Bullet-seed learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Tail-slap learnt at level 1"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Bullet-seed",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Tail-slap",
+            1
+        ]
     ],
     "sun-moon": [
-        "Sing learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Tickle learnt at level 1",
-        "Bullet-seed learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Tail-slap learnt at level 1"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Bullet-seed",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Tail-slap",
+            1
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Sing learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Tickle learnt at level 1",
-        "Bullet-seed learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Tail-slap learnt at level 1"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Bullet-seed",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Tail-slap",
+            1
+        ]
     ],
     "x-y": [
-        "Sing learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Tickle learnt at level 1",
-        "Bullet-seed learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Tail-slap learnt at level 1"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Bullet-seed",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Tail-slap",
+            1
+        ]
     ],
     "black-2-white-2": [
-        "Sing learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Tickle learnt at level 1",
-        "Bullet-seed learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Tail-slap learnt at level 1"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Bullet-seed",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Tail-slap",
+            1
+        ]
     ],
     "black-white": [
-        "Sing learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Tickle learnt at level 1",
-        "Bullet-seed learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Tail-slap learnt at level 1"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Bullet-seed",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Tail-slap",
+            1
+        ]
     ]
 }

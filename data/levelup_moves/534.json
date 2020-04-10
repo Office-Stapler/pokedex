@@ -1,122 +1,446 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Bide learnt at level 8",
-        "Low-kick learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Wake-up-slap learnt at level 20",
-        "Chip-away learnt at level 24",
-        "Bulk-up learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Dynamic-punch learnt at level 37",
-        "Scary-face learnt at level 41",
-        "Hammer-arm learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Focus-punch learnt at level 53",
-        "Superpower learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Low-kick",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Wake-up-slap",
+            20
+        ],
+        [
+            "Chip-away",
+            24
+        ],
+        [
+            "Bulk-up",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Dynamic-punch",
+            37
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Hammer-arm",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Focus-punch",
+            53
+        ],
+        [
+            "Superpower",
+            57
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Bide learnt at level 8",
-        "Low-kick learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Wake-up-slap learnt at level 20",
-        "Chip-away learnt at level 24",
-        "Bulk-up learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Dynamic-punch learnt at level 37",
-        "Scary-face learnt at level 41",
-        "Hammer-arm learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Focus-punch learnt at level 53",
-        "Superpower learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Low-kick",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Wake-up-slap",
+            20
+        ],
+        [
+            "Chip-away",
+            24
+        ],
+        [
+            "Bulk-up",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Dynamic-punch",
+            37
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Hammer-arm",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Focus-punch",
+            53
+        ],
+        [
+            "Superpower",
+            57
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Bide learnt at level 8",
-        "Low-kick learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Wake-up-slap learnt at level 20",
-        "Chip-away learnt at level 24",
-        "Bulk-up learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Dynamic-punch learnt at level 37",
-        "Scary-face learnt at level 41",
-        "Hammer-arm learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Focus-punch learnt at level 53",
-        "Superpower learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Low-kick",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Wake-up-slap",
+            20
+        ],
+        [
+            "Chip-away",
+            24
+        ],
+        [
+            "Bulk-up",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Dynamic-punch",
+            37
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Hammer-arm",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Focus-punch",
+            53
+        ],
+        [
+            "Superpower",
+            57
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Bide learnt at level 8",
-        "Low-kick learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Wake-up-slap learnt at level 20",
-        "Chip-away learnt at level 24",
-        "Bulk-up learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Dynamic-punch learnt at level 37",
-        "Scary-face learnt at level 41",
-        "Hammer-arm learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Focus-punch learnt at level 53",
-        "Superpower learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Low-kick",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Wake-up-slap",
+            20
+        ],
+        [
+            "Chip-away",
+            24
+        ],
+        [
+            "Bulk-up",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Dynamic-punch",
+            37
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Hammer-arm",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Focus-punch",
+            53
+        ],
+        [
+            "Superpower",
+            57
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Bide learnt at level 8",
-        "Low-kick learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Wake-up-slap learnt at level 20",
-        "Chip-away learnt at level 24",
-        "Bulk-up learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Dynamic-punch learnt at level 37",
-        "Scary-face learnt at level 41",
-        "Hammer-arm learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Focus-punch learnt at level 53",
-        "Superpower learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Low-kick",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Wake-up-slap",
+            20
+        ],
+        [
+            "Chip-away",
+            24
+        ],
+        [
+            "Bulk-up",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Dynamic-punch",
+            37
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Hammer-arm",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Focus-punch",
+            53
+        ],
+        [
+            "Superpower",
+            57
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Focus-energy learnt at level 4",
-        "Bide learnt at level 8",
-        "Low-kick learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Wake-up-slap learnt at level 20",
-        "Chip-away learnt at level 24",
-        "Bulk-up learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Dynamic-punch learnt at level 37",
-        "Scary-face learnt at level 41",
-        "Hammer-arm learnt at level 45",
-        "Stone-edge learnt at level 49",
-        "Focus-punch learnt at level 53",
-        "Superpower learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Focus-energy",
+            4
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Low-kick",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Wake-up-slap",
+            20
+        ],
+        [
+            "Chip-away",
+            24
+        ],
+        [
+            "Bulk-up",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Dynamic-punch",
+            37
+        ],
+        [
+            "Scary-face",
+            41
+        ],
+        [
+            "Hammer-arm",
+            45
+        ],
+        [
+            "Stone-edge",
+            49
+        ],
+        [
+            "Focus-punch",
+            53
+        ],
+        [
+            "Superpower",
+            57
+        ]
     ]
 }

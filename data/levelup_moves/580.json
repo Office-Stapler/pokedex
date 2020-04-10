@@ -1,104 +1,374 @@
 {
     "ultra-sun-ultra-moon": [
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 3",
-        "Defog learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Water-pulse learnt at level 13",
-        "Aerial-ace learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Feather-dance learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Air-slash learnt at level 27",
-        "Roost learnt at level 30",
-        "Rain-dance learnt at level 34",
-        "Tailwind learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Hurricane learnt at level 46"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            3
+        ],
+        [
+            "Defog",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Water-pulse",
+            13
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Feather-dance",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Air-slash",
+            27
+        ],
+        [
+            "Roost",
+            30
+        ],
+        [
+            "Rain-dance",
+            34
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Hurricane",
+            46
+        ]
     ],
     "sun-moon": [
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 3",
-        "Defog learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Water-pulse learnt at level 13",
-        "Aerial-ace learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Feather-dance learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Air-slash learnt at level 27",
-        "Roost learnt at level 30",
-        "Rain-dance learnt at level 34",
-        "Tailwind learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Hurricane learnt at level 46"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            3
+        ],
+        [
+            "Defog",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Water-pulse",
+            13
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Feather-dance",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Air-slash",
+            27
+        ],
+        [
+            "Roost",
+            30
+        ],
+        [
+            "Rain-dance",
+            34
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Hurricane",
+            46
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 3",
-        "Defog learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Water-pulse learnt at level 13",
-        "Aerial-ace learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Feather-dance learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Air-slash learnt at level 27",
-        "Roost learnt at level 30",
-        "Rain-dance learnt at level 34",
-        "Tailwind learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Hurricane learnt at level 46"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            3
+        ],
+        [
+            "Defog",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Water-pulse",
+            13
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Feather-dance",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Air-slash",
+            27
+        ],
+        [
+            "Roost",
+            30
+        ],
+        [
+            "Rain-dance",
+            34
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Hurricane",
+            46
+        ]
     ],
     "x-y": [
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 3",
-        "Defog learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Water-pulse learnt at level 13",
-        "Aerial-ace learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Feather-dance learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Air-slash learnt at level 27",
-        "Roost learnt at level 30",
-        "Rain-dance learnt at level 34",
-        "Tailwind learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Hurricane learnt at level 46"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            3
+        ],
+        [
+            "Defog",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Water-pulse",
+            13
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Feather-dance",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Air-slash",
+            27
+        ],
+        [
+            "Roost",
+            30
+        ],
+        [
+            "Rain-dance",
+            34
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Hurricane",
+            46
+        ]
     ],
     "black-2-white-2": [
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 3",
-        "Defog learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Water-pulse learnt at level 13",
-        "Aerial-ace learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Feather-dance learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Air-slash learnt at level 27",
-        "Roost learnt at level 30",
-        "Rain-dance learnt at level 34",
-        "Tailwind learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Hurricane learnt at level 46"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            3
+        ],
+        [
+            "Defog",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Water-pulse",
+            13
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Feather-dance",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Air-slash",
+            27
+        ],
+        [
+            "Roost",
+            30
+        ],
+        [
+            "Rain-dance",
+            34
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Hurricane",
+            46
+        ]
     ],
     "black-white": [
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 3",
-        "Defog learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Water-pulse learnt at level 13",
-        "Aerial-ace learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Feather-dance learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Air-slash learnt at level 27",
-        "Roost learnt at level 30",
-        "Rain-dance learnt at level 34",
-        "Tailwind learnt at level 37",
-        "Brave-bird learnt at level 41",
-        "Hurricane learnt at level 46"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            3
+        ],
+        [
+            "Defog",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Water-pulse",
+            13
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Feather-dance",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Air-slash",
+            27
+        ],
+        [
+            "Roost",
+            30
+        ],
+        [
+            "Rain-dance",
+            34
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Brave-bird",
+            41
+        ],
+        [
+            "Hurricane",
+            46
+        ]
     ]
 }

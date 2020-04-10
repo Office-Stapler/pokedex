@@ -1,272 +1,1006 @@
 {
-    "heartgold-soulsilver": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Mud-bomb learnt at level 14",
-        "Amnesia learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Magnitude learnt at level 26",
-        "Rest learnt at level 33",
-        "Snore learnt at level 33",
-        "Aqua-tail learnt at level 39",
-        "Earthquake learnt at level 45",
-        "Future-sight learnt at level 51",
-        "Fissure learnt at level 57"
-    ],
     "ultra-sun-ultra-moon": [
-        "Thrash learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Belch learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 9",
-        "Mud-bomb learnt at level 13",
-        "Amnesia learnt at level 15",
-        "Water-pulse learnt at level 17",
-        "Magnitude learnt at level 20",
-        "Rest learnt at level 25",
-        "Snore learnt at level 25",
-        "Aqua-tail learnt at level 28",
-        "Earthquake learnt at level 34",
-        "Muddy-water learnt at level 39",
-        "Future-sight learnt at level 45",
-        "Fissure learnt at level 52"
+        [
+            "Thrash",
+            0
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Belch",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Mud-bomb",
+            13
+        ],
+        [
+            "Amnesia",
+            15
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Magnitude",
+            20
+        ],
+        [
+            "Rest",
+            25
+        ],
+        [
+            "Snore",
+            25
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Earthquake",
+            34
+        ],
+        [
+            "Muddy-water",
+            39
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Fissure",
+            52
+        ]
     ],
     "sun-moon": [
-        "Thrash learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Belch learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 9",
-        "Mud-bomb learnt at level 13",
-        "Amnesia learnt at level 15",
-        "Water-pulse learnt at level 17",
-        "Magnitude learnt at level 20",
-        "Rest learnt at level 25",
-        "Snore learnt at level 25",
-        "Aqua-tail learnt at level 28",
-        "Earthquake learnt at level 34",
-        "Muddy-water learnt at level 39",
-        "Future-sight learnt at level 45",
-        "Fissure learnt at level 52"
-    ],
-    "xd": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Rest learnt at level 26",
-        "Snore learnt at level 26",
-        "Earthquake learnt at level 36",
-        "Future-sight learnt at level 46",
-        "Fissure learnt at level 56"
-    ],
-    "firered-leafgreen": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Rest learnt at level 26",
-        "Snore learnt at level 26",
-        "Earthquake learnt at level 36",
-        "Future-sight learnt at level 46",
-        "Fissure learnt at level 56"
-    ],
-    "emerald": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Rest learnt at level 26",
-        "Snore learnt at level 26",
-        "Earthquake learnt at level 36",
-        "Future-sight learnt at level 46",
-        "Fissure learnt at level 56"
+        [
+            "Thrash",
+            0
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Belch",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Mud-bomb",
+            13
+        ],
+        [
+            "Amnesia",
+            15
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Magnitude",
+            20
+        ],
+        [
+            "Rest",
+            25
+        ],
+        [
+            "Snore",
+            25
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Earthquake",
+            34
+        ],
+        [
+            "Muddy-water",
+            39
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Fissure",
+            52
+        ]
     ],
     "x-y": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Mud-bomb learnt at level 14",
-        "Amnesia learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Magnitude learnt at level 26",
-        "Rest learnt at level 33",
-        "Snore learnt at level 33",
-        "Aqua-tail learnt at level 39",
-        "Earthquake learnt at level 45",
-        "Future-sight learnt at level 51",
-        "Fissure learnt at level 57"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Mud-bomb",
+            14
+        ],
+        [
+            "Amnesia",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Magnitude",
+            26
+        ],
+        [
+            "Rest",
+            33
+        ],
+        [
+            "Snore",
+            33
+        ],
+        [
+            "Aqua-tail",
+            39
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Future-sight",
+            51
+        ],
+        [
+            "Fissure",
+            57
+        ]
     ],
     "black-2-white-2": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Mud-bomb learnt at level 14",
-        "Amnesia learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Magnitude learnt at level 26",
-        "Rest learnt at level 33",
-        "Snore learnt at level 33",
-        "Aqua-tail learnt at level 39",
-        "Earthquake learnt at level 45",
-        "Future-sight learnt at level 51",
-        "Fissure learnt at level 57"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Mud-bomb",
+            14
+        ],
+        [
+            "Amnesia",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Magnitude",
+            26
+        ],
+        [
+            "Rest",
+            33
+        ],
+        [
+            "Snore",
+            33
+        ],
+        [
+            "Aqua-tail",
+            39
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Future-sight",
+            51
+        ],
+        [
+            "Fissure",
+            57
+        ]
+    ],
+    "xd": [
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Rest",
+            26
+        ],
+        [
+            "Snore",
+            26
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Future-sight",
+            46
+        ],
+        [
+            "Fissure",
+            56
+        ]
     ],
     "colosseum": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Rest learnt at level 26",
-        "Snore learnt at level 26",
-        "Earthquake learnt at level 36",
-        "Future-sight learnt at level 46",
-        "Fissure learnt at level 56"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Rest",
+            26
+        ],
+        [
+            "Snore",
+            26
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Future-sight",
+            46
+        ],
+        [
+            "Fissure",
+            56
+        ]
     ],
     "black-white": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Mud-bomb learnt at level 14",
-        "Amnesia learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Magnitude learnt at level 26",
-        "Rest learnt at level 33",
-        "Snore learnt at level 33",
-        "Aqua-tail learnt at level 39",
-        "Earthquake learnt at level 45",
-        "Future-sight learnt at level 51",
-        "Fissure learnt at level 57"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Mud-bomb",
+            14
+        ],
+        [
+            "Amnesia",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Magnitude",
+            26
+        ],
+        [
+            "Rest",
+            33
+        ],
+        [
+            "Snore",
+            33
+        ],
+        [
+            "Aqua-tail",
+            39
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Future-sight",
+            51
+        ],
+        [
+            "Fissure",
+            57
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Water-gun learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 9",
-        "Mud-bomb learnt at level 13",
-        "Amnesia learnt at level 15",
-        "Water-pulse learnt at level 17",
-        "Magnitude learnt at level 20",
-        "Rest learnt at level 25",
-        "Snore learnt at level 25",
-        "Aqua-tail learnt at level 28",
-        "Zen-headbutt learnt at level 30",
-        "Earthquake learnt at level 34",
-        "Muddy-water learnt at level 39",
-        "Future-sight learnt at level 45",
-        "Fissure learnt at level 52"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Mud-bomb",
+            13
+        ],
+        [
+            "Amnesia",
+            15
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Magnitude",
+            20
+        ],
+        [
+            "Rest",
+            25
+        ],
+        [
+            "Snore",
+            25
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Zen-headbutt",
+            30
+        ],
+        [
+            "Earthquake",
+            34
+        ],
+        [
+            "Muddy-water",
+            39
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Fissure",
+            52
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Mud-bomb",
+            14
+        ],
+        [
+            "Amnesia",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Magnitude",
+            26
+        ],
+        [
+            "Rest",
+            33
+        ],
+        [
+            "Snore",
+            33
+        ],
+        [
+            "Aqua-tail",
+            39
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Future-sight",
+            51
+        ],
+        [
+            "Fissure",
+            57
+        ]
     ],
     "platinum": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Mud-bomb learnt at level 14",
-        "Amnesia learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Magnitude learnt at level 26",
-        "Rest learnt at level 33",
-        "Snore learnt at level 33",
-        "Aqua-tail learnt at level 39",
-        "Earthquake learnt at level 45",
-        "Future-sight learnt at level 51",
-        "Fissure learnt at level 57"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Mud-bomb",
+            14
+        ],
+        [
+            "Amnesia",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Magnitude",
+            26
+        ],
+        [
+            "Rest",
+            33
+        ],
+        [
+            "Snore",
+            33
+        ],
+        [
+            "Aqua-tail",
+            39
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Future-sight",
+            51
+        ],
+        [
+            "Fissure",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Zen-headbutt learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Mud-bomb learnt at level 14",
-        "Amnesia learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Magnitude learnt at level 26",
-        "Rest learnt at level 33",
-        "Snore learnt at level 33",
-        "Aqua-tail learnt at level 39",
-        "Earthquake learnt at level 45",
-        "Future-sight learnt at level 51",
-        "Fissure learnt at level 57"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Zen-headbutt",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Mud-bomb",
+            14
+        ],
+        [
+            "Amnesia",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Magnitude",
+            26
+        ],
+        [
+            "Rest",
+            33
+        ],
+        [
+            "Snore",
+            33
+        ],
+        [
+            "Aqua-tail",
+            39
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Future-sight",
+            51
+        ],
+        [
+            "Fissure",
+            57
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Rest",
+            26
+        ],
+        [
+            "Snore",
+            26
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Future-sight",
+            46
+        ],
+        [
+            "Fissure",
+            56
+        ]
+    ],
+    "emerald": [
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Rest",
+            26
+        ],
+        [
+            "Snore",
+            26
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Future-sight",
+            46
+        ],
+        [
+            "Fissure",
+            56
+        ]
     ],
     "ruby-sapphire": [
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Tickle learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Water-sport learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Amnesia learnt at level 21",
-        "Rest learnt at level 26",
-        "Snore learnt at level 26",
-        "Earthquake learnt at level 36",
-        "Future-sight learnt at level 46",
-        "Fissure learnt at level 56"
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Tickle",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Water-sport",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Amnesia",
+            21
+        ],
+        [
+            "Rest",
+            26
+        ],
+        [
+            "Snore",
+            26
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Future-sight",
+            46
+        ],
+        [
+            "Fissure",
+            56
+        ]
     ]
 }

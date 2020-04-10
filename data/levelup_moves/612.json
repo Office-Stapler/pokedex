@@ -1,132 +1,486 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Dragon-rage learnt at level 1",
-        "Outrage learnt at level 1",
-        "Assurance learnt at level 1",
-        "Leer learnt at level 4",
-        "Assurance learnt at level 7",
-        "Dragon-rage learnt at level 10",
-        "Dual-chop learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Slash learnt at level 20",
-        "False-swipe learnt at level 24",
-        "Dragon-claw learnt at level 28",
-        "Dragon-dance learnt at level 32",
-        "Taunt learnt at level 36",
-        "Dragon-pulse learnt at level 42",
-        "Swords-dance learnt at level 50",
-        "Guillotine learnt at level 58",
-        "Outrage learnt at level 66",
-        "Giga-impact learnt at level 74"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Assurance",
+            7
+        ],
+        [
+            "Dragon-rage",
+            10
+        ],
+        [
+            "Dual-chop",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "False-swipe",
+            24
+        ],
+        [
+            "Dragon-claw",
+            28
+        ],
+        [
+            "Dragon-dance",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Swords-dance",
+            50
+        ],
+        [
+            "Guillotine",
+            58
+        ],
+        [
+            "Outrage",
+            66
+        ],
+        [
+            "Giga-impact",
+            74
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Dragon-rage learnt at level 1",
-        "Outrage learnt at level 1",
-        "Assurance learnt at level 1",
-        "Leer learnt at level 4",
-        "Assurance learnt at level 7",
-        "Dragon-rage learnt at level 10",
-        "Dual-chop learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Slash learnt at level 20",
-        "False-swipe learnt at level 24",
-        "Dragon-claw learnt at level 28",
-        "Dragon-dance learnt at level 32",
-        "Taunt learnt at level 36",
-        "Dragon-pulse learnt at level 42",
-        "Swords-dance learnt at level 50",
-        "Guillotine learnt at level 58",
-        "Outrage learnt at level 66",
-        "Giga-impact learnt at level 74"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Assurance",
+            7
+        ],
+        [
+            "Dragon-rage",
+            10
+        ],
+        [
+            "Dual-chop",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "False-swipe",
+            24
+        ],
+        [
+            "Dragon-claw",
+            28
+        ],
+        [
+            "Dragon-dance",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Swords-dance",
+            50
+        ],
+        [
+            "Guillotine",
+            58
+        ],
+        [
+            "Outrage",
+            66
+        ],
+        [
+            "Giga-impact",
+            74
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Dragon-rage learnt at level 1",
-        "Outrage learnt at level 1",
-        "Assurance learnt at level 1",
-        "Leer learnt at level 4",
-        "Assurance learnt at level 7",
-        "Dragon-rage learnt at level 10",
-        "Dual-chop learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Slash learnt at level 20",
-        "False-swipe learnt at level 24",
-        "Dragon-claw learnt at level 28",
-        "Dragon-dance learnt at level 32",
-        "Taunt learnt at level 36",
-        "Dragon-pulse learnt at level 42",
-        "Swords-dance learnt at level 50",
-        "Guillotine learnt at level 58",
-        "Outrage learnt at level 66",
-        "Giga-impact learnt at level 74"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Assurance",
+            7
+        ],
+        [
+            "Dragon-rage",
+            10
+        ],
+        [
+            "Dual-chop",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "False-swipe",
+            24
+        ],
+        [
+            "Dragon-claw",
+            28
+        ],
+        [
+            "Dragon-dance",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Swords-dance",
+            50
+        ],
+        [
+            "Guillotine",
+            58
+        ],
+        [
+            "Outrage",
+            66
+        ],
+        [
+            "Giga-impact",
+            74
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Dragon-rage learnt at level 1",
-        "Outrage learnt at level 1",
-        "Assurance learnt at level 1",
-        "Leer learnt at level 4",
-        "Assurance learnt at level 7",
-        "Dragon-rage learnt at level 10",
-        "Dual-chop learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Slash learnt at level 20",
-        "False-swipe learnt at level 24",
-        "Dragon-claw learnt at level 28",
-        "Dragon-dance learnt at level 32",
-        "Taunt learnt at level 36",
-        "Dragon-pulse learnt at level 42",
-        "Swords-dance learnt at level 50",
-        "Guillotine learnt at level 58",
-        "Outrage learnt at level 66",
-        "Giga-impact learnt at level 74"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Assurance",
+            7
+        ],
+        [
+            "Dragon-rage",
+            10
+        ],
+        [
+            "Dual-chop",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "False-swipe",
+            24
+        ],
+        [
+            "Dragon-claw",
+            28
+        ],
+        [
+            "Dragon-dance",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Swords-dance",
+            50
+        ],
+        [
+            "Guillotine",
+            58
+        ],
+        [
+            "Outrage",
+            66
+        ],
+        [
+            "Giga-impact",
+            74
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Dragon-rage learnt at level 1",
-        "Assurance learnt at level 1",
-        "Leer learnt at level 4",
-        "Assurance learnt at level 7",
-        "Dragon-rage learnt at level 10",
-        "Dual-chop learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Slash learnt at level 20",
-        "False-swipe learnt at level 24",
-        "Dragon-claw learnt at level 28",
-        "Dragon-dance learnt at level 32",
-        "Taunt learnt at level 36",
-        "Dragon-pulse learnt at level 42",
-        "Swords-dance learnt at level 50",
-        "Guillotine learnt at level 58",
-        "Outrage learnt at level 66",
-        "Giga-impact learnt at level 74"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Assurance",
+            7
+        ],
+        [
+            "Dragon-rage",
+            10
+        ],
+        [
+            "Dual-chop",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "False-swipe",
+            24
+        ],
+        [
+            "Dragon-claw",
+            28
+        ],
+        [
+            "Dragon-dance",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Swords-dance",
+            50
+        ],
+        [
+            "Guillotine",
+            58
+        ],
+        [
+            "Outrage",
+            66
+        ],
+        [
+            "Giga-impact",
+            74
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Dragon-rage learnt at level 1",
-        "Assurance learnt at level 1",
-        "Leer learnt at level 4",
-        "Assurance learnt at level 7",
-        "Dragon-rage learnt at level 10",
-        "Dual-chop learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Slash learnt at level 20",
-        "False-swipe learnt at level 24",
-        "Dragon-claw learnt at level 28",
-        "Dragon-dance learnt at level 32",
-        "Taunt learnt at level 36",
-        "Dragon-pulse learnt at level 42",
-        "Swords-dance learnt at level 50",
-        "Guillotine learnt at level 58",
-        "Outrage learnt at level 66",
-        "Giga-impact learnt at level 74"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Assurance",
+            7
+        ],
+        [
+            "Dragon-rage",
+            10
+        ],
+        [
+            "Dual-chop",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "False-swipe",
+            24
+        ],
+        [
+            "Dragon-claw",
+            28
+        ],
+        [
+            "Dragon-dance",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Swords-dance",
+            50
+        ],
+        [
+            "Guillotine",
+            58
+        ],
+        [
+            "Outrage",
+            66
+        ],
+        [
+            "Giga-impact",
+            74
+        ]
     ]
 }

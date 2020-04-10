@@ -1,40 +1,142 @@
 {
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Echoed-voice learnt at level 1",
-        "Growl learnt at level 3",
-        "Echoed-voice learnt at level 7",
-        "Rock-smash learnt at level 9",
-        "Supersonic learnt at level 13",
-        "Pluck learnt at level 16",
-        "Roost learnt at level 21",
-        "Fury-attack learnt at level 24",
-        "Screech learnt at level 29",
-        "Drill-peck learnt at level 32",
-        "Bullet-seed learnt at level 37",
-        "Feather-dance learnt at level 40",
-        "Hyper-voice learnt at level 45"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Echoed-voice",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Echoed-voice",
+            7
+        ],
+        [
+            "Rock-smash",
+            9
+        ],
+        [
+            "Supersonic",
+            13
+        ],
+        [
+            "Pluck",
+            16
+        ],
+        [
+            "Roost",
+            21
+        ],
+        [
+            "Fury-attack",
+            24
+        ],
+        [
+            "Screech",
+            29
+        ],
+        [
+            "Drill-peck",
+            32
+        ],
+        [
+            "Bullet-seed",
+            37
+        ],
+        [
+            "Feather-dance",
+            40
+        ],
+        [
+            "Hyper-voice",
+            45
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Rock-blast learnt at level 1",
-        "Echoed-voice learnt at level 1",
-        "Growl learnt at level 3",
-        "Echoed-voice learnt at level 7",
-        "Rock-smash learnt at level 9",
-        "Supersonic learnt at level 13",
-        "Pluck learnt at level 16",
-        "Roost learnt at level 21",
-        "Fury-attack learnt at level 24",
-        "Screech learnt at level 29",
-        "Drill-peck learnt at level 32",
-        "Bullet-seed learnt at level 37",
-        "Feather-dance learnt at level 40",
-        "Hyper-voice learnt at level 45"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Rock-blast",
+            1
+        ],
+        [
+            "Echoed-voice",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Echoed-voice",
+            7
+        ],
+        [
+            "Rock-smash",
+            9
+        ],
+        [
+            "Supersonic",
+            13
+        ],
+        [
+            "Pluck",
+            16
+        ],
+        [
+            "Roost",
+            21
+        ],
+        [
+            "Fury-attack",
+            24
+        ],
+        [
+            "Screech",
+            29
+        ],
+        [
+            "Drill-peck",
+            32
+        ],
+        [
+            "Bullet-seed",
+            37
+        ],
+        [
+            "Feather-dance",
+            40
+        ],
+        [
+            "Hyper-voice",
+            45
+        ]
     ]
 }

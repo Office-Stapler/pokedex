@@ -1,122 +1,454 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Bubble learnt at level 1",
-        "Round learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Round learnt at level 9",
-        "Bubble-beam learnt at level 12",
-        "Mud-shot learnt at level 16",
-        "Aqua-ring learnt at level 20",
-        "Uproar learnt at level 23",
-        "Muddy-water learnt at level 28",
-        "Rain-dance learnt at level 33",
-        "Acid learnt at level 36",
-        "Flail learnt at level 39",
-        "Drain-punch learnt at level 44",
-        "Echoed-voice learnt at level 49",
-        "Hydro-pump learnt at level 53",
-        "Hyper-voice learnt at level 59"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Bubble learnt at level 1",
-        "Round learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Round learnt at level 9",
-        "Bubble-beam learnt at level 12",
-        "Mud-shot learnt at level 16",
-        "Aqua-ring learnt at level 20",
-        "Uproar learnt at level 23",
-        "Muddy-water learnt at level 28",
-        "Rain-dance learnt at level 33",
-        "Acid learnt at level 36",
-        "Flail learnt at level 39",
-        "Drain-punch learnt at level 44",
-        "Echoed-voice learnt at level 49",
-        "Hydro-pump learnt at level 53",
-        "Hyper-voice learnt at level 59"
-    ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Acid learnt at level 1",
-        "Bubble learnt at level 1",
-        "Round learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Round learnt at level 9",
-        "Bubble-beam learnt at level 12",
-        "Mud-shot learnt at level 16",
-        "Aqua-ring learnt at level 20",
-        "Uproar learnt at level 23",
-        "Muddy-water learnt at level 28",
-        "Rain-dance learnt at level 33",
-        "Flail learnt at level 39",
-        "Drain-punch learnt at level 44",
-        "Echoed-voice learnt at level 49",
-        "Hydro-pump learnt at level 53",
-        "Hyper-voice learnt at level 59"
+        [
+            "Acid",
+            0
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Round",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Round",
+            9
+        ],
+        [
+            "Bubble-beam",
+            12
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Aqua-ring",
+            20
+        ],
+        [
+            "Uproar",
+            23
+        ],
+        [
+            "Muddy-water",
+            28
+        ],
+        [
+            "Rain-dance",
+            33
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Drain-punch",
+            44
+        ],
+        [
+            "Echoed-voice",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Hyper-voice",
+            59
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Acid learnt at level 1",
-        "Bubble learnt at level 1",
-        "Round learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Round learnt at level 9",
-        "Bubble-beam learnt at level 12",
-        "Mud-shot learnt at level 16",
-        "Aqua-ring learnt at level 20",
-        "Uproar learnt at level 23",
-        "Muddy-water learnt at level 28",
-        "Rain-dance learnt at level 33",
-        "Flail learnt at level 39",
-        "Drain-punch learnt at level 44",
-        "Echoed-voice learnt at level 49",
-        "Hydro-pump learnt at level 53",
-        "Hyper-voice learnt at level 59"
+        [
+            "Acid",
+            0
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Round",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Round",
+            9
+        ],
+        [
+            "Bubble-beam",
+            12
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Aqua-ring",
+            20
+        ],
+        [
+            "Uproar",
+            23
+        ],
+        [
+            "Muddy-water",
+            28
+        ],
+        [
+            "Rain-dance",
+            33
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Drain-punch",
+            44
+        ],
+        [
+            "Echoed-voice",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Hyper-voice",
+            59
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Round",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Round",
+            9
+        ],
+        [
+            "Bubble-beam",
+            12
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Aqua-ring",
+            20
+        ],
+        [
+            "Uproar",
+            23
+        ],
+        [
+            "Muddy-water",
+            28
+        ],
+        [
+            "Rain-dance",
+            33
+        ],
+        [
+            "Acid",
+            36
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Drain-punch",
+            44
+        ],
+        [
+            "Echoed-voice",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Hyper-voice",
+            59
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Bubble learnt at level 1",
-        "Round learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Round learnt at level 9",
-        "Bubble-beam learnt at level 12",
-        "Mud-shot learnt at level 16",
-        "Aqua-ring learnt at level 20",
-        "Uproar learnt at level 23",
-        "Muddy-water learnt at level 28",
-        "Rain-dance learnt at level 33",
-        "Acid learnt at level 36",
-        "Flail learnt at level 39",
-        "Drain-punch learnt at level 44",
-        "Echoed-voice learnt at level 49",
-        "Hydro-pump learnt at level 53",
-        "Hyper-voice learnt at level 59"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Round",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Round",
+            9
+        ],
+        [
+            "Bubble-beam",
+            12
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Aqua-ring",
+            20
+        ],
+        [
+            "Uproar",
+            23
+        ],
+        [
+            "Muddy-water",
+            28
+        ],
+        [
+            "Rain-dance",
+            33
+        ],
+        [
+            "Acid",
+            36
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Drain-punch",
+            44
+        ],
+        [
+            "Echoed-voice",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Hyper-voice",
+            59
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Round",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Round",
+            9
+        ],
+        [
+            "Bubble-beam",
+            12
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Aqua-ring",
+            20
+        ],
+        [
+            "Uproar",
+            23
+        ],
+        [
+            "Muddy-water",
+            28
+        ],
+        [
+            "Rain-dance",
+            33
+        ],
+        [
+            "Acid",
+            36
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Drain-punch",
+            44
+        ],
+        [
+            "Echoed-voice",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Hyper-voice",
+            59
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Bubble learnt at level 1",
-        "Round learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Round learnt at level 9",
-        "Bubble-beam learnt at level 12",
-        "Mud-shot learnt at level 16",
-        "Aqua-ring learnt at level 20",
-        "Uproar learnt at level 23",
-        "Muddy-water learnt at level 28",
-        "Rain-dance learnt at level 33",
-        "Acid learnt at level 36",
-        "Flail learnt at level 39",
-        "Drain-punch learnt at level 44",
-        "Echoed-voice learnt at level 49",
-        "Hydro-pump learnt at level 53",
-        "Hyper-voice learnt at level 59"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Round",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Round",
+            9
+        ],
+        [
+            "Bubble-beam",
+            12
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Aqua-ring",
+            20
+        ],
+        [
+            "Uproar",
+            23
+        ],
+        [
+            "Muddy-water",
+            28
+        ],
+        [
+            "Rain-dance",
+            33
+        ],
+        [
+            "Acid",
+            36
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Drain-punch",
+            44
+        ],
+        [
+            "Echoed-voice",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Hyper-voice",
+            59
+        ]
     ]
 }

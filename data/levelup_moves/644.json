@@ -1,110 +1,398 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Dragon-rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Imprison learnt at level 8",
-        "Ancient-power learnt at level 15",
-        "Thunderbolt learnt at level 22",
-        "Dragon-breath learnt at level 29",
-        "Slash learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Fusion-bolt learnt at level 50",
-        "Dragon-claw learnt at level 54",
-        "Imprison learnt at level 64",
-        "Crunch learnt at level 71",
-        "Thunder learnt at level 78",
-        "Outrage learnt at level 85",
-        "Hyper-voice learnt at level 92",
-        "Bolt-strike learnt at level 100"
-    ],
-    "black-2-white-2": [
-        "Dragon-rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Imprison learnt at level 8",
-        "Ancient-power learnt at level 15",
-        "Thunderbolt learnt at level 22",
-        "Dragon-breath learnt at level 29",
-        "Slash learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Fusion-bolt learnt at level 50",
-        "Dragon-claw learnt at level 54",
-        "Imprison learnt at level 64",
-        "Crunch learnt at level 71",
-        "Thunder learnt at level 78",
-        "Outrage learnt at level 85",
-        "Hyper-voice learnt at level 92",
-        "Bolt-strike learnt at level 100"
-    ],
-    "x-y": [
-        "Dragon-rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Imprison learnt at level 8",
-        "Ancient-power learnt at level 15",
-        "Thunderbolt learnt at level 22",
-        "Dragon-breath learnt at level 29",
-        "Slash learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Fusion-bolt learnt at level 50",
-        "Dragon-claw learnt at level 54",
-        "Imprison learnt at level 64",
-        "Crunch learnt at level 71",
-        "Thunder learnt at level 78",
-        "Outrage learnt at level 85",
-        "Hyper-voice learnt at level 92",
-        "Bolt-strike learnt at level 100"
-    ],
-    "black-white": [
-        "Dragon-rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Imprison learnt at level 8",
-        "Ancient-power learnt at level 15",
-        "Thunderbolt learnt at level 22",
-        "Dragon-breath learnt at level 29",
-        "Slash learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Fusion-bolt learnt at level 50",
-        "Dragon-claw learnt at level 54",
-        "Imprison learnt at level 64",
-        "Crunch learnt at level 71",
-        "Thunder learnt at level 78",
-        "Outrage learnt at level 85",
-        "Hyper-voice learnt at level 92",
-        "Bolt-strike learnt at level 100"
-    ],
     "ultra-sun-ultra-moon": [
-        "Dragon-rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Imprison learnt at level 8",
-        "Ancient-power learnt at level 15",
-        "Thunderbolt learnt at level 22",
-        "Dragon-breath learnt at level 29",
-        "Slash learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Fusion-bolt learnt at level 50",
-        "Dragon-claw learnt at level 54",
-        "Noble-roar learnt at level 64",
-        "Crunch learnt at level 71",
-        "Thunder learnt at level 78",
-        "Outrage learnt at level 85",
-        "Hyper-voice learnt at level 92",
-        "Bolt-strike learnt at level 100"
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Imprison",
+            8
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Thunderbolt",
+            22
+        ],
+        [
+            "Dragon-breath",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Fusion-bolt",
+            50
+        ],
+        [
+            "Dragon-claw",
+            54
+        ],
+        [
+            "Noble-roar",
+            64
+        ],
+        [
+            "Crunch",
+            71
+        ],
+        [
+            "Thunder",
+            78
+        ],
+        [
+            "Outrage",
+            85
+        ],
+        [
+            "Hyper-voice",
+            92
+        ],
+        [
+            "Bolt-strike",
+            100
+        ]
     ],
     "sun-moon": [
-        "Dragon-rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Imprison learnt at level 8",
-        "Ancient-power learnt at level 15",
-        "Thunderbolt learnt at level 22",
-        "Dragon-breath learnt at level 29",
-        "Slash learnt at level 36",
-        "Zen-headbutt learnt at level 43",
-        "Fusion-bolt learnt at level 50",
-        "Dragon-claw learnt at level 54",
-        "Imprison learnt at level 64",
-        "Crunch learnt at level 71",
-        "Thunder learnt at level 78",
-        "Outrage learnt at level 85",
-        "Hyper-voice learnt at level 92",
-        "Bolt-strike learnt at level 100"
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Imprison",
+            8
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Thunderbolt",
+            22
+        ],
+        [
+            "Dragon-breath",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Fusion-bolt",
+            50
+        ],
+        [
+            "Dragon-claw",
+            54
+        ],
+        [
+            "Imprison",
+            64
+        ],
+        [
+            "Crunch",
+            71
+        ],
+        [
+            "Thunder",
+            78
+        ],
+        [
+            "Outrage",
+            85
+        ],
+        [
+            "Hyper-voice",
+            92
+        ],
+        [
+            "Bolt-strike",
+            100
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Imprison",
+            8
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Thunderbolt",
+            22
+        ],
+        [
+            "Dragon-breath",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Fusion-bolt",
+            50
+        ],
+        [
+            "Dragon-claw",
+            54
+        ],
+        [
+            "Imprison",
+            64
+        ],
+        [
+            "Crunch",
+            71
+        ],
+        [
+            "Thunder",
+            78
+        ],
+        [
+            "Outrage",
+            85
+        ],
+        [
+            "Hyper-voice",
+            92
+        ],
+        [
+            "Bolt-strike",
+            100
+        ]
+    ],
+    "x-y": [
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Imprison",
+            8
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Thunderbolt",
+            22
+        ],
+        [
+            "Dragon-breath",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Fusion-bolt",
+            50
+        ],
+        [
+            "Dragon-claw",
+            54
+        ],
+        [
+            "Imprison",
+            64
+        ],
+        [
+            "Crunch",
+            71
+        ],
+        [
+            "Thunder",
+            78
+        ],
+        [
+            "Outrage",
+            85
+        ],
+        [
+            "Hyper-voice",
+            92
+        ],
+        [
+            "Bolt-strike",
+            100
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Imprison",
+            8
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Thunderbolt",
+            22
+        ],
+        [
+            "Dragon-breath",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Fusion-bolt",
+            50
+        ],
+        [
+            "Dragon-claw",
+            54
+        ],
+        [
+            "Imprison",
+            64
+        ],
+        [
+            "Crunch",
+            71
+        ],
+        [
+            "Thunder",
+            78
+        ],
+        [
+            "Outrage",
+            85
+        ],
+        [
+            "Hyper-voice",
+            92
+        ],
+        [
+            "Bolt-strike",
+            100
+        ]
+    ],
+    "black-white": [
+        [
+            "Dragon-rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Imprison",
+            8
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Thunderbolt",
+            22
+        ],
+        [
+            "Dragon-breath",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            43
+        ],
+        [
+            "Fusion-bolt",
+            50
+        ],
+        [
+            "Dragon-claw",
+            54
+        ],
+        [
+            "Imprison",
+            64
+        ],
+        [
+            "Crunch",
+            71
+        ],
+        [
+            "Thunder",
+            78
+        ],
+        [
+            "Outrage",
+            85
+        ],
+        [
+            "Hyper-voice",
+            92
+        ],
+        [
+            "Bolt-strike",
+            100
+        ]
     ]
 }

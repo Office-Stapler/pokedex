@@ -1,74 +1,266 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Thunder-shock learnt at level 7",
-        "Charge learnt at level 11",
-        "Charm learnt at level 14",
-        "Parabolic-charge learnt at level 17",
-        "Nuzzle learnt at level 20",
-        "Thunder-wave learnt at level 23",
-        "Volt-switch learnt at level 26",
-        "Rest learnt at level 30",
-        "Snore learnt at level 31",
-        "Charge-beam learnt at level 34",
-        "Entrainment learnt at level 39",
-        "Play-rough learnt at level 42",
-        "Thunder learnt at level 45",
-        "Discharge learnt at level 50"
-    ],
-    "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Thunder-shock learnt at level 7",
-        "Charge learnt at level 11",
-        "Charm learnt at level 14",
-        "Parabolic-charge learnt at level 17",
-        "Nuzzle learnt at level 20",
-        "Thunder-wave learnt at level 23",
-        "Volt-switch learnt at level 26",
-        "Rest learnt at level 30",
-        "Snore learnt at level 31",
-        "Charge-beam learnt at level 34",
-        "Entrainment learnt at level 39",
-        "Play-rough learnt at level 42",
-        "Thunder learnt at level 45",
-        "Discharge learnt at level 50"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Thunder-shock learnt at level 7",
-        "Charge learnt at level 11",
-        "Charm learnt at level 14",
-        "Parabolic-charge learnt at level 17",
-        "Nuzzle learnt at level 20",
-        "Thunder-wave learnt at level 23",
-        "Volt-switch learnt at level 26",
-        "Rest learnt at level 30",
-        "Snore learnt at level 31",
-        "Charge-beam learnt at level 34",
-        "Entrainment learnt at level 39",
-        "Play-rough learnt at level 42",
-        "Thunder learnt at level 45",
-        "Discharge learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Charge",
+            11
+        ],
+        [
+            "Charm",
+            14
+        ],
+        [
+            "Parabolic-charge",
+            17
+        ],
+        [
+            "Nuzzle",
+            20
+        ],
+        [
+            "Thunder-wave",
+            23
+        ],
+        [
+            "Volt-switch",
+            26
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Snore",
+            31
+        ],
+        [
+            "Charge-beam",
+            34
+        ],
+        [
+            "Entrainment",
+            39
+        ],
+        [
+            "Play-rough",
+            42
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Discharge",
+            50
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Thunder-shock learnt at level 7",
-        "Charge learnt at level 11",
-        "Charm learnt at level 14",
-        "Parabolic-charge learnt at level 17",
-        "Nuzzle learnt at level 20",
-        "Thunder-wave learnt at level 23",
-        "Volt-switch learnt at level 26",
-        "Rest learnt at level 30",
-        "Snore learnt at level 31",
-        "Charge-beam learnt at level 34",
-        "Entrainment learnt at level 39",
-        "Play-rough learnt at level 42",
-        "Thunder learnt at level 45",
-        "Discharge learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Charge",
+            11
+        ],
+        [
+            "Charm",
+            14
+        ],
+        [
+            "Parabolic-charge",
+            17
+        ],
+        [
+            "Nuzzle",
+            20
+        ],
+        [
+            "Thunder-wave",
+            23
+        ],
+        [
+            "Volt-switch",
+            26
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Snore",
+            31
+        ],
+        [
+            "Charge-beam",
+            34
+        ],
+        [
+            "Entrainment",
+            39
+        ],
+        [
+            "Play-rough",
+            42
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Discharge",
+            50
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Charge",
+            11
+        ],
+        [
+            "Charm",
+            14
+        ],
+        [
+            "Parabolic-charge",
+            17
+        ],
+        [
+            "Nuzzle",
+            20
+        ],
+        [
+            "Thunder-wave",
+            23
+        ],
+        [
+            "Volt-switch",
+            26
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Snore",
+            31
+        ],
+        [
+            "Charge-beam",
+            34
+        ],
+        [
+            "Entrainment",
+            39
+        ],
+        [
+            "Play-rough",
+            42
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Discharge",
+            50
+        ]
+    ],
+    "x-y": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Charge",
+            11
+        ],
+        [
+            "Charm",
+            14
+        ],
+        [
+            "Parabolic-charge",
+            17
+        ],
+        [
+            "Nuzzle",
+            20
+        ],
+        [
+            "Thunder-wave",
+            23
+        ],
+        [
+            "Volt-switch",
+            26
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Snore",
+            31
+        ],
+        [
+            "Charge-beam",
+            34
+        ],
+        [
+            "Entrainment",
+            39
+        ],
+        [
+            "Play-rough",
+            42
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Discharge",
+            50
+        ]
     ]
 }

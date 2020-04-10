@@ -1,135 +1,480 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
-    ],
-    "black-2-white-2": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
-    ],
-    "heartgold-soulsilver": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
-    ],
-    "platinum": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
     ],
     "x-y": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
     ],
     "black-white": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
+    ],
+    "platinum": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
     ],
     "sun-moon": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Swift learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
     ],
     "diamond-pearl": [
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Detect learnt at level 16",
-        "Confusion learnt at level 21",
-        "Uproar learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Nasty-plot learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Last-resort learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Explosion learnt at level 76"
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Detect",
+            16
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Uproar",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Last-resort",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Explosion",
+            76
+        ]
     ]
 }

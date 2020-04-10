@@ -1,264 +1,942 @@
 {
-    "heartgold-soulsilver": [
-        "Charge learnt at level 1",
-        "Tackle learnt at level 5",
-        "Sonic-boom learnt at level 8",
-        "Spark learnt at level 12",
-        "Rollout learnt at level 15",
-        "Screech learnt at level 19",
-        "Light-screen learnt at level 22",
-        "Charge-beam learnt at level 26",
-        "Self-destruct learnt at level 29",
-        "Swift learnt at level 33",
-        "Magnet-rise learnt at level 36",
-        "Gyro-ball learnt at level 40",
-        "Explosion learnt at level 43",
-        "Mirror-coat learnt at level 47"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 9",
-        "Sonic-boom learnt at level 17",
-        "Self-destruct learnt at level 23",
-        "Rollout learnt at level 29",
-        "Light-screen learnt at level 33",
-        "Swift learnt at level 37",
-        "Explosion learnt at level 39",
-        "Mirror-coat learnt at level 41"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 9",
-        "Sonic-boom learnt at level 17",
-        "Self-destruct learnt at level 23",
-        "Rollout learnt at level 29",
-        "Light-screen learnt at level 33",
-        "Swift learnt at level 37",
-        "Explosion learnt at level 39",
-        "Mirror-coat learnt at level 41"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Sonic-boom learnt at level 4",
-        "Eerie-impulse learnt at level 6",
-        "Spark learnt at level 9",
-        "Rollout learnt at level 11",
-        "Screech learnt at level 13",
-        "Charge-beam learnt at level 16",
-        "Swift learnt at level 20",
-        "Electro-ball learnt at level 22",
-        "Self-destruct learnt at level 26",
-        "Light-screen learnt at level 29",
-        "Magnet-rise learnt at level 34",
-        "Discharge learnt at level 37",
-        "Explosion learnt at level 41",
-        "Gyro-ball learnt at level 46",
-        "Mirror-coat learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Sonic-boom",
+            4
+        ],
+        [
+            "Eerie-impulse",
+            6
+        ],
+        [
+            "Spark",
+            9
+        ],
+        [
+            "Rollout",
+            11
+        ],
+        [
+            "Screech",
+            13
+        ],
+        [
+            "Charge-beam",
+            16
+        ],
+        [
+            "Swift",
+            20
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Self-destruct",
+            26
+        ],
+        [
+            "Light-screen",
+            29
+        ],
+        [
+            "Magnet-rise",
+            34
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Gyro-ball",
+            46
+        ],
+        [
+            "Mirror-coat",
+            48
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Sonic-boom learnt at level 4",
-        "Eerie-impulse learnt at level 6",
-        "Spark learnt at level 9",
-        "Rollout learnt at level 11",
-        "Screech learnt at level 13",
-        "Charge-beam learnt at level 16",
-        "Swift learnt at level 20",
-        "Electro-ball learnt at level 22",
-        "Self-destruct learnt at level 26",
-        "Light-screen learnt at level 29",
-        "Magnet-rise learnt at level 34",
-        "Discharge learnt at level 37",
-        "Explosion learnt at level 41",
-        "Gyro-ball learnt at level 46",
-        "Mirror-coat learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Sonic-boom",
+            4
+        ],
+        [
+            "Eerie-impulse",
+            6
+        ],
+        [
+            "Spark",
+            9
+        ],
+        [
+            "Rollout",
+            11
+        ],
+        [
+            "Screech",
+            13
+        ],
+        [
+            "Charge-beam",
+            16
+        ],
+        [
+            "Swift",
+            20
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Self-destruct",
+            26
+        ],
+        [
+            "Light-screen",
+            29
+        ],
+        [
+            "Magnet-rise",
+            34
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Gyro-ball",
+            46
+        ],
+        [
+            "Mirror-coat",
+            48
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Sonic-boom learnt at level 4",
-        "Eerie-impulse learnt at level 6",
-        "Spark learnt at level 9",
-        "Rollout learnt at level 11",
-        "Screech learnt at level 13",
-        "Charge-beam learnt at level 16",
-        "Swift learnt at level 20",
-        "Electro-ball learnt at level 22",
-        "Self-destruct learnt at level 26",
-        "Light-screen learnt at level 29",
-        "Magnet-rise learnt at level 34",
-        "Discharge learnt at level 37",
-        "Explosion learnt at level 41",
-        "Gyro-ball learnt at level 46",
-        "Mirror-coat learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Sonic-boom",
+            4
+        ],
+        [
+            "Eerie-impulse",
+            6
+        ],
+        [
+            "Spark",
+            9
+        ],
+        [
+            "Rollout",
+            11
+        ],
+        [
+            "Screech",
+            13
+        ],
+        [
+            "Charge-beam",
+            16
+        ],
+        [
+            "Swift",
+            20
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Self-destruct",
+            26
+        ],
+        [
+            "Light-screen",
+            29
+        ],
+        [
+            "Magnet-rise",
+            34
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Gyro-ball",
+            46
+        ],
+        [
+            "Mirror-coat",
+            48
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Screech learnt at level 8",
-        "Sonic-boom learnt at level 15",
-        "Spark learnt at level 21",
-        "Self-destruct learnt at level 27",
-        "Rollout learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Swift learnt at level 42",
-        "Explosion learnt at level 46",
-        "Mirror-coat learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Screech",
+            8
+        ],
+        [
+            "Sonic-boom",
+            15
+        ],
+        [
+            "Spark",
+            21
+        ],
+        [
+            "Self-destruct",
+            27
+        ],
+        [
+            "Rollout",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Explosion",
+            46
+        ],
+        [
+            "Mirror-coat",
+            49
+        ]
     ],
     "black-white": [
-        "Charge learnt at level 1",
-        "Tackle learnt at level 5",
-        "Sonic-boom learnt at level 8",
-        "Spark learnt at level 12",
-        "Rollout learnt at level 15",
-        "Screech learnt at level 19",
-        "Charge-beam learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Electro-ball learnt at level 29",
-        "Self-destruct learnt at level 33",
-        "Swift learnt at level 36",
-        "Magnet-rise learnt at level 40",
-        "Gyro-ball learnt at level 43",
-        "Explosion learnt at level 47",
-        "Mirror-coat learnt at level 50"
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Sonic-boom",
+            8
+        ],
+        [
+            "Spark",
+            12
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Screech",
+            19
+        ],
+        [
+            "Charge-beam",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Self-destruct",
+            33
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Magnet-rise",
+            40
+        ],
+        [
+            "Gyro-ball",
+            43
+        ],
+        [
+            "Explosion",
+            47
+        ],
+        [
+            "Mirror-coat",
+            50
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Sonic-boom",
+            8
+        ],
+        [
+            "Spark",
+            12
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Screech",
+            19
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Charge-beam",
+            26
+        ],
+        [
+            "Self-destruct",
+            29
+        ],
+        [
+            "Swift",
+            33
+        ],
+        [
+            "Magnet-rise",
+            36
+        ],
+        [
+            "Gyro-ball",
+            40
+        ],
+        [
+            "Explosion",
+            43
+        ],
+        [
+            "Mirror-coat",
+            47
+        ]
     ],
     "platinum": [
-        "Charge learnt at level 1",
-        "Tackle learnt at level 5",
-        "Sonic-boom learnt at level 8",
-        "Spark learnt at level 12",
-        "Rollout learnt at level 15",
-        "Screech learnt at level 19",
-        "Light-screen learnt at level 22",
-        "Charge-beam learnt at level 26",
-        "Self-destruct learnt at level 29",
-        "Swift learnt at level 33",
-        "Magnet-rise learnt at level 36",
-        "Gyro-ball learnt at level 40",
-        "Explosion learnt at level 43",
-        "Mirror-coat learnt at level 47"
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Sonic-boom",
+            8
+        ],
+        [
+            "Spark",
+            12
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Screech",
+            19
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Charge-beam",
+            26
+        ],
+        [
+            "Self-destruct",
+            29
+        ],
+        [
+            "Swift",
+            33
+        ],
+        [
+            "Magnet-rise",
+            36
+        ],
+        [
+            "Gyro-ball",
+            40
+        ],
+        [
+            "Explosion",
+            43
+        ],
+        [
+            "Mirror-coat",
+            47
+        ]
     ],
     "diamond-pearl": [
-        "Charge learnt at level 1",
-        "Tackle learnt at level 5",
-        "Sonic-boom learnt at level 8",
-        "Spark learnt at level 12",
-        "Rollout learnt at level 15",
-        "Screech learnt at level 19",
-        "Light-screen learnt at level 22",
-        "Charge-beam learnt at level 26",
-        "Self-destruct learnt at level 29",
-        "Swift learnt at level 33",
-        "Magnet-rise learnt at level 36",
-        "Gyro-ball learnt at level 40",
-        "Explosion learnt at level 43",
-        "Mirror-coat learnt at level 47"
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Sonic-boom",
+            8
+        ],
+        [
+            "Spark",
+            12
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Screech",
+            19
+        ],
+        [
+            "Light-screen",
+            22
+        ],
+        [
+            "Charge-beam",
+            26
+        ],
+        [
+            "Self-destruct",
+            29
+        ],
+        [
+            "Swift",
+            33
+        ],
+        [
+            "Magnet-rise",
+            36
+        ],
+        [
+            "Gyro-ball",
+            40
+        ],
+        [
+            "Explosion",
+            43
+        ],
+        [
+            "Mirror-coat",
+            47
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Screech learnt at level 8",
-        "Sonic-boom learnt at level 15",
-        "Spark learnt at level 21",
-        "Self-destruct learnt at level 27",
-        "Rollout learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Swift learnt at level 42",
-        "Explosion learnt at level 46",
-        "Mirror-coat learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Screech",
+            8
+        ],
+        [
+            "Sonic-boom",
+            15
+        ],
+        [
+            "Spark",
+            21
+        ],
+        [
+            "Self-destruct",
+            27
+        ],
+        [
+            "Rollout",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Explosion",
+            46
+        ],
+        [
+            "Mirror-coat",
+            49
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Screech learnt at level 8",
-        "Sonic-boom learnt at level 15",
-        "Spark learnt at level 21",
-        "Self-destruct learnt at level 27",
-        "Rollout learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Swift learnt at level 42",
-        "Explosion learnt at level 46",
-        "Mirror-coat learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Screech",
+            8
+        ],
+        [
+            "Sonic-boom",
+            15
+        ],
+        [
+            "Spark",
+            21
+        ],
+        [
+            "Self-destruct",
+            27
+        ],
+        [
+            "Rollout",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Explosion",
+            46
+        ],
+        [
+            "Mirror-coat",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Screech learnt at level 8",
-        "Sonic-boom learnt at level 15",
-        "Spark learnt at level 21",
-        "Self-destruct learnt at level 27",
-        "Rollout learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Swift learnt at level 42",
-        "Explosion learnt at level 46",
-        "Mirror-coat learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Screech",
+            8
+        ],
+        [
+            "Sonic-boom",
+            15
+        ],
+        [
+            "Spark",
+            21
+        ],
+        [
+            "Self-destruct",
+            27
+        ],
+        [
+            "Rollout",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Explosion",
+            46
+        ],
+        [
+            "Mirror-coat",
+            49
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            9
+        ],
+        [
+            "Sonic-boom",
+            17
+        ],
+        [
+            "Self-destruct",
+            23
+        ],
+        [
+            "Rollout",
+            29
+        ],
+        [
+            "Light-screen",
+            33
+        ],
+        [
+            "Swift",
+            37
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Mirror-coat",
+            41
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            9
+        ],
+        [
+            "Sonic-boom",
+            17
+        ],
+        [
+            "Self-destruct",
+            23
+        ],
+        [
+            "Rollout",
+            29
+        ],
+        [
+            "Light-screen",
+            33
+        ],
+        [
+            "Swift",
+            37
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Mirror-coat",
+            41
+        ]
     ],
     "x-y": [
-        "Charge learnt at level 1",
-        "Tackle learnt at level 5",
-        "Sonic-boom learnt at level 8",
-        "Eerie-impulse learnt at level 10",
-        "Spark learnt at level 12",
-        "Rollout learnt at level 15",
-        "Screech learnt at level 19",
-        "Charge-beam learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Electro-ball learnt at level 29",
-        "Self-destruct learnt at level 33",
-        "Swift learnt at level 36",
-        "Magnet-rise learnt at level 40",
-        "Gyro-ball learnt at level 43",
-        "Explosion learnt at level 47",
-        "Mirror-coat learnt at level 50"
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Sonic-boom",
+            8
+        ],
+        [
+            "Eerie-impulse",
+            10
+        ],
+        [
+            "Spark",
+            12
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Screech",
+            19
+        ],
+        [
+            "Charge-beam",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Self-destruct",
+            33
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Magnet-rise",
+            40
+        ],
+        [
+            "Gyro-ball",
+            43
+        ],
+        [
+            "Explosion",
+            47
+        ],
+        [
+            "Mirror-coat",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Charge learnt at level 1",
-        "Tackle learnt at level 5",
-        "Sonic-boom learnt at level 8",
-        "Spark learnt at level 12",
-        "Rollout learnt at level 15",
-        "Screech learnt at level 19",
-        "Charge-beam learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Electro-ball learnt at level 29",
-        "Self-destruct learnt at level 33",
-        "Swift learnt at level 36",
-        "Magnet-rise learnt at level 40",
-        "Gyro-ball learnt at level 43",
-        "Explosion learnt at level 47",
-        "Mirror-coat learnt at level 50"
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Sonic-boom",
+            8
+        ],
+        [
+            "Spark",
+            12
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Screech",
+            19
+        ],
+        [
+            "Charge-beam",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Self-destruct",
+            33
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Magnet-rise",
+            40
+        ],
+        [
+            "Gyro-ball",
+            43
+        ],
+        [
+            "Explosion",
+            47
+        ],
+        [
+            "Mirror-coat",
+            50
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Charge learnt at level 1",
-        "Screech learnt at level 8",
-        "Sonic-boom learnt at level 15",
-        "Spark learnt at level 21",
-        "Self-destruct learnt at level 27",
-        "Rollout learnt at level 32",
-        "Light-screen learnt at level 37",
-        "Swift learnt at level 42",
-        "Explosion learnt at level 46",
-        "Mirror-coat learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Screech",
+            8
+        ],
+        [
+            "Sonic-boom",
+            15
+        ],
+        [
+            "Spark",
+            21
+        ],
+        [
+            "Self-destruct",
+            27
+        ],
+        [
+            "Rollout",
+            32
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Explosion",
+            46
+        ],
+        [
+            "Mirror-coat",
+            49
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Sonic-boom learnt at level 17",
-        "Self-destruct learnt at level 22",
-        "Light-screen learnt at level 29",
-        "Swift learnt at level 36",
-        "Explosion learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sonic-boom",
+            17
+        ],
+        [
+            "Self-destruct",
+            22
+        ],
+        [
+            "Light-screen",
+            29
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Explosion",
+            43
+        ]
     ],
     "red-blue": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Sonic-boom learnt at level 17",
-        "Self-destruct learnt at level 22",
-        "Light-screen learnt at level 29",
-        "Swift learnt at level 36",
-        "Explosion learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sonic-boom",
+            17
+        ],
+        [
+            "Self-destruct",
+            22
+        ],
+        [
+            "Light-screen",
+            29
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Explosion",
+            43
+        ]
     ]
 }

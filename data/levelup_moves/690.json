@@ -1,74 +1,266 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Feint-attack learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Acid learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Poison-tail learnt at level 23",
-        "Water-pulse learnt at level 25",
-        "Double-team learnt at level 28",
-        "Toxic learnt at level 32",
-        "Aqua-tail learnt at level 35",
-        "Sludge-bomb learnt at level 38",
-        "Hydro-pump learnt at level 42",
-        "Dragon-pulse learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Feint-attack",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Acid",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Poison-tail",
+            23
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Double-team",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Aqua-tail",
+            35
+        ],
+        [
+            "Sludge-bomb",
+            38
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Dragon-pulse",
+            49
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Feint-attack learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Acid learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Poison-tail learnt at level 23",
-        "Water-pulse learnt at level 25",
-        "Double-team learnt at level 28",
-        "Toxic learnt at level 32",
-        "Aqua-tail learnt at level 35",
-        "Sludge-bomb learnt at level 38",
-        "Hydro-pump learnt at level 42",
-        "Dragon-pulse learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Feint-attack",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Acid",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Poison-tail",
+            23
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Double-team",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Aqua-tail",
+            35
+        ],
+        [
+            "Sludge-bomb",
+            38
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Dragon-pulse",
+            49
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Feint-attack learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Acid learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Poison-tail learnt at level 23",
-        "Water-pulse learnt at level 25",
-        "Double-team learnt at level 28",
-        "Toxic learnt at level 32",
-        "Aqua-tail learnt at level 35",
-        "Sludge-bomb learnt at level 38",
-        "Hydro-pump learnt at level 42",
-        "Dragon-pulse learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Feint-attack",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Acid",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Poison-tail",
+            23
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Double-team",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Aqua-tail",
+            35
+        ],
+        [
+            "Sludge-bomb",
+            38
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Dragon-pulse",
+            49
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Smokescreen learnt at level 1",
-        "Feint-attack learnt at level 5",
-        "Tail-whip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Acid learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Poison-tail learnt at level 23",
-        "Water-pulse learnt at level 25",
-        "Double-team learnt at level 28",
-        "Toxic learnt at level 32",
-        "Aqua-tail learnt at level 35",
-        "Sludge-bomb learnt at level 38",
-        "Hydro-pump learnt at level 42",
-        "Dragon-pulse learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Smokescreen",
+            1
+        ],
+        [
+            "Feint-attack",
+            5
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Acid",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Poison-tail",
+            23
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Double-team",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Aqua-tail",
+            35
+        ],
+        [
+            "Sludge-bomb",
+            38
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Dragon-pulse",
+            49
+        ]
     ]
 }

@@ -1,49 +1,186 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Bide learnt at level 1",
-        "Protect learnt at level 1",
-        "Belly-drum learnt at level 1",
-        "Sky-uppercut learnt at level 1",
-        "Autotomize learnt at level 1",
-        "Clanging-scales learnt at level 1",
-        "Leer learnt at level 5",
-        "Bide learnt at level 9",
-        "Protect learnt at level 13",
-        "Dragon-tail learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Headbutt learnt at level 25",
-        "Work-up learnt at level 29",
-        "Screech learnt at level 33",
-        "Iron-defense learnt at level 38",
-        "Dragon-claw learnt at level 43",
-        "Noble-roar learnt at level 51",
-        "Dragon-dance learnt at level 59",
-        "Outrage learnt at level 67",
-        "Close-combat learnt at level 75"
+        [
+            "Clanging-scales",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Belly-drum",
+            1
+        ],
+        [
+            "Sky-uppercut",
+            1
+        ],
+        [
+            "Autotomize",
+            1
+        ],
+        [
+            "Clanging-scales",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Bide",
+            9
+        ],
+        [
+            "Protect",
+            13
+        ],
+        [
+            "Dragon-tail",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Iron-defense",
+            38
+        ],
+        [
+            "Dragon-claw",
+            43
+        ],
+        [
+            "Noble-roar",
+            51
+        ],
+        [
+            "Dragon-dance",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ],
+        [
+            "Close-combat",
+            75
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Bide learnt at level 1",
-        "Protect learnt at level 1",
-        "Belly-drum learnt at level 1",
-        "Sky-uppercut learnt at level 1",
-        "Autotomize learnt at level 1",
-        "Clanging-scales learnt at level 1",
-        "Leer learnt at level 5",
-        "Bide learnt at level 9",
-        "Protect learnt at level 13",
-        "Dragon-tail learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Headbutt learnt at level 25",
-        "Work-up learnt at level 29",
-        "Screech learnt at level 33",
-        "Iron-defense learnt at level 38",
-        "Dragon-claw learnt at level 43",
-        "Noble-roar learnt at level 51",
-        "Dragon-dance learnt at level 59",
-        "Outrage learnt at level 67"
+        [
+            "Clanging-scales",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Belly-drum",
+            1
+        ],
+        [
+            "Sky-uppercut",
+            1
+        ],
+        [
+            "Autotomize",
+            1
+        ],
+        [
+            "Clanging-scales",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Bide",
+            9
+        ],
+        [
+            "Protect",
+            13
+        ],
+        [
+            "Dragon-tail",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Work-up",
+            29
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Iron-defense",
+            38
+        ],
+        [
+            "Dragon-claw",
+            43
+        ],
+        [
+            "Noble-roar",
+            51
+        ],
+        [
+            "Dragon-dance",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ]
     ]
 }

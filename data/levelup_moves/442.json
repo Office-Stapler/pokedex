@@ -1,137 +1,488 @@
 {
-    "ultra-sun-ultra-moon": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
-    ],
     "black-2-white-2": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ],
     "black-white": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ],
     "heartgold-soulsilver": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ],
     "platinum": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ],
     "sun-moon": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ],
     "x-y": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Confuse-ray learnt at level 1",
-        "Curse learnt at level 1",
-        "Spite learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Shadow-sneak learnt at level 1",
-        "Feint-attack learnt at level 7",
-        "Hypnosis learnt at level 13",
-        "Dream-eater learnt at level 19",
-        "Ominous-wind learnt at level 25",
-        "Sucker-punch learnt at level 31",
-        "Nasty-plot learnt at level 37",
-        "Memento learnt at level 43",
-        "Dark-pulse learnt at level 49"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Spite",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Shadow-sneak",
+            1
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Hypnosis",
+            13
+        ],
+        [
+            "Dream-eater",
+            19
+        ],
+        [
+            "Ominous-wind",
+            25
+        ],
+        [
+            "Sucker-punch",
+            31
+        ],
+        [
+            "Nasty-plot",
+            37
+        ],
+        [
+            "Memento",
+            43
+        ],
+        [
+            "Dark-pulse",
+            49
+        ]
     ]
 }

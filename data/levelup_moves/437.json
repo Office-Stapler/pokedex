@@ -1,198 +1,740 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Block learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Imprison learnt at level 9",
-        "Confuse-ray learnt at level 11",
-        "Psywave learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Feint-attack learnt at level 21",
-        "Safeguard learnt at level 25",
-        "Future-sight learnt at level 29",
-        "Metal-sound learnt at level 31",
-        "Gyro-ball learnt at level 36",
-        "Extrasensory learnt at level 42",
-        "Payback learnt at level 46",
-        "Heal-block learnt at level 52",
-        "Heavy-slam learnt at level 58"
+        [
+            "Block",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Imprison",
+            9
+        ],
+        [
+            "Confuse-ray",
+            11
+        ],
+        [
+            "Psywave",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Safeguard",
+            25
+        ],
+        [
+            "Future-sight",
+            29
+        ],
+        [
+            "Metal-sound",
+            31
+        ],
+        [
+            "Gyro-ball",
+            36
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Heavy-slam",
+            58
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Block learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Imprison learnt at level 9",
-        "Confuse-ray learnt at level 11",
-        "Psywave learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Feint-attack learnt at level 21",
-        "Safeguard learnt at level 25",
-        "Future-sight learnt at level 29",
-        "Metal-sound learnt at level 31",
-        "Gyro-ball learnt at level 36",
-        "Extrasensory learnt at level 42",
-        "Payback learnt at level 46",
-        "Heal-block learnt at level 52",
-        "Heavy-slam learnt at level 58"
+        [
+            "Block",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Block",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Imprison",
+            9
+        ],
+        [
+            "Confuse-ray",
+            11
+        ],
+        [
+            "Psywave",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Safeguard",
+            25
+        ],
+        [
+            "Future-sight",
+            29
+        ],
+        [
+            "Metal-sound",
+            31
+        ],
+        [
+            "Gyro-ball",
+            36
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Heavy-slam",
+            58
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Imprison learnt at level 9",
-        "Confuse-ray learnt at level 11",
-        "Psywave learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Feint-attack learnt at level 21",
-        "Safeguard learnt at level 25",
-        "Future-sight learnt at level 29",
-        "Metal-sound learnt at level 31",
-        "Block learnt at level 33",
-        "Gyro-ball learnt at level 36",
-        "Extrasensory learnt at level 42",
-        "Payback learnt at level 46",
-        "Heal-block learnt at level 52",
-        "Heavy-slam learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Imprison",
+            9
+        ],
+        [
+            "Confuse-ray",
+            11
+        ],
+        [
+            "Psywave",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Safeguard",
+            25
+        ],
+        [
+            "Future-sight",
+            29
+        ],
+        [
+            "Metal-sound",
+            31
+        ],
+        [
+            "Block",
+            33
+        ],
+        [
+            "Gyro-ball",
+            36
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Heavy-slam",
+            58
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Imprison learnt at level 9",
-        "Confuse-ray learnt at level 11",
-        "Psywave learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Feint-attack learnt at level 21",
-        "Safeguard learnt at level 25",
-        "Future-sight learnt at level 29",
-        "Metal-sound learnt at level 31",
-        "Block learnt at level 33",
-        "Gyro-ball learnt at level 36",
-        "Extrasensory learnt at level 42",
-        "Payback learnt at level 46",
-        "Heal-block learnt at level 52",
-        "Heavy-slam learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Imprison",
+            9
+        ],
+        [
+            "Confuse-ray",
+            11
+        ],
+        [
+            "Psywave",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Safeguard",
+            25
+        ],
+        [
+            "Future-sight",
+            29
+        ],
+        [
+            "Metal-sound",
+            31
+        ],
+        [
+            "Block",
+            33
+        ],
+        [
+            "Gyro-ball",
+            36
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Heavy-slam",
+            58
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Imprison learnt at level 9",
-        "Confuse-ray learnt at level 11",
-        "Psywave learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Feint-attack learnt at level 21",
-        "Safeguard learnt at level 25",
-        "Future-sight learnt at level 29",
-        "Metal-sound learnt at level 31",
-        "Block learnt at level 33",
-        "Gyro-ball learnt at level 36",
-        "Extrasensory learnt at level 42",
-        "Payback learnt at level 46",
-        "Heal-block learnt at level 52",
-        "Heavy-slam learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Imprison",
+            9
+        ],
+        [
+            "Confuse-ray",
+            11
+        ],
+        [
+            "Psywave",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Safeguard",
+            25
+        ],
+        [
+            "Future-sight",
+            29
+        ],
+        [
+            "Metal-sound",
+            31
+        ],
+        [
+            "Block",
+            33
+        ],
+        [
+            "Gyro-ball",
+            36
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Heal-block",
+            52
+        ],
+        [
+            "Heavy-slam",
+            58
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Imprison learnt at level 12",
-        "Confuse-ray learnt at level 14",
-        "Extrasensory learnt at level 19",
-        "Iron-defense learnt at level 26",
-        "Safeguard learnt at level 30",
-        "Block learnt at level 33",
-        "Gyro-ball learnt at level 38",
-        "Future-sight learnt at level 43",
-        "Feint-attack learnt at level 50",
-        "Payback learnt at level 61",
-        "Heal-block learnt at level 67",
-        "Heavy-slam learnt at level 72"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Imprison",
+            12
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Extrasensory",
+            19
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Safeguard",
+            30
+        ],
+        [
+            "Block",
+            33
+        ],
+        [
+            "Gyro-ball",
+            38
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Feint-attack",
+            50
+        ],
+        [
+            "Payback",
+            61
+        ],
+        [
+            "Heal-block",
+            67
+        ],
+        [
+            "Heavy-slam",
+            72
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Imprison learnt at level 12",
-        "Confuse-ray learnt at level 14",
-        "Extrasensory learnt at level 19",
-        "Iron-defense learnt at level 26",
-        "Safeguard learnt at level 30",
-        "Block learnt at level 33",
-        "Gyro-ball learnt at level 38",
-        "Future-sight learnt at level 43",
-        "Feint-attack learnt at level 50",
-        "Payback learnt at level 61",
-        "Heal-block learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Imprison",
+            12
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Extrasensory",
+            19
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Safeguard",
+            30
+        ],
+        [
+            "Block",
+            33
+        ],
+        [
+            "Gyro-ball",
+            38
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Feint-attack",
+            50
+        ],
+        [
+            "Payback",
+            61
+        ],
+        [
+            "Heal-block",
+            67
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Imprison learnt at level 12",
-        "Confuse-ray learnt at level 14",
-        "Extrasensory learnt at level 19",
-        "Iron-defense learnt at level 26",
-        "Safeguard learnt at level 30",
-        "Block learnt at level 33",
-        "Gyro-ball learnt at level 38",
-        "Future-sight learnt at level 43",
-        "Feint-attack learnt at level 50",
-        "Payback learnt at level 61",
-        "Heal-block learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Imprison",
+            12
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Extrasensory",
+            19
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Safeguard",
+            30
+        ],
+        [
+            "Block",
+            33
+        ],
+        [
+            "Gyro-ball",
+            38
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Feint-attack",
+            50
+        ],
+        [
+            "Payback",
+            61
+        ],
+        [
+            "Heal-block",
+            67
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Rain-dance learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Imprison learnt at level 1",
-        "Hypnosis learnt at level 7",
-        "Imprison learnt at level 12",
-        "Confuse-ray learnt at level 14",
-        "Extrasensory learnt at level 19",
-        "Iron-defense learnt at level 26",
-        "Safeguard learnt at level 30",
-        "Block learnt at level 33",
-        "Gyro-ball learnt at level 38",
-        "Future-sight learnt at level 43",
-        "Feint-attack learnt at level 50",
-        "Payback learnt at level 61",
-        "Heal-block learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Rain-dance",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Hypnosis",
+            7
+        ],
+        [
+            "Imprison",
+            12
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Extrasensory",
+            19
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Safeguard",
+            30
+        ],
+        [
+            "Block",
+            33
+        ],
+        [
+            "Gyro-ball",
+            38
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Feint-attack",
+            50
+        ],
+        [
+            "Payback",
+            61
+        ],
+        [
+            "Heal-block",
+            67
+        ]
     ]
 }

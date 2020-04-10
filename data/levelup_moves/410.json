@@ -1,125 +1,440 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 42",
-        "Heavy-slam learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            42
+        ],
+        [
+            "Heavy-slam",
+            46
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 42",
-        "Heavy-slam learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            42
+        ],
+        [
+            "Heavy-slam",
+            46
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 42",
-        "Heavy-slam learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            42
+        ],
+        [
+            "Heavy-slam",
+            46
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 42",
-        "Heavy-slam learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            42
+        ],
+        [
+            "Heavy-slam",
+            46
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 42",
-        "Heavy-slam learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            42
+        ],
+        [
+            "Heavy-slam",
+            46
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 42",
-        "Heavy-slam learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            42
+        ],
+        [
+            "Heavy-slam",
+            46
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            43
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            43
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Taunt learnt at level 6",
-        "Metal-sound learnt at level 10",
-        "Take-down learnt at level 15",
-        "Iron-defense learnt at level 19",
-        "Swagger learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Endure learnt at level 33",
-        "Metal-burst learnt at level 37",
-        "Iron-head learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Taunt",
+            6
+        ],
+        [
+            "Metal-sound",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Iron-defense",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Metal-burst",
+            37
+        ],
+        [
+            "Iron-head",
+            43
+        ]
     ]
 }

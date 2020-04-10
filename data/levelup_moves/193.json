@@ -1,247 +1,886 @@
 {
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-team learnt at level 13",
-        "Sonic-boom learnt at level 19",
-        "Detect learnt at level 25",
-        "Supersonic learnt at level 31",
-        "Uproar learnt at level 37",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Sonic-boom",
+            19
+        ],
+        [
+            "Detect",
+            25
+        ],
+        [
+            "Supersonic",
+            31
+        ],
+        [
+            "Uproar",
+            37
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            49
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Detect learnt at level 17",
-        "Supersonic learnt at level 22",
-        "Uproar learnt at level 27",
-        "Pursuit learnt at level 30",
-        "Ancient-power learnt at level 33",
-        "Hypnosis learnt at level 38",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 46",
-        "U-turn learnt at level 49",
-        "Air-slash learnt at level 54",
-        "Bug-buzz learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Detect",
+            17
+        ],
+        [
+            "Supersonic",
+            22
+        ],
+        [
+            "Uproar",
+            27
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Hypnosis",
+            38
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            46
+        ],
+        [
+            "U-turn",
+            49
+        ],
+        [
+            "Air-slash",
+            54
+        ],
+        [
+            "Bug-buzz",
+            57
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 6",
-        "Double-team learnt at level 12",
-        "Sonic-boom learnt at level 17",
-        "Hypnosis learnt at level 23",
-        "Detect learnt at level 28",
-        "Uproar learnt at level 34",
-        "Wing-attack learnt at level 39",
-        "Supersonic learnt at level 45",
-        "Screech learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            6
+        ],
+        [
+            "Double-team",
+            12
+        ],
+        [
+            "Sonic-boom",
+            17
+        ],
+        [
+            "Hypnosis",
+            23
+        ],
+        [
+            "Detect",
+            28
+        ],
+        [
+            "Uproar",
+            34
+        ],
+        [
+            "Wing-attack",
+            39
+        ],
+        [
+            "Supersonic",
+            45
+        ],
+        [
+            "Screech",
+            50
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-team learnt at level 13",
-        "Sonic-boom learnt at level 19",
-        "Detect learnt at level 25",
-        "Supersonic learnt at level 31",
-        "Uproar learnt at level 37",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Sonic-boom",
+            19
+        ],
+        [
+            "Detect",
+            25
+        ],
+        [
+            "Supersonic",
+            31
+        ],
+        [
+            "Uproar",
+            37
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-team learnt at level 13",
-        "Sonic-boom learnt at level 19",
-        "Detect learnt at level 25",
-        "Supersonic learnt at level 31",
-        "Uproar learnt at level 37",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Sonic-boom",
+            19
+        ],
+        [
+            "Detect",
+            25
+        ],
+        [
+            "Supersonic",
+            31
+        ],
+        [
+            "Uproar",
+            37
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            49
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-team learnt at level 13",
-        "Sonic-boom learnt at level 19",
-        "Detect learnt at level 25",
-        "Supersonic learnt at level 31",
-        "Uproar learnt at level 37",
-        "Wing-attack learnt at level 43",
-        "Screech learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Sonic-boom",
+            19
+        ],
+        [
+            "Detect",
+            25
+        ],
+        [
+            "Supersonic",
+            31
+        ],
+        [
+            "Uproar",
+            37
+        ],
+        [
+            "Wing-attack",
+            43
+        ],
+        [
+            "Screech",
+            49
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-team learnt at level 13",
-        "Sonic-boom learnt at level 19",
-        "Detect learnt at level 25",
-        "Supersonic learnt at level 31",
-        "Wing-attack learnt at level 37",
-        "Screech learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Sonic-boom",
+            19
+        ],
+        [
+            "Detect",
+            25
+        ],
+        [
+            "Supersonic",
+            31
+        ],
+        [
+            "Wing-attack",
+            37
+        ],
+        [
+            "Screech",
+            43
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Foresight learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-team learnt at level 13",
-        "Sonic-boom learnt at level 19",
-        "Detect learnt at level 25",
-        "Supersonic learnt at level 31",
-        "Swift learnt at level 37",
-        "Screech learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Sonic-boom",
+            19
+        ],
+        [
+            "Detect",
+            25
+        ],
+        [
+            "Supersonic",
+            31
+        ],
+        [
+            "Swift",
+            37
+        ],
+        [
+            "Screech",
+            43
+        ]
     ]
 }

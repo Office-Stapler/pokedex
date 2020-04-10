@@ -1,65 +1,200 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Copycat learnt at level 5",
-        "Refresh learnt at level 9",
-        "Sweet-kiss learnt at level 12"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Copycat",
+            5
+        ],
+        [
+            "Refresh",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            12
+        ]
     ]
 }

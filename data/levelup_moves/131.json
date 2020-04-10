@@ -1,271 +1,970 @@
 {
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "crystal": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 8",
-        "Body-slam learnt at level 15",
-        "Confuse-ray learnt at level 22",
-        "Perish-song learnt at level 29",
-        "Ice-beam learnt at level 36",
-        "Rain-dance learnt at level 43",
-        "Safeguard learnt at level 50",
-        "Hydro-pump learnt at level 57"
-    ],
-    "gold-silver": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 8",
-        "Body-slam learnt at level 15",
-        "Confuse-ray learnt at level 22",
-        "Perish-song learnt at level 29",
-        "Ice-beam learnt at level 36",
-        "Rain-dance learnt at level 43",
-        "Safeguard learnt at level 50",
-        "Hydro-pump learnt at level 57"
-    ],
-    "red-blue": [
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Sing learnt at level 16",
-        "Mist learnt at level 20",
-        "Body-slam learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Ice-beam learnt at level 38",
-        "Hydro-pump learnt at level 46"
-    ],
-    "yellow": [
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Sing learnt at level 16",
-        "Mist learnt at level 20",
-        "Body-slam learnt at level 25",
-        "Confuse-ray learnt at level 31",
-        "Ice-beam learnt at level 38",
-        "Hydro-pump learnt at level 46"
-    ],
-    "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 7",
-        "Body-slam learnt at level 13",
-        "Confuse-ray learnt at level 19",
-        "Perish-song learnt at level 25",
-        "Ice-beam learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "emerald": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 7",
-        "Body-slam learnt at level 13",
-        "Confuse-ray learnt at level 19",
-        "Perish-song learnt at level 25",
-        "Ice-beam learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 7",
-        "Body-slam learnt at level 13",
-        "Confuse-ray learnt at level 19",
-        "Perish-song learnt at level 25",
-        "Ice-beam learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "black-white": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
-    ],
-    "x-y": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 47",
-        "Sheer-cold learnt at level 50"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 47",
-        "Sheer-cold learnt at level 50"
+    "ultra-sun-ultra-moon": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            47
+        ],
+        [
+            "Sheer-cold",
+            50
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 47",
-        "Sheer-cold learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            47
+        ],
+        [
+            "Sheer-cold",
+            50
+        ]
     ],
-    "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 4",
-        "Confuse-ray learnt at level 7",
-        "Ice-shard learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Body-slam learnt at level 18",
-        "Rain-dance learnt at level 22",
-        "Perish-song learnt at level 27",
-        "Ice-beam learnt at level 32",
-        "Brine learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 47",
-        "Sheer-cold learnt at level 50"
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            47
+        ],
+        [
+            "Sheer-cold",
+            50
+        ]
+    ],
+    "x-y": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            47
+        ],
+        [
+            "Sheer-cold",
+            50
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 7",
-        "Body-slam learnt at level 13",
-        "Confuse-ray learnt at level 19",
-        "Perish-song learnt at level 25",
-        "Ice-beam learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            7
+        ],
+        [
+            "Body-slam",
+            13
+        ],
+        [
+            "Confuse-ray",
+            19
+        ],
+        [
+            "Perish-song",
+            25
+        ],
+        [
+            "Ice-beam",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "black-white": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            7
+        ],
+        [
+            "Body-slam",
+            13
+        ],
+        [
+            "Confuse-ray",
+            19
+        ],
+        [
+            "Perish-song",
+            25
+        ],
+        [
+            "Ice-beam",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
     ],
     "xd": [
-        "Growl learnt at level 1",
-        "Sing learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Mist learnt at level 7",
-        "Body-slam learnt at level 13",
-        "Confuse-ray learnt at level 19",
-        "Perish-song learnt at level 25",
-        "Ice-beam learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Safeguard learnt at level 43",
-        "Hydro-pump learnt at level 49",
-        "Sheer-cold learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            7
+        ],
+        [
+            "Body-slam",
+            13
+        ],
+        [
+            "Confuse-ray",
+            19
+        ],
+        [
+            "Perish-song",
+            25
+        ],
+        [
+            "Ice-beam",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "emerald": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            7
+        ],
+        [
+            "Body-slam",
+            13
+        ],
+        [
+            "Confuse-ray",
+            19
+        ],
+        [
+            "Perish-song",
+            25
+        ],
+        [
+            "Ice-beam",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            7
+        ],
+        [
+            "Body-slam",
+            13
+        ],
+        [
+            "Confuse-ray",
+            19
+        ],
+        [
+            "Perish-song",
+            25
+        ],
+        [
+            "Ice-beam",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "crystal": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            8
+        ],
+        [
+            "Body-slam",
+            15
+        ],
+        [
+            "Confuse-ray",
+            22
+        ],
+        [
+            "Perish-song",
+            29
+        ],
+        [
+            "Ice-beam",
+            36
+        ],
+        [
+            "Rain-dance",
+            43
+        ],
+        [
+            "Safeguard",
+            50
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            8
+        ],
+        [
+            "Body-slam",
+            15
+        ],
+        [
+            "Confuse-ray",
+            22
+        ],
+        [
+            "Perish-song",
+            29
+        ],
+        [
+            "Ice-beam",
+            36
+        ],
+        [
+            "Rain-dance",
+            43
+        ],
+        [
+            "Safeguard",
+            50
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Mist",
+            4
+        ],
+        [
+            "Confuse-ray",
+            7
+        ],
+        [
+            "Ice-shard",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Body-slam",
+            18
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Perish-song",
+            27
+        ],
+        [
+            "Ice-beam",
+            32
+        ],
+        [
+            "Brine",
+            37
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ],
+        [
+            "Sheer-cold",
+            55
+        ]
+    ],
+    "yellow": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Sing",
+            16
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Ice-beam",
+            38
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
+    ],
+    "red-blue": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Sing",
+            16
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Confuse-ray",
+            31
+        ],
+        [
+            "Ice-beam",
+            38
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
     ]
 }

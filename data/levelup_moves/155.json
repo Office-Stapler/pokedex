@@ -1,221 +1,782 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Flame-charge learnt at level 28",
-        "Swift learnt at level 31",
-        "Lava-plume learnt at level 37",
-        "Flamethrower learnt at level 40",
-        "Inferno learnt at level 46",
-        "Rollout learnt at level 49",
-        "Double-edge learnt at level 55",
-        "Eruption learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Flame-charge",
+            28
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Inferno",
+            46
+        ],
+        [
+            "Rollout",
+            49
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Eruption",
+            58
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Flame-charge learnt at level 28",
-        "Swift learnt at level 31",
-        "Lava-plume learnt at level 37",
-        "Flamethrower learnt at level 40",
-        "Inferno learnt at level 46",
-        "Rollout learnt at level 49",
-        "Double-edge learnt at level 55",
-        "Eruption learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Flame-charge",
+            28
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Inferno",
+            46
+        ],
+        [
+            "Rollout",
+            49
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Eruption",
+            58
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Flame-charge learnt at level 28",
-        "Swift learnt at level 31",
-        "Lava-plume learnt at level 37",
-        "Flamethrower learnt at level 40",
-        "Inferno learnt at level 46",
-        "Rollout learnt at level 49",
-        "Double-edge learnt at level 55",
-        "Eruption learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Flame-charge",
+            28
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Inferno",
+            46
+        ],
+        [
+            "Rollout",
+            49
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Eruption",
+            58
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 12",
-        "Quick-attack learnt at level 19",
-        "Flame-wheel learnt at level 27",
-        "Swift learnt at level 36",
-        "Flamethrower learnt at level 46"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Swift learnt at level 28",
-        "Lava-plume learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Rollout learnt at level 40",
-        "Double-edge learnt at level 46",
-        "Eruption learnt at level 49"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 4",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Swift learnt at level 28",
-        "Lava-plume learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Rollout learnt at level 40",
-        "Double-edge learnt at level 46",
-        "Eruption learnt at level 49"
-    ],
-    "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 4",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Swift learnt at level 28",
-        "Lava-plume learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Rollout learnt at level 40",
-        "Double-edge learnt at level 46",
-        "Eruption learnt at level 49"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 12",
-        "Quick-attack learnt at level 19",
-        "Flame-wheel learnt at level 27",
-        "Swift learnt at level 36",
-        "Flamethrower learnt at level 46"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 12",
-        "Quick-attack learnt at level 19",
-        "Flame-wheel learnt at level 27",
-        "Swift learnt at level 36",
-        "Flamethrower learnt at level 46"
-    ],
-    "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 12",
-        "Quick-attack learnt at level 19",
-        "Flame-wheel learnt at level 27",
-        "Swift learnt at level 36",
-        "Flamethrower learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            12
+        ],
+        [
+            "Quick-attack",
+            19
+        ],
+        [
+            "Flame-wheel",
+            27
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 12",
-        "Quick-attack learnt at level 19",
-        "Flame-wheel learnt at level 27",
-        "Swift learnt at level 36",
-        "Flamethrower learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            12
+        ],
+        [
+            "Quick-attack",
+            19
+        ],
+        [
+            "Flame-wheel",
+            27
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
     ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Flame-charge learnt at level 28",
-        "Swift learnt at level 31",
-        "Lava-plume learnt at level 37",
-        "Flamethrower learnt at level 40",
-        "Inferno learnt at level 46",
-        "Rollout learnt at level 49",
-        "Double-edge learnt at level 55",
-        "Eruption learnt at level 58"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 12",
-        "Quick-attack learnt at level 19",
-        "Flame-wheel learnt at level 27",
-        "Swift learnt at level 36",
-        "Flamethrower learnt at level 46"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 12",
-        "Quick-attack learnt at level 19",
-        "Flame-wheel learnt at level 27",
-        "Swift learnt at level 36",
-        "Flamethrower learnt at level 46"
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Swift",
+            28
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Rollout",
+            40
+        ],
+        [
+            "Double-edge",
+            46
+        ],
+        [
+            "Eruption",
+            49
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Flame-charge learnt at level 28",
-        "Swift learnt at level 31",
-        "Lava-plume learnt at level 37",
-        "Flamethrower learnt at level 40",
-        "Inferno learnt at level 46",
-        "Rollout learnt at level 49",
-        "Double-edge learnt at level 55",
-        "Burn-up learnt at level 58",
-        "Eruption learnt at level 64"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Flame-charge",
+            28
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Inferno",
+            46
+        ],
+        [
+            "Rollout",
+            49
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Burn-up",
+            58
+        ],
+        [
+            "Eruption",
+            64
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Smokescreen learnt at level 6",
-        "Ember learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Flame-wheel learnt at level 19",
-        "Defense-curl learnt at level 22",
-        "Flame-charge learnt at level 28",
-        "Swift learnt at level 31",
-        "Lava-plume learnt at level 37",
-        "Flamethrower learnt at level 40",
-        "Inferno learnt at level 46",
-        "Rollout learnt at level 49",
-        "Double-edge learnt at level 55",
-        "Burn-up learnt at level 58",
-        "Eruption learnt at level 64"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Flame-charge",
+            28
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Inferno",
+            46
+        ],
+        [
+            "Rollout",
+            49
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Burn-up",
+            58
+        ],
+        [
+            "Eruption",
+            64
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            4
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Swift",
+            28
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Rollout",
+            40
+        ],
+        [
+            "Double-edge",
+            46
+        ],
+        [
+            "Eruption",
+            49
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            4
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Swift",
+            28
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Rollout",
+            40
+        ],
+        [
+            "Double-edge",
+            46
+        ],
+        [
+            "Eruption",
+            49
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            12
+        ],
+        [
+            "Quick-attack",
+            19
+        ],
+        [
+            "Flame-wheel",
+            27
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            12
+        ],
+        [
+            "Quick-attack",
+            19
+        ],
+        [
+            "Flame-wheel",
+            27
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            12
+        ],
+        [
+            "Quick-attack",
+            19
+        ],
+        [
+            "Flame-wheel",
+            27
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Defense-curl",
+            22
+        ],
+        [
+            "Flame-charge",
+            28
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Inferno",
+            46
+        ],
+        [
+            "Rollout",
+            49
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Eruption",
+            58
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            12
+        ],
+        [
+            "Quick-attack",
+            19
+        ],
+        [
+            "Flame-wheel",
+            27
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smokescreen",
+            6
+        ],
+        [
+            "Ember",
+            12
+        ],
+        [
+            "Quick-attack",
+            19
+        ],
+        [
+            "Flame-wheel",
+            27
+        ],
+        [
+            "Swift",
+            36
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
     ]
 }

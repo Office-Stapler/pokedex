@@ -1,243 +1,890 @@
 {
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43"
-    ],
-    "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Chip-away learnt at level 37",
-        "Counter learnt at level 43",
-        "Flail learnt at level 49",
-        "Fling learnt at level 55",
-        "Punishment learnt at level 61",
-        "Hammer-arm learnt at level 67"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43",
-        "Fling learnt at level 49",
-        "Punishment learnt at level 55",
-        "Hammer-arm learnt at level 61"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Fling learnt at level 1",
-        "Punishment learnt at level 1",
-        "Encore learnt at level 6",
-        "Slack-off learnt at level 9",
-        "Feint-attack learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Covet learnt at level 23",
-        "Chip-away learnt at level 27",
-        "Counter learnt at level 33",
-        "Swagger learnt at level 36",
-        "Flail learnt at level 39",
-        "Fling learnt at level 47",
-        "Punishment learnt at level 53",
-        "Hammer-arm learnt at level 61"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43",
-        "Fling learnt at level 49",
-        "Punishment learnt at level 55",
-        "Hammer-arm learnt at level 61"
-    ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Swagger learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Fling learnt at level 1",
-        "Punishment learnt at level 1",
-        "Encore learnt at level 6",
-        "Slack-off learnt at level 9",
-        "Feint-attack learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Covet learnt at level 23",
-        "Chip-away learnt at level 27",
-        "Counter learnt at level 33",
-        "Flail learnt at level 39",
-        "Fling learnt at level 47",
-        "Punishment learnt at level 53",
-        "Hammer-arm learnt at level 61"
+        [
+            "Swagger",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Swagger",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Punishment",
+            1
+        ],
+        [
+            "Encore",
+            6
+        ],
+        [
+            "Slack-off",
+            9
+        ],
+        [
+            "Feint-attack",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Covet",
+            23
+        ],
+        [
+            "Chip-away",
+            27
+        ],
+        [
+            "Counter",
+            33
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Fling",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Hammer-arm",
+            61
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Swagger learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Fling learnt at level 1",
-        "Punishment learnt at level 1",
-        "Encore learnt at level 6",
-        "Slack-off learnt at level 9",
-        "Feint-attack learnt at level 14",
-        "Amnesia learnt at level 17",
-        "Covet learnt at level 23",
-        "Chip-away learnt at level 27",
-        "Counter learnt at level 33",
-        "Flail learnt at level 39",
-        "Fling learnt at level 47",
-        "Punishment learnt at level 53",
-        "Hammer-arm learnt at level 61"
+        [
+            "Swagger",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Swagger",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Punishment",
+            1
+        ],
+        [
+            "Encore",
+            6
+        ],
+        [
+            "Slack-off",
+            9
+        ],
+        [
+            "Feint-attack",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Covet",
+            23
+        ],
+        [
+            "Chip-away",
+            27
+        ],
+        [
+            "Counter",
+            33
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Fling",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Hammer-arm",
+            61
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Chip-away",
+            37
+        ],
+        [
+            "Counter",
+            43
+        ],
+        [
+            "Flail",
+            49
+        ],
+        [
+            "Fling",
+            55
+        ],
+        [
+            "Punishment",
+            61
+        ],
+        [
+            "Hammer-arm",
+            67
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Chip-away learnt at level 37",
-        "Counter learnt at level 43",
-        "Flail learnt at level 49",
-        "Fling learnt at level 55",
-        "Punishment learnt at level 61",
-        "Hammer-arm learnt at level 67"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Chip-away",
+            37
+        ],
+        [
+            "Counter",
+            43
+        ],
+        [
+            "Flail",
+            49
+        ],
+        [
+            "Fling",
+            55
+        ],
+        [
+            "Punishment",
+            61
+        ],
+        [
+            "Hammer-arm",
+            67
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Fling",
+            49
+        ],
+        [
+            "Punishment",
+            55
+        ],
+        [
+            "Hammer-arm",
+            61
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Punishment",
+            1
+        ],
+        [
+            "Encore",
+            6
+        ],
+        [
+            "Slack-off",
+            9
+        ],
+        [
+            "Feint-attack",
+            14
+        ],
+        [
+            "Amnesia",
+            17
+        ],
+        [
+            "Covet",
+            23
+        ],
+        [
+            "Chip-away",
+            27
+        ],
+        [
+            "Counter",
+            33
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Flail",
+            39
+        ],
+        [
+            "Fling",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Hammer-arm",
+            61
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Fling learnt at level 1",
-        "Punishment learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Chip-away learnt at level 37",
-        "Counter learnt at level 43",
-        "Flail learnt at level 49",
-        "Fling learnt at level 55",
-        "Punishment learnt at level 61",
-        "Hammer-arm learnt at level 67"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Punishment",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Chip-away",
+            37
+        ],
+        [
+            "Counter",
+            43
+        ],
+        [
+            "Flail",
+            49
+        ],
+        [
+            "Fling",
+            55
+        ],
+        [
+            "Punishment",
+            61
+        ],
+        [
+            "Hammer-arm",
+            67
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Fling",
+            49
+        ],
+        [
+            "Punishment",
+            55
+        ],
+        [
+            "Hammer-arm",
+            61
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43",
-        "Fling learnt at level 49",
-        "Punishment learnt at level 55",
-        "Hammer-arm learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Fling",
+            49
+        ],
+        [
+            "Punishment",
+            55
+        ],
+        [
+            "Hammer-arm",
+            61
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Encore learnt at level 1",
-        "Yawn learnt at level 1",
-        "Slack-off learnt at level 1",
-        "Encore learnt at level 7",
-        "Slack-off learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Amnesia learnt at level 25",
-        "Covet learnt at level 31",
-        "Swagger learnt at level 36",
-        "Counter learnt at level 37",
-        "Flail learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Slack-off",
+            1
+        ],
+        [
+            "Encore",
+            7
+        ],
+        [
+            "Slack-off",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Covet",
+            31
+        ],
+        [
+            "Swagger",
+            36
+        ],
+        [
+            "Counter",
+            37
+        ],
+        [
+            "Flail",
+            43
+        ]
     ]
 }

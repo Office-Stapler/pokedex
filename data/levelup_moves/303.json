@@ -1,240 +1,870 @@
 {
-    "firered-leafgreen": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Stockpile learnt at level 46",
-        "Spit-up learnt at level 46",
-        "Swallow learnt at level 46"
-    ],
-    "emerald": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Stockpile learnt at level 46",
-        "Spit-up learnt at level 46",
-        "Swallow learnt at level 46"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Taunt learnt at level 1",
-        "Astonish learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Play-rough learnt at level 1",
-        "Fairy-wind learnt at level 1",
-        "Fake-tears learnt at level 5",
-        "Bite learnt at level 9",
-        "Sweet-scent learnt at level 13",
-        "Vice-grip learnt at level 17",
-        "Feint-attack learnt at level 21",
-        "Baton-pass learnt at level 25",
-        "Crunch learnt at level 29",
-        "Iron-defense learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Stockpile learnt at level 41",
-        "Spit-up learnt at level 41",
-        "Swallow learnt at level 41",
-        "Iron-head learnt at level 45",
-        "Play-rough learnt at level 49"
-    ],
-    "black-2-white-2": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Sucker-punch learnt at level 46",
-        "Stockpile learnt at level 51",
-        "Spit-up learnt at level 51",
-        "Swallow learnt at level 51",
-        "Iron-head learnt at level 56"
-    ],
-    "heartgold-soulsilver": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Sucker-punch learnt at level 46",
-        "Stockpile learnt at level 51",
-        "Spit-up learnt at level 51",
-        "Swallow learnt at level 51",
-        "Iron-head learnt at level 56"
-    ],
-    "platinum": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Sucker-punch learnt at level 46",
-        "Stockpile learnt at level 51",
-        "Spit-up learnt at level 51",
-        "Swallow learnt at level 51",
-        "Iron-head learnt at level 56"
-    ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Taunt learnt at level 1",
-        "Astonish learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Play-rough learnt at level 1",
-        "Fairy-wind learnt at level 1",
-        "Fake-tears learnt at level 5",
-        "Bite learnt at level 9",
-        "Sweet-scent learnt at level 13",
-        "Vice-grip learnt at level 17",
-        "Feint-attack learnt at level 21",
-        "Baton-pass learnt at level 25",
-        "Crunch learnt at level 29",
-        "Iron-defense learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Stockpile learnt at level 41",
-        "Spit-up learnt at level 41",
-        "Swallow learnt at level 41",
-        "Iron-head learnt at level 45",
-        "Play-rough learnt at level 49"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Taunt",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ],
+        [
+            "Fairy-wind",
+            1
+        ],
+        [
+            "Fake-tears",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Sweet-scent",
+            13
+        ],
+        [
+            "Vice-grip",
+            17
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Baton-pass",
+            25
+        ],
+        [
+            "Crunch",
+            29
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Stockpile",
+            41
+        ],
+        [
+            "Spit-up",
+            41
+        ],
+        [
+            "Swallow",
+            41
+        ],
+        [
+            "Iron-head",
+            45
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Taunt learnt at level 1",
-        "Astonish learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Play-rough learnt at level 1",
-        "Fairy-wind learnt at level 1",
-        "Fake-tears learnt at level 5",
-        "Bite learnt at level 9",
-        "Sweet-scent learnt at level 13",
-        "Vice-grip learnt at level 17",
-        "Feint-attack learnt at level 21",
-        "Baton-pass learnt at level 25",
-        "Crunch learnt at level 29",
-        "Iron-defense learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Stockpile learnt at level 41",
-        "Spit-up learnt at level 41",
-        "Swallow learnt at level 41",
-        "Iron-head learnt at level 45",
-        "Play-rough learnt at level 49"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Taunt",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ],
+        [
+            "Fairy-wind",
+            1
+        ],
+        [
+            "Fake-tears",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Sweet-scent",
+            13
+        ],
+        [
+            "Vice-grip",
+            17
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Baton-pass",
+            25
+        ],
+        [
+            "Crunch",
+            29
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Stockpile",
+            41
+        ],
+        [
+            "Spit-up",
+            41
+        ],
+        [
+            "Swallow",
+            41
+        ],
+        [
+            "Iron-head",
+            45
+        ],
+        [
+            "Play-rough",
+            49
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Taunt",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ],
+        [
+            "Fairy-wind",
+            1
+        ],
+        [
+            "Fake-tears",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Sweet-scent",
+            13
+        ],
+        [
+            "Vice-grip",
+            17
+        ],
+        [
+            "Feint-attack",
+            21
+        ],
+        [
+            "Baton-pass",
+            25
+        ],
+        [
+            "Crunch",
+            29
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Stockpile",
+            41
+        ],
+        [
+            "Spit-up",
+            41
+        ],
+        [
+            "Swallow",
+            41
+        ],
+        [
+            "Iron-head",
+            45
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Taunt learnt at level 1",
-        "Astonish learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Play-rough learnt at level 1",
-        "Fairy-wind learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Sucker-punch learnt at level 46",
-        "Stockpile learnt at level 50",
-        "Spit-up learnt at level 50",
-        "Swallow learnt at level 50",
-        "Iron-head learnt at level 56",
-        "Play-rough learnt at level 60"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Taunt",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ],
+        [
+            "Fairy-wind",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Stockpile",
+            50
+        ],
+        [
+            "Spit-up",
+            50
+        ],
+        [
+            "Swallow",
+            50
+        ],
+        [
+            "Iron-head",
+            56
+        ],
+        [
+            "Play-rough",
+            60
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Stockpile",
+            51
+        ],
+        [
+            "Spit-up",
+            51
+        ],
+        [
+            "Swallow",
+            51
+        ],
+        [
+            "Iron-head",
+            56
+        ]
     ],
     "black-white": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Sucker-punch learnt at level 46",
-        "Stockpile learnt at level 51",
-        "Spit-up learnt at level 51",
-        "Swallow learnt at level 51",
-        "Iron-head learnt at level 56"
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Stockpile",
+            51
+        ],
+        [
+            "Spit-up",
+            51
+        ],
+        [
+            "Swallow",
+            51
+        ],
+        [
+            "Iron-head",
+            56
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Stockpile",
+            51
+        ],
+        [
+            "Spit-up",
+            51
+        ],
+        [
+            "Swallow",
+            51
+        ],
+        [
+            "Iron-head",
+            56
+        ]
+    ],
+    "platinum": [
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Stockpile",
+            51
+        ],
+        [
+            "Spit-up",
+            51
+        ],
+        [
+            "Swallow",
+            51
+        ],
+        [
+            "Iron-head",
+            56
+        ]
     ],
     "diamond-pearl": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Sucker-punch learnt at level 46",
-        "Stockpile learnt at level 51",
-        "Spit-up learnt at level 51",
-        "Swallow learnt at level 51",
-        "Iron-head learnt at level 56"
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Stockpile",
+            51
+        ],
+        [
+            "Spit-up",
+            51
+        ],
+        [
+            "Swallow",
+            51
+        ],
+        [
+            "Iron-head",
+            56
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Stockpile",
+            46
+        ],
+        [
+            "Spit-up",
+            46
+        ],
+        [
+            "Swallow",
+            46
+        ]
+    ],
+    "emerald": [
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Stockpile",
+            46
+        ],
+        [
+            "Spit-up",
+            46
+        ],
+        [
+            "Swallow",
+            46
+        ]
     ],
     "xd": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Stockpile learnt at level 46",
-        "Spit-up learnt at level 46",
-        "Swallow learnt at level 46"
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Stockpile",
+            46
+        ],
+        [
+            "Spit-up",
+            46
+        ],
+        [
+            "Swallow",
+            46
+        ]
     ],
     "colosseum": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Stockpile learnt at level 46",
-        "Spit-up learnt at level 46",
-        "Swallow learnt at level 46"
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Stockpile",
+            46
+        ],
+        [
+            "Spit-up",
+            46
+        ],
+        [
+            "Swallow",
+            46
+        ]
     ],
     "ruby-sapphire": [
-        "Astonish learnt at level 1",
-        "Fake-tears learnt at level 6",
-        "Bite learnt at level 11",
-        "Sweet-scent learnt at level 16",
-        "Vice-grip learnt at level 21",
-        "Feint-attack learnt at level 26",
-        "Baton-pass learnt at level 31",
-        "Crunch learnt at level 36",
-        "Iron-defense learnt at level 41",
-        "Stockpile learnt at level 46",
-        "Spit-up learnt at level 46",
-        "Swallow learnt at level 46"
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Fake-tears",
+            6
+        ],
+        [
+            "Bite",
+            11
+        ],
+        [
+            "Sweet-scent",
+            16
+        ],
+        [
+            "Vice-grip",
+            21
+        ],
+        [
+            "Feint-attack",
+            26
+        ],
+        [
+            "Baton-pass",
+            31
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Stockpile",
+            46
+        ],
+        [
+            "Spit-up",
+            46
+        ],
+        [
+            "Swallow",
+            46
+        ]
     ]
 }

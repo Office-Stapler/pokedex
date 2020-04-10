@@ -1,290 +1,1046 @@
 {
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 19",
-        "Rapid-spin learnt at level 25",
-        "Protect learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Skull-bash learnt at level 45",
-        "Hydro-pump learnt at level 53"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 19",
-        "Rapid-spin learnt at level 25",
-        "Protect learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Skull-bash learnt at level 45",
-        "Hydro-pump learnt at level 53"
-    ],
-    "yellow": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Bubble learnt at level 8",
-        "Water-gun learnt at level 15",
-        "Bite learnt at level 24",
-        "Withdraw learnt at level 31",
-        "Skull-bash learnt at level 39",
-        "Hydro-pump learnt at level 47"
-    ],
-    "red-blue": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Bubble learnt at level 8",
-        "Water-gun learnt at level 15",
-        "Bite learnt at level 24",
-        "Withdraw learnt at level 31",
-        "Skull-bash learnt at level 39",
-        "Hydro-pump learnt at level 47"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Bubble learnt at level 13",
-        "Bite learnt at level 16",
-        "Rapid-spin learnt at level 20",
-        "Protect learnt at level 24",
-        "Water-pulse learnt at level 28",
-        "Aqua-tail learnt at level 32",
-        "Skull-bash learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Rain-dance learnt at level 44",
-        "Hydro-pump learnt at level 48"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 16",
-        "Rapid-spin learnt at level 20",
-        "Protect learnt at level 24",
-        "Water-pulse learnt at level 28",
-        "Aqua-tail learnt at level 32",
-        "Skull-bash learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Rain-dance learnt at level 44",
-        "Hydro-pump learnt at level 48"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 16",
-        "Rapid-spin learnt at level 20",
-        "Protect learnt at level 24",
-        "Water-pulse learnt at level 28",
-        "Aqua-tail learnt at level 32",
-        "Skull-bash learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Rain-dance learnt at level 44",
-        "Hydro-pump learnt at level 48"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 19",
-        "Rapid-spin learnt at level 25",
-        "Protect learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Skull-bash learnt at level 45",
-        "Hydro-pump learnt at level 53"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 19",
-        "Rapid-spin learnt at level 25",
-        "Protect learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Skull-bash learnt at level 45",
-        "Hydro-pump learnt at level 53"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 16",
-        "Rapid-spin learnt at level 20",
-        "Protect learnt at level 24",
-        "Water-pulse learnt at level 28",
-        "Aqua-tail learnt at level 32",
-        "Skull-bash learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Rain-dance learnt at level 44",
-        "Hydro-pump learnt at level 48"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Bubble learnt at level 13",
-        "Bite learnt at level 17",
-        "Rapid-spin learnt at level 21",
-        "Protect learnt at level 25",
-        "Water-pulse learnt at level 29",
-        "Aqua-tail learnt at level 33",
-        "Skull-bash learnt at level 37",
-        "Iron-defense learnt at level 41",
-        "Rain-dance learnt at level 45",
-        "Hydro-pump learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Bubble",
+            13
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Rapid-spin",
+            21
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Aqua-tail",
+            33
+        ],
+        [
+            "Skull-bash",
+            37
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Rain-dance",
+            45
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Bubble learnt at level 13",
-        "Bite learnt at level 17",
-        "Rapid-spin learnt at level 21",
-        "Protect learnt at level 25",
-        "Water-pulse learnt at level 29",
-        "Aqua-tail learnt at level 33",
-        "Skull-bash learnt at level 37",
-        "Iron-defense learnt at level 41",
-        "Rain-dance learnt at level 45",
-        "Hydro-pump learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Bubble",
+            13
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Rapid-spin",
+            21
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Aqua-tail",
+            33
+        ],
+        [
+            "Skull-bash",
+            37
+        ],
+        [
+            "Iron-defense",
+            41
+        ],
+        [
+            "Rain-dance",
+            45
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Bubble",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Rapid-spin",
+            20
+        ],
+        [
+            "Protect",
+            24
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Skull-bash",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Rain-dance",
+            44
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Bubble learnt at level 13",
-        "Bite learnt at level 16",
-        "Rapid-spin learnt at level 20",
-        "Protect learnt at level 24",
-        "Water-pulse learnt at level 28",
-        "Aqua-tail learnt at level 32",
-        "Skull-bash learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Rain-dance learnt at level 44",
-        "Hydro-pump learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Bubble",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Rapid-spin",
+            20
+        ],
+        [
+            "Protect",
+            24
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Skull-bash",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Rain-dance",
+            44
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 19",
-        "Rapid-spin learnt at level 25",
-        "Protect learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Skull-bash learnt at level 45",
-        "Hydro-pump learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Skull-bash",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 16",
-        "Rapid-spin learnt at level 20",
-        "Protect learnt at level 24",
-        "Water-pulse learnt at level 28",
-        "Aqua-tail learnt at level 32",
-        "Skull-bash learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Rain-dance learnt at level 44",
-        "Hydro-pump learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Rapid-spin",
+            20
+        ],
+        [
+            "Protect",
+            24
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Skull-bash",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Rain-dance",
+            44
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Rapid-spin",
+            20
+        ],
+        [
+            "Protect",
+            24
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Skull-bash",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Rain-dance",
+            44
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Rapid-spin",
+            20
+        ],
+        [
+            "Protect",
+            24
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Skull-bash",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Rain-dance",
+            44
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Skull-bash",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 19",
-        "Rapid-spin learnt at level 25",
-        "Protect learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Skull-bash learnt at level 45",
-        "Hydro-pump learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Skull-bash",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Skull-bash",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Skull-bash",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Rapid-spin",
+            20
+        ],
+        [
+            "Protect",
+            24
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Skull-bash",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Rain-dance",
+            44
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 19",
-        "Rapid-spin learnt at level 25",
-        "Protect learnt at level 31",
-        "Rain-dance learnt at level 37",
-        "Skull-bash learnt at level 45",
-        "Hydro-pump learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Skull-bash",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Bubble learnt at level 7",
-        "Withdraw learnt at level 10",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 16",
-        "Rapid-spin learnt at level 20",
-        "Protect learnt at level 24",
-        "Water-pulse learnt at level 28",
-        "Aqua-tail learnt at level 32",
-        "Skull-bash learnt at level 36",
-        "Rain-dance learnt at level 40",
-        "Hydro-pump learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Rapid-spin",
+            20
+        ],
+        [
+            "Protect",
+            24
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Skull-bash",
+            36
+        ],
+        [
+            "Rain-dance",
+            40
+        ],
+        [
+            "Hydro-pump",
+            44
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Withdraw",
+            10
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Skull-bash",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
+    ],
+    "yellow": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Bite",
+            24
+        ],
+        [
+            "Withdraw",
+            31
+        ],
+        [
+            "Skull-bash",
+            39
+        ],
+        [
+            "Hydro-pump",
+            47
+        ]
+    ],
+    "red-blue": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Bite",
+            24
+        ],
+        [
+            "Withdraw",
+            31
+        ],
+        [
+            "Skull-bash",
+            39
+        ],
+        [
+            "Hydro-pump",
+            47
+        ]
     ]
 }

@@ -1,297 +1,1074 @@
 {
     "sun-moon": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Absorb learnt at level 10",
-        "Poison-powder learnt at level 14",
-        "Bind learnt at level 17",
-        "Growth learnt at level 20",
-        "Mega-drain learnt at level 23",
-        "Knock-off learnt at level 27",
-        "Stun-spore learnt at level 30",
-        "Natural-gift learnt at level 33",
-        "Giga-drain learnt at level 36",
-        "Ancient-power learnt at level 38",
-        "Slam learnt at level 41",
-        "Tickle learnt at level 44",
-        "Wring-out learnt at level 46",
-        "Grassy-terrain learnt at level 48",
-        "Power-whip learnt at level 50"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Bind",
+            17
+        ],
+        [
+            "Growth",
+            20
+        ],
+        [
+            "Mega-drain",
+            23
+        ],
+        [
+            "Knock-off",
+            27
+        ],
+        [
+            "Stun-spore",
+            30
+        ],
+        [
+            "Natural-gift",
+            33
+        ],
+        [
+            "Giga-drain",
+            36
+        ],
+        [
+            "Ancient-power",
+            38
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Tickle",
+            44
+        ],
+        [
+            "Wring-out",
+            46
+        ],
+        [
+            "Grassy-terrain",
+            48
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Absorb learnt at level 10",
-        "Poison-powder learnt at level 14",
-        "Bind learnt at level 17",
-        "Growth learnt at level 20",
-        "Mega-drain learnt at level 23",
-        "Knock-off learnt at level 27",
-        "Stun-spore learnt at level 30",
-        "Natural-gift learnt at level 33",
-        "Giga-drain learnt at level 36",
-        "Ancient-power learnt at level 38",
-        "Slam learnt at level 41",
-        "Tickle learnt at level 44",
-        "Wring-out learnt at level 46",
-        "Grassy-terrain learnt at level 48",
-        "Power-whip learnt at level 50"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Bind",
+            17
+        ],
+        [
+            "Growth",
+            20
+        ],
+        [
+            "Mega-drain",
+            23
+        ],
+        [
+            "Knock-off",
+            27
+        ],
+        [
+            "Stun-spore",
+            30
+        ],
+        [
+            "Natural-gift",
+            33
+        ],
+        [
+            "Giga-drain",
+            36
+        ],
+        [
+            "Ancient-power",
+            38
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Tickle",
+            44
+        ],
+        [
+            "Wring-out",
+            46
+        ],
+        [
+            "Grassy-terrain",
+            48
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "x-y": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Absorb learnt at level 10",
-        "Poison-powder learnt at level 14",
-        "Bind learnt at level 17",
-        "Growth learnt at level 20",
-        "Mega-drain learnt at level 23",
-        "Knock-off learnt at level 27",
-        "Stun-spore learnt at level 30",
-        "Natural-gift learnt at level 33",
-        "Giga-drain learnt at level 36",
-        "Ancient-power learnt at level 38",
-        "Slam learnt at level 41",
-        "Tickle learnt at level 44",
-        "Wring-out learnt at level 46",
-        "Grassy-terrain learnt at level 48",
-        "Power-whip learnt at level 50"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Bind",
+            17
+        ],
+        [
+            "Growth",
+            20
+        ],
+        [
+            "Mega-drain",
+            23
+        ],
+        [
+            "Knock-off",
+            27
+        ],
+        [
+            "Stun-spore",
+            30
+        ],
+        [
+            "Natural-gift",
+            33
+        ],
+        [
+            "Giga-drain",
+            36
+        ],
+        [
+            "Ancient-power",
+            38
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Tickle",
+            44
+        ],
+        [
+            "Wring-out",
+            46
+        ],
+        [
+            "Grassy-terrain",
+            48
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Absorb learnt at level 10",
-        "Poison-powder learnt at level 14",
-        "Bind learnt at level 17",
-        "Growth learnt at level 20",
-        "Mega-drain learnt at level 23",
-        "Knock-off learnt at level 27",
-        "Stun-spore learnt at level 30",
-        "Natural-gift learnt at level 33",
-        "Giga-drain learnt at level 36",
-        "Ancient-power learnt at level 40",
-        "Slam learnt at level 43",
-        "Tickle learnt at level 46",
-        "Wring-out learnt at level 49",
-        "Power-whip learnt at level 53"
-    ],
-    "ultra-sun-ultra-moon": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Absorb learnt at level 10",
-        "Poison-powder learnt at level 14",
-        "Bind learnt at level 17",
-        "Growth learnt at level 20",
-        "Mega-drain learnt at level 23",
-        "Knock-off learnt at level 27",
-        "Stun-spore learnt at level 30",
-        "Natural-gift learnt at level 33",
-        "Giga-drain learnt at level 36",
-        "Ancient-power learnt at level 38",
-        "Slam learnt at level 41",
-        "Tickle learnt at level 44",
-        "Wring-out learnt at level 46",
-        "Grassy-terrain learnt at level 48",
-        "Power-whip learnt at level 50"
-    ],
-    "black-white": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 5",
-        "Absorb learnt at level 8",
-        "Growth learnt at level 12",
-        "Poison-powder learnt at level 15",
-        "Vine-whip learnt at level 19",
-        "Bind learnt at level 22",
-        "Mega-drain learnt at level 26",
-        "Stun-spore learnt at level 29",
-        "Knock-off learnt at level 33",
-        "Ancient-power learnt at level 36",
-        "Natural-gift learnt at level 40",
-        "Slam learnt at level 43",
-        "Tickle learnt at level 47",
-        "Wring-out learnt at level 50",
-        "Power-whip learnt at level 54"
-    ],
-    "heartgold-soulsilver": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 5",
-        "Absorb learnt at level 8",
-        "Growth learnt at level 12",
-        "Poison-powder learnt at level 15",
-        "Vine-whip learnt at level 19",
-        "Bind learnt at level 22",
-        "Mega-drain learnt at level 26",
-        "Stun-spore learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Knock-off learnt at level 36",
-        "Natural-gift learnt at level 40",
-        "Slam learnt at level 43",
-        "Tickle learnt at level 47",
-        "Wring-out learnt at level 50",
-        "Power-whip learnt at level 54"
-    ],
-    "diamond-pearl": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 5",
-        "Absorb learnt at level 8",
-        "Growth learnt at level 12",
-        "Poison-powder learnt at level 15",
-        "Vine-whip learnt at level 19",
-        "Bind learnt at level 22",
-        "Mega-drain learnt at level 26",
-        "Stun-spore learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Knock-off learnt at level 36",
-        "Natural-gift learnt at level 40",
-        "Slam learnt at level 43",
-        "Tickle learnt at level 47",
-        "Wring-out learnt at level 50",
-        "Power-whip learnt at level 54"
-    ],
-    "firered-leafgreen": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Absorb learnt at level 10",
-        "Growth learnt at level 13",
-        "Poison-powder learnt at level 19",
-        "Vine-whip learnt at level 22",
-        "Bind learnt at level 28",
-        "Mega-drain learnt at level 31",
-        "Stun-spore learnt at level 37",
-        "Slam learnt at level 40",
-        "Tickle learnt at level 46"
-    ],
-    "emerald": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Absorb learnt at level 10",
-        "Growth learnt at level 13",
-        "Poison-powder learnt at level 19",
-        "Vine-whip learnt at level 22",
-        "Bind learnt at level 28",
-        "Mega-drain learnt at level 31",
-        "Stun-spore learnt at level 37",
-        "Slam learnt at level 40",
-        "Tickle learnt at level 46"
-    ],
-    "platinum": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 5",
-        "Absorb learnt at level 8",
-        "Growth learnt at level 12",
-        "Poison-powder learnt at level 15",
-        "Vine-whip learnt at level 19",
-        "Bind learnt at level 22",
-        "Mega-drain learnt at level 26",
-        "Stun-spore learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Knock-off learnt at level 36",
-        "Natural-gift learnt at level 40",
-        "Slam learnt at level 43",
-        "Tickle learnt at level 47",
-        "Wring-out learnt at level 50",
-        "Power-whip learnt at level 54"
-    ],
-    "yellow": [
-        "Constrict learnt at level 1",
-        "Bind learnt at level 24",
-        "Absorb learnt at level 27",
-        "Vine-whip learnt at level 29",
-        "Poison-powder learnt at level 32",
-        "Stun-spore learnt at level 36",
-        "Sleep-powder learnt at level 39",
-        "Slam learnt at level 45",
-        "Growth learnt at level 48"
-    ],
-    "red-blue": [
-        "Bind learnt at level 1",
-        "Constrict learnt at level 1",
-        "Absorb learnt at level 29",
-        "Poison-powder learnt at level 32",
-        "Stun-spore learnt at level 36",
-        "Sleep-powder learnt at level 39",
-        "Slam learnt at level 45",
-        "Growth learnt at level 49"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Bind",
+            17
+        ],
+        [
+            "Growth",
+            20
+        ],
+        [
+            "Mega-drain",
+            23
+        ],
+        [
+            "Knock-off",
+            27
+        ],
+        [
+            "Stun-spore",
+            30
+        ],
+        [
+            "Natural-gift",
+            33
+        ],
+        [
+            "Giga-drain",
+            36
+        ],
+        [
+            "Ancient-power",
+            40
+        ],
+        [
+            "Slam",
+            43
+        ],
+        [
+            "Tickle",
+            46
+        ],
+        [
+            "Wring-out",
+            49
+        ],
+        [
+            "Power-whip",
+            53
+        ]
     ],
     "xd": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Absorb learnt at level 10",
-        "Growth learnt at level 13",
-        "Poison-powder learnt at level 19",
-        "Vine-whip learnt at level 22",
-        "Bind learnt at level 28",
-        "Mega-drain learnt at level 31",
-        "Stun-spore learnt at level 37",
-        "Slam learnt at level 40",
-        "Tickle learnt at level 46"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Vine-whip",
+            22
+        ],
+        [
+            "Bind",
+            28
+        ],
+        [
+            "Mega-drain",
+            31
+        ],
+        [
+            "Stun-spore",
+            37
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Tickle",
+            46
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Bind",
+            17
+        ],
+        [
+            "Growth",
+            20
+        ],
+        [
+            "Mega-drain",
+            23
+        ],
+        [
+            "Knock-off",
+            27
+        ],
+        [
+            "Stun-spore",
+            30
+        ],
+        [
+            "Natural-gift",
+            33
+        ],
+        [
+            "Giga-drain",
+            36
+        ],
+        [
+            "Ancient-power",
+            38
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Tickle",
+            44
+        ],
+        [
+            "Wring-out",
+            46
+        ],
+        [
+            "Grassy-terrain",
+            48
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "colosseum": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Absorb learnt at level 10",
-        "Growth learnt at level 13",
-        "Poison-powder learnt at level 19",
-        "Vine-whip learnt at level 22",
-        "Bind learnt at level 28",
-        "Mega-drain learnt at level 31",
-        "Stun-spore learnt at level 37",
-        "Slam learnt at level 40",
-        "Tickle learnt at level 46"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Vine-whip",
+            22
+        ],
+        [
+            "Bind",
+            28
+        ],
+        [
+            "Mega-drain",
+            31
+        ],
+        [
+            "Stun-spore",
+            37
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Tickle",
+            46
+        ]
+    ],
+    "black-white": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            5
+        ],
+        [
+            "Absorb",
+            8
+        ],
+        [
+            "Growth",
+            12
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Vine-whip",
+            19
+        ],
+        [
+            "Bind",
+            22
+        ],
+        [
+            "Mega-drain",
+            26
+        ],
+        [
+            "Stun-spore",
+            29
+        ],
+        [
+            "Knock-off",
+            33
+        ],
+        [
+            "Ancient-power",
+            36
+        ],
+        [
+            "Natural-gift",
+            40
+        ],
+        [
+            "Slam",
+            43
+        ],
+        [
+            "Tickle",
+            47
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Power-whip",
+            54
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            5
+        ],
+        [
+            "Absorb",
+            8
+        ],
+        [
+            "Growth",
+            12
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Vine-whip",
+            19
+        ],
+        [
+            "Bind",
+            22
+        ],
+        [
+            "Mega-drain",
+            26
+        ],
+        [
+            "Stun-spore",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Knock-off",
+            36
+        ],
+        [
+            "Natural-gift",
+            40
+        ],
+        [
+            "Slam",
+            43
+        ],
+        [
+            "Tickle",
+            47
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Power-whip",
+            54
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            5
+        ],
+        [
+            "Absorb",
+            8
+        ],
+        [
+            "Growth",
+            12
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Vine-whip",
+            19
+        ],
+        [
+            "Bind",
+            22
+        ],
+        [
+            "Mega-drain",
+            26
+        ],
+        [
+            "Stun-spore",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Knock-off",
+            36
+        ],
+        [
+            "Natural-gift",
+            40
+        ],
+        [
+            "Slam",
+            43
+        ],
+        [
+            "Tickle",
+            47
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Power-whip",
+            54
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Vine-whip",
+            22
+        ],
+        [
+            "Bind",
+            28
+        ],
+        [
+            "Mega-drain",
+            31
+        ],
+        [
+            "Stun-spore",
+            37
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Tickle",
+            46
+        ]
+    ],
+    "emerald": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Vine-whip",
+            22
+        ],
+        [
+            "Bind",
+            28
+        ],
+        [
+            "Mega-drain",
+            31
+        ],
+        [
+            "Stun-spore",
+            37
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Tickle",
+            46
+        ]
     ],
     "ruby-sapphire": [
-        "Constrict learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Absorb learnt at level 10",
-        "Growth learnt at level 13",
-        "Poison-powder learnt at level 19",
-        "Vine-whip learnt at level 22",
-        "Bind learnt at level 28",
-        "Mega-drain learnt at level 31",
-        "Stun-spore learnt at level 37",
-        "Slam learnt at level 40",
-        "Tickle learnt at level 46"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Poison-powder",
+            19
+        ],
+        [
+            "Vine-whip",
+            22
+        ],
+        [
+            "Bind",
+            28
+        ],
+        [
+            "Mega-drain",
+            31
+        ],
+        [
+            "Stun-spore",
+            37
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Tickle",
+            46
+        ]
     ],
     "crystal": [
-        "Constrict learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Absorb learnt at level 10",
-        "Poison-powder learnt at level 13",
-        "Vine-whip learnt at level 19",
-        "Bind learnt at level 25",
-        "Mega-drain learnt at level 31",
-        "Stun-spore learnt at level 34",
-        "Slam learnt at level 40",
-        "Growth learnt at level 46"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Vine-whip",
+            19
+        ],
+        [
+            "Bind",
+            25
+        ],
+        [
+            "Mega-drain",
+            31
+        ],
+        [
+            "Stun-spore",
+            34
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Growth",
+            46
+        ]
     ],
     "gold-silver": [
-        "Constrict learnt at level 1",
-        "Sleep-powder learnt at level 4",
-        "Absorb learnt at level 10",
-        "Poison-powder learnt at level 13",
-        "Vine-whip learnt at level 19",
-        "Bind learnt at level 25",
-        "Mega-drain learnt at level 31",
-        "Stun-spore learnt at level 34",
-        "Slam learnt at level 40",
-        "Growth learnt at level 46"
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Sleep-powder",
+            4
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Vine-whip",
+            19
+        ],
+        [
+            "Bind",
+            25
+        ],
+        [
+            "Mega-drain",
+            31
+        ],
+        [
+            "Stun-spore",
+            34
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Growth",
+            46
+        ]
+    ],
+    "platinum": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Sleep-powder",
+            5
+        ],
+        [
+            "Absorb",
+            8
+        ],
+        [
+            "Growth",
+            12
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Vine-whip",
+            19
+        ],
+        [
+            "Bind",
+            22
+        ],
+        [
+            "Mega-drain",
+            26
+        ],
+        [
+            "Stun-spore",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Knock-off",
+            36
+        ],
+        [
+            "Natural-gift",
+            40
+        ],
+        [
+            "Slam",
+            43
+        ],
+        [
+            "Tickle",
+            47
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Power-whip",
+            54
+        ]
+    ],
+    "yellow": [
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Bind",
+            24
+        ],
+        [
+            "Absorb",
+            27
+        ],
+        [
+            "Vine-whip",
+            29
+        ],
+        [
+            "Poison-powder",
+            32
+        ],
+        [
+            "Stun-spore",
+            36
+        ],
+        [
+            "Sleep-powder",
+            39
+        ],
+        [
+            "Slam",
+            45
+        ],
+        [
+            "Growth",
+            48
+        ]
+    ],
+    "red-blue": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Absorb",
+            29
+        ],
+        [
+            "Poison-powder",
+            32
+        ],
+        [
+            "Stun-spore",
+            36
+        ],
+        [
+            "Sleep-powder",
+            39
+        ],
+        [
+            "Slam",
+            45
+        ],
+        [
+            "Growth",
+            49
+        ]
     ]
 }

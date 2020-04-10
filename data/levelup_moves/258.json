@@ -1,201 +1,714 @@
 {
-    "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
-    ],
-    "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
+    "sun-moon": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Mud-slap",
+            9
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Bide",
+            17
+        ],
+        [
+            "Mud-sport",
+            20
+        ],
+        [
+            "Rock-throw",
+            25
+        ],
+        [
+            "Protect",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Take-down",
+            36
+        ],
+        [
+            "Hydro-pump",
+            41
+        ],
+        [
+            "Endeavor",
+            44
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Mud-slap learnt at level 9",
-        "Foresight learnt at level 12",
-        "Bide learnt at level 17",
-        "Mud-sport learnt at level 20",
-        "Rock-throw learnt at level 25",
-        "Protect learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Take-down learnt at level 36",
-        "Hydro-pump learnt at level 41",
-        "Endeavor learnt at level 44"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Mud-slap",
+            9
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Bide",
+            17
+        ],
+        [
+            "Mud-sport",
+            20
+        ],
+        [
+            "Rock-throw",
+            25
+        ],
+        [
+            "Protect",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Take-down",
+            36
+        ],
+        [
+            "Hydro-pump",
+            41
+        ],
+        [
+            "Endeavor",
+            44
+        ]
     ],
-    "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Mud-slap learnt at level 9",
-        "Foresight learnt at level 12",
-        "Bide learnt at level 17",
-        "Mud-sport learnt at level 20",
-        "Rock-throw learnt at level 25",
-        "Protect learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Take-down learnt at level 36",
-        "Hydro-pump learnt at level 41",
-        "Endeavor learnt at level 44"
+    "x-y": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
     ],
-    "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Mud-slap learnt at level 9",
-        "Foresight learnt at level 12",
-        "Bide learnt at level 17",
-        "Mud-sport learnt at level 20",
-        "Rock-throw learnt at level 25",
-        "Protect learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Take-down learnt at level 36",
-        "Hydro-pump learnt at level 41",
-        "Endeavor learnt at level 44"
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Mud-slap learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Bide learnt at level 15",
-        "Foresight learnt at level 19",
-        "Mud-sport learnt at level 24",
-        "Take-down learnt at level 28",
-        "Whirlpool learnt at level 33",
-        "Protect learnt at level 37",
-        "Hydro-pump learnt at level 42",
-        "Endeavor learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Mud-slap",
+            9
+        ],
+        [
+            "Foresight",
+            12
+        ],
+        [
+            "Bide",
+            17
+        ],
+        [
+            "Mud-sport",
+            20
+        ],
+        [
+            "Rock-throw",
+            25
+        ],
+        [
+            "Protect",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Take-down",
+            36
+        ],
+        [
+            "Hydro-pump",
+            41
+        ],
+        [
+            "Endeavor",
+            44
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Mud-slap",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Bide",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Mud-sport",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Whirlpool",
+            33
+        ],
+        [
+            "Protect",
+            37
+        ],
+        [
+            "Hydro-pump",
+            42
+        ],
+        [
+            "Endeavor",
+            46
+        ]
     ]
 }

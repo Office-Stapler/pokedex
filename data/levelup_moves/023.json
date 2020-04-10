@@ -1,265 +1,946 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Acid-spray learnt at level 28",
-        "Mud-bomb learnt at level 33",
-        "Gastro-acid learnt at level 36",
-        "Belch learnt at level 38",
-        "Haze learnt at level 41",
-        "Coil learnt at level 44",
-        "Gunk-shot learnt at level 49"
-    ],
-    "black-2-white-2": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Acid-spray learnt at level 28",
-        "Mud-bomb learnt at level 33",
-        "Gastro-acid learnt at level 36",
-        "Haze learnt at level 41",
-        "Coil learnt at level 44",
-        "Gunk-shot learnt at level 49"
-    ],
     "ultra-sun-ultra-moon": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Acid-spray learnt at level 28",
-        "Mud-bomb learnt at level 33",
-        "Gastro-acid learnt at level 36",
-        "Belch learnt at level 38",
-        "Haze learnt at level 41",
-        "Coil learnt at level 44",
-        "Gunk-shot learnt at level 49"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Acid-spray",
+            28
+        ],
+        [
+            "Mud-bomb",
+            33
+        ],
+        [
+            "Gastro-acid",
+            36
+        ],
+        [
+            "Belch",
+            38
+        ],
+        [
+            "Haze",
+            41
+        ],
+        [
+            "Coil",
+            44
+        ],
+        [
+            "Gunk-shot",
+            49
+        ]
     ],
     "sun-moon": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Acid-spray learnt at level 28",
-        "Mud-bomb learnt at level 33",
-        "Gastro-acid learnt at level 36",
-        "Belch learnt at level 38",
-        "Haze learnt at level 41",
-        "Coil learnt at level 44",
-        "Gunk-shot learnt at level 49"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Acid-spray",
+            28
+        ],
+        [
+            "Mud-bomb",
+            33
+        ],
+        [
+            "Gastro-acid",
+            36
+        ],
+        [
+            "Belch",
+            38
+        ],
+        [
+            "Haze",
+            41
+        ],
+        [
+            "Coil",
+            44
+        ],
+        [
+            "Gunk-shot",
+            49
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Acid-spray",
+            28
+        ],
+        [
+            "Mud-bomb",
+            33
+        ],
+        [
+            "Gastro-acid",
+            36
+        ],
+        [
+            "Belch",
+            38
+        ],
+        [
+            "Haze",
+            41
+        ],
+        [
+            "Coil",
+            44
+        ],
+        [
+            "Gunk-shot",
+            49
+        ]
     ],
     "platinum": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Mud-bomb learnt at level 28",
-        "Gastro-acid learnt at level 33",
-        "Haze learnt at level 36",
-        "Gunk-shot learnt at level 41"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Mud-bomb",
+            28
+        ],
+        [
+            "Gastro-acid",
+            33
+        ],
+        [
+            "Haze",
+            36
+        ],
+        [
+            "Gunk-shot",
+            41
+        ]
     ],
     "diamond-pearl": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Mud-bomb learnt at level 28",
-        "Gastro-acid learnt at level 33",
-        "Haze learnt at level 36",
-        "Gunk-shot learnt at level 41"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Mud-bomb",
+            28
+        ],
+        [
+            "Gastro-acid",
+            33
+        ],
+        [
+            "Haze",
+            36
+        ],
+        [
+            "Gunk-shot",
+            41
+        ]
     ],
     "firered-leafgreen": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 8",
-        "Bite learnt at level 13",
-        "Glare learnt at level 20",
-        "Screech learnt at level 25",
-        "Acid learnt at level 32",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Haze learnt at level 44"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Glare",
+            20
+        ],
+        [
+            "Screech",
+            25
+        ],
+        [
+            "Acid",
+            32
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Haze",
+            44
+        ]
     ],
     "emerald": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 8",
-        "Bite learnt at level 13",
-        "Glare learnt at level 20",
-        "Screech learnt at level 25",
-        "Acid learnt at level 32",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Haze learnt at level 44"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Glare",
+            20
+        ],
+        [
+            "Screech",
+            25
+        ],
+        [
+            "Acid",
+            32
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Haze",
+            44
+        ]
     ],
     "ruby-sapphire": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 8",
-        "Bite learnt at level 13",
-        "Glare learnt at level 20",
-        "Screech learnt at level 25",
-        "Acid learnt at level 32",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Haze learnt at level 44"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Glare",
+            20
+        ],
+        [
+            "Screech",
+            25
+        ],
+        [
+            "Acid",
+            32
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Haze",
+            44
+        ]
     ],
     "crystal": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 9",
-        "Bite learnt at level 15",
-        "Glare learnt at level 23",
-        "Screech learnt at level 29",
-        "Acid learnt at level 37",
-        "Haze learnt at level 43"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            9
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Glare",
+            23
+        ],
+        [
+            "Screech",
+            29
+        ],
+        [
+            "Acid",
+            37
+        ],
+        [
+            "Haze",
+            43
+        ]
     ],
     "gold-silver": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 9",
-        "Bite learnt at level 15",
-        "Glare learnt at level 23",
-        "Screech learnt at level 29",
-        "Acid learnt at level 37",
-        "Haze learnt at level 43"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            9
+        ],
+        [
+            "Bite",
+            15
+        ],
+        [
+            "Glare",
+            23
+        ],
+        [
+            "Screech",
+            29
+        ],
+        [
+            "Acid",
+            37
+        ],
+        [
+            "Haze",
+            43
+        ]
     ],
     "x-y": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Acid-spray learnt at level 28",
-        "Mud-bomb learnt at level 33",
-        "Gastro-acid learnt at level 36",
-        "Belch learnt at level 38",
-        "Haze learnt at level 41",
-        "Coil learnt at level 44",
-        "Gunk-shot learnt at level 49"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Acid-spray",
+            28
+        ],
+        [
+            "Mud-bomb",
+            33
+        ],
+        [
+            "Gastro-acid",
+            36
+        ],
+        [
+            "Belch",
+            38
+        ],
+        [
+            "Haze",
+            41
+        ],
+        [
+            "Coil",
+            44
+        ],
+        [
+            "Gunk-shot",
+            49
+        ]
     ],
-    "black-white": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Acid-spray learnt at level 28",
-        "Mud-bomb learnt at level 33",
-        "Gastro-acid learnt at level 36",
-        "Haze learnt at level 41",
-        "Coil learnt at level 44",
-        "Gunk-shot learnt at level 49"
-    ],
-    "heartgold-soulsilver": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 4",
-        "Bite learnt at level 9",
-        "Glare learnt at level 12",
-        "Screech learnt at level 17",
-        "Acid learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Spit-up learnt at level 25",
-        "Swallow learnt at level 25",
-        "Mud-bomb learnt at level 28",
-        "Gastro-acid learnt at level 33",
-        "Haze learnt at level 36",
-        "Gunk-shot learnt at level 41"
+    "black-2-white-2": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Acid-spray",
+            28
+        ],
+        [
+            "Mud-bomb",
+            33
+        ],
+        [
+            "Gastro-acid",
+            36
+        ],
+        [
+            "Haze",
+            41
+        ],
+        [
+            "Coil",
+            44
+        ],
+        [
+            "Gunk-shot",
+            49
+        ]
     ],
     "xd": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 8",
-        "Bite learnt at level 13",
-        "Glare learnt at level 20",
-        "Screech learnt at level 25",
-        "Acid learnt at level 32",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Haze learnt at level 44"
-    ],
-    "yellow": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 10",
-        "Bite learnt at level 17",
-        "Glare learnt at level 24",
-        "Screech learnt at level 31",
-        "Acid learnt at level 38"
-    ],
-    "red-blue": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 10",
-        "Bite learnt at level 17",
-        "Glare learnt at level 24",
-        "Screech learnt at level 31",
-        "Acid learnt at level 38"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Glare",
+            20
+        ],
+        [
+            "Screech",
+            25
+        ],
+        [
+            "Acid",
+            32
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Haze",
+            44
+        ]
     ],
     "colosseum": [
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Poison-sting learnt at level 8",
-        "Bite learnt at level 13",
-        "Glare learnt at level 20",
-        "Screech learnt at level 25",
-        "Acid learnt at level 32",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Haze learnt at level 44"
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Glare",
+            20
+        ],
+        [
+            "Screech",
+            25
+        ],
+        [
+            "Acid",
+            32
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Haze",
+            44
+        ]
+    ],
+    "black-white": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Acid-spray",
+            28
+        ],
+        [
+            "Mud-bomb",
+            33
+        ],
+        [
+            "Gastro-acid",
+            36
+        ],
+        [
+            "Haze",
+            41
+        ],
+        [
+            "Coil",
+            44
+        ],
+        [
+            "Gunk-shot",
+            49
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            4
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Glare",
+            12
+        ],
+        [
+            "Screech",
+            17
+        ],
+        [
+            "Acid",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Spit-up",
+            25
+        ],
+        [
+            "Swallow",
+            25
+        ],
+        [
+            "Mud-bomb",
+            28
+        ],
+        [
+            "Gastro-acid",
+            33
+        ],
+        [
+            "Haze",
+            36
+        ],
+        [
+            "Gunk-shot",
+            41
+        ]
+    ],
+    "yellow": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            10
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Glare",
+            24
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Acid",
+            38
+        ]
+    ],
+    "red-blue": [
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Poison-sting",
+            10
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Glare",
+            24
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Acid",
+            38
+        ]
     ]
 }

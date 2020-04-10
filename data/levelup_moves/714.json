@@ -1,74 +1,266 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Screech learnt at level 1",
-        "Absorb learnt at level 5",
-        "Gust learnt at level 11",
-        "Bite learnt at level 13",
-        "Wing-attack learnt at level 16",
-        "Agility learnt at level 18",
-        "Air-cutter learnt at level 23",
-        "Roost learnt at level 27",
-        "Razor-wind learnt at level 31",
-        "Tailwind learnt at level 35",
-        "Whirlwind learnt at level 40",
-        "Super-fang learnt at level 43",
-        "Air-slash learnt at level 48",
-        "Hurricane learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Gust",
+            11
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Wing-attack",
+            16
+        ],
+        [
+            "Agility",
+            18
+        ],
+        [
+            "Air-cutter",
+            23
+        ],
+        [
+            "Roost",
+            27
+        ],
+        [
+            "Razor-wind",
+            31
+        ],
+        [
+            "Tailwind",
+            35
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Air-slash",
+            48
+        ],
+        [
+            "Hurricane",
+            58
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Screech learnt at level 1",
-        "Absorb learnt at level 5",
-        "Gust learnt at level 11",
-        "Bite learnt at level 13",
-        "Wing-attack learnt at level 16",
-        "Agility learnt at level 18",
-        "Air-cutter learnt at level 23",
-        "Roost learnt at level 27",
-        "Razor-wind learnt at level 31",
-        "Tailwind learnt at level 35",
-        "Whirlwind learnt at level 40",
-        "Super-fang learnt at level 43",
-        "Air-slash learnt at level 48",
-        "Hurricane learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Gust",
+            11
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Wing-attack",
+            16
+        ],
+        [
+            "Agility",
+            18
+        ],
+        [
+            "Air-cutter",
+            23
+        ],
+        [
+            "Roost",
+            27
+        ],
+        [
+            "Razor-wind",
+            31
+        ],
+        [
+            "Tailwind",
+            35
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Air-slash",
+            48
+        ],
+        [
+            "Hurricane",
+            58
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Screech learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Gust learnt at level 11",
-        "Bite learnt at level 13",
-        "Wing-attack learnt at level 16",
-        "Agility learnt at level 18",
-        "Air-cutter learnt at level 23",
-        "Roost learnt at level 27",
-        "Razor-wind learnt at level 31",
-        "Tailwind learnt at level 35",
-        "Whirlwind learnt at level 40",
-        "Super-fang learnt at level 43",
-        "Air-slash learnt at level 48",
-        "Hurricane learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Gust",
+            11
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Wing-attack",
+            16
+        ],
+        [
+            "Agility",
+            18
+        ],
+        [
+            "Air-cutter",
+            23
+        ],
+        [
+            "Roost",
+            27
+        ],
+        [
+            "Razor-wind",
+            31
+        ],
+        [
+            "Tailwind",
+            35
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Air-slash",
+            48
+        ],
+        [
+            "Hurricane",
+            58
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Screech learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Gust learnt at level 11",
-        "Bite learnt at level 13",
-        "Wing-attack learnt at level 16",
-        "Agility learnt at level 18",
-        "Air-cutter learnt at level 23",
-        "Roost learnt at level 27",
-        "Razor-wind learnt at level 31",
-        "Tailwind learnt at level 35",
-        "Whirlwind learnt at level 40",
-        "Super-fang learnt at level 43",
-        "Air-slash learnt at level 48",
-        "Hurricane learnt at level 58"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Gust",
+            11
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Wing-attack",
+            16
+        ],
+        [
+            "Agility",
+            18
+        ],
+        [
+            "Air-cutter",
+            23
+        ],
+        [
+            "Roost",
+            27
+        ],
+        [
+            "Razor-wind",
+            31
+        ],
+        [
+            "Tailwind",
+            35
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Air-slash",
+            48
+        ],
+        [
+            "Hurricane",
+            58
+        ]
     ]
 }

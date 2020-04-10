@@ -1,104 +1,374 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Ember learnt at level 7",
-        "Odor-sleuth learnt at level 9",
-        "Defense-curl learnt at level 13",
-        "Flame-charge learnt at level 15",
-        "Smog learnt at level 19",
-        "Rollout learnt at level 21",
-        "Take-down learnt at level 25",
-        "Heat-crash learnt at level 27",
-        "Assurance learnt at level 31",
-        "Flamethrower learnt at level 33",
-        "Head-smash learnt at level 37",
-        "Roar learnt at level 39",
-        "Flare-blitz learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            9
+        ],
+        [
+            "Defense-curl",
+            13
+        ],
+        [
+            "Flame-charge",
+            15
+        ],
+        [
+            "Smog",
+            19
+        ],
+        [
+            "Rollout",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Heat-crash",
+            27
+        ],
+        [
+            "Assurance",
+            31
+        ],
+        [
+            "Flamethrower",
+            33
+        ],
+        [
+            "Head-smash",
+            37
+        ],
+        [
+            "Roar",
+            39
+        ],
+        [
+            "Flare-blitz",
+            43
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Ember learnt at level 7",
-        "Odor-sleuth learnt at level 9",
-        "Defense-curl learnt at level 13",
-        "Flame-charge learnt at level 15",
-        "Smog learnt at level 19",
-        "Rollout learnt at level 21",
-        "Take-down learnt at level 25",
-        "Heat-crash learnt at level 27",
-        "Assurance learnt at level 31",
-        "Flamethrower learnt at level 33",
-        "Head-smash learnt at level 37",
-        "Roar learnt at level 39",
-        "Flare-blitz learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            9
+        ],
+        [
+            "Defense-curl",
+            13
+        ],
+        [
+            "Flame-charge",
+            15
+        ],
+        [
+            "Smog",
+            19
+        ],
+        [
+            "Rollout",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Heat-crash",
+            27
+        ],
+        [
+            "Assurance",
+            31
+        ],
+        [
+            "Flamethrower",
+            33
+        ],
+        [
+            "Head-smash",
+            37
+        ],
+        [
+            "Roar",
+            39
+        ],
+        [
+            "Flare-blitz",
+            43
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Ember learnt at level 7",
-        "Odor-sleuth learnt at level 9",
-        "Defense-curl learnt at level 13",
-        "Flame-charge learnt at level 15",
-        "Smog learnt at level 19",
-        "Rollout learnt at level 21",
-        "Take-down learnt at level 25",
-        "Heat-crash learnt at level 27",
-        "Assurance learnt at level 31",
-        "Flamethrower learnt at level 33",
-        "Head-smash learnt at level 37",
-        "Roar learnt at level 39",
-        "Flare-blitz learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            9
+        ],
+        [
+            "Defense-curl",
+            13
+        ],
+        [
+            "Flame-charge",
+            15
+        ],
+        [
+            "Smog",
+            19
+        ],
+        [
+            "Rollout",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Heat-crash",
+            27
+        ],
+        [
+            "Assurance",
+            31
+        ],
+        [
+            "Flamethrower",
+            33
+        ],
+        [
+            "Head-smash",
+            37
+        ],
+        [
+            "Roar",
+            39
+        ],
+        [
+            "Flare-blitz",
+            43
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Ember learnt at level 7",
-        "Odor-sleuth learnt at level 9",
-        "Defense-curl learnt at level 13",
-        "Flame-charge learnt at level 15",
-        "Smog learnt at level 19",
-        "Rollout learnt at level 21",
-        "Take-down learnt at level 25",
-        "Heat-crash learnt at level 27",
-        "Assurance learnt at level 31",
-        "Flamethrower learnt at level 33",
-        "Head-smash learnt at level 37",
-        "Roar learnt at level 39",
-        "Flare-blitz learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            9
+        ],
+        [
+            "Defense-curl",
+            13
+        ],
+        [
+            "Flame-charge",
+            15
+        ],
+        [
+            "Smog",
+            19
+        ],
+        [
+            "Rollout",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Heat-crash",
+            27
+        ],
+        [
+            "Assurance",
+            31
+        ],
+        [
+            "Flamethrower",
+            33
+        ],
+        [
+            "Head-smash",
+            37
+        ],
+        [
+            "Roar",
+            39
+        ],
+        [
+            "Flare-blitz",
+            43
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Ember learnt at level 7",
-        "Odor-sleuth learnt at level 9",
-        "Defense-curl learnt at level 13",
-        "Flame-charge learnt at level 15",
-        "Smog learnt at level 19",
-        "Rollout learnt at level 21",
-        "Take-down learnt at level 25",
-        "Heat-crash learnt at level 27",
-        "Assurance learnt at level 31",
-        "Flamethrower learnt at level 33",
-        "Head-smash learnt at level 37",
-        "Roar learnt at level 39",
-        "Flare-blitz learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            9
+        ],
+        [
+            "Defense-curl",
+            13
+        ],
+        [
+            "Flame-charge",
+            15
+        ],
+        [
+            "Smog",
+            19
+        ],
+        [
+            "Rollout",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Heat-crash",
+            27
+        ],
+        [
+            "Assurance",
+            31
+        ],
+        [
+            "Flamethrower",
+            33
+        ],
+        [
+            "Head-smash",
+            37
+        ],
+        [
+            "Roar",
+            39
+        ],
+        [
+            "Flare-blitz",
+            43
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Ember learnt at level 7",
-        "Odor-sleuth learnt at level 9",
-        "Defense-curl learnt at level 13",
-        "Flame-charge learnt at level 15",
-        "Smog learnt at level 19",
-        "Rollout learnt at level 21",
-        "Take-down learnt at level 25",
-        "Heat-crash learnt at level 27",
-        "Assurance learnt at level 31",
-        "Flamethrower learnt at level 33",
-        "Head-smash learnt at level 37",
-        "Roar learnt at level 39",
-        "Flare-blitz learnt at level 43"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            9
+        ],
+        [
+            "Defense-curl",
+            13
+        ],
+        [
+            "Flame-charge",
+            15
+        ],
+        [
+            "Smog",
+            19
+        ],
+        [
+            "Rollout",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Heat-crash",
+            27
+        ],
+        [
+            "Assurance",
+            31
+        ],
+        [
+            "Flamethrower",
+            33
+        ],
+        [
+            "Head-smash",
+            37
+        ],
+        [
+            "Roar",
+            39
+        ],
+        [
+            "Flare-blitz",
+            43
+        ]
     ]
 }

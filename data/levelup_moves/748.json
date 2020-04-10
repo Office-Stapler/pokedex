@@ -1,40 +1,150 @@
 {
     "ultra-sun-ultra-moon": [
-        "Poison-sting learnt at level 1",
-        "Bite learnt at level 1",
-        "Peck learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Baneful-bunker learnt at level 1",
-        "Peck learnt at level 5",
-        "Bite learnt at level 9",
-        "Toxic-spikes learnt at level 13",
-        "Wide-guard learnt at level 17",
-        "Toxic learnt at level 21",
-        "Venoshock learnt at level 25",
-        "Spike-cannon learnt at level 29",
-        "Recover learnt at level 33",
-        "Poison-jab learnt at level 37",
-        "Venom-drench learnt at level 44",
-        "Pin-missile learnt at level 51",
-        "Liquidation learnt at level 58"
+        [
+            "Baneful-bunker",
+            0
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Baneful-bunker",
+            1
+        ],
+        [
+            "Peck",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Toxic-spikes",
+            13
+        ],
+        [
+            "Wide-guard",
+            17
+        ],
+        [
+            "Toxic",
+            21
+        ],
+        [
+            "Venoshock",
+            25
+        ],
+        [
+            "Spike-cannon",
+            29
+        ],
+        [
+            "Recover",
+            33
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Venom-drench",
+            44
+        ],
+        [
+            "Pin-missile",
+            51
+        ],
+        [
+            "Liquidation",
+            58
+        ]
     ],
     "sun-moon": [
-        "Poison-sting learnt at level 1",
-        "Bite learnt at level 1",
-        "Peck learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Baneful-bunker learnt at level 1",
-        "Peck learnt at level 5",
-        "Bite learnt at level 9",
-        "Toxic-spikes learnt at level 13",
-        "Wide-guard learnt at level 17",
-        "Toxic learnt at level 21",
-        "Venoshock learnt at level 25",
-        "Spike-cannon learnt at level 29",
-        "Recover learnt at level 33",
-        "Poison-jab learnt at level 37",
-        "Venom-drench learnt at level 44",
-        "Pin-missile learnt at level 51",
-        "Liquidation learnt at level 58"
+        [
+            "Baneful-bunker",
+            0
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Baneful-bunker",
+            1
+        ],
+        [
+            "Peck",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Toxic-spikes",
+            13
+        ],
+        [
+            "Wide-guard",
+            17
+        ],
+        [
+            "Toxic",
+            21
+        ],
+        [
+            "Venoshock",
+            25
+        ],
+        [
+            "Spike-cannon",
+            29
+        ],
+        [
+            "Recover",
+            33
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Venom-drench",
+            44
+        ],
+        [
+            "Pin-missile",
+            51
+        ],
+        [
+            "Liquidation",
+            58
+        ]
     ]
 }

@@ -1,74 +1,274 @@
 {
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Poison-powder learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Struggle-bug learnt at level 1",
-        "Powder learnt at level 1",
-        "Light-screen learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Supersonic learnt at level 21",
-        "Draining-kiss learnt at level 25",
-        "Aromatherapy learnt at level 31",
-        "Bug-buzz learnt at level 35",
-        "Safeguard learnt at level 41",
-        "Quiver-dance learnt at level 45",
-        "Hurricane learnt at level 50",
-        "Powder learnt at level 55"
+        [
+            "Gust",
+            0
+        ],
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Poison-powder",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Struggle-bug",
+            1
+        ],
+        [
+            "Powder",
+            1
+        ],
+        [
+            "Light-screen",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Supersonic",
+            21
+        ],
+        [
+            "Draining-kiss",
+            25
+        ],
+        [
+            "Aromatherapy",
+            31
+        ],
+        [
+            "Bug-buzz",
+            35
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Quiver-dance",
+            45
+        ],
+        [
+            "Hurricane",
+            50
+        ],
+        [
+            "Powder",
+            55
+        ]
     ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Poison-powder learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Struggle-bug learnt at level 1",
-        "Powder learnt at level 1",
-        "Light-screen learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Supersonic learnt at level 21",
-        "Draining-kiss learnt at level 25",
-        "Aromatherapy learnt at level 31",
-        "Bug-buzz learnt at level 35",
-        "Safeguard learnt at level 41",
-        "Quiver-dance learnt at level 45",
-        "Hurricane learnt at level 50",
-        "Powder learnt at level 55"
+        [
+            "Gust",
+            0
+        ],
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Poison-powder",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Struggle-bug",
+            1
+        ],
+        [
+            "Powder",
+            1
+        ],
+        [
+            "Light-screen",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Supersonic",
+            21
+        ],
+        [
+            "Draining-kiss",
+            25
+        ],
+        [
+            "Aromatherapy",
+            31
+        ],
+        [
+            "Bug-buzz",
+            35
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Quiver-dance",
+            45
+        ],
+        [
+            "Hurricane",
+            50
+        ],
+        [
+            "Powder",
+            55
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Poison-powder learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Light-screen learnt at level 1",
-        "Powder learnt at level 1",
-        "Struggle-bug learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Supersonic learnt at level 21",
-        "Draining-kiss learnt at level 25",
-        "Aromatherapy learnt at level 31",
-        "Bug-buzz learnt at level 35",
-        "Safeguard learnt at level 41",
-        "Quiver-dance learnt at level 45",
-        "Hurricane learnt at level 50",
-        "Powder learnt at level 55"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Poison-powder",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Light-screen",
+            1
+        ],
+        [
+            "Powder",
+            1
+        ],
+        [
+            "Struggle-bug",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Supersonic",
+            21
+        ],
+        [
+            "Draining-kiss",
+            25
+        ],
+        [
+            "Aromatherapy",
+            31
+        ],
+        [
+            "Bug-buzz",
+            35
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Quiver-dance",
+            45
+        ],
+        [
+            "Hurricane",
+            50
+        ],
+        [
+            "Powder",
+            55
+        ]
     ],
     "x-y": [
-        "Gust learnt at level 1",
-        "Poison-powder learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sleep-powder learnt at level 1",
-        "Light-screen learnt at level 1",
-        "Powder learnt at level 1",
-        "Struggle-bug learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Supersonic learnt at level 21",
-        "Draining-kiss learnt at level 25",
-        "Aromatherapy learnt at level 31",
-        "Bug-buzz learnt at level 35",
-        "Safeguard learnt at level 41",
-        "Quiver-dance learnt at level 45",
-        "Hurricane learnt at level 50",
-        "Powder learnt at level 55"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Poison-powder",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sleep-powder",
+            1
+        ],
+        [
+            "Light-screen",
+            1
+        ],
+        [
+            "Powder",
+            1
+        ],
+        [
+            "Struggle-bug",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Supersonic",
+            21
+        ],
+        [
+            "Draining-kiss",
+            25
+        ],
+        [
+            "Aromatherapy",
+            31
+        ],
+        [
+            "Bug-buzz",
+            35
+        ],
+        [
+            "Safeguard",
+            41
+        ],
+        [
+            "Quiver-dance",
+            45
+        ],
+        [
+            "Hurricane",
+            50
+        ],
+        [
+            "Powder",
+            55
+        ]
     ]
 }

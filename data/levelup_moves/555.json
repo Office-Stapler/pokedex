@@ -1,134 +1,502 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Rage learnt at level 1",
-        "Rollout learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Swagger learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 39",
-        "Superpower learnt at level 47",
-        "Overheat learnt at level 54"
+        [
+            "Hammer-arm",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Swagger",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            39
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Overheat",
+            54
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Rage learnt at level 1",
-        "Rollout learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Swagger learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 39",
-        "Superpower learnt at level 47",
-        "Overheat learnt at level 54"
+        [
+            "Hammer-arm",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Swagger",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            39
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Overheat",
+            54
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Rage learnt at level 1",
-        "Rollout learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Swagger learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Hammer-arm learnt at level 35",
-        "Taunt learnt at level 39",
-        "Superpower learnt at level 47",
-        "Overheat learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Swagger",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Hammer-arm",
+            35
+        ],
+        [
+            "Taunt",
+            39
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Overheat",
+            54
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Rage learnt at level 1",
-        "Rollout learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Swagger learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Hammer-arm learnt at level 35",
-        "Taunt learnt at level 39",
-        "Superpower learnt at level 47",
-        "Overheat learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Swagger",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Hammer-arm",
+            35
+        ],
+        [
+            "Taunt",
+            39
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Overheat",
+            54
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Rage learnt at level 1",
-        "Rollout learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Swagger learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Hammer-arm learnt at level 35",
-        "Taunt learnt at level 39",
-        "Superpower learnt at level 47",
-        "Overheat learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Swagger",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Hammer-arm",
+            35
+        ],
+        [
+            "Taunt",
+            39
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Overheat",
+            54
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Rage learnt at level 1",
-        "Rollout learnt at level 1",
-        "Incinerate learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Swagger learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Hammer-arm learnt at level 35",
-        "Taunt learnt at level 39",
-        "Superpower learnt at level 47",
-        "Overheat learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Incinerate",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Swagger",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Hammer-arm",
+            35
+        ],
+        [
+            "Taunt",
+            39
+        ],
+        [
+            "Superpower",
+            47
+        ],
+        [
+            "Overheat",
+            54
+        ]
     ]
 }

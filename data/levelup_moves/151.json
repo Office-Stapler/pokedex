@@ -1,204 +1,702 @@
 {
     "red-blue": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ]
     ],
     "yellow": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ]
     ],
     "gold-silver": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40",
-        "Ancient-power learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ]
     ],
     "crystal": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40",
-        "Ancient-power learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40",
-        "Ancient-power learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40",
-        "Ancient-power learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40",
-        "Ancient-power learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Reflect-type learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Reflect-type",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40",
-        "Ancient-power learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 10",
-        "Mega-punch learnt at level 20",
-        "Metronome learnt at level 30",
-        "Psychic learnt at level 40",
-        "Ancient-power learnt at level 50"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            10
+        ],
+        [
+            "Mega-punch",
+            20
+        ],
+        [
+            "Metronome",
+            30
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Reflect-type learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Reflect-type",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Reflect-type learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Reflect-type",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Reflect-type learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Reflect-type",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Reflect-type learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Reflect-type",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Transform learnt at level 1",
-        "Reflect-type learnt at level 1",
-        "Mega-punch learnt at level 10",
-        "Metronome learnt at level 20",
-        "Psychic learnt at level 30",
-        "Barrier learnt at level 40",
-        "Ancient-power learnt at level 50",
-        "Amnesia learnt at level 60",
-        "Me-first learnt at level 70",
-        "Baton-pass learnt at level 80",
-        "Nasty-plot learnt at level 90",
-        "Aura-sphere learnt at level 100"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Transform",
+            1
+        ],
+        [
+            "Reflect-type",
+            1
+        ],
+        [
+            "Mega-punch",
+            10
+        ],
+        [
+            "Metronome",
+            20
+        ],
+        [
+            "Psychic",
+            30
+        ],
+        [
+            "Barrier",
+            40
+        ],
+        [
+            "Ancient-power",
+            50
+        ],
+        [
+            "Amnesia",
+            60
+        ],
+        [
+            "Me-first",
+            70
+        ],
+        [
+            "Baton-pass",
+            80
+        ],
+        [
+            "Nasty-plot",
+            90
+        ],
+        [
+            "Aura-sphere",
+            100
+        ]
     ]
 }

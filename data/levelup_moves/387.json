@@ -1,128 +1,452 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Withdraw learnt at level 5",
-        "Absorb learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Curse learnt at level 17",
-        "Bite learnt at level 21",
-        "Mega-drain learnt at level 25",
-        "Leech-seed learnt at level 29",
-        "Synthesis learnt at level 33",
-        "Crunch learnt at level 37",
-        "Giga-drain learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Withdraw",
+            5
+        ],
+        [
+            "Absorb",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Mega-drain",
+            25
+        ],
+        [
+            "Leech-seed",
+            29
+        ],
+        [
+            "Synthesis",
+            33
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Giga-drain",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ]
 }

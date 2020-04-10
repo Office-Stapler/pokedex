@@ -1,172 +1,628 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Crunch learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Growl learnt at level 4",
-        "Water-sport learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Water-gun learnt at level 15",
-        "Pursuit learnt at level 18",
-        "Swift learnt at level 21",
-        "Aqua-jet learnt at level 24",
-        "Double-hit learnt at level 29",
-        "Whirlpool learnt at level 35",
-        "Razor-wind learnt at level 41",
-        "Aqua-tail learnt at level 46",
-        "Agility learnt at level 51",
-        "Hydro-pump learnt at level 57"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Crunch learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Growl learnt at level 4",
-        "Water-sport learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Water-gun learnt at level 15",
-        "Pursuit learnt at level 18",
-        "Swift learnt at level 21",
-        "Aqua-jet learnt at level 24",
-        "Double-hit learnt at level 29",
-        "Whirlpool learnt at level 35",
-        "Razor-wind learnt at level 41",
-        "Aqua-tail learnt at level 46",
-        "Agility learnt at level 51",
-        "Hydro-pump learnt at level 57"
-    ],
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Quick-attack learnt at level 3",
-        "Water-gun learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Swift learnt at level 15",
-        "Aqua-jet learnt at level 21",
-        "Crunch learnt at level 26",
-        "Agility learnt at level 29",
-        "Whirlpool learnt at level 39",
-        "Razor-wind learnt at level 50"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Quick-attack learnt at level 3",
-        "Water-gun learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Swift learnt at level 15",
-        "Aqua-jet learnt at level 21",
-        "Crunch learnt at level 26",
-        "Agility learnt at level 29",
-        "Whirlpool learnt at level 39",
-        "Razor-wind learnt at level 50"
-    ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Crunch learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Growl learnt at level 4",
-        "Water-sport learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Water-gun learnt at level 15",
-        "Pursuit learnt at level 18",
-        "Swift learnt at level 21",
-        "Aqua-jet learnt at level 24",
-        "Double-hit learnt at level 29",
-        "Whirlpool learnt at level 35",
-        "Razor-wind learnt at level 41",
-        "Aqua-tail learnt at level 46",
-        "Agility learnt at level 51",
-        "Hydro-pump learnt at level 57"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Aqua-jet",
+            24
+        ],
+        [
+            "Double-hit",
+            29
+        ],
+        [
+            "Whirlpool",
+            35
+        ],
+        [
+            "Razor-wind",
+            41
+        ],
+        [
+            "Aqua-tail",
+            46
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Crunch learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Growl learnt at level 4",
-        "Water-sport learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Water-gun learnt at level 15",
-        "Pursuit learnt at level 18",
-        "Swift learnt at level 21",
-        "Aqua-jet learnt at level 24",
-        "Double-hit learnt at level 29",
-        "Whirlpool learnt at level 35",
-        "Razor-wind learnt at level 41",
-        "Aqua-tail learnt at level 46",
-        "Agility learnt at level 51",
-        "Hydro-pump learnt at level 57"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Aqua-jet",
+            24
+        ],
+        [
+            "Double-hit",
+            29
+        ],
+        [
+            "Whirlpool",
+            35
+        ],
+        [
+            "Razor-wind",
+            41
+        ],
+        [
+            "Aqua-tail",
+            46
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Aqua-jet",
+            24
+        ],
+        [
+            "Double-hit",
+            29
+        ],
+        [
+            "Whirlpool",
+            35
+        ],
+        [
+            "Razor-wind",
+            41
+        ],
+        [
+            "Aqua-tail",
+            46
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Aqua-jet",
+            24
+        ],
+        [
+            "Double-hit",
+            29
+        ],
+        [
+            "Whirlpool",
+            35
+        ],
+        [
+            "Razor-wind",
+            41
+        ],
+        [
+            "Aqua-tail",
+            46
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Quick-attack learnt at level 3",
-        "Water-gun learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Swift learnt at level 15",
-        "Aqua-jet learnt at level 21",
-        "Crunch learnt at level 26",
-        "Agility learnt at level 29",
-        "Whirlpool learnt at level 39",
-        "Razor-wind learnt at level 50",
-        "Aqua-tail learnt at level 62"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Quick-attack",
+            3
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Swift",
+            15
+        ],
+        [
+            "Aqua-jet",
+            21
+        ],
+        [
+            "Crunch",
+            26
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Razor-wind",
+            50
+        ],
+        [
+            "Aqua-tail",
+            62
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Quick-attack",
+            3
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Swift",
+            15
+        ],
+        [
+            "Aqua-jet",
+            21
+        ],
+        [
+            "Crunch",
+            26
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Razor-wind",
+            50
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Quick-attack",
+            3
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Swift",
+            15
+        ],
+        [
+            "Aqua-jet",
+            21
+        ],
+        [
+            "Crunch",
+            26
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Razor-wind",
+            50
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Crunch learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Growl learnt at level 4",
-        "Water-sport learnt at level 7",
-        "Quick-attack learnt at level 11",
-        "Water-gun learnt at level 15",
-        "Pursuit learnt at level 18",
-        "Swift learnt at level 21",
-        "Aqua-jet learnt at level 24",
-        "Double-hit learnt at level 29",
-        "Whirlpool learnt at level 35",
-        "Razor-wind learnt at level 41",
-        "Aqua-tail learnt at level 46",
-        "Agility learnt at level 51",
-        "Hydro-pump learnt at level 57"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Aqua-jet",
+            24
+        ],
+        [
+            "Double-hit",
+            29
+        ],
+        [
+            "Whirlpool",
+            35
+        ],
+        [
+            "Razor-wind",
+            41
+        ],
+        [
+            "Aqua-tail",
+            46
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Sonic-boom learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Quick-attack learnt at level 3",
-        "Water-gun learnt at level 6",
-        "Pursuit learnt at level 10",
-        "Swift learnt at level 15",
-        "Aqua-jet learnt at level 21",
-        "Crunch learnt at level 26",
-        "Agility learnt at level 29",
-        "Whirlpool learnt at level 39",
-        "Razor-wind learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Quick-attack",
+            3
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Swift",
+            15
+        ],
+        [
+            "Aqua-jet",
+            21
+        ],
+        [
+            "Crunch",
+            26
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Razor-wind",
+            50
+        ]
     ]
 }

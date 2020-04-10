@@ -1,116 +1,422 @@
 {
     "ultra-sun-ultra-moon": [
-        "Sand-attack learnt at level 1",
-        "Headbutt learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Power-gem learnt at level 1",
-        "Harden learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Headbutt learnt at level 10",
-        "Rock-blast learnt at level 14",
-        "Mud-slap learnt at level 17",
-        "Iron-defense learnt at level 20",
-        "Smack-down learnt at level 23",
-        "Rock-slide learnt at level 30",
-        "Stealth-rock learnt at level 36",
-        "Sandstorm learnt at level 42",
-        "Stone-edge learnt at level 48",
-        "Explosion learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Power-gem",
+            1
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Headbutt",
+            10
+        ],
+        [
+            "Rock-blast",
+            14
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Iron-defense",
+            20
+        ],
+        [
+            "Smack-down",
+            23
+        ],
+        [
+            "Rock-slide",
+            30
+        ],
+        [
+            "Stealth-rock",
+            36
+        ],
+        [
+            "Sandstorm",
+            42
+        ],
+        [
+            "Stone-edge",
+            48
+        ],
+        [
+            "Explosion",
+            55
+        ]
     ],
     "sun-moon": [
-        "Sand-attack learnt at level 1",
-        "Headbutt learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Power-gem learnt at level 1",
-        "Harden learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Headbutt learnt at level 10",
-        "Rock-blast learnt at level 14",
-        "Mud-slap learnt at level 17",
-        "Iron-defense learnt at level 20",
-        "Smack-down learnt at level 23",
-        "Rock-slide learnt at level 30",
-        "Stealth-rock learnt at level 36",
-        "Sandstorm learnt at level 42",
-        "Stone-edge learnt at level 48",
-        "Explosion learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Power-gem",
+            1
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Headbutt",
+            10
+        ],
+        [
+            "Rock-blast",
+            14
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Iron-defense",
+            20
+        ],
+        [
+            "Smack-down",
+            23
+        ],
+        [
+            "Rock-slide",
+            30
+        ],
+        [
+            "Stealth-rock",
+            36
+        ],
+        [
+            "Sandstorm",
+            42
+        ],
+        [
+            "Stone-edge",
+            48
+        ],
+        [
+            "Explosion",
+            55
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Sand-attack learnt at level 1",
-        "Headbutt learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Harden learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Headbutt learnt at level 10",
-        "Rock-blast learnt at level 14",
-        "Mud-slap learnt at level 17",
-        "Iron-defense learnt at level 20",
-        "Smack-down learnt at level 23",
-        "Power-gem learnt at level 25",
-        "Rock-slide learnt at level 30",
-        "Stealth-rock learnt at level 36",
-        "Sandstorm learnt at level 42",
-        "Stone-edge learnt at level 48",
-        "Explosion learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Headbutt",
+            10
+        ],
+        [
+            "Rock-blast",
+            14
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Iron-defense",
+            20
+        ],
+        [
+            "Smack-down",
+            23
+        ],
+        [
+            "Power-gem",
+            25
+        ],
+        [
+            "Rock-slide",
+            30
+        ],
+        [
+            "Stealth-rock",
+            36
+        ],
+        [
+            "Sandstorm",
+            42
+        ],
+        [
+            "Stone-edge",
+            48
+        ],
+        [
+            "Explosion",
+            55
+        ]
     ],
     "x-y": [
-        "Sand-attack learnt at level 1",
-        "Headbutt learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Harden learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Headbutt learnt at level 10",
-        "Rock-blast learnt at level 14",
-        "Mud-slap learnt at level 17",
-        "Iron-defense learnt at level 20",
-        "Smack-down learnt at level 23",
-        "Power-gem learnt at level 25",
-        "Rock-slide learnt at level 30",
-        "Stealth-rock learnt at level 36",
-        "Sandstorm learnt at level 42",
-        "Stone-edge learnt at level 48",
-        "Explosion learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Headbutt",
+            10
+        ],
+        [
+            "Rock-blast",
+            14
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Iron-defense",
+            20
+        ],
+        [
+            "Smack-down",
+            23
+        ],
+        [
+            "Power-gem",
+            25
+        ],
+        [
+            "Rock-slide",
+            30
+        ],
+        [
+            "Stealth-rock",
+            36
+        ],
+        [
+            "Sandstorm",
+            42
+        ],
+        [
+            "Stone-edge",
+            48
+        ],
+        [
+            "Explosion",
+            55
+        ]
     ],
     "black-2-white-2": [
-        "Sand-attack learnt at level 1",
-        "Headbutt learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Harden learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Headbutt learnt at level 10",
-        "Rock-blast learnt at level 14",
-        "Mud-slap learnt at level 17",
-        "Iron-defense learnt at level 20",
-        "Smack-down learnt at level 23",
-        "Power-gem learnt at level 25",
-        "Rock-slide learnt at level 30",
-        "Stealth-rock learnt at level 36",
-        "Sandstorm learnt at level 42",
-        "Stone-edge learnt at level 48",
-        "Explosion learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Headbutt",
+            10
+        ],
+        [
+            "Rock-blast",
+            14
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Iron-defense",
+            20
+        ],
+        [
+            "Smack-down",
+            23
+        ],
+        [
+            "Power-gem",
+            25
+        ],
+        [
+            "Rock-slide",
+            30
+        ],
+        [
+            "Stealth-rock",
+            36
+        ],
+        [
+            "Sandstorm",
+            42
+        ],
+        [
+            "Stone-edge",
+            48
+        ],
+        [
+            "Explosion",
+            55
+        ]
     ],
     "black-white": [
-        "Sand-attack learnt at level 1",
-        "Headbutt learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Harden learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Headbutt learnt at level 10",
-        "Rock-blast learnt at level 14",
-        "Mud-slap learnt at level 17",
-        "Iron-defense learnt at level 20",
-        "Smack-down learnt at level 23",
-        "Power-gem learnt at level 25",
-        "Rock-slide learnt at level 30",
-        "Stealth-rock learnt at level 36",
-        "Sandstorm learnt at level 42",
-        "Stone-edge learnt at level 48",
-        "Explosion learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Headbutt",
+            10
+        ],
+        [
+            "Rock-blast",
+            14
+        ],
+        [
+            "Mud-slap",
+            17
+        ],
+        [
+            "Iron-defense",
+            20
+        ],
+        [
+            "Smack-down",
+            23
+        ],
+        [
+            "Power-gem",
+            25
+        ],
+        [
+            "Rock-slide",
+            30
+        ],
+        [
+            "Stealth-rock",
+            36
+        ],
+        [
+            "Sandstorm",
+            42
+        ],
+        [
+            "Stone-edge",
+            48
+        ],
+        [
+            "Explosion",
+            55
+        ]
     ]
 }

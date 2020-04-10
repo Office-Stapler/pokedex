@@ -1,44 +1,158 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Harden learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Wide-guard learnt at level 1",
-        "Smack-down learnt at level 7",
-        "Mega-drain learnt at level 13",
-        "Leech-seed learnt at level 19",
-        "Metal-sound learnt at level 23",
-        "Iron-head learnt at level 29",
-        "Giga-drain learnt at level 31",
-        "Flash-cannon learnt at level 37",
-        "Autotomize learnt at level 43",
-        "Seed-bomb learnt at level 47",
-        "Skull-bash learnt at level 53",
-        "Iron-defense learnt at level 59",
-        "Heavy-slam learnt at level 67",
-        "Double-edge learnt at level 73"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Wide-guard",
+            1
+        ],
+        [
+            "Smack-down",
+            7
+        ],
+        [
+            "Mega-drain",
+            13
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Metal-sound",
+            23
+        ],
+        [
+            "Iron-head",
+            29
+        ],
+        [
+            "Giga-drain",
+            31
+        ],
+        [
+            "Flash-cannon",
+            37
+        ],
+        [
+            "Autotomize",
+            43
+        ],
+        [
+            "Seed-bomb",
+            47
+        ],
+        [
+            "Skull-bash",
+            53
+        ],
+        [
+            "Iron-defense",
+            59
+        ],
+        [
+            "Heavy-slam",
+            67
+        ],
+        [
+            "Double-edge",
+            73
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Harden learnt at level 1",
-        "Ingrain learnt at level 1",
-        "Air-slash learnt at level 1",
-        "Wide-guard learnt at level 1",
-        "Smack-down learnt at level 7",
-        "Mega-drain learnt at level 13",
-        "Leech-seed learnt at level 19",
-        "Metal-sound learnt at level 23",
-        "Iron-head learnt at level 29",
-        "Giga-drain learnt at level 31",
-        "Flash-cannon learnt at level 37",
-        "Autotomize learnt at level 43",
-        "Seed-bomb learnt at level 47",
-        "Skull-bash learnt at level 53",
-        "Iron-defense learnt at level 59",
-        "Heavy-slam learnt at level 67",
-        "Double-edge learnt at level 73"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Ingrain",
+            1
+        ],
+        [
+            "Air-slash",
+            1
+        ],
+        [
+            "Wide-guard",
+            1
+        ],
+        [
+            "Smack-down",
+            7
+        ],
+        [
+            "Mega-drain",
+            13
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Metal-sound",
+            23
+        ],
+        [
+            "Iron-head",
+            29
+        ],
+        [
+            "Giga-drain",
+            31
+        ],
+        [
+            "Flash-cannon",
+            37
+        ],
+        [
+            "Autotomize",
+            43
+        ],
+        [
+            "Seed-bomb",
+            47
+        ],
+        [
+            "Skull-bash",
+            53
+        ],
+        [
+            "Iron-defense",
+            59
+        ],
+        [
+            "Heavy-slam",
+            67
+        ],
+        [
+            "Double-edge",
+            73
+        ]
     ]
 }

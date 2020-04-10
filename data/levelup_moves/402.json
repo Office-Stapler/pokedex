@@ -1,142 +1,516 @@
 {
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Absorb learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Fell-stinger learnt at level 36",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Sticky-web learnt at level 44",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
+        [
+            "Fury-cutter",
+            0
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Absorb",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Fell-stinger",
+            36
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Sticky-web",
+            44
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 10",
-        "Leech-life learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Fell-stinger learnt at level 36",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Sticky-web learnt at level 44",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Leech-life",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Fell-stinger",
+            36
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Sticky-web",
+            44
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 10",
-        "Leech-life learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Fell-stinger learnt at level 36",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Sticky-web learnt at level 44",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Leech-life",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Fell-stinger",
+            36
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Sticky-web",
+            44
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 10",
-        "Leech-life learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Leech-life",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 10",
-        "Leech-life learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Leech-life",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
     ],
     "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 10",
-        "Leech-life learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
-    ],
-    "sun-moon": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Absorb learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Fell-stinger learnt at level 36",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Sticky-web learnt at level 44",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Leech-life",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
     ],
     "platinum": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 10",
-        "Leech-life learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "Slash learnt at level 26",
-        "X-scissor learnt at level 30",
-        "Screech learnt at level 34",
-        "Taunt learnt at level 38",
-        "Night-slash learnt at level 42",
-        "Bug-buzz learnt at level 46",
-        "Perish-song learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Leech-life",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Fury-cutter",
+            0
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Absorb",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "X-scissor",
+            30
+        ],
+        [
+            "Screech",
+            34
+        ],
+        [
+            "Fell-stinger",
+            36
+        ],
+        [
+            "Taunt",
+            38
+        ],
+        [
+            "Night-slash",
+            42
+        ],
+        [
+            "Sticky-web",
+            44
+        ],
+        [
+            "Bug-buzz",
+            46
+        ],
+        [
+            "Perish-song",
+            50
+        ]
     ],
     "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Bide learnt at level 1",
-        "Fury-cutter learnt at level 10",
-        "Leech-life learnt at level 14",
-        "Sing learnt at level 18",
-        "Focus-energy learnt at level 22",
-        "X-scissor learnt at level 26",
-        "Screech learnt at level 30",
-        "Bug-buzz learnt at level 34",
-        "Perish-song learnt at level 38"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Leech-life",
+            14
+        ],
+        [
+            "Sing",
+            18
+        ],
+        [
+            "Focus-energy",
+            22
+        ],
+        [
+            "X-scissor",
+            26
+        ],
+        [
+            "Screech",
+            30
+        ],
+        [
+            "Bug-buzz",
+            34
+        ],
+        [
+            "Perish-song",
+            38
+        ]
     ]
 }

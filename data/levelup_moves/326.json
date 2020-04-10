@@ -1,264 +1,974 @@
 {
-    "firered-leafgreen": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 16",
-        "Psych-up learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Magic-coat learnt at level 28",
-        "Psychic learnt at level 37",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Bounce learnt at level 55"
-    ],
-    "emerald": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 16",
-        "Psych-up learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Magic-coat learnt at level 28",
-        "Psychic learnt at level 37",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Bounce learnt at level 55"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Power-gem learnt at level 29",
-        "Teeter-dance learnt at level 32",
-        "Rest learnt at level 35",
-        "Snore learnt at level 35",
-        "Psyshock learnt at level 42",
-        "Payback learnt at level 46",
-        "Psychic learnt at level 52",
-        "Bounce learnt at level 60"
-    ],
-    "heartgold-soulsilver": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Rest learnt at level 29",
-        "Snore learnt at level 29",
-        "Payback learnt at level 37",
-        "Psychic learnt at level 47",
-        "Power-gem learnt at level 55",
-        "Bounce learnt at level 60"
-    ],
-    "platinum": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Rest learnt at level 29",
-        "Snore learnt at level 29",
-        "Payback learnt at level 37",
-        "Psychic learnt at level 47",
-        "Power-gem learnt at level 55",
-        "Bounce learnt at level 60"
-    ],
-    "black-2-white-2": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Rest learnt at level 29",
-        "Snore learnt at level 29",
-        "Power-gem learnt at level 35",
-        "Psyshock learnt at level 42",
-        "Payback learnt at level 46",
-        "Psychic learnt at level 52",
-        "Bounce learnt at level 60"
-    ],
-    "xd": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 16",
-        "Psych-up learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Magic-coat learnt at level 28",
-        "Psychic learnt at level 37",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Bounce learnt at level 55"
-    ],
     "ultra-sun-ultra-moon": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Teeter-dance learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Belch learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Power-gem learnt at level 29",
-        "Rest learnt at level 35",
-        "Snore learnt at level 35",
-        "Psyshock learnt at level 42",
-        "Payback learnt at level 46",
-        "Psychic learnt at level 52",
-        "Bounce learnt at level 60"
+        [
+            "Teeter-dance",
+            0
+        ],
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Teeter-dance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Belch",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Rest",
+            35
+        ],
+        [
+            "Snore",
+            35
+        ],
+        [
+            "Psyshock",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Psychic",
+            52
+        ],
+        [
+            "Bounce",
+            60
+        ]
     ],
     "sun-moon": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Teeter-dance learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Belch learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Power-gem learnt at level 29",
-        "Rest learnt at level 35",
-        "Snore learnt at level 35",
-        "Psyshock learnt at level 42",
-        "Payback learnt at level 46",
-        "Psychic learnt at level 52",
-        "Bounce learnt at level 60"
+        [
+            "Teeter-dance",
+            0
+        ],
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Teeter-dance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Belch",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Rest",
+            35
+        ],
+        [
+            "Snore",
+            35
+        ],
+        [
+            "Psyshock",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Psychic",
+            52
+        ],
+        [
+            "Bounce",
+            60
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Power-gem",
+            29
+        ],
+        [
+            "Teeter-dance",
+            32
+        ],
+        [
+            "Rest",
+            35
+        ],
+        [
+            "Snore",
+            35
+        ],
+        [
+            "Psyshock",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Psychic",
+            52
+        ],
+        [
+            "Bounce",
+            60
+        ]
     ],
     "x-y": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Rest learnt at level 29",
-        "Snore learnt at level 29",
-        "Power-gem learnt at level 35",
-        "Psyshock learnt at level 42",
-        "Payback learnt at level 46",
-        "Psychic learnt at level 52",
-        "Bounce learnt at level 60"
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Snore",
+            29
+        ],
+        [
+            "Power-gem",
+            35
+        ],
+        [
+            "Psyshock",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Psychic",
+            52
+        ],
+        [
+            "Bounce",
+            60
+        ]
     ],
     "black-white": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Rest learnt at level 29",
-        "Snore learnt at level 29",
-        "Psyshock learnt at level 37",
-        "Payback learnt at level 47",
-        "Psychic learnt at level 55",
-        "Power-gem learnt at level 60",
-        "Bounce learnt at level 68"
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Snore",
+            29
+        ],
+        [
+            "Psyshock",
+            37
+        ],
+        [
+            "Payback",
+            47
+        ],
+        [
+            "Psychic",
+            55
+        ],
+        [
+            "Power-gem",
+            60
+        ],
+        [
+            "Bounce",
+            68
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Snore",
+            29
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Psychic",
+            47
+        ],
+        [
+            "Power-gem",
+            55
+        ],
+        [
+            "Bounce",
+            60
+        ]
+    ],
+    "platinum": [
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Snore",
+            29
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Psychic",
+            47
+        ],
+        [
+            "Power-gem",
+            55
+        ],
+        [
+            "Bounce",
+            60
+        ]
     ],
     "diamond-pearl": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 14",
-        "Psych-up learnt at level 15",
-        "Confuse-ray learnt at level 18",
-        "Magic-coat learnt at level 21",
-        "Zen-headbutt learnt at level 26",
-        "Rest learnt at level 29",
-        "Snore learnt at level 29",
-        "Payback learnt at level 37",
-        "Psychic learnt at level 47",
-        "Power-gem learnt at level 55",
-        "Bounce learnt at level 60"
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Snore",
+            29
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Psychic",
+            47
+        ],
+        [
+            "Power-gem",
+            55
+        ],
+        [
+            "Bounce",
+            60
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            16
+        ],
+        [
+            "Psych-up",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Magic-coat",
+            28
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Bounce",
+            55
+        ]
+    ],
+    "emerald": [
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            16
+        ],
+        [
+            "Psych-up",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Magic-coat",
+            28
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Bounce",
+            55
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Psych-up",
+            15
+        ],
+        [
+            "Confuse-ray",
+            18
+        ],
+        [
+            "Magic-coat",
+            21
+        ],
+        [
+            "Zen-headbutt",
+            26
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Snore",
+            29
+        ],
+        [
+            "Power-gem",
+            35
+        ],
+        [
+            "Psyshock",
+            42
+        ],
+        [
+            "Payback",
+            46
+        ],
+        [
+            "Psychic",
+            52
+        ],
+        [
+            "Bounce",
+            60
+        ]
+    ],
+    "xd": [
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            16
+        ],
+        [
+            "Psych-up",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Magic-coat",
+            28
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Bounce",
+            55
+        ]
     ],
     "colosseum": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 16",
-        "Psych-up learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Magic-coat learnt at level 28",
-        "Psychic learnt at level 37",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Bounce learnt at level 55"
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            16
+        ],
+        [
+            "Psych-up",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Magic-coat",
+            28
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Bounce",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Psybeam learnt at level 1",
-        "Psywave learnt at level 1",
-        "Splash learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Psywave learnt at level 7",
-        "Odor-sleuth learnt at level 10",
-        "Psybeam learnt at level 16",
-        "Psych-up learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Magic-coat learnt at level 28",
-        "Psychic learnt at level 37",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Bounce learnt at level 55"
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Psywave",
+            7
+        ],
+        [
+            "Odor-sleuth",
+            10
+        ],
+        [
+            "Psybeam",
+            16
+        ],
+        [
+            "Psych-up",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Magic-coat",
+            28
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Bounce",
+            55
+        ]
     ]
 }

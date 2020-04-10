@@ -1,39 +1,146 @@
 {
     "ultra-sun-ultra-moon": [
-        "Growth learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Night-slash learnt at level 1",
-        "X-scissor learnt at level 1",
-        "Petal-blizzard learnt at level 1",
-        "Leafage learnt at level 1",
-        "Leafage learnt at level 5",
-        "Razor-leaf learnt at level 10",
-        "Growth learnt at level 14",
-        "Ingrain learnt at level 19",
-        "Leaf-blade learnt at level 23",
-        "Synthesis learnt at level 28",
-        "Slash learnt at level 32",
-        "Sweet-scent learnt at level 40",
-        "Solar-blade learnt at level 47",
-        "Sunny-day learnt at level 55"
+        [
+            "Petal-blizzard",
+            0
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "X-scissor",
+            1
+        ],
+        [
+            "Petal-blizzard",
+            1
+        ],
+        [
+            "Leafage",
+            1
+        ],
+        [
+            "Leafage",
+            5
+        ],
+        [
+            "Razor-leaf",
+            10
+        ],
+        [
+            "Growth",
+            14
+        ],
+        [
+            "Ingrain",
+            19
+        ],
+        [
+            "Leaf-blade",
+            23
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Slash",
+            32
+        ],
+        [
+            "Sweet-scent",
+            40
+        ],
+        [
+            "Solar-blade",
+            47
+        ],
+        [
+            "Sunny-day",
+            55
+        ]
     ],
     "sun-moon": [
-        "Growth learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "X-scissor learnt at level 1",
-        "Petal-blizzard learnt at level 1",
-        "Leafage learnt at level 1",
-        "Leafage learnt at level 5",
-        "Razor-leaf learnt at level 10",
-        "Growth learnt at level 14",
-        "Ingrain learnt at level 19",
-        "Leaf-blade learnt at level 23",
-        "Synthesis learnt at level 28",
-        "Slash learnt at level 32",
-        "Sweet-scent learnt at level 40",
-        "Solar-blade learnt at level 47",
-        "Sunny-day learnt at level 55"
+        [
+            "Petal-blizzard",
+            0
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "X-scissor",
+            1
+        ],
+        [
+            "Petal-blizzard",
+            1
+        ],
+        [
+            "Leafage",
+            1
+        ],
+        [
+            "Leafage",
+            5
+        ],
+        [
+            "Razor-leaf",
+            10
+        ],
+        [
+            "Growth",
+            14
+        ],
+        [
+            "Ingrain",
+            19
+        ],
+        [
+            "Leaf-blade",
+            23
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Slash",
+            32
+        ],
+        [
+            "Sweet-scent",
+            40
+        ],
+        [
+            "Solar-blade",
+            47
+        ],
+        [
+            "Sunny-day",
+            55
+        ]
     ]
 }

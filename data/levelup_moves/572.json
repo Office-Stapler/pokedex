@@ -1,116 +1,422 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Baby-doll-eyes learnt at level 3",
-        "Helping-hand learnt at level 7",
-        "Tickle learnt at level 9",
-        "Double-slap learnt at level 13",
-        "Encore learnt at level 15",
-        "Swift learnt at level 19",
-        "Sing learnt at level 21",
-        "Tail-slap learnt at level 25",
-        "Charm learnt at level 27",
-        "Wake-up-slap learnt at level 31",
-        "Echoed-voice learnt at level 33",
-        "Slam learnt at level 37",
-        "Captivate learnt at level 39",
-        "Hyper-voice learnt at level 43",
-        "Last-resort learnt at level 45",
-        "After-you learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            3
+        ],
+        [
+            "Helping-hand",
+            7
+        ],
+        [
+            "Tickle",
+            9
+        ],
+        [
+            "Double-slap",
+            13
+        ],
+        [
+            "Encore",
+            15
+        ],
+        [
+            "Swift",
+            19
+        ],
+        [
+            "Sing",
+            21
+        ],
+        [
+            "Tail-slap",
+            25
+        ],
+        [
+            "Charm",
+            27
+        ],
+        [
+            "Wake-up-slap",
+            31
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Captivate",
+            39
+        ],
+        [
+            "Hyper-voice",
+            43
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "After-you",
+            49
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Baby-doll-eyes learnt at level 3",
-        "Helping-hand learnt at level 7",
-        "Tickle learnt at level 9",
-        "Double-slap learnt at level 13",
-        "Encore learnt at level 15",
-        "Swift learnt at level 19",
-        "Sing learnt at level 21",
-        "Tail-slap learnt at level 25",
-        "Charm learnt at level 27",
-        "Wake-up-slap learnt at level 31",
-        "Echoed-voice learnt at level 33",
-        "Slam learnt at level 37",
-        "Captivate learnt at level 39",
-        "Hyper-voice learnt at level 43",
-        "Last-resort learnt at level 45",
-        "After-you learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            3
+        ],
+        [
+            "Helping-hand",
+            7
+        ],
+        [
+            "Tickle",
+            9
+        ],
+        [
+            "Double-slap",
+            13
+        ],
+        [
+            "Encore",
+            15
+        ],
+        [
+            "Swift",
+            19
+        ],
+        [
+            "Sing",
+            21
+        ],
+        [
+            "Tail-slap",
+            25
+        ],
+        [
+            "Charm",
+            27
+        ],
+        [
+            "Wake-up-slap",
+            31
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Captivate",
+            39
+        ],
+        [
+            "Hyper-voice",
+            43
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "After-you",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Baby-doll-eyes learnt at level 3",
-        "Helping-hand learnt at level 7",
-        "Tickle learnt at level 9",
-        "Double-slap learnt at level 13",
-        "Encore learnt at level 15",
-        "Swift learnt at level 19",
-        "Sing learnt at level 21",
-        "Tail-slap learnt at level 25",
-        "Charm learnt at level 27",
-        "Wake-up-slap learnt at level 31",
-        "Echoed-voice learnt at level 33",
-        "Slam learnt at level 37",
-        "Captivate learnt at level 39",
-        "Hyper-voice learnt at level 43",
-        "Last-resort learnt at level 45",
-        "After-you learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            3
+        ],
+        [
+            "Helping-hand",
+            7
+        ],
+        [
+            "Tickle",
+            9
+        ],
+        [
+            "Double-slap",
+            13
+        ],
+        [
+            "Encore",
+            15
+        ],
+        [
+            "Swift",
+            19
+        ],
+        [
+            "Sing",
+            21
+        ],
+        [
+            "Tail-slap",
+            25
+        ],
+        [
+            "Charm",
+            27
+        ],
+        [
+            "Wake-up-slap",
+            31
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Captivate",
+            39
+        ],
+        [
+            "Hyper-voice",
+            43
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "After-you",
+            49
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Baby-doll-eyes learnt at level 3",
-        "Helping-hand learnt at level 7",
-        "Tickle learnt at level 9",
-        "Double-slap learnt at level 13",
-        "Encore learnt at level 15",
-        "Swift learnt at level 19",
-        "Sing learnt at level 21",
-        "Tail-slap learnt at level 25",
-        "Charm learnt at level 27",
-        "Wake-up-slap learnt at level 31",
-        "Echoed-voice learnt at level 33",
-        "Slam learnt at level 37",
-        "Captivate learnt at level 39",
-        "Hyper-voice learnt at level 43",
-        "Last-resort learnt at level 45",
-        "After-you learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            3
+        ],
+        [
+            "Helping-hand",
+            7
+        ],
+        [
+            "Tickle",
+            9
+        ],
+        [
+            "Double-slap",
+            13
+        ],
+        [
+            "Encore",
+            15
+        ],
+        [
+            "Swift",
+            19
+        ],
+        [
+            "Sing",
+            21
+        ],
+        [
+            "Tail-slap",
+            25
+        ],
+        [
+            "Charm",
+            27
+        ],
+        [
+            "Wake-up-slap",
+            31
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Captivate",
+            39
+        ],
+        [
+            "Hyper-voice",
+            43
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "After-you",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 3",
-        "Helping-hand learnt at level 7",
-        "Tickle learnt at level 9",
-        "Double-slap learnt at level 13",
-        "Encore learnt at level 15",
-        "Swift learnt at level 19",
-        "Sing learnt at level 21",
-        "Tail-slap learnt at level 25",
-        "Charm learnt at level 27",
-        "Wake-up-slap learnt at level 31",
-        "Echoed-voice learnt at level 33",
-        "Slam learnt at level 37",
-        "Captivate learnt at level 39",
-        "Hyper-voice learnt at level 43",
-        "Last-resort learnt at level 45",
-        "After-you learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Helping-hand",
+            7
+        ],
+        [
+            "Tickle",
+            9
+        ],
+        [
+            "Double-slap",
+            13
+        ],
+        [
+            "Encore",
+            15
+        ],
+        [
+            "Swift",
+            19
+        ],
+        [
+            "Sing",
+            21
+        ],
+        [
+            "Tail-slap",
+            25
+        ],
+        [
+            "Charm",
+            27
+        ],
+        [
+            "Wake-up-slap",
+            31
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Captivate",
+            39
+        ],
+        [
+            "Hyper-voice",
+            43
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "After-you",
+            49
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 3",
-        "Helping-hand learnt at level 7",
-        "Tickle learnt at level 9",
-        "Double-slap learnt at level 13",
-        "Encore learnt at level 15",
-        "Swift learnt at level 19",
-        "Sing learnt at level 21",
-        "Tail-slap learnt at level 25",
-        "Charm learnt at level 27",
-        "Wake-up-slap learnt at level 31",
-        "Echoed-voice learnt at level 33",
-        "Slam learnt at level 37",
-        "Captivate learnt at level 39",
-        "Hyper-voice learnt at level 43",
-        "Last-resort learnt at level 45",
-        "After-you learnt at level 49"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Helping-hand",
+            7
+        ],
+        [
+            "Tickle",
+            9
+        ],
+        [
+            "Double-slap",
+            13
+        ],
+        [
+            "Encore",
+            15
+        ],
+        [
+            "Swift",
+            19
+        ],
+        [
+            "Sing",
+            21
+        ],
+        [
+            "Tail-slap",
+            25
+        ],
+        [
+            "Charm",
+            27
+        ],
+        [
+            "Wake-up-slap",
+            31
+        ],
+        [
+            "Echoed-voice",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Captivate",
+            39
+        ],
+        [
+            "Hyper-voice",
+            43
+        ],
+        [
+            "Last-resort",
+            45
+        ],
+        [
+            "After-you",
+            49
+        ]
     ]
 }

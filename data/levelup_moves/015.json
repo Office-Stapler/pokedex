@@ -1,227 +1,802 @@
 {
     "ultra-sun-ultra-moon": [
-        "Fury-attack learnt at level 1",
-        "Twineedle learnt at level 1",
-        "Fury-attack learnt at level 11",
-        "Rage learnt at level 14",
-        "Pursuit learnt at level 17",
-        "Focus-energy learnt at level 20",
-        "Venoshock learnt at level 23",
-        "Assurance learnt at level 26",
-        "Toxic-spikes learnt at level 29",
-        "Pin-missile learnt at level 32",
-        "Poison-jab learnt at level 35",
-        "Agility learnt at level 38",
-        "Endeavor learnt at level 41",
-        "Fell-stinger learnt at level 44"
+        [
+            "Twineedle",
+            0
+        ],
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Twineedle",
+            1
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Rage",
+            14
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Venoshock",
+            23
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Toxic-spikes",
+            29
+        ],
+        [
+            "Pin-missile",
+            32
+        ],
+        [
+            "Poison-jab",
+            35
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Fell-stinger",
+            44
+        ]
     ],
     "sun-moon": [
-        "Fury-attack learnt at level 1",
-        "Twineedle learnt at level 1",
-        "Fury-attack learnt at level 11",
-        "Rage learnt at level 14",
-        "Pursuit learnt at level 17",
-        "Focus-energy learnt at level 20",
-        "Venoshock learnt at level 23",
-        "Assurance learnt at level 26",
-        "Toxic-spikes learnt at level 29",
-        "Pin-missile learnt at level 32",
-        "Poison-jab learnt at level 35",
-        "Agility learnt at level 38",
-        "Endeavor learnt at level 41",
-        "Fell-stinger learnt at level 44"
+        [
+            "Twineedle",
+            0
+        ],
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Twineedle",
+            1
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Rage",
+            14
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Venoshock",
+            23
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Toxic-spikes",
+            29
+        ],
+        [
+            "Pin-missile",
+            32
+        ],
+        [
+            "Poison-jab",
+            35
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Fell-stinger",
+            44
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 13",
-        "Twineedle learnt at level 16",
-        "Rage learnt at level 19",
-        "Pursuit learnt at level 22",
-        "Toxic-spikes learnt at level 25",
-        "Pin-missile learnt at level 28",
-        "Agility learnt at level 31",
-        "Assurance learnt at level 34",
-        "Poison-jab learnt at level 37",
-        "Endeavor learnt at level 40",
-        "Fell-stinger learnt at level 45"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Twineedle",
+            16
+        ],
+        [
+            "Rage",
+            19
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Toxic-spikes",
+            25
+        ],
+        [
+            "Pin-missile",
+            28
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Assurance",
+            34
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Endeavor",
+            40
+        ],
+        [
+            "Fell-stinger",
+            45
+        ]
     ],
     "x-y": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 13",
-        "Twineedle learnt at level 16",
-        "Rage learnt at level 19",
-        "Pursuit learnt at level 22",
-        "Toxic-spikes learnt at level 25",
-        "Pin-missile learnt at level 28",
-        "Agility learnt at level 31",
-        "Assurance learnt at level 34",
-        "Poison-jab learnt at level 37",
-        "Endeavor learnt at level 40",
-        "Fell-stinger learnt at level 45"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Twineedle",
+            16
+        ],
+        [
+            "Rage",
+            19
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Toxic-spikes",
+            25
+        ],
+        [
+            "Pin-missile",
+            28
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Assurance",
+            34
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Endeavor",
+            40
+        ],
+        [
+            "Fell-stinger",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 13",
-        "Twineedle learnt at level 16",
-        "Rage learnt at level 19",
-        "Pursuit learnt at level 22",
-        "Toxic-spikes learnt at level 25",
-        "Pin-missile learnt at level 28",
-        "Agility learnt at level 31",
-        "Assurance learnt at level 34",
-        "Poison-jab learnt at level 37",
-        "Endeavor learnt at level 40"
-    ],
-    "black-white": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 13",
-        "Twineedle learnt at level 16",
-        "Rage learnt at level 19",
-        "Pursuit learnt at level 22",
-        "Toxic-spikes learnt at level 25",
-        "Pin-missile learnt at level 28",
-        "Agility learnt at level 31",
-        "Assurance learnt at level 34",
-        "Poison-jab learnt at level 37",
-        "Endeavor learnt at level 40"
-    ],
-    "heartgold-soulsilver": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 13",
-        "Twineedle learnt at level 16",
-        "Rage learnt at level 19",
-        "Pursuit learnt at level 22",
-        "Toxic-spikes learnt at level 25",
-        "Pin-missile learnt at level 28",
-        "Agility learnt at level 31",
-        "Assurance learnt at level 34",
-        "Poison-jab learnt at level 37",
-        "Endeavor learnt at level 40"
-    ],
-    "diamond-pearl": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 13",
-        "Twineedle learnt at level 16",
-        "Rage learnt at level 19",
-        "Pursuit learnt at level 22",
-        "Toxic-spikes learnt at level 25",
-        "Pin-missile learnt at level 28",
-        "Agility learnt at level 31",
-        "Assurance learnt at level 34",
-        "Poison-jab learnt at level 37",
-        "Endeavor learnt at level 40"
-    ],
-    "firered-leafgreen": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 15",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pursuit learnt at level 30",
-        "Pin-missile learnt at level 35",
-        "Agility learnt at level 40",
-        "Endeavor learnt at level 45"
-    ],
-    "emerald": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 15",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pursuit learnt at level 30",
-        "Pin-missile learnt at level 35",
-        "Agility learnt at level 40",
-        "Endeavor learnt at level 45"
-    ],
-    "platinum": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 13",
-        "Twineedle learnt at level 16",
-        "Rage learnt at level 19",
-        "Pursuit learnt at level 22",
-        "Toxic-spikes learnt at level 25",
-        "Pin-missile learnt at level 28",
-        "Agility learnt at level 31",
-        "Assurance learnt at level 34",
-        "Poison-jab learnt at level 37",
-        "Endeavor learnt at level 40"
-    ],
-    "yellow": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 12",
-        "Focus-energy learnt at level 16",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pin-missile learnt at level 30",
-        "Agility learnt at level 35"
-    ],
-    "red-blue": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 12",
-        "Focus-energy learnt at level 16",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pin-missile learnt at level 30",
-        "Agility learnt at level 35"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Twineedle",
+            16
+        ],
+        [
+            "Rage",
+            19
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Toxic-spikes",
+            25
+        ],
+        [
+            "Pin-missile",
+            28
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Assurance",
+            34
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Endeavor",
+            40
+        ]
     ],
     "xd": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 15",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pursuit learnt at level 30",
-        "Pin-missile learnt at level 35",
-        "Agility learnt at level 40",
-        "Endeavor learnt at level 45"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Pin-missile",
+            35
+        ],
+        [
+            "Agility",
+            40
+        ],
+        [
+            "Endeavor",
+            45
+        ]
     ],
     "colosseum": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 15",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pursuit learnt at level 30",
-        "Pin-missile learnt at level 35",
-        "Agility learnt at level 40",
-        "Endeavor learnt at level 45"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Pin-missile",
+            35
+        ],
+        [
+            "Agility",
+            40
+        ],
+        [
+            "Endeavor",
+            45
+        ]
+    ],
+    "black-white": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Twineedle",
+            16
+        ],
+        [
+            "Rage",
+            19
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Toxic-spikes",
+            25
+        ],
+        [
+            "Pin-missile",
+            28
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Assurance",
+            34
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Endeavor",
+            40
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Twineedle",
+            16
+        ],
+        [
+            "Rage",
+            19
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Toxic-spikes",
+            25
+        ],
+        [
+            "Pin-missile",
+            28
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Assurance",
+            34
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Endeavor",
+            40
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Twineedle",
+            16
+        ],
+        [
+            "Rage",
+            19
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Toxic-spikes",
+            25
+        ],
+        [
+            "Pin-missile",
+            28
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Assurance",
+            34
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Endeavor",
+            40
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Pin-missile",
+            35
+        ],
+        [
+            "Agility",
+            40
+        ],
+        [
+            "Endeavor",
+            45
+        ]
+    ],
+    "emerald": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Pin-missile",
+            35
+        ],
+        [
+            "Agility",
+            40
+        ],
+        [
+            "Endeavor",
+            45
+        ]
     ],
     "ruby-sapphire": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 15",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pursuit learnt at level 30",
-        "Pin-missile learnt at level 35",
-        "Agility learnt at level 40",
-        "Endeavor learnt at level 45"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Pin-missile",
+            35
+        ],
+        [
+            "Agility",
+            40
+        ],
+        [
+            "Endeavor",
+            45
+        ]
     ],
     "crystal": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 15",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pursuit learnt at level 30",
-        "Pin-missile learnt at level 35",
-        "Agility learnt at level 40"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Pin-missile",
+            35
+        ],
+        [
+            "Agility",
+            40
+        ]
     ],
     "gold-silver": [
-        "Fury-attack learnt at level 1",
-        "Fury-attack learnt at level 10",
-        "Focus-energy learnt at level 15",
-        "Twineedle learnt at level 20",
-        "Rage learnt at level 25",
-        "Pursuit learnt at level 30",
-        "Pin-missile learnt at level 35",
-        "Agility learnt at level 40"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pursuit",
+            30
+        ],
+        [
+            "Pin-missile",
+            35
+        ],
+        [
+            "Agility",
+            40
+        ]
+    ],
+    "platinum": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Twineedle",
+            16
+        ],
+        [
+            "Rage",
+            19
+        ],
+        [
+            "Pursuit",
+            22
+        ],
+        [
+            "Toxic-spikes",
+            25
+        ],
+        [
+            "Pin-missile",
+            28
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Assurance",
+            34
+        ],
+        [
+            "Poison-jab",
+            37
+        ],
+        [
+            "Endeavor",
+            40
+        ]
+    ],
+    "yellow": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            12
+        ],
+        [
+            "Focus-energy",
+            16
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pin-missile",
+            30
+        ],
+        [
+            "Agility",
+            35
+        ]
+    ],
+    "red-blue": [
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            12
+        ],
+        [
+            "Focus-energy",
+            16
+        ],
+        [
+            "Twineedle",
+            20
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Pin-missile",
+            30
+        ],
+        [
+            "Agility",
+            35
+        ]
     ]
 }

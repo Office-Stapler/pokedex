@@ -1,289 +1,1078 @@
 {
     "sun-moon": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Electro-ball learnt at level 1",
-        "Eerie-impulse learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Electro-ball learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Bubble-beam learnt at level 20",
-        "Spark learnt at level 23",
-        "Signal-beam learnt at level 29",
-        "Flail learnt at level 33",
-        "Discharge learnt at level 37",
-        "Take-down learnt at level 43",
-        "Aqua-ring learnt at level 47",
-        "Hydro-pump learnt at level 51",
-        "Ion-deluge learnt at level 54",
-        "Charge learnt at level 58"
+        [
+            "Stockpile",
+            0
+        ],
+        [
+            "Spit-up",
+            0
+        ],
+        [
+            "Swallow",
+            0
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Electro-ball",
+            1
+        ],
+        [
+            "Eerie-impulse",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Electro-ball",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Spark",
+            23
+        ],
+        [
+            "Signal-beam",
+            29
+        ],
+        [
+            "Flail",
+            33
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Aqua-ring",
+            47
+        ],
+        [
+            "Hydro-pump",
+            51
+        ],
+        [
+            "Ion-deluge",
+            54
+        ],
+        [
+            "Charge",
+            58
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Electro-ball learnt at level 1",
-        "Eerie-impulse learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Electro-ball learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Bubble-beam learnt at level 20",
-        "Spark learnt at level 23",
-        "Stockpile learnt at level 27",
-        "Spit-up learnt at level 27",
-        "Swallow learnt at level 27",
-        "Signal-beam learnt at level 29",
-        "Flail learnt at level 33",
-        "Discharge learnt at level 37",
-        "Take-down learnt at level 43",
-        "Aqua-ring learnt at level 47",
-        "Hydro-pump learnt at level 51",
-        "Ion-deluge learnt at level 54",
-        "Charge learnt at level 58"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Electro-ball",
+            1
+        ],
+        [
+            "Eerie-impulse",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Electro-ball",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Spark",
+            23
+        ],
+        [
+            "Stockpile",
+            27
+        ],
+        [
+            "Spit-up",
+            27
+        ],
+        [
+            "Swallow",
+            27
+        ],
+        [
+            "Signal-beam",
+            29
+        ],
+        [
+            "Flail",
+            33
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Aqua-ring",
+            47
+        ],
+        [
+            "Hydro-pump",
+            51
+        ],
+        [
+            "Ion-deluge",
+            54
+        ],
+        [
+            "Charge",
+            58
+        ]
     ],
     "x-y": [
-        "Supersonic learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Eerie-impulse learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Flail learnt at level 9",
-        "Bubble learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Spark learnt at level 20",
-        "Take-down learnt at level 23",
-        "Stockpile learnt at level 27",
-        "Spit-up learnt at level 27",
-        "Swallow learnt at level 27",
-        "Electro-ball learnt at level 30",
-        "Bubble-beam learnt at level 35",
-        "Signal-beam learnt at level 40",
-        "Discharge learnt at level 47",
-        "Aqua-ring learnt at level 52",
-        "Hydro-pump learnt at level 57",
-        "Ion-deluge learnt at level 60",
-        "Charge learnt at level 64"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Eerie-impulse",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Flail",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Stockpile",
+            27
+        ],
+        [
+            "Spit-up",
+            27
+        ],
+        [
+            "Swallow",
+            27
+        ],
+        [
+            "Electro-ball",
+            30
+        ],
+        [
+            "Bubble-beam",
+            35
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Discharge",
+            47
+        ],
+        [
+            "Aqua-ring",
+            52
+        ],
+        [
+            "Hydro-pump",
+            57
+        ],
+        [
+            "Ion-deluge",
+            60
+        ],
+        [
+            "Charge",
+            64
+        ]
     ],
     "black-2-white-2": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Flail learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Spark learnt at level 20",
-        "Take-down learnt at level 23",
-        "Stockpile learnt at level 27",
-        "Spit-up learnt at level 27",
-        "Swallow learnt at level 27",
-        "Electro-ball learnt at level 30",
-        "Bubble-beam learnt at level 35",
-        "Signal-beam learnt at level 40",
-        "Discharge learnt at level 47",
-        "Aqua-ring learnt at level 52",
-        "Hydro-pump learnt at level 57",
-        "Charge learnt at level 64"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Flail",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Stockpile",
+            27
+        ],
+        [
+            "Spit-up",
+            27
+        ],
+        [
+            "Swallow",
+            27
+        ],
+        [
+            "Electro-ball",
+            30
+        ],
+        [
+            "Bubble-beam",
+            35
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Discharge",
+            47
+        ],
+        [
+            "Aqua-ring",
+            52
+        ],
+        [
+            "Hydro-pump",
+            57
+        ],
+        [
+            "Charge",
+            64
+        ]
     ],
     "black-white": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Flail learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Spark learnt at level 20",
-        "Take-down learnt at level 23",
-        "Stockpile learnt at level 27",
-        "Spit-up learnt at level 27",
-        "Swallow learnt at level 27",
-        "Electro-ball learnt at level 30",
-        "Bubble-beam learnt at level 35",
-        "Signal-beam learnt at level 40",
-        "Discharge learnt at level 47",
-        "Aqua-ring learnt at level 52",
-        "Hydro-pump learnt at level 57",
-        "Charge learnt at level 64"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Flail",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Stockpile",
+            27
+        ],
+        [
+            "Spit-up",
+            27
+        ],
+        [
+            "Swallow",
+            27
+        ],
+        [
+            "Electro-ball",
+            30
+        ],
+        [
+            "Bubble-beam",
+            35
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Discharge",
+            47
+        ],
+        [
+            "Aqua-ring",
+            52
+        ],
+        [
+            "Hydro-pump",
+            57
+        ],
+        [
+            "Charge",
+            64
+        ]
     ],
     "heartgold-soulsilver": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Flail learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Spark learnt at level 20",
-        "Take-down learnt at level 23",
-        "Stockpile learnt at level 27",
-        "Spit-up learnt at level 27",
-        "Swallow learnt at level 27",
-        "Bubble-beam learnt at level 30",
-        "Signal-beam learnt at level 35",
-        "Discharge learnt at level 40",
-        "Aqua-ring learnt at level 47",
-        "Hydro-pump learnt at level 52",
-        "Charge learnt at level 57"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Flail",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Stockpile",
+            27
+        ],
+        [
+            "Spit-up",
+            27
+        ],
+        [
+            "Swallow",
+            27
+        ],
+        [
+            "Bubble-beam",
+            30
+        ],
+        [
+            "Signal-beam",
+            35
+        ],
+        [
+            "Discharge",
+            40
+        ],
+        [
+            "Aqua-ring",
+            47
+        ],
+        [
+            "Hydro-pump",
+            52
+        ],
+        [
+            "Charge",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Stockpile learnt at level 1",
-        "Spit-up learnt at level 1",
-        "Swallow learnt at level 1",
-        "Electro-ball learnt at level 1",
-        "Eerie-impulse learnt at level 1",
-        "Spotlight learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Electro-ball learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Bubble-beam learnt at level 20",
-        "Spark learnt at level 23",
-        "Signal-beam learnt at level 29",
-        "Flail learnt at level 33",
-        "Discharge learnt at level 37",
-        "Take-down learnt at level 43",
-        "Aqua-ring learnt at level 47",
-        "Hydro-pump learnt at level 51",
-        "Ion-deluge learnt at level 54",
-        "Charge learnt at level 58"
+        [
+            "Stockpile",
+            0
+        ],
+        [
+            "Spit-up",
+            0
+        ],
+        [
+            "Swallow",
+            0
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Stockpile",
+            1
+        ],
+        [
+            "Spit-up",
+            1
+        ],
+        [
+            "Swallow",
+            1
+        ],
+        [
+            "Electro-ball",
+            1
+        ],
+        [
+            "Eerie-impulse",
+            1
+        ],
+        [
+            "Spotlight",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Electro-ball",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Spark",
+            23
+        ],
+        [
+            "Signal-beam",
+            29
+        ],
+        [
+            "Flail",
+            33
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Aqua-ring",
+            47
+        ],
+        [
+            "Hydro-pump",
+            51
+        ],
+        [
+            "Ion-deluge",
+            54
+        ],
+        [
+            "Charge",
+            58
+        ]
     ],
     "platinum": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Flail learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Spark learnt at level 20",
-        "Take-down learnt at level 23",
-        "Stockpile learnt at level 27",
-        "Spit-up learnt at level 27",
-        "Swallow learnt at level 27",
-        "Bubble-beam learnt at level 30",
-        "Signal-beam learnt at level 35",
-        "Discharge learnt at level 40",
-        "Aqua-ring learnt at level 47",
-        "Hydro-pump learnt at level 52",
-        "Charge learnt at level 57"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Flail",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Stockpile",
+            27
+        ],
+        [
+            "Spit-up",
+            27
+        ],
+        [
+            "Swallow",
+            27
+        ],
+        [
+            "Bubble-beam",
+            30
+        ],
+        [
+            "Signal-beam",
+            35
+        ],
+        [
+            "Discharge",
+            40
+        ],
+        [
+            "Aqua-ring",
+            47
+        ],
+        [
+            "Hydro-pump",
+            52
+        ],
+        [
+            "Charge",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Thunder-wave learnt at level 6",
-        "Flail learnt at level 9",
-        "Water-gun learnt at level 12",
-        "Confuse-ray learnt at level 17",
-        "Spark learnt at level 20",
-        "Take-down learnt at level 23",
-        "Stockpile learnt at level 27",
-        "Spit-up learnt at level 27",
-        "Swallow learnt at level 27",
-        "Bubble-beam learnt at level 30",
-        "Signal-beam learnt at level 35",
-        "Discharge learnt at level 40",
-        "Aqua-ring learnt at level 47",
-        "Hydro-pump learnt at level 52",
-        "Charge learnt at level 57"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Thunder-wave",
+            6
+        ],
+        [
+            "Flail",
+            9
+        ],
+        [
+            "Water-gun",
+            12
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Stockpile",
+            27
+        ],
+        [
+            "Spit-up",
+            27
+        ],
+        [
+            "Swallow",
+            27
+        ],
+        [
+            "Bubble-beam",
+            30
+        ],
+        [
+            "Signal-beam",
+            35
+        ],
+        [
+            "Discharge",
+            40
+        ],
+        [
+            "Aqua-ring",
+            47
+        ],
+        [
+            "Hydro-pump",
+            52
+        ],
+        [
+            "Charge",
+            57
+        ]
     ],
     "firered-leafgreen": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Flail learnt at level 13",
-        "Water-gun learnt at level 17",
-        "Spark learnt at level 25",
-        "Confuse-ray learnt at level 32",
-        "Take-down learnt at level 43",
-        "Hydro-pump learnt at level 50",
-        "Charge learnt at level 61"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Confuse-ray",
+            32
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Charge",
+            61
+        ]
     ],
     "emerald": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Flail learnt at level 13",
-        "Water-gun learnt at level 17",
-        "Spark learnt at level 25",
-        "Confuse-ray learnt at level 32",
-        "Take-down learnt at level 43",
-        "Hydro-pump learnt at level 50",
-        "Charge learnt at level 61"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Confuse-ray",
+            32
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Charge",
+            61
+        ]
     ],
     "ruby-sapphire": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Flail learnt at level 13",
-        "Water-gun learnt at level 17",
-        "Spark learnt at level 25",
-        "Confuse-ray learnt at level 32",
-        "Take-down learnt at level 43",
-        "Hydro-pump learnt at level 50",
-        "Charge learnt at level 61"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Confuse-ray",
+            32
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Charge",
+            61
+        ]
     ],
     "xd": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Flail learnt at level 13",
-        "Water-gun learnt at level 17",
-        "Spark learnt at level 25",
-        "Confuse-ray learnt at level 32",
-        "Take-down learnt at level 43",
-        "Hydro-pump learnt at level 50",
-        "Charge learnt at level 61"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Confuse-ray",
+            32
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Charge",
+            61
+        ]
     ],
     "colosseum": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Flail learnt at level 13",
-        "Water-gun learnt at level 17",
-        "Spark learnt at level 25",
-        "Confuse-ray learnt at level 32",
-        "Take-down learnt at level 43",
-        "Hydro-pump learnt at level 50",
-        "Charge learnt at level 61"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Confuse-ray",
+            32
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Charge",
+            61
+        ]
     ],
     "crystal": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Flail learnt at level 13",
-        "Water-gun learnt at level 17",
-        "Spark learnt at level 25",
-        "Confuse-ray learnt at level 33",
-        "Take-down learnt at level 45",
-        "Hydro-pump learnt at level 53"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Confuse-ray",
+            33
+        ],
+        [
+            "Take-down",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ],
     "gold-silver": [
-        "Supersonic learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Bubble learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Flail learnt at level 13",
-        "Water-gun learnt at level 17",
-        "Spark learnt at level 25",
-        "Confuse-ray learnt at level 33",
-        "Take-down learnt at level 45",
-        "Hydro-pump learnt at level 53"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Spark",
+            25
+        ],
+        [
+            "Confuse-ray",
+            33
+        ],
+        [
+            "Take-down",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ]
 }

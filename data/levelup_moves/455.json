@@ -1,143 +1,512 @@
 {
     "ultra-sun-ultra-moon": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Leaf-tornado learnt at level 31",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Crunch learnt at level 41",
-        "Wring-out learnt at level 47",
-        "Power-whip learnt at level 50"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Leaf-tornado",
+            31
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Wring-out",
+            47
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "sun-moon": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Leaf-tornado learnt at level 31",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Crunch learnt at level 41",
-        "Wring-out learnt at level 47",
-        "Power-whip learnt at level 50"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Leaf-tornado",
+            31
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Wring-out",
+            47
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Leaf-tornado learnt at level 31",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Crunch learnt at level 41",
-        "Wring-out learnt at level 47",
-        "Power-whip learnt at level 50"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Leaf-tornado",
+            31
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Wring-out",
+            47
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "x-y": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Leaf-tornado learnt at level 31",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Crunch learnt at level 41",
-        "Wring-out learnt at level 47",
-        "Power-whip learnt at level 50"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Leaf-tornado",
+            31
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Wring-out",
+            47
+        ],
+        [
+            "Power-whip",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Leaf-tornado learnt at level 31",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Crunch learnt at level 41",
-        "Wring-out learnt at level 47",
-        "Power-whip learnt at level 51"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Leaf-tornado",
+            31
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Wring-out",
+            47
+        ],
+        [
+            "Power-whip",
+            51
+        ]
     ],
     "black-white": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Leaf-tornado learnt at level 31",
-        "Stockpile learnt at level 37",
-        "Spit-up learnt at level 37",
-        "Swallow learnt at level 37",
-        "Crunch learnt at level 41",
-        "Wring-out learnt at level 47",
-        "Power-whip learnt at level 51"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Leaf-tornado",
+            31
+        ],
+        [
+            "Stockpile",
+            37
+        ],
+        [
+            "Spit-up",
+            37
+        ],
+        [
+            "Swallow",
+            37
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Wring-out",
+            47
+        ],
+        [
+            "Power-whip",
+            51
+        ]
     ],
     "heartgold-soulsilver": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Stockpile learnt at level 31",
-        "Spit-up learnt at level 31",
-        "Swallow learnt at level 31",
-        "Crunch learnt at level 37",
-        "Wring-out learnt at level 41",
-        "Power-whip learnt at level 47"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Stockpile",
+            31
+        ],
+        [
+            "Spit-up",
+            31
+        ],
+        [
+            "Swallow",
+            31
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Wring-out",
+            41
+        ],
+        [
+            "Power-whip",
+            47
+        ]
     ],
     "platinum": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Stockpile learnt at level 31",
-        "Spit-up learnt at level 31",
-        "Swallow learnt at level 31",
-        "Crunch learnt at level 37",
-        "Wring-out learnt at level 41",
-        "Power-whip learnt at level 47"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Stockpile",
+            31
+        ],
+        [
+            "Spit-up",
+            31
+        ],
+        [
+            "Swallow",
+            31
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Wring-out",
+            41
+        ],
+        [
+            "Power-whip",
+            47
+        ]
     ],
     "diamond-pearl": [
-        "Bind learnt at level 1",
-        "Growth learnt at level 1",
-        "Bite learnt at level 7",
-        "Vine-whip learnt at level 11",
-        "Sweet-scent learnt at level 17",
-        "Ingrain learnt at level 21",
-        "Feint-attack learnt at level 27",
-        "Stockpile learnt at level 31",
-        "Spit-up learnt at level 31",
-        "Swallow learnt at level 31",
-        "Crunch learnt at level 37",
-        "Wring-out learnt at level 41",
-        "Power-whip learnt at level 47"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Vine-whip",
+            11
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Ingrain",
+            21
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Stockpile",
+            31
+        ],
+        [
+            "Spit-up",
+            31
+        ],
+        [
+            "Swallow",
+            31
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Wring-out",
+            41
+        ],
+        [
+            "Power-whip",
+            47
+        ]
     ]
 }

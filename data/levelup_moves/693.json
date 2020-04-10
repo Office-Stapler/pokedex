@@ -1,88 +1,330 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vice-grip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Splash learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aura-sphere learnt at level 1",
-        "Dark-pulse learnt at level 1",
-        "Dragon-pulse learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Water-sport learnt at level 7",
-        "Vice-grip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Flail learnt at level 16",
-        "Bubble-beam learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Crabhammer learnt at level 30",
-        "Water-pulse learnt at level 34",
-        "Smack-down learnt at level 42",
-        "Aqua-jet learnt at level 49",
-        "Muddy-water learnt at level 57"
+        [
+            "Aura-sphere",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aura-sphere",
+            1
+        ],
+        [
+            "Dark-pulse",
+            1
+        ],
+        [
+            "Dragon-pulse",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Vice-grip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Flail",
+            16
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Crabhammer",
+            30
+        ],
+        [
+            "Water-pulse",
+            34
+        ],
+        [
+            "Smack-down",
+            42
+        ],
+        [
+            "Aqua-jet",
+            49
+        ],
+        [
+            "Muddy-water",
+            57
+        ]
     ],
     "sun-moon": [
-        "Vice-grip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Splash learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aura-sphere learnt at level 1",
-        "Dark-pulse learnt at level 1",
-        "Dragon-pulse learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Water-sport learnt at level 7",
-        "Vice-grip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Flail learnt at level 16",
-        "Bubble-beam learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Crabhammer learnt at level 30",
-        "Water-pulse learnt at level 34",
-        "Smack-down learnt at level 42",
-        "Aqua-jet learnt at level 49",
-        "Muddy-water learnt at level 57"
+        [
+            "Aura-sphere",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aura-sphere",
+            1
+        ],
+        [
+            "Dark-pulse",
+            1
+        ],
+        [
+            "Dragon-pulse",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Vice-grip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Flail",
+            16
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Crabhammer",
+            30
+        ],
+        [
+            "Water-pulse",
+            34
+        ],
+        [
+            "Smack-down",
+            42
+        ],
+        [
+            "Aqua-jet",
+            49
+        ],
+        [
+            "Muddy-water",
+            57
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Water-gun learnt at level 1",
-        "Splash learnt at level 1",
-        "Aura-sphere learnt at level 1",
-        "Dark-pulse learnt at level 1",
-        "Dragon-pulse learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Water-sport learnt at level 7",
-        "Vice-grip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Flail learnt at level 16",
-        "Bubble-beam learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Crabhammer learnt at level 30",
-        "Water-pulse learnt at level 34",
-        "Smack-down learnt at level 42",
-        "Aqua-jet learnt at level 47",
-        "Muddy-water learnt at level 53",
-        "Dark-pulse learnt at level 57",
-        "Dragon-pulse learnt at level 63",
-        "Aura-sphere learnt at level 67"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Aura-sphere",
+            1
+        ],
+        [
+            "Dark-pulse",
+            1
+        ],
+        [
+            "Dragon-pulse",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Vice-grip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Flail",
+            16
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Crabhammer",
+            30
+        ],
+        [
+            "Water-pulse",
+            34
+        ],
+        [
+            "Smack-down",
+            42
+        ],
+        [
+            "Aqua-jet",
+            47
+        ],
+        [
+            "Muddy-water",
+            53
+        ],
+        [
+            "Dark-pulse",
+            57
+        ],
+        [
+            "Dragon-pulse",
+            63
+        ],
+        [
+            "Aura-sphere",
+            67
+        ]
     ],
     "x-y": [
-        "Water-gun learnt at level 1",
-        "Splash learnt at level 1",
-        "Aura-sphere learnt at level 1",
-        "Dark-pulse learnt at level 1",
-        "Dragon-pulse learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Water-sport learnt at level 7",
-        "Vice-grip learnt at level 9",
-        "Bubble learnt at level 12",
-        "Flail learnt at level 16",
-        "Bubble-beam learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Crabhammer learnt at level 30",
-        "Water-pulse learnt at level 34",
-        "Smack-down learnt at level 42",
-        "Aqua-jet learnt at level 47",
-        "Muddy-water learnt at level 53",
-        "Dark-pulse learnt at level 57",
-        "Dragon-pulse learnt at level 63",
-        "Aura-sphere learnt at level 67"
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Aura-sphere",
+            1
+        ],
+        [
+            "Dark-pulse",
+            1
+        ],
+        [
+            "Dragon-pulse",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Water-sport",
+            7
+        ],
+        [
+            "Vice-grip",
+            9
+        ],
+        [
+            "Bubble",
+            12
+        ],
+        [
+            "Flail",
+            16
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Crabhammer",
+            30
+        ],
+        [
+            "Water-pulse",
+            34
+        ],
+        [
+            "Smack-down",
+            42
+        ],
+        [
+            "Aqua-jet",
+            47
+        ],
+        [
+            "Muddy-water",
+            53
+        ],
+        [
+            "Dark-pulse",
+            57
+        ],
+        [
+            "Dragon-pulse",
+            63
+        ],
+        [
+            "Aura-sphere",
+            67
+        ]
     ]
 }

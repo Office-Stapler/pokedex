@@ -1,42 +1,150 @@
 {
     "ultra-sun-ultra-moon": [
-        "Confusion learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Mean-look learnt at level 1",
-        "Astonish learnt at level 1",
-        "Aromatherapy learnt at level 1",
-        "Draining-kiss learnt at level 1",
-        "Aromatic-mist learnt at level 1",
-        "Psychic-terrain learnt at level 1",
-        "Psywave learnt at level 8",
-        "Psybeam learnt at level 14",
-        "Sweet-scent learnt at level 20",
-        "Skill-swap learnt at level 26",
-        "Psyshock learnt at level 32",
-        "Tickle learnt at level 38",
-        "Natures-madness learnt at level 43",
-        "Extrasensory learnt at level 48",
-        "Flatter learnt at level 53",
-        "Moonblast learnt at level 58"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Mean-look",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Aromatherapy",
+            1
+        ],
+        [
+            "Draining-kiss",
+            1
+        ],
+        [
+            "Aromatic-mist",
+            1
+        ],
+        [
+            "Psychic-terrain",
+            1
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Sweet-scent",
+            20
+        ],
+        [
+            "Skill-swap",
+            26
+        ],
+        [
+            "Psyshock",
+            32
+        ],
+        [
+            "Tickle",
+            38
+        ],
+        [
+            "Natures-madness",
+            43
+        ],
+        [
+            "Extrasensory",
+            48
+        ],
+        [
+            "Flatter",
+            53
+        ],
+        [
+            "Moonblast",
+            58
+        ]
     ],
     "sun-moon": [
-        "Confusion learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Mean-look learnt at level 1",
-        "Astonish learnt at level 1",
-        "Aromatherapy learnt at level 1",
-        "Draining-kiss learnt at level 1",
-        "Aromatic-mist learnt at level 1",
-        "Psychic-terrain learnt at level 1",
-        "Psywave learnt at level 8",
-        "Psybeam learnt at level 14",
-        "Sweet-scent learnt at level 20",
-        "Skill-swap learnt at level 26",
-        "Psyshock learnt at level 32",
-        "Tickle learnt at level 38",
-        "Natures-madness learnt at level 43",
-        "Extrasensory learnt at level 48",
-        "Flatter learnt at level 53",
-        "Moonblast learnt at level 58"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Mean-look",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Aromatherapy",
+            1
+        ],
+        [
+            "Draining-kiss",
+            1
+        ],
+        [
+            "Aromatic-mist",
+            1
+        ],
+        [
+            "Psychic-terrain",
+            1
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Psybeam",
+            14
+        ],
+        [
+            "Sweet-scent",
+            20
+        ],
+        [
+            "Skill-swap",
+            26
+        ],
+        [
+            "Psyshock",
+            32
+        ],
+        [
+            "Tickle",
+            38
+        ],
+        [
+            "Natures-madness",
+            43
+        ],
+        [
+            "Extrasensory",
+            48
+        ],
+        [
+            "Flatter",
+            53
+        ],
+        [
+            "Moonblast",
+            58
+        ]
     ]
 }

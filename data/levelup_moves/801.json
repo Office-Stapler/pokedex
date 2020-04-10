@@ -1,46 +1,166 @@
 {
     "ultra-sun-ultra-moon": [
-        "Sonic-boom learnt at level 1",
-        "Psybeam learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Shift-gear learnt at level 1",
-        "Crafty-shield learnt at level 1",
-        "Gear-up learnt at level 1",
-        "Lucky-chant learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Mirror-shot learnt at level 25",
-        "Mind-reader learnt at level 33",
-        "Flash-cannon learnt at level 41",
-        "Fleur-cannon learnt at level 49",
-        "Iron-defense learnt at level 57",
-        "Pain-split learnt at level 65",
-        "Synchronoise learnt at level 73",
-        "Aura-sphere learnt at level 81",
-        "Heart-swap learnt at level 89",
-        "Trump-card learnt at level 97"
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Shift-gear",
+            1
+        ],
+        [
+            "Crafty-shield",
+            1
+        ],
+        [
+            "Gear-up",
+            1
+        ],
+        [
+            "Lucky-chant",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Mirror-shot",
+            25
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Flash-cannon",
+            41
+        ],
+        [
+            "Fleur-cannon",
+            49
+        ],
+        [
+            "Iron-defense",
+            57
+        ],
+        [
+            "Pain-split",
+            65
+        ],
+        [
+            "Synchronoise",
+            73
+        ],
+        [
+            "Aura-sphere",
+            81
+        ],
+        [
+            "Heart-swap",
+            89
+        ],
+        [
+            "Trump-card",
+            97
+        ]
     ],
     "sun-moon": [
-        "Sonic-boom learnt at level 1",
-        "Psybeam learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Iron-head learnt at level 1",
-        "Shift-gear learnt at level 1",
-        "Crafty-shield learnt at level 1",
-        "Gear-up learnt at level 1",
-        "Lucky-chant learnt at level 9",
-        "Aurora-beam learnt at level 17",
-        "Mirror-shot learnt at level 25",
-        "Mind-reader learnt at level 33",
-        "Flash-cannon learnt at level 41",
-        "Fleur-cannon learnt at level 49",
-        "Iron-defense learnt at level 57",
-        "Pain-split learnt at level 65",
-        "Synchronoise learnt at level 73",
-        "Aura-sphere learnt at level 81",
-        "Heart-swap learnt at level 89",
-        "Trump-card learnt at level 97"
+        [
+            "Sonic-boom",
+            1
+        ],
+        [
+            "Psybeam",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Iron-head",
+            1
+        ],
+        [
+            "Shift-gear",
+            1
+        ],
+        [
+            "Crafty-shield",
+            1
+        ],
+        [
+            "Gear-up",
+            1
+        ],
+        [
+            "Lucky-chant",
+            9
+        ],
+        [
+            "Aurora-beam",
+            17
+        ],
+        [
+            "Mirror-shot",
+            25
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Flash-cannon",
+            41
+        ],
+        [
+            "Fleur-cannon",
+            49
+        ],
+        [
+            "Iron-defense",
+            57
+        ],
+        [
+            "Pain-split",
+            65
+        ],
+        [
+            "Synchronoise",
+            73
+        ],
+        [
+            "Aura-sphere",
+            81
+        ],
+        [
+            "Heart-swap",
+            89
+        ],
+        [
+            "Trump-card",
+            97
+        ]
     ]
 }

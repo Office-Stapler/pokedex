@@ -1,222 +1,786 @@
 {
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Psybeam learnt at level 23",
-        "Pain-split learnt at level 28",
-        "Payback learnt at level 32",
-        "Shadow-ball learnt at level 37",
-        "Perish-song learnt at level 41",
-        "Grudge learnt at level 46",
-        "Power-gem learnt at level 50"
-    ],
-    "crystal": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 6",
-        "Confuse-ray learnt at level 12",
-        "Mean-look learnt at level 19",
-        "Psybeam learnt at level 27",
-        "Pain-split learnt at level 36",
-        "Perish-song learnt at level 46"
-    ],
-    "gold-silver": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 6",
-        "Confuse-ray learnt at level 12",
-        "Mean-look learnt at level 19",
-        "Psybeam learnt at level 27",
-        "Pain-split learnt at level 36",
-        "Perish-song learnt at level 46"
-    ],
-    "xd": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 6",
-        "Astonish learnt at level 11",
-        "Confuse-ray learnt at level 17",
-        "Mean-look learnt at level 23",
-        "Psybeam learnt at level 30",
-        "Pain-split learnt at level 37",
-        "Perish-song learnt at level 45",
-        "Grudge learnt at level 53"
-    ],
-    "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 6",
-        "Astonish learnt at level 11",
-        "Confuse-ray learnt at level 17",
-        "Mean-look learnt at level 23",
-        "Psybeam learnt at level 30",
-        "Pain-split learnt at level 37",
-        "Perish-song learnt at level 45",
-        "Grudge learnt at level 53"
-    ],
-    "emerald": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 6",
-        "Astonish learnt at level 11",
-        "Confuse-ray learnt at level 17",
-        "Mean-look learnt at level 23",
-        "Psybeam learnt at level 30",
-        "Pain-split learnt at level 37",
-        "Perish-song learnt at level 45",
-        "Grudge learnt at level 53"
-    ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Hex learnt at level 23",
-        "Psybeam learnt at level 28",
-        "Pain-split learnt at level 32",
-        "Payback learnt at level 37",
-        "Shadow-ball learnt at level 41",
-        "Perish-song learnt at level 46",
-        "Grudge learnt at level 50",
-        "Power-gem learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Hex",
+            23
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Pain-split",
+            32
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ],
+        [
+            "Grudge",
+            50
+        ],
+        [
+            "Power-gem",
+            55
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Hex learnt at level 23",
-        "Psybeam learnt at level 28",
-        "Pain-split learnt at level 32",
-        "Payback learnt at level 37",
-        "Shadow-ball learnt at level 41",
-        "Perish-song learnt at level 46",
-        "Grudge learnt at level 50",
-        "Power-gem learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Hex",
+            23
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Pain-split",
+            32
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ],
+        [
+            "Grudge",
+            50
+        ],
+        [
+            "Power-gem",
+            55
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Hex learnt at level 23",
-        "Psybeam learnt at level 28",
-        "Pain-split learnt at level 32",
-        "Payback learnt at level 37",
-        "Shadow-ball learnt at level 41",
-        "Perish-song learnt at level 46",
-        "Grudge learnt at level 50",
-        "Power-gem learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Hex",
+            23
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Pain-split",
+            32
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ],
+        [
+            "Grudge",
+            50
+        ],
+        [
+            "Power-gem",
+            55
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Hex learnt at level 23",
-        "Psybeam learnt at level 28",
-        "Pain-split learnt at level 32",
-        "Payback learnt at level 37",
-        "Shadow-ball learnt at level 41",
-        "Perish-song learnt at level 46",
-        "Grudge learnt at level 50",
-        "Power-gem learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Hex",
+            23
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Pain-split",
+            32
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ],
+        [
+            "Grudge",
+            50
+        ],
+        [
+            "Power-gem",
+            55
+        ]
+    ],
+    "xd": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            6
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Mean-look",
+            23
+        ],
+        [
+            "Psybeam",
+            30
+        ],
+        [
+            "Pain-split",
+            37
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Grudge",
+            53
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 6",
-        "Astonish learnt at level 11",
-        "Confuse-ray learnt at level 17",
-        "Mean-look learnt at level 23",
-        "Psybeam learnt at level 30",
-        "Pain-split learnt at level 37",
-        "Perish-song learnt at level 45",
-        "Grudge learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            6
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Mean-look",
+            23
+        ],
+        [
+            "Psybeam",
+            30
+        ],
+        [
+            "Pain-split",
+            37
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Grudge",
+            53
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Hex learnt at level 23",
-        "Psybeam learnt at level 28",
-        "Pain-split learnt at level 32",
-        "Payback learnt at level 37",
-        "Shadow-ball learnt at level 41",
-        "Perish-song learnt at level 46",
-        "Grudge learnt at level 50",
-        "Power-gem learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Hex",
+            23
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Pain-split",
+            32
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ],
+        [
+            "Grudge",
+            50
+        ],
+        [
+            "Power-gem",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Psybeam",
+            23
+        ],
+        [
+            "Pain-split",
+            28
+        ],
+        [
+            "Payback",
+            32
+        ],
+        [
+            "Shadow-ball",
+            37
+        ],
+        [
+            "Perish-song",
+            41
+        ],
+        [
+            "Grudge",
+            46
+        ],
+        [
+            "Power-gem",
+            50
+        ]
     ],
     "platinum": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Psybeam learnt at level 23",
-        "Pain-split learnt at level 28",
-        "Payback learnt at level 32",
-        "Shadow-ball learnt at level 37",
-        "Perish-song learnt at level 41",
-        "Grudge learnt at level 46",
-        "Power-gem learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Psybeam",
+            23
+        ],
+        [
+            "Pain-split",
+            28
+        ],
+        [
+            "Payback",
+            32
+        ],
+        [
+            "Shadow-ball",
+            37
+        ],
+        [
+            "Perish-song",
+            41
+        ],
+        [
+            "Grudge",
+            46
+        ],
+        [
+            "Power-gem",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Hex learnt at level 23",
-        "Psybeam learnt at level 28",
-        "Pain-split learnt at level 32",
-        "Payback learnt at level 37",
-        "Shadow-ball learnt at level 41",
-        "Perish-song learnt at level 46",
-        "Grudge learnt at level 50",
-        "Power-gem learnt at level 55"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Hex",
+            23
+        ],
+        [
+            "Psybeam",
+            28
+        ],
+        [
+            "Pain-split",
+            32
+        ],
+        [
+            "Payback",
+            37
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ],
+        [
+            "Grudge",
+            50
+        ],
+        [
+            "Power-gem",
+            55
+        ]
     ],
     "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 5",
-        "Astonish learnt at level 10",
-        "Confuse-ray learnt at level 14",
-        "Mean-look learnt at level 19",
-        "Psybeam learnt at level 23",
-        "Pain-split learnt at level 28",
-        "Payback learnt at level 32",
-        "Shadow-ball learnt at level 37",
-        "Perish-song learnt at level 41",
-        "Grudge learnt at level 46"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            5
+        ],
+        [
+            "Astonish",
+            10
+        ],
+        [
+            "Confuse-ray",
+            14
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Psybeam",
+            23
+        ],
+        [
+            "Pain-split",
+            28
+        ],
+        [
+            "Payback",
+            32
+        ],
+        [
+            "Shadow-ball",
+            37
+        ],
+        [
+            "Perish-song",
+            41
+        ],
+        [
+            "Grudge",
+            46
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            6
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Mean-look",
+            23
+        ],
+        [
+            "Psybeam",
+            30
+        ],
+        [
+            "Pain-split",
+            37
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Grudge",
+            53
+        ]
+    ],
+    "emerald": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            6
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Mean-look",
+            23
+        ],
+        [
+            "Psybeam",
+            30
+        ],
+        [
+            "Pain-split",
+            37
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Grudge",
+            53
+        ]
     ],
     "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Psywave learnt at level 1",
-        "Spite learnt at level 6",
-        "Astonish learnt at level 11",
-        "Confuse-ray learnt at level 17",
-        "Mean-look learnt at level 23",
-        "Psybeam learnt at level 30",
-        "Pain-split learnt at level 37",
-        "Perish-song learnt at level 45",
-        "Grudge learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            6
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Confuse-ray",
+            17
+        ],
+        [
+            "Mean-look",
+            23
+        ],
+        [
+            "Psybeam",
+            30
+        ],
+        [
+            "Pain-split",
+            37
+        ],
+        [
+            "Perish-song",
+            45
+        ],
+        [
+            "Grudge",
+            53
+        ]
+    ],
+    "crystal": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            6
+        ],
+        [
+            "Confuse-ray",
+            12
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Psybeam",
+            27
+        ],
+        [
+            "Pain-split",
+            36
+        ],
+        [
+            "Perish-song",
+            46
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Spite",
+            6
+        ],
+        [
+            "Confuse-ray",
+            12
+        ],
+        [
+            "Mean-look",
+            19
+        ],
+        [
+            "Psybeam",
+            27
+        ],
+        [
+            "Pain-split",
+            36
+        ],
+        [
+            "Perish-song",
+            46
+        ]
     ]
 }

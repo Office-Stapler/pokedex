@@ -1,62 +1,218 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Headbutt learnt at level 12",
-        "Tail-whip learnt at level 15",
-        "Bite learnt at level 22",
-        "Odor-sleuth learnt at level 27",
-        "Retaliate learnt at level 33",
-        "Take-down learnt at level 35",
-        "Charm learnt at level 38",
-        "Sucker-punch learnt at level 42",
-        "Cotton-guard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Headbutt",
+            12
+        ],
+        [
+            "Tail-whip",
+            15
+        ],
+        [
+            "Bite",
+            22
+        ],
+        [
+            "Odor-sleuth",
+            27
+        ],
+        [
+            "Retaliate",
+            33
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Charm",
+            38
+        ],
+        [
+            "Sucker-punch",
+            42
+        ],
+        [
+            "Cotton-guard",
+            48
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Headbutt learnt at level 12",
-        "Tail-whip learnt at level 15",
-        "Bite learnt at level 22",
-        "Odor-sleuth learnt at level 27",
-        "Retaliate learnt at level 33",
-        "Take-down learnt at level 35",
-        "Charm learnt at level 38",
-        "Sucker-punch learnt at level 42",
-        "Cotton-guard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Headbutt",
+            12
+        ],
+        [
+            "Tail-whip",
+            15
+        ],
+        [
+            "Bite",
+            22
+        ],
+        [
+            "Odor-sleuth",
+            27
+        ],
+        [
+            "Retaliate",
+            33
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Charm",
+            38
+        ],
+        [
+            "Sucker-punch",
+            42
+        ],
+        [
+            "Cotton-guard",
+            48
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Headbutt learnt at level 12",
-        "Tail-whip learnt at level 15",
-        "Bite learnt at level 22",
-        "Odor-sleuth learnt at level 27",
-        "Retaliate learnt at level 33",
-        "Take-down learnt at level 35",
-        "Charm learnt at level 38",
-        "Sucker-punch learnt at level 42",
-        "Cotton-guard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Headbutt",
+            12
+        ],
+        [
+            "Tail-whip",
+            15
+        ],
+        [
+            "Bite",
+            22
+        ],
+        [
+            "Odor-sleuth",
+            27
+        ],
+        [
+            "Retaliate",
+            33
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Charm",
+            38
+        ],
+        [
+            "Sucker-punch",
+            42
+        ],
+        [
+            "Cotton-guard",
+            48
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Headbutt learnt at level 12",
-        "Tail-whip learnt at level 15",
-        "Bite learnt at level 22",
-        "Odor-sleuth learnt at level 27",
-        "Retaliate learnt at level 33",
-        "Take-down learnt at level 35",
-        "Charm learnt at level 38",
-        "Sucker-punch learnt at level 42",
-        "Cotton-guard learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Headbutt",
+            12
+        ],
+        [
+            "Tail-whip",
+            15
+        ],
+        [
+            "Bite",
+            22
+        ],
+        [
+            "Odor-sleuth",
+            27
+        ],
+        [
+            "Retaliate",
+            33
+        ],
+        [
+            "Take-down",
+            35
+        ],
+        [
+            "Charm",
+            38
+        ],
+        [
+            "Sucker-punch",
+            42
+        ],
+        [
+            "Cotton-guard",
+            48
+        ]
     ]
 }

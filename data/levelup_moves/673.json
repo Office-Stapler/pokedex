@@ -1,88 +1,330 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Growth learnt at level 1",
-        "Earthquake learnt at level 1",
-        "Aerial-ace learnt at level 1",
-        "Vine-whip learnt at level 7",
-        "Tail-whip learnt at level 9",
-        "Leech-seed learnt at level 12",
-        "Razor-leaf learnt at level 13",
-        "Worry-seed learnt at level 16",
-        "Synthesis learnt at level 20",
-        "Take-down learnt at level 22",
-        "Bulldoze learnt at level 26",
-        "Seed-bomb learnt at level 30",
-        "Bulk-up learnt at level 34",
-        "Double-edge learnt at level 40",
-        "Horn-leech learnt at level 47",
-        "Leaf-blade learnt at level 55",
-        "Milk-drink learnt at level 58"
+        [
+            "Aerial-ace",
+            0
+        ],
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Earthquake",
+            1
+        ],
+        [
+            "Aerial-ace",
+            1
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Leech-seed",
+            12
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Worry-seed",
+            16
+        ],
+        [
+            "Synthesis",
+            20
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Bulldoze",
+            26
+        ],
+        [
+            "Seed-bomb",
+            30
+        ],
+        [
+            "Bulk-up",
+            34
+        ],
+        [
+            "Double-edge",
+            40
+        ],
+        [
+            "Horn-leech",
+            47
+        ],
+        [
+            "Leaf-blade",
+            55
+        ],
+        [
+            "Milk-drink",
+            58
+        ]
     ],
     "sun-moon": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Growth learnt at level 1",
-        "Earthquake learnt at level 1",
-        "Aerial-ace learnt at level 1",
-        "Vine-whip learnt at level 7",
-        "Tail-whip learnt at level 9",
-        "Leech-seed learnt at level 12",
-        "Razor-leaf learnt at level 13",
-        "Worry-seed learnt at level 16",
-        "Synthesis learnt at level 20",
-        "Take-down learnt at level 22",
-        "Bulldoze learnt at level 26",
-        "Seed-bomb learnt at level 30",
-        "Bulk-up learnt at level 34",
-        "Double-edge learnt at level 40",
-        "Horn-leech learnt at level 47",
-        "Leaf-blade learnt at level 55",
-        "Milk-drink learnt at level 58"
+        [
+            "Aerial-ace",
+            0
+        ],
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Earthquake",
+            1
+        ],
+        [
+            "Aerial-ace",
+            1
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Leech-seed",
+            12
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Worry-seed",
+            16
+        ],
+        [
+            "Synthesis",
+            20
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Bulldoze",
+            26
+        ],
+        [
+            "Seed-bomb",
+            30
+        ],
+        [
+            "Bulk-up",
+            34
+        ],
+        [
+            "Double-edge",
+            40
+        ],
+        [
+            "Horn-leech",
+            47
+        ],
+        [
+            "Leaf-blade",
+            55
+        ],
+        [
+            "Milk-drink",
+            58
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Aerial-ace learnt at level 1",
-        "Vine-whip learnt at level 7",
-        "Tail-whip learnt at level 9",
-        "Leech-seed learnt at level 12",
-        "Razor-leaf learnt at level 13",
-        "Worry-seed learnt at level 16",
-        "Synthesis learnt at level 20",
-        "Take-down learnt at level 22",
-        "Bulldoze learnt at level 26",
-        "Seed-bomb learnt at level 30",
-        "Bulk-up learnt at level 34",
-        "Double-edge learnt at level 40",
-        "Horn-leech learnt at level 47",
-        "Leaf-blade learnt at level 55",
-        "Milk-drink learnt at level 58",
-        "Earthquake learnt at level 60",
-        "Aerial-ace learnt at level 65"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Aerial-ace",
+            1
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Leech-seed",
+            12
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Worry-seed",
+            16
+        ],
+        [
+            "Synthesis",
+            20
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Bulldoze",
+            26
+        ],
+        [
+            "Seed-bomb",
+            30
+        ],
+        [
+            "Bulk-up",
+            34
+        ],
+        [
+            "Double-edge",
+            40
+        ],
+        [
+            "Horn-leech",
+            47
+        ],
+        [
+            "Leaf-blade",
+            55
+        ],
+        [
+            "Milk-drink",
+            58
+        ],
+        [
+            "Earthquake",
+            60
+        ],
+        [
+            "Aerial-ace",
+            65
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growth learnt at level 1",
-        "Aerial-ace learnt at level 1",
-        "Vine-whip learnt at level 7",
-        "Tail-whip learnt at level 9",
-        "Leech-seed learnt at level 12",
-        "Razor-leaf learnt at level 13",
-        "Worry-seed learnt at level 16",
-        "Synthesis learnt at level 20",
-        "Take-down learnt at level 22",
-        "Bulldoze learnt at level 26",
-        "Seed-bomb learnt at level 30",
-        "Bulk-up learnt at level 34",
-        "Double-edge learnt at level 40",
-        "Horn-leech learnt at level 47",
-        "Leaf-blade learnt at level 55",
-        "Milk-drink learnt at level 58",
-        "Earthquake learnt at level 60",
-        "Aerial-ace learnt at level 65"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Aerial-ace",
+            1
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Tail-whip",
+            9
+        ],
+        [
+            "Leech-seed",
+            12
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Worry-seed",
+            16
+        ],
+        [
+            "Synthesis",
+            20
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Bulldoze",
+            26
+        ],
+        [
+            "Seed-bomb",
+            30
+        ],
+        [
+            "Bulk-up",
+            34
+        ],
+        [
+            "Double-edge",
+            40
+        ],
+        [
+            "Horn-leech",
+            47
+        ],
+        [
+            "Leaf-blade",
+            55
+        ],
+        [
+            "Milk-drink",
+            58
+        ],
+        [
+            "Earthquake",
+            60
+        ],
+        [
+            "Aerial-ace",
+            65
+        ]
     ]
 }

@@ -1,203 +1,722 @@
 {
-    "emerald": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Slash learnt at level 20",
-        "Bulk-up learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Fire-blast learnt at level 45",
-        "Rest learnt at level 50",
-        "Fissure learnt at level 60",
-        "Solar-beam learnt at level 65",
-        "Eruption learnt at level 75"
-    ],
-    "firered-leafgreen": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Slash learnt at level 20",
-        "Bulk-up learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Fire-blast learnt at level 45",
-        "Rest learnt at level 50",
-        "Fissure learnt at level 60",
-        "Solar-beam learnt at level 65",
-        "Eruption learnt at level 75"
-    ],
-    "platinum": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Slash learnt at level 20",
-        "Bulk-up learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Fire-blast learnt at level 45",
-        "Rest learnt at level 50",
-        "Fissure learnt at level 60",
-        "Solar-beam learnt at level 65",
-        "Earth-power learnt at level 75",
-        "Eruption learnt at level 80"
-    ],
-    "heartgold-soulsilver": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Lava-plume learnt at level 15",
-        "Hammer-arm learnt at level 20",
-        "Rest learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Eruption learnt at level 50",
-        "Bulk-up learnt at level 60",
-        "Earth-power learnt at level 65",
-        "Fissure learnt at level 75",
-        "Solar-beam learnt at level 80",
-        "Fire-blast learnt at level 90"
-    ],
-    "black-2-white-2": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Lava-plume learnt at level 15",
-        "Hammer-arm learnt at level 20",
-        "Rest learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Eruption learnt at level 50",
-        "Bulk-up learnt at level 60",
-        "Earth-power learnt at level 65",
-        "Fissure learnt at level 75",
-        "Solar-beam learnt at level 80",
-        "Fire-blast learnt at level 90"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Ancient-power learnt at level 1",
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Earth-power learnt at level 15",
-        "Lava-plume learnt at level 20",
-        "Rest learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Precipice-blades learnt at level 45",
-        "Bulk-up learnt at level 50",
-        "Solar-beam learnt at level 60",
-        "Fissure learnt at level 65",
-        "Fire-blast learnt at level 75",
-        "Hammer-arm learnt at level 80",
-        "Eruption learnt at level 90"
-    ],
     "ultra-sun-ultra-moon": [
-        "Ancient-power learnt at level 1",
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Earth-power learnt at level 15",
-        "Lava-plume learnt at level 20",
-        "Rest learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Precipice-blades learnt at level 45",
-        "Bulk-up learnt at level 50",
-        "Solar-beam learnt at level 60",
-        "Fissure learnt at level 65",
-        "Fire-blast learnt at level 75",
-        "Hammer-arm learnt at level 80",
-        "Eruption learnt at level 90"
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Earth-power",
+            15
+        ],
+        [
+            "Lava-plume",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Precipice-blades",
+            45
+        ],
+        [
+            "Bulk-up",
+            50
+        ],
+        [
+            "Solar-beam",
+            60
+        ],
+        [
+            "Fissure",
+            65
+        ],
+        [
+            "Fire-blast",
+            75
+        ],
+        [
+            "Hammer-arm",
+            80
+        ],
+        [
+            "Eruption",
+            90
+        ]
     ],
     "sun-moon": [
-        "Ancient-power learnt at level 1",
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Earth-power learnt at level 15",
-        "Lava-plume learnt at level 20",
-        "Rest learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Precipice-blades learnt at level 45",
-        "Bulk-up learnt at level 50",
-        "Solar-beam learnt at level 60",
-        "Fissure learnt at level 65",
-        "Fire-blast learnt at level 75",
-        "Hammer-arm learnt at level 80",
-        "Eruption learnt at level 90"
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Earth-power",
+            15
+        ],
+        [
+            "Lava-plume",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Precipice-blades",
+            45
+        ],
+        [
+            "Bulk-up",
+            50
+        ],
+        [
+            "Solar-beam",
+            60
+        ],
+        [
+            "Fissure",
+            65
+        ],
+        [
+            "Fire-blast",
+            75
+        ],
+        [
+            "Hammer-arm",
+            80
+        ],
+        [
+            "Eruption",
+            90
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Earth-power",
+            15
+        ],
+        [
+            "Lava-plume",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Precipice-blades",
+            45
+        ],
+        [
+            "Bulk-up",
+            50
+        ],
+        [
+            "Solar-beam",
+            60
+        ],
+        [
+            "Fissure",
+            65
+        ],
+        [
+            "Fire-blast",
+            75
+        ],
+        [
+            "Hammer-arm",
+            80
+        ],
+        [
+            "Eruption",
+            90
+        ]
     ],
     "x-y": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Lava-plume learnt at level 15",
-        "Hammer-arm learnt at level 20",
-        "Rest learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Eruption learnt at level 50",
-        "Bulk-up learnt at level 60",
-        "Earth-power learnt at level 65",
-        "Fissure learnt at level 75",
-        "Solar-beam learnt at level 80",
-        "Fire-blast learnt at level 90"
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Lava-plume",
+            15
+        ],
+        [
+            "Hammer-arm",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Eruption",
+            50
+        ],
+        [
+            "Bulk-up",
+            60
+        ],
+        [
+            "Earth-power",
+            65
+        ],
+        [
+            "Fissure",
+            75
+        ],
+        [
+            "Solar-beam",
+            80
+        ],
+        [
+            "Fire-blast",
+            90
+        ]
     ],
-    "diamond-pearl": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Slash learnt at level 20",
-        "Bulk-up learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Fire-blast learnt at level 45",
-        "Rest learnt at level 50",
-        "Fissure learnt at level 60",
-        "Solar-beam learnt at level 65",
-        "Earth-power learnt at level 75",
-        "Eruption learnt at level 80"
-    ],
-    "black-white": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Lava-plume learnt at level 15",
-        "Hammer-arm learnt at level 20",
-        "Rest learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Ancient-power learnt at level 45",
-        "Eruption learnt at level 50",
-        "Bulk-up learnt at level 60",
-        "Earth-power learnt at level 65",
-        "Fissure learnt at level 75",
-        "Solar-beam learnt at level 80",
-        "Fire-blast learnt at level 90"
+    "black-2-white-2": [
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Lava-plume",
+            15
+        ],
+        [
+            "Hammer-arm",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Eruption",
+            50
+        ],
+        [
+            "Bulk-up",
+            60
+        ],
+        [
+            "Earth-power",
+            65
+        ],
+        [
+            "Fissure",
+            75
+        ],
+        [
+            "Solar-beam",
+            80
+        ],
+        [
+            "Fire-blast",
+            90
+        ]
     ],
     "xd": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Slash learnt at level 20",
-        "Bulk-up learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Fire-blast learnt at level 45",
-        "Rest learnt at level 50",
-        "Fissure learnt at level 60",
-        "Solar-beam learnt at level 65",
-        "Eruption learnt at level 75"
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "Bulk-up",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Fire-blast",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Fissure",
+            60
+        ],
+        [
+            "Solar-beam",
+            65
+        ],
+        [
+            "Eruption",
+            75
+        ]
     ],
     "colosseum": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Slash learnt at level 20",
-        "Bulk-up learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Fire-blast learnt at level 45",
-        "Rest learnt at level 50",
-        "Fissure learnt at level 60",
-        "Solar-beam learnt at level 65",
-        "Eruption learnt at level 75"
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "Bulk-up",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Fire-blast",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Fissure",
+            60
+        ],
+        [
+            "Solar-beam",
+            65
+        ],
+        [
+            "Eruption",
+            75
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Lava-plume",
+            15
+        ],
+        [
+            "Hammer-arm",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Eruption",
+            50
+        ],
+        [
+            "Bulk-up",
+            60
+        ],
+        [
+            "Earth-power",
+            65
+        ],
+        [
+            "Fissure",
+            75
+        ],
+        [
+            "Solar-beam",
+            80
+        ],
+        [
+            "Fire-blast",
+            90
+        ]
+    ],
+    "platinum": [
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "Bulk-up",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Fire-blast",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Fissure",
+            60
+        ],
+        [
+            "Solar-beam",
+            65
+        ],
+        [
+            "Earth-power",
+            75
+        ],
+        [
+            "Eruption",
+            80
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "Bulk-up",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Fire-blast",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Fissure",
+            60
+        ],
+        [
+            "Solar-beam",
+            65
+        ],
+        [
+            "Earth-power",
+            75
+        ],
+        [
+            "Eruption",
+            80
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "Bulk-up",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Fire-blast",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Fissure",
+            60
+        ],
+        [
+            "Solar-beam",
+            65
+        ],
+        [
+            "Eruption",
+            75
+        ]
+    ],
+    "emerald": [
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "Bulk-up",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Fire-blast",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Fissure",
+            60
+        ],
+        [
+            "Solar-beam",
+            65
+        ],
+        [
+            "Eruption",
+            75
+        ]
+    ],
+    "black-white": [
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Lava-plume",
+            15
+        ],
+        [
+            "Hammer-arm",
+            20
+        ],
+        [
+            "Rest",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Ancient-power",
+            45
+        ],
+        [
+            "Eruption",
+            50
+        ],
+        [
+            "Bulk-up",
+            60
+        ],
+        [
+            "Earth-power",
+            65
+        ],
+        [
+            "Fissure",
+            75
+        ],
+        [
+            "Solar-beam",
+            80
+        ],
+        [
+            "Fire-blast",
+            90
+        ]
     ],
     "ruby-sapphire": [
-        "Mud-shot learnt at level 1",
-        "Scary-face learnt at level 5",
-        "Ancient-power learnt at level 15",
-        "Slash learnt at level 20",
-        "Bulk-up learnt at level 30",
-        "Earthquake learnt at level 35",
-        "Fire-blast learnt at level 45",
-        "Rest learnt at level 50",
-        "Fissure learnt at level 60",
-        "Solar-beam learnt at level 65",
-        "Eruption learnt at level 75"
+        [
+            "Mud-shot",
+            1
+        ],
+        [
+            "Scary-face",
+            5
+        ],
+        [
+            "Ancient-power",
+            15
+        ],
+        [
+            "Slash",
+            20
+        ],
+        [
+            "Bulk-up",
+            30
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Fire-blast",
+            45
+        ],
+        [
+            "Rest",
+            50
+        ],
+        [
+            "Fissure",
+            60
+        ],
+        [
+            "Solar-beam",
+            65
+        ],
+        [
+            "Eruption",
+            75
+        ]
     ]
 }

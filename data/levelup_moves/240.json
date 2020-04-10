@@ -1,216 +1,762 @@
 {
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 5",
-        "Smokescreen learnt at level 8",
-        "Feint-attack learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Clear-smog learnt at level 19",
-        "Flame-burst learnt at level 22",
-        "Confuse-ray learnt at level 26",
-        "Fire-punch learnt at level 29",
-        "Lava-plume learnt at level 33",
-        "Sunny-day learnt at level 36",
-        "Flamethrower learnt at level 40",
-        "Fire-blast learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Smokescreen",
+            8
+        ],
+        [
+            "Feint-attack",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Clear-smog",
+            19
+        ],
+        [
+            "Flame-burst",
+            22
+        ],
+        [
+            "Confuse-ray",
+            26
+        ],
+        [
+            "Fire-punch",
+            29
+        ],
+        [
+            "Lava-plume",
+            33
+        ],
+        [
+            "Sunny-day",
+            36
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Fire-blast",
+            43
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 5",
-        "Smokescreen learnt at level 8",
-        "Feint-attack learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Clear-smog learnt at level 19",
-        "Flame-burst learnt at level 22",
-        "Confuse-ray learnt at level 26",
-        "Fire-punch learnt at level 29",
-        "Lava-plume learnt at level 33",
-        "Sunny-day learnt at level 36",
-        "Flamethrower learnt at level 40",
-        "Fire-blast learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Smokescreen",
+            8
+        ],
+        [
+            "Feint-attack",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Clear-smog",
+            19
+        ],
+        [
+            "Flame-burst",
+            22
+        ],
+        [
+            "Confuse-ray",
+            26
+        ],
+        [
+            "Fire-punch",
+            29
+        ],
+        [
+            "Lava-plume",
+            33
+        ],
+        [
+            "Sunny-day",
+            36
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Fire-blast",
+            43
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 5",
-        "Smokescreen learnt at level 8",
-        "Feint-attack learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Clear-smog learnt at level 19",
-        "Flame-burst learnt at level 22",
-        "Confuse-ray learnt at level 26",
-        "Fire-punch learnt at level 29",
-        "Lava-plume learnt at level 33",
-        "Sunny-day learnt at level 36",
-        "Flamethrower learnt at level 40",
-        "Fire-blast learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Smokescreen",
+            8
+        ],
+        [
+            "Feint-attack",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Clear-smog",
+            19
+        ],
+        [
+            "Flame-burst",
+            22
+        ],
+        [
+            "Confuse-ray",
+            26
+        ],
+        [
+            "Fire-punch",
+            29
+        ],
+        [
+            "Lava-plume",
+            33
+        ],
+        [
+            "Sunny-day",
+            36
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Fire-blast",
+            43
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 5",
-        "Smokescreen learnt at level 8",
-        "Feint-attack learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Clear-smog learnt at level 19",
-        "Flame-burst learnt at level 22",
-        "Confuse-ray learnt at level 26",
-        "Fire-punch learnt at level 29",
-        "Lava-plume learnt at level 33",
-        "Sunny-day learnt at level 36",
-        "Flamethrower learnt at level 40",
-        "Fire-blast learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Smokescreen",
+            8
+        ],
+        [
+            "Feint-attack",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Clear-smog",
+            19
+        ],
+        [
+            "Flame-burst",
+            22
+        ],
+        [
+            "Confuse-ray",
+            26
+        ],
+        [
+            "Fire-punch",
+            29
+        ],
+        [
+            "Lava-plume",
+            33
+        ],
+        [
+            "Sunny-day",
+            36
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Fire-blast",
+            43
+        ]
     ],
     "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Feint-attack learnt at level 16",
-        "Fire-spin learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Fire-punch learnt at level 28",
-        "Lava-plume learnt at level 34",
-        "Flamethrower learnt at level 37",
-        "Sunny-day learnt at level 43",
-        "Fire-blast learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Feint-attack",
+            16
+        ],
+        [
+            "Fire-spin",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Fire-punch",
+            28
+        ],
+        [
+            "Lava-plume",
+            34
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Sunny-day",
+            43
+        ],
+        [
+            "Fire-blast",
+            46
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 5",
-        "Smokescreen learnt at level 8",
-        "Feint-attack learnt at level 12",
-        "Fire-spin learnt at level 15",
-        "Clear-smog learnt at level 19",
-        "Flame-burst learnt at level 22",
-        "Confuse-ray learnt at level 26",
-        "Fire-punch learnt at level 29",
-        "Lava-plume learnt at level 33",
-        "Sunny-day learnt at level 36",
-        "Flamethrower learnt at level 40",
-        "Fire-blast learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Smokescreen",
+            8
+        ],
+        [
+            "Feint-attack",
+            12
+        ],
+        [
+            "Fire-spin",
+            15
+        ],
+        [
+            "Clear-smog",
+            19
+        ],
+        [
+            "Flame-burst",
+            22
+        ],
+        [
+            "Confuse-ray",
+            26
+        ],
+        [
+            "Fire-punch",
+            29
+        ],
+        [
+            "Lava-plume",
+            33
+        ],
+        [
+            "Sunny-day",
+            36
+        ],
+        [
+            "Flamethrower",
+            40
+        ],
+        [
+            "Fire-blast",
+            43
+        ]
     ],
     "platinum": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Feint-attack learnt at level 16",
-        "Fire-spin learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Fire-punch learnt at level 28",
-        "Lava-plume learnt at level 34",
-        "Flamethrower learnt at level 37",
-        "Sunny-day learnt at level 43",
-        "Fire-blast learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Feint-attack",
+            16
+        ],
+        [
+            "Fire-spin",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Fire-punch",
+            28
+        ],
+        [
+            "Lava-plume",
+            34
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Sunny-day",
+            43
+        ],
+        [
+            "Fire-blast",
+            46
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Feint-attack learnt at level 16",
-        "Fire-spin learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Fire-punch learnt at level 28",
-        "Lava-plume learnt at level 34",
-        "Flamethrower learnt at level 37",
-        "Sunny-day learnt at level 43",
-        "Fire-blast learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Feint-attack",
+            16
+        ],
+        [
+            "Fire-spin",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Fire-punch",
+            28
+        ],
+        [
+            "Lava-plume",
+            34
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Sunny-day",
+            43
+        ],
+        [
+            "Fire-blast",
+            46
+        ]
     ],
     "firered-leafgreen": [
-        "Ember learnt at level 1",
-        "Leer learnt at level 7",
-        "Smog learnt at level 13",
-        "Fire-punch learnt at level 19",
-        "Smokescreen learnt at level 25",
-        "Sunny-day learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Confuse-ray learnt at level 43",
-        "Fire-blast learnt at level 49"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Fire-punch",
+            19
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Sunny-day",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Confuse-ray",
+            43
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
     ],
     "emerald": [
-        "Ember learnt at level 1",
-        "Leer learnt at level 7",
-        "Smog learnt at level 13",
-        "Fire-punch learnt at level 19",
-        "Smokescreen learnt at level 25",
-        "Sunny-day learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Confuse-ray learnt at level 43",
-        "Fire-blast learnt at level 49"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Fire-punch",
+            19
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Sunny-day",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Confuse-ray",
+            43
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Ember learnt at level 1",
-        "Leer learnt at level 7",
-        "Smog learnt at level 13",
-        "Fire-punch learnt at level 19",
-        "Smokescreen learnt at level 25",
-        "Sunny-day learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Confuse-ray learnt at level 43",
-        "Fire-blast learnt at level 49"
-    ],
-    "black-white": [
-        "Leer learnt at level 1",
-        "Smog learnt at level 1",
-        "Ember learnt at level 7",
-        "Smokescreen learnt at level 10",
-        "Feint-attack learnt at level 16",
-        "Fire-spin learnt at level 19",
-        "Confuse-ray learnt at level 25",
-        "Flame-burst learnt at level 28",
-        "Fire-punch learnt at level 34",
-        "Lava-plume learnt at level 37",
-        "Flamethrower learnt at level 43",
-        "Sunny-day learnt at level 46",
-        "Fire-blast learnt at level 49"
-    ],
-    "crystal": [
-        "Ember learnt at level 1",
-        "Leer learnt at level 7",
-        "Smog learnt at level 13",
-        "Fire-punch learnt at level 19",
-        "Smokescreen learnt at level 25",
-        "Sunny-day learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Confuse-ray learnt at level 43",
-        "Fire-blast learnt at level 49"
-    ],
-    "gold-silver": [
-        "Ember learnt at level 1",
-        "Leer learnt at level 7",
-        "Smog learnt at level 13",
-        "Fire-punch learnt at level 19",
-        "Smokescreen learnt at level 25",
-        "Sunny-day learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Confuse-ray learnt at level 43",
-        "Fire-blast learnt at level 49"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Fire-punch",
+            19
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Sunny-day",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Confuse-ray",
+            43
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
     ],
     "xd": [
-        "Ember learnt at level 1",
-        "Leer learnt at level 7",
-        "Smog learnt at level 13",
-        "Fire-punch learnt at level 19",
-        "Smokescreen learnt at level 25",
-        "Sunny-day learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Confuse-ray learnt at level 43",
-        "Fire-blast learnt at level 49"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Fire-punch",
+            19
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Sunny-day",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Confuse-ray",
+            43
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
     ],
     "colosseum": [
-        "Ember learnt at level 1",
-        "Leer learnt at level 7",
-        "Smog learnt at level 13",
-        "Fire-punch learnt at level 19",
-        "Smokescreen learnt at level 25",
-        "Sunny-day learnt at level 31",
-        "Flamethrower learnt at level 37",
-        "Confuse-ray learnt at level 43",
-        "Fire-blast learnt at level 49"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Fire-punch",
+            19
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Sunny-day",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Confuse-ray",
+            43
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
+    ],
+    "black-white": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Feint-attack",
+            16
+        ],
+        [
+            "Fire-spin",
+            19
+        ],
+        [
+            "Confuse-ray",
+            25
+        ],
+        [
+            "Flame-burst",
+            28
+        ],
+        [
+            "Fire-punch",
+            34
+        ],
+        [
+            "Lava-plume",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Sunny-day",
+            46
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
+    ],
+    "crystal": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Fire-punch",
+            19
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Sunny-day",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Confuse-ray",
+            43
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Fire-punch",
+            19
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Sunny-day",
+            31
+        ],
+        [
+            "Flamethrower",
+            37
+        ],
+        [
+            "Confuse-ray",
+            43
+        ],
+        [
+            "Fire-blast",
+            49
+        ]
     ]
 }

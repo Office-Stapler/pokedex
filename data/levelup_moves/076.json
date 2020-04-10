@@ -1,306 +1,1110 @@
 {
-    "red-blue": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 11",
-        "Rock-throw learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Harden learnt at level 29",
-        "Earthquake learnt at level 36",
-        "Explosion learnt at level 43"
-    ],
-    "yellow": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 11",
-        "Rock-throw learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Harden learnt at level 29",
-        "Earthquake learnt at level 36",
-        "Explosion learnt at level 43"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Rollout learnt at level 29",
-        "Rock-blast learnt at level 37",
-        "Earthquake learnt at level 45",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 62"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Rollout learnt at level 29",
-        "Rock-blast learnt at level 37",
-        "Earthquake learnt at level 45",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 62"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Defense-curl learnt at level 6",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Harden learnt at level 27",
-        "Rollout learnt at level 34",
-        "Earthquake learnt at level 41",
-        "Explosion learnt at level 48"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Defense-curl learnt at level 6",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Harden learnt at level 27",
-        "Rollout learnt at level 34",
-        "Earthquake learnt at level 41",
-        "Explosion learnt at level 48"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 15",
-        "Self-destruct learnt at level 18",
-        "Rollout learnt at level 22",
-        "Rock-blast learnt at level 27",
-        "Earthquake learnt at level 33",
-        "Explosion learnt at level 38",
-        "Double-edge learnt at level 44",
-        "Stone-edge learnt at level 49"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 15",
-        "Self-destruct learnt at level 18",
-        "Rollout learnt at level 22",
-        "Rock-blast learnt at level 27",
-        "Earthquake learnt at level 33",
-        "Explosion learnt at level 38",
-        "Double-edge learnt at level 44",
-        "Stone-edge learnt at level 49"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 15",
-        "Steamroller learnt at level 18",
-        "Rock-blast learnt at level 22",
-        "Smack-down learnt at level 27",
-        "Self-destruct learnt at level 31",
-        "Bulldoze learnt at level 36",
-        "Stealth-rock learnt at level 42",
-        "Earthquake learnt at level 47",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 58",
-        "Stone-edge learnt at level 64",
-        "Heavy-slam learnt at level 69"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 6",
-        "Steamroller learnt at level 10",
-        "Magnitude learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Smack-down learnt at level 18",
-        "Bulldoze learnt at level 22",
-        "Self-destruct learnt at level 24",
-        "Stealth-rock learnt at level 30",
-        "Rock-blast learnt at level 34",
-        "Earthquake learnt at level 40",
-        "Explosion learnt at level 44",
-        "Double-edge learnt at level 50",
-        "Stone-edge learnt at level 54",
-        "Heavy-slam learnt at level 60"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 6",
-        "Steamroller learnt at level 10",
-        "Magnitude learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Smack-down learnt at level 18",
-        "Bulldoze learnt at level 22",
-        "Self-destruct learnt at level 24",
-        "Stealth-rock learnt at level 30",
-        "Rock-blast learnt at level 34",
-        "Earthquake learnt at level 40",
-        "Explosion learnt at level 44",
-        "Double-edge learnt at level 50",
-        "Stone-edge learnt at level 54",
-        "Heavy-slam learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            6
+        ],
+        [
+            "Steamroller",
+            10
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Smack-down",
+            18
+        ],
+        [
+            "Bulldoze",
+            22
+        ],
+        [
+            "Self-destruct",
+            24
+        ],
+        [
+            "Stealth-rock",
+            30
+        ],
+        [
+            "Rock-blast",
+            34
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Explosion",
+            44
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Stone-edge",
+            54
+        ],
+        [
+            "Heavy-slam",
+            60
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 6",
-        "Steamroller learnt at level 10",
-        "Magnitude learnt at level 12",
-        "Rock-throw learnt at level 16",
-        "Smack-down learnt at level 18",
-        "Bulldoze learnt at level 22",
-        "Self-destruct learnt at level 24",
-        "Stealth-rock learnt at level 30",
-        "Rock-blast learnt at level 34",
-        "Earthquake learnt at level 40",
-        "Explosion learnt at level 44",
-        "Double-edge learnt at level 50",
-        "Stone-edge learnt at level 54",
-        "Heavy-slam learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            6
+        ],
+        [
+            "Steamroller",
+            10
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Smack-down",
+            18
+        ],
+        [
+            "Bulldoze",
+            22
+        ],
+        [
+            "Self-destruct",
+            24
+        ],
+        [
+            "Stealth-rock",
+            30
+        ],
+        [
+            "Rock-blast",
+            34
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Explosion",
+            44
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Stone-edge",
+            54
+        ],
+        [
+            "Heavy-slam",
+            60
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            6
+        ],
+        [
+            "Steamroller",
+            10
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Smack-down",
+            18
+        ],
+        [
+            "Bulldoze",
+            22
+        ],
+        [
+            "Self-destruct",
+            24
+        ],
+        [
+            "Stealth-rock",
+            30
+        ],
+        [
+            "Rock-blast",
+            34
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Explosion",
+            44
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Stone-edge",
+            54
+        ],
+        [
+            "Heavy-slam",
+            60
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 8",
-        "Steamroller learnt at level 11",
-        "Magnitude learnt at level 15",
-        "Rock-throw learnt at level 18",
-        "Rock-blast learnt at level 22",
-        "Smack-down learnt at level 27",
-        "Self-destruct learnt at level 31",
-        "Bulldoze learnt at level 36",
-        "Stealth-rock learnt at level 42",
-        "Earthquake learnt at level 47",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 58",
-        "Stone-edge learnt at level 64",
-        "Heavy-slam learnt at level 69"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            8
+        ],
+        [
+            "Steamroller",
+            11
+        ],
+        [
+            "Magnitude",
+            15
+        ],
+        [
+            "Rock-throw",
+            18
+        ],
+        [
+            "Rock-blast",
+            22
+        ],
+        [
+            "Smack-down",
+            27
+        ],
+        [
+            "Self-destruct",
+            31
+        ],
+        [
+            "Bulldoze",
+            36
+        ],
+        [
+            "Stealth-rock",
+            42
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            58
+        ],
+        [
+            "Stone-edge",
+            64
+        ],
+        [
+            "Heavy-slam",
+            69
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            15
+        ],
+        [
+            "Steamroller",
+            18
+        ],
+        [
+            "Rock-blast",
+            22
+        ],
+        [
+            "Smack-down",
+            27
+        ],
+        [
+            "Self-destruct",
+            31
+        ],
+        [
+            "Bulldoze",
+            36
+        ],
+        [
+            "Stealth-rock",
+            42
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            58
+        ],
+        [
+            "Stone-edge",
+            64
+        ],
+        [
+            "Heavy-slam",
+            69
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Rollout learnt at level 29",
-        "Rock-blast learnt at level 37",
-        "Earthquake learnt at level 45",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Rollout",
+            29
+        ],
+        [
+            "Rock-blast",
+            37
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            62
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            15
+        ],
+        [
+            "Self-destruct",
+            18
+        ],
+        [
+            "Rollout",
+            22
+        ],
+        [
+            "Rock-blast",
+            27
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Explosion",
+            38
+        ],
+        [
+            "Double-edge",
+            44
+        ],
+        [
+            "Stone-edge",
+            49
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            15
+        ],
+        [
+            "Self-destruct",
+            18
+        ],
+        [
+            "Rollout",
+            22
+        ],
+        [
+            "Rock-blast",
+            27
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Explosion",
+            38
+        ],
+        [
+            "Double-edge",
+            44
+        ],
+        [
+            "Stone-edge",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 15",
-        "Self-destruct learnt at level 18",
-        "Rollout learnt at level 22",
-        "Rock-blast learnt at level 27",
-        "Earthquake learnt at level 33",
-        "Explosion learnt at level 38",
-        "Double-edge learnt at level 44",
-        "Stone-edge learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            15
+        ],
+        [
+            "Self-destruct",
+            18
+        ],
+        [
+            "Rollout",
+            22
+        ],
+        [
+            "Rock-blast",
+            27
+        ],
+        [
+            "Earthquake",
+            33
+        ],
+        [
+            "Explosion",
+            38
+        ],
+        [
+            "Double-edge",
+            44
+        ],
+        [
+            "Stone-edge",
+            49
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Rollout",
+            29
+        ],
+        [
+            "Rock-blast",
+            37
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            62
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Rollout learnt at level 29",
-        "Rock-blast learnt at level 37",
-        "Earthquake learnt at level 45",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Rollout",
+            29
+        ],
+        [
+            "Rock-blast",
+            37
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            62
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Defense-curl",
+            6
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Harden",
+            27
+        ],
+        [
+            "Rollout",
+            34
+        ],
+        [
+            "Earthquake",
+            41
+        ],
+        [
+            "Explosion",
+            48
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Defense-curl",
+            6
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Harden",
+            27
+        ],
+        [
+            "Rollout",
+            34
+        ],
+        [
+            "Earthquake",
+            41
+        ],
+        [
+            "Explosion",
+            48
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Mud-sport learnt at level 6",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 16",
-        "Self-destruct learnt at level 21",
-        "Rollout learnt at level 29",
-        "Rock-blast learnt at level 37",
-        "Earthquake learnt at level 45",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Rollout",
+            29
+        ],
+        [
+            "Rock-blast",
+            37
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            62
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rock-polish learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Rock-polish learnt at level 8",
-        "Rock-throw learnt at level 11",
-        "Magnitude learnt at level 15",
-        "Steamroller learnt at level 18",
-        "Rock-blast learnt at level 22",
-        "Smack-down learnt at level 27",
-        "Self-destruct learnt at level 31",
-        "Bulldoze learnt at level 36",
-        "Stealth-rock learnt at level 42",
-        "Earthquake learnt at level 47",
-        "Explosion learnt at level 53",
-        "Double-edge learnt at level 58",
-        "Stone-edge learnt at level 64",
-        "Heavy-slam learnt at level 69"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rock-polish",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Rock-polish",
+            8
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            15
+        ],
+        [
+            "Steamroller",
+            18
+        ],
+        [
+            "Rock-blast",
+            22
+        ],
+        [
+            "Smack-down",
+            27
+        ],
+        [
+            "Self-destruct",
+            31
+        ],
+        [
+            "Bulldoze",
+            36
+        ],
+        [
+            "Stealth-rock",
+            42
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            58
+        ],
+        [
+            "Stone-edge",
+            64
+        ],
+        [
+            "Heavy-slam",
+            69
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Mud-sport",
+            6
+        ],
+        [
+            "Rock-throw",
+            11
+        ],
+        [
+            "Magnitude",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Rollout",
+            29
+        ],
+        [
+            "Rock-blast",
+            37
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Explosion",
+            53
+        ],
+        [
+            "Double-edge",
+            62
+        ]
+    ],
+    "yellow": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            11
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Harden",
+            29
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Explosion",
+            43
+        ]
+    ],
+    "red-blue": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            11
+        ],
+        [
+            "Rock-throw",
+            16
+        ],
+        [
+            "Self-destruct",
+            21
+        ],
+        [
+            "Harden",
+            29
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Explosion",
+            43
+        ]
     ]
 }

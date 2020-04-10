@@ -1,263 +1,950 @@
 {
-    "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 4",
-        "Sweet-kiss learnt at level 9",
-        "Yawn learnt at level 13",
-        "Encore learnt at level 17",
-        "Ancient-power learnt at level 21",
-        "Follow-me learnt at level 25",
-        "Wish learnt at level 29",
-        "Safeguard learnt at level 33",
-        "Double-edge learnt at level 37",
-        "Baton-pass learnt at level 41"
-    ],
-    "emerald": [
-        "Growl learnt at level 1",
-        "Charm learnt at level 1",
-        "Metronome learnt at level 6",
-        "Sweet-kiss learnt at level 11",
-        "Yawn learnt at level 16",
-        "Encore learnt at level 21",
-        "Follow-me learnt at level 26",
-        "Wish learnt at level 31",
-        "Safeguard learnt at level 36",
-        "Double-edge learnt at level 41"
-    ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Yawn learnt at level 13",
-        "Fairy-wind learnt at level 14",
-        "Encore learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Bestow learnt at level 25",
-        "Wish learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 41",
-        "Double-edge learnt at level 45",
-        "Last-resort learnt at level 49",
-        "After-you learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Fairy-wind",
+            14
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Wish",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ],
+        [
+            "Last-resort",
+            49
+        ],
+        [
+            "After-you",
+            53
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Yawn learnt at level 13",
-        "Fairy-wind learnt at level 14",
-        "Encore learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Bestow learnt at level 25",
-        "Wish learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 41",
-        "Double-edge learnt at level 45",
-        "Last-resort learnt at level 49",
-        "After-you learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Fairy-wind",
+            14
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Wish",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ],
+        [
+            "Last-resort",
+            49
+        ],
+        [
+            "After-you",
+            53
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Yawn learnt at level 13",
-        "Fairy-wind learnt at level 14",
-        "Encore learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Bestow learnt at level 25",
-        "Wish learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 41",
-        "Double-edge learnt at level 45",
-        "Last-resort learnt at level 49",
-        "After-you learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Fairy-wind",
+            14
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Wish",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ],
+        [
+            "Last-resort",
+            49
+        ],
+        [
+            "After-you",
+            53
+        ]
     ],
     "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Yawn learnt at level 13",
-        "Encore learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Bestow learnt at level 25",
-        "Wish learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 41",
-        "Double-edge learnt at level 45",
-        "Last-resort learnt at level 49",
-        "After-you learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Wish",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ],
+        [
+            "Last-resort",
+            49
+        ],
+        [
+            "After-you",
+            53
+        ]
     ],
     "xd": [
-        "Growl learnt at level 1",
-        "Charm learnt at level 1",
-        "Metronome learnt at level 6",
-        "Sweet-kiss learnt at level 11",
-        "Yawn learnt at level 16",
-        "Encore learnt at level 21",
-        "Follow-me learnt at level 26",
-        "Wish learnt at level 31",
-        "Safeguard learnt at level 36",
-        "Double-edge learnt at level 41"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Metronome",
+            6
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ],
+        [
+            "Yawn",
+            16
+        ],
+        [
+            "Encore",
+            21
+        ],
+        [
+            "Follow-me",
+            26
+        ],
+        [
+            "Wish",
+            31
+        ],
+        [
+            "Safeguard",
+            36
+        ],
+        [
+            "Double-edge",
+            41
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Charm learnt at level 1",
-        "Metronome learnt at level 6",
-        "Sweet-kiss learnt at level 11",
-        "Yawn learnt at level 16",
-        "Encore learnt at level 21",
-        "Follow-me learnt at level 26",
-        "Wish learnt at level 31",
-        "Safeguard learnt at level 36",
-        "Double-edge learnt at level 41"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Metronome",
+            6
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ],
+        [
+            "Yawn",
+            16
+        ],
+        [
+            "Encore",
+            21
+        ],
+        [
+            "Follow-me",
+            26
+        ],
+        [
+            "Wish",
+            31
+        ],
+        [
+            "Safeguard",
+            36
+        ],
+        [
+            "Double-edge",
+            41
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Yawn learnt at level 13",
-        "Encore learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Bestow learnt at level 25",
-        "Wish learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 41",
-        "Double-edge learnt at level 45",
-        "Last-resort learnt at level 49",
-        "After-you learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Wish",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ],
+        [
+            "Last-resort",
+            49
+        ],
+        [
+            "After-you",
+            53
+        ]
     ],
     "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 6",
-        "Sweet-kiss learnt at level 10",
-        "Yawn learnt at level 15",
-        "Encore learnt at level 19",
-        "Follow-me learnt at level 24",
-        "Wish learnt at level 28",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 42",
-        "Double-edge learnt at level 46",
-        "Last-resort learnt at level 51"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            6
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Yawn",
+            15
+        ],
+        [
+            "Encore",
+            19
+        ],
+        [
+            "Follow-me",
+            24
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            42
+        ],
+        [
+            "Double-edge",
+            46
+        ],
+        [
+            "Last-resort",
+            51
+        ]
     ],
     "platinum": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 6",
-        "Sweet-kiss learnt at level 10",
-        "Yawn learnt at level 15",
-        "Encore learnt at level 19",
-        "Follow-me learnt at level 24",
-        "Wish learnt at level 28",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 42",
-        "Double-edge learnt at level 46",
-        "Last-resort learnt at level 51"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            6
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Yawn",
+            15
+        ],
+        [
+            "Encore",
+            19
+        ],
+        [
+            "Follow-me",
+            24
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            42
+        ],
+        [
+            "Double-edge",
+            46
+        ],
+        [
+            "Last-resort",
+            51
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Yawn learnt at level 13",
-        "Fairy-wind learnt at level 14",
-        "Encore learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Bestow learnt at level 25",
-        "Wish learnt at level 29",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 41",
-        "Double-edge learnt at level 45",
-        "Last-resort learnt at level 49",
-        "After-you learnt at level 53"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Fairy-wind",
+            14
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Wish",
+            29
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ],
+        [
+            "Last-resort",
+            49
+        ],
+        [
+            "After-you",
+            53
+        ]
     ],
     "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Metronome learnt at level 1",
-        "Sweet-kiss learnt at level 1",
-        "Charm learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Metronome learnt at level 6",
-        "Sweet-kiss learnt at level 10",
-        "Yawn learnt at level 15",
-        "Encore learnt at level 19",
-        "Follow-me learnt at level 24",
-        "Wish learnt at level 28",
-        "Ancient-power learnt at level 33",
-        "Safeguard learnt at level 37",
-        "Baton-pass learnt at level 42",
-        "Double-edge learnt at level 46",
-        "Last-resort learnt at level 51"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            6
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Yawn",
+            15
+        ],
+        [
+            "Encore",
+            19
+        ],
+        [
+            "Follow-me",
+            24
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Safeguard",
+            37
+        ],
+        [
+            "Baton-pass",
+            42
+        ],
+        [
+            "Double-edge",
+            46
+        ],
+        [
+            "Last-resort",
+            51
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Sweet-kiss",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Metronome",
+            4
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Yawn",
+            13
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Ancient-power",
+            21
+        ],
+        [
+            "Follow-me",
+            25
+        ],
+        [
+            "Wish",
+            29
+        ],
+        [
+            "Safeguard",
+            33
+        ],
+        [
+            "Double-edge",
+            37
+        ],
+        [
+            "Baton-pass",
+            41
+        ]
+    ],
+    "emerald": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Metronome",
+            6
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ],
+        [
+            "Yawn",
+            16
+        ],
+        [
+            "Encore",
+            21
+        ],
+        [
+            "Follow-me",
+            26
+        ],
+        [
+            "Wish",
+            31
+        ],
+        [
+            "Safeguard",
+            36
+        ],
+        [
+            "Double-edge",
+            41
+        ]
     ],
     "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Charm learnt at level 1",
-        "Metronome learnt at level 6",
-        "Sweet-kiss learnt at level 11",
-        "Yawn learnt at level 16",
-        "Encore learnt at level 21",
-        "Follow-me learnt at level 26",
-        "Wish learnt at level 31",
-        "Safeguard learnt at level 36",
-        "Double-edge learnt at level 41"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Metronome",
+            6
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ],
+        [
+            "Yawn",
+            16
+        ],
+        [
+            "Encore",
+            21
+        ],
+        [
+            "Follow-me",
+            26
+        ],
+        [
+            "Wish",
+            31
+        ],
+        [
+            "Safeguard",
+            36
+        ],
+        [
+            "Double-edge",
+            41
+        ]
     ],
     "crystal": [
-        "Growl learnt at level 1",
-        "Charm learnt at level 1",
-        "Metronome learnt at level 7",
-        "Sweet-kiss learnt at level 18",
-        "Encore learnt at level 25",
-        "Safeguard learnt at level 31",
-        "Double-edge learnt at level 38"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Metronome",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            18
+        ],
+        [
+            "Encore",
+            25
+        ],
+        [
+            "Safeguard",
+            31
+        ],
+        [
+            "Double-edge",
+            38
+        ]
     ],
     "gold-silver": [
-        "Growl learnt at level 1",
-        "Charm learnt at level 1",
-        "Metronome learnt at level 7",
-        "Sweet-kiss learnt at level 18",
-        "Encore learnt at level 25",
-        "Safeguard learnt at level 31",
-        "Double-edge learnt at level 38"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Metronome",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            18
+        ],
+        [
+            "Encore",
+            25
+        ],
+        [
+            "Safeguard",
+            31
+        ],
+        [
+            "Double-edge",
+            38
+        ]
     ]
 }

@@ -1,36 +1,126 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Rollout learnt at level 9",
-        "Charge learnt at level 13",
-        "Spark learnt at level 17",
-        "Nuzzle learnt at level 21",
-        "Magnet-rise learnt at level 25",
-        "Discharge learnt at level 29",
-        "Zing-zap learnt at level 33",
-        "Electric-terrain learnt at level 37",
-        "Wild-charge learnt at level 41",
-        "Pin-missile learnt at level 45",
-        "Spiky-shield learnt at level 49",
-        "Fell-stinger learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Charge",
+            13
+        ],
+        [
+            "Spark",
+            17
+        ],
+        [
+            "Nuzzle",
+            21
+        ],
+        [
+            "Magnet-rise",
+            25
+        ],
+        [
+            "Discharge",
+            29
+        ],
+        [
+            "Zing-zap",
+            33
+        ],
+        [
+            "Electric-terrain",
+            37
+        ],
+        [
+            "Wild-charge",
+            41
+        ],
+        [
+            "Pin-missile",
+            45
+        ],
+        [
+            "Spiky-shield",
+            49
+        ],
+        [
+            "Fell-stinger",
+            53
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Rollout learnt at level 9",
-        "Charge learnt at level 13",
-        "Spark learnt at level 17",
-        "Nuzzle learnt at level 21",
-        "Magnet-rise learnt at level 25",
-        "Discharge learnt at level 29",
-        "Zing-zap learnt at level 33",
-        "Electric-terrain learnt at level 37",
-        "Wild-charge learnt at level 41",
-        "Pin-missile learnt at level 45",
-        "Spiky-shield learnt at level 49",
-        "Fell-stinger learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Charge",
+            13
+        ],
+        [
+            "Spark",
+            17
+        ],
+        [
+            "Nuzzle",
+            21
+        ],
+        [
+            "Magnet-rise",
+            25
+        ],
+        [
+            "Discharge",
+            29
+        ],
+        [
+            "Zing-zap",
+            33
+        ],
+        [
+            "Electric-terrain",
+            37
+        ],
+        [
+            "Wild-charge",
+            41
+        ],
+        [
+            "Pin-missile",
+            45
+        ],
+        [
+            "Spiky-shield",
+            49
+        ],
+        [
+            "Fell-stinger",
+            53
+        ]
     ]
 }

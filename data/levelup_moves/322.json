@@ -1,204 +1,726 @@
 {
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Focus-energy learnt at level 8",
-        "Magnitude learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Yawn learnt at level 36",
-        "Earthquake learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Double-edge learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Yawn",
+            36
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Double-edge",
+            47
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Focus-energy learnt at level 8",
-        "Magnitude learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Yawn learnt at level 36",
-        "Earthquake learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Double-edge learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Yawn",
+            36
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Double-edge",
+            47
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 8",
-        "Focus-energy learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Yawn learnt at level 36",
-        "Earthquake learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Double-edge learnt at level 47"
-    ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Flame-burst learnt at level 21",
-        "Take-down learnt at level 25",
-        "Amnesia learnt at level 31",
-        "Lava-plume learnt at level 35",
-        "Earth-power learnt at level 41",
-        "Earthquake learnt at level 45",
-        "Flamethrower learnt at level 51",
-        "Double-edge learnt at level 55"
-    ],
-    "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Focus-energy learnt at level 8",
-        "Magnitude learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Yawn learnt at level 36",
-        "Earthquake learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Double-edge learnt at level 47"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Take-down learnt at level 21",
-        "Amnesia learnt at level 25",
-        "Lava-plume learnt at level 31",
-        "Earth-power learnt at level 35",
-        "Earthquake learnt at level 41",
-        "Flamethrower learnt at level 45",
-        "Double-edge learnt at level 51"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Take-down learnt at level 21",
-        "Amnesia learnt at level 25",
-        "Lava-plume learnt at level 31",
-        "Earth-power learnt at level 35",
-        "Earthquake learnt at level 41",
-        "Flamethrower learnt at level 45",
-        "Double-edge learnt at level 51"
-    ],
-    "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Take-down learnt at level 21",
-        "Amnesia learnt at level 25",
-        "Lava-plume learnt at level 31",
-        "Earth-power learnt at level 35",
-        "Earthquake learnt at level 41",
-        "Flamethrower learnt at level 45",
-        "Double-edge learnt at level 51"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Earthquake learnt at level 35",
-        "Flamethrower learnt at level 41",
-        "Double-edge learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            8
+        ],
+        [
+            "Focus-energy",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Yawn",
+            36
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Double-edge",
+            47
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 8",
-        "Focus-energy learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Yawn learnt at level 36",
-        "Earthquake learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Double-edge learnt at level 47"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Earthquake learnt at level 35",
-        "Flamethrower learnt at level 41",
-        "Double-edge learnt at level 49"
-    ],
-    "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Earthquake learnt at level 35",
-        "Flamethrower learnt at level 41",
-        "Double-edge learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            8
+        ],
+        [
+            "Focus-energy",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Yawn",
+            36
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Double-edge",
+            47
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Earthquake learnt at level 35",
-        "Flamethrower learnt at level 41",
-        "Double-edge learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Flamethrower",
+            41
+        ],
+        [
+            "Double-edge",
+            49
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Earthquake learnt at level 35",
-        "Flamethrower learnt at level 41",
-        "Double-edge learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Flamethrower",
+            41
+        ],
+        [
+            "Double-edge",
+            49
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Flame-burst",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Lava-plume",
+            35
+        ],
+        [
+            "Earth-power",
+            41
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Flamethrower",
+            51
+        ],
+        [
+            "Double-edge",
+            55
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Yawn",
+            36
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Double-edge",
+            47
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Take-down",
+            21
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Earth-power",
+            35
+        ],
+        [
+            "Earthquake",
+            41
+        ],
+        [
+            "Flamethrower",
+            45
+        ],
+        [
+            "Double-edge",
+            51
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Take-down",
+            21
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Earth-power",
+            35
+        ],
+        [
+            "Earthquake",
+            41
+        ],
+        [
+            "Flamethrower",
+            45
+        ],
+        [
+            "Double-edge",
+            51
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Take-down",
+            21
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Earth-power",
+            35
+        ],
+        [
+            "Earthquake",
+            41
+        ],
+        [
+            "Flamethrower",
+            45
+        ],
+        [
+            "Double-edge",
+            51
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Flamethrower",
+            41
+        ],
+        [
+            "Double-edge",
+            49
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Flamethrower",
+            41
+        ],
+        [
+            "Double-edge",
+            49
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Earthquake",
+            35
+        ],
+        [
+            "Flamethrower",
+            41
+        ],
+        [
+            "Double-edge",
+            49
+        ]
     ]
 }

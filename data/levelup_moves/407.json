@@ -1,73 +1,232 @@
 {
     "ultra-sun-ultra-moon": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Grassy-terrain learnt at level 1",
-        "Venom-drench learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Grassy-terrain",
+            1
+        ],
+        [
+            "Venom-drench",
+            1
+        ]
     ],
     "sun-moon": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Grassy-terrain learnt at level 1",
-        "Venom-drench learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Grassy-terrain",
+            1
+        ],
+        [
+            "Venom-drench",
+            1
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Grassy-terrain learnt at level 1",
-        "Venom-drench learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Grassy-terrain",
+            1
+        ],
+        [
+            "Venom-drench",
+            1
+        ]
     ],
     "x-y": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Grassy-terrain learnt at level 1",
-        "Venom-drench learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Grassy-terrain",
+            1
+        ],
+        [
+            "Venom-drench",
+            1
+        ]
     ],
     "black-2-white-2": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ]
     ],
     "black-white": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ]
     ],
     "heartgold-soulsilver": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ]
     ],
     "platinum": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ]
     ],
     "diamond-pearl": [
-        "Poison-sting learnt at level 1",
-        "Mega-drain learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Weather-ball learnt at level 1",
-        "Magical-leaf learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Weather-ball",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ]
     ]
 }

@@ -1,246 +1,894 @@
 {
-    "heartgold-soulsilver": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Curse learnt at level 12",
-        "Fire-spin learnt at level 17",
-        "Smokescreen learnt at level 20",
-        "Rapid-spin learnt at level 23",
-        "Flamethrower learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Protect learnt at level 36",
-        "Lava-plume learnt at level 39",
-        "Iron-defense learnt at level 44",
-        "Amnesia learnt at level 49",
-        "Flail learnt at level 52",
-        "Heat-wave learnt at level 55"
-    ],
     "ultra-sun-ultra-moon": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Rapid-spin learnt at level 10",
-        "Fire-spin learnt at level 13",
-        "Smokescreen learnt at level 15",
-        "Flame-wheel learnt at level 18",
-        "Curse learnt at level 22",
-        "Lava-plume learnt at level 25",
-        "Body-slam learnt at level 27",
-        "Protect learnt at level 30",
-        "Flamethrower learnt at level 34",
-        "Iron-defense learnt at level 38",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 42",
-        "Heat-wave learnt at level 45",
-        "Shell-smash learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Smokescreen",
+            15
+        ],
+        [
+            "Flame-wheel",
+            18
+        ],
+        [
+            "Curse",
+            22
+        ],
+        [
+            "Lava-plume",
+            25
+        ],
+        [
+            "Body-slam",
+            27
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Iron-defense",
+            38
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            42
+        ],
+        [
+            "Heat-wave",
+            45
+        ],
+        [
+            "Shell-smash",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Rapid-spin learnt at level 10",
-        "Fire-spin learnt at level 13",
-        "Smokescreen learnt at level 15",
-        "Flame-wheel learnt at level 18",
-        "Curse learnt at level 22",
-        "Lava-plume learnt at level 25",
-        "Body-slam learnt at level 27",
-        "Protect learnt at level 30",
-        "Flamethrower learnt at level 34",
-        "Iron-defense learnt at level 38",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 42",
-        "Heat-wave learnt at level 45",
-        "Shell-smash learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Smokescreen",
+            15
+        ],
+        [
+            "Flame-wheel",
+            18
+        ],
+        [
+            "Curse",
+            22
+        ],
+        [
+            "Lava-plume",
+            25
+        ],
+        [
+            "Body-slam",
+            27
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Iron-defense",
+            38
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            42
+        ],
+        [
+            "Heat-wave",
+            45
+        ],
+        [
+            "Shell-smash",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
     ],
     "x-y": [
-        "Ember learnt at level 1",
-        "Flail learnt at level 1",
-        "Protect learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Inferno learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Curse learnt at level 12",
-        "Fire-spin learnt at level 17",
-        "Smokescreen learnt at level 20",
-        "Flame-wheel learnt at level 23",
-        "Rapid-spin learnt at level 25",
-        "Flamethrower learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Protect learnt at level 36",
-        "Lava-plume learnt at level 39",
-        "Iron-defense learnt at level 44",
-        "Amnesia learnt at level 49",
-        "Flail learnt at level 52",
-        "Heat-wave learnt at level 55",
-        "Inferno learnt at level 60",
-        "Shell-smash learnt at level 65"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Flail",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Inferno",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Curse",
+            12
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Flame-wheel",
+            23
+        ],
+        [
+            "Rapid-spin",
+            25
+        ],
+        [
+            "Flamethrower",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Protect",
+            36
+        ],
+        [
+            "Lava-plume",
+            39
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Flail",
+            52
+        ],
+        [
+            "Heat-wave",
+            55
+        ],
+        [
+            "Inferno",
+            60
+        ],
+        [
+            "Shell-smash",
+            65
+        ]
     ],
     "black-2-white-2": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Curse learnt at level 12",
-        "Fire-spin learnt at level 17",
-        "Smokescreen learnt at level 20",
-        "Rapid-spin learnt at level 23",
-        "Flamethrower learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Protect learnt at level 36",
-        "Lava-plume learnt at level 39",
-        "Iron-defense learnt at level 44",
-        "Amnesia learnt at level 49",
-        "Flail learnt at level 52",
-        "Heat-wave learnt at level 55",
-        "Inferno learnt at level 60",
-        "Shell-smash learnt at level 65"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Curse",
+            12
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Rapid-spin",
+            23
+        ],
+        [
+            "Flamethrower",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Protect",
+            36
+        ],
+        [
+            "Lava-plume",
+            39
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Flail",
+            52
+        ],
+        [
+            "Heat-wave",
+            55
+        ],
+        [
+            "Inferno",
+            60
+        ],
+        [
+            "Shell-smash",
+            65
+        ]
     ],
     "xd": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Curse learnt at level 7",
-        "Smokescreen learnt at level 14",
-        "Fire-spin learnt at level 17",
-        "Body-slam learnt at level 20",
-        "Protect learnt at level 27",
-        "Flamethrower learnt at level 30",
-        "Iron-defense learnt at level 33",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 43",
-        "Heat-wave learnt at level 46"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Curse",
+            7
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Body-slam",
+            20
+        ],
+        [
+            "Protect",
+            27
+        ],
+        [
+            "Flamethrower",
+            30
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Heat-wave",
+            46
+        ]
     ],
     "sun-moon": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Rapid-spin learnt at level 10",
-        "Fire-spin learnt at level 13",
-        "Smokescreen learnt at level 15",
-        "Flame-wheel learnt at level 18",
-        "Curse learnt at level 22",
-        "Lava-plume learnt at level 25",
-        "Body-slam learnt at level 27",
-        "Protect learnt at level 30",
-        "Flamethrower learnt at level 34",
-        "Iron-defense learnt at level 38",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 42",
-        "Heat-wave learnt at level 45",
-        "Shell-smash learnt at level 47",
-        "Inferno learnt at level 50"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Smokescreen",
+            15
+        ],
+        [
+            "Flame-wheel",
+            18
+        ],
+        [
+            "Curse",
+            22
+        ],
+        [
+            "Lava-plume",
+            25
+        ],
+        [
+            "Body-slam",
+            27
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Iron-defense",
+            38
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            42
+        ],
+        [
+            "Heat-wave",
+            45
+        ],
+        [
+            "Shell-smash",
+            47
+        ],
+        [
+            "Inferno",
+            50
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Curse",
+            12
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Rapid-spin",
+            23
+        ],
+        [
+            "Flamethrower",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Protect",
+            36
+        ],
+        [
+            "Lava-plume",
+            39
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Flail",
+            52
+        ],
+        [
+            "Heat-wave",
+            55
+        ]
     ],
     "platinum": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Curse learnt at level 12",
-        "Fire-spin learnt at level 17",
-        "Smokescreen learnt at level 20",
-        "Rapid-spin learnt at level 23",
-        "Flamethrower learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Protect learnt at level 36",
-        "Lava-plume learnt at level 39",
-        "Iron-defense learnt at level 44",
-        "Amnesia learnt at level 49",
-        "Flail learnt at level 52",
-        "Heat-wave learnt at level 55"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Curse",
+            12
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Rapid-spin",
+            23
+        ],
+        [
+            "Flamethrower",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Protect",
+            36
+        ],
+        [
+            "Lava-plume",
+            39
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Flail",
+            52
+        ],
+        [
+            "Heat-wave",
+            55
+        ]
     ],
     "diamond-pearl": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Curse learnt at level 12",
-        "Fire-spin learnt at level 17",
-        "Smokescreen learnt at level 20",
-        "Rapid-spin learnt at level 23",
-        "Flamethrower learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Protect learnt at level 36",
-        "Lava-plume learnt at level 39",
-        "Iron-defense learnt at level 44",
-        "Amnesia learnt at level 49",
-        "Flail learnt at level 52",
-        "Heat-wave learnt at level 55"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Curse",
+            12
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Rapid-spin",
+            23
+        ],
+        [
+            "Flamethrower",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Protect",
+            36
+        ],
+        [
+            "Lava-plume",
+            39
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Flail",
+            52
+        ],
+        [
+            "Heat-wave",
+            55
+        ]
     ],
     "firered-leafgreen": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Curse learnt at level 7",
-        "Smokescreen learnt at level 14",
-        "Fire-spin learnt at level 17",
-        "Body-slam learnt at level 20",
-        "Protect learnt at level 27",
-        "Flamethrower learnt at level 30",
-        "Iron-defense learnt at level 33",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 43",
-        "Heat-wave learnt at level 46"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Curse",
+            7
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Body-slam",
+            20
+        ],
+        [
+            "Protect",
+            27
+        ],
+        [
+            "Flamethrower",
+            30
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Heat-wave",
+            46
+        ]
     ],
     "colosseum": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Curse learnt at level 7",
-        "Smokescreen learnt at level 14",
-        "Fire-spin learnt at level 17",
-        "Body-slam learnt at level 20",
-        "Protect learnt at level 27",
-        "Flamethrower learnt at level 30",
-        "Iron-defense learnt at level 33",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 43",
-        "Heat-wave learnt at level 46"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Curse",
+            7
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Body-slam",
+            20
+        ],
+        [
+            "Protect",
+            27
+        ],
+        [
+            "Flamethrower",
+            30
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Heat-wave",
+            46
+        ]
     ],
     "black-white": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Curse learnt at level 12",
-        "Fire-spin learnt at level 17",
-        "Smokescreen learnt at level 20",
-        "Rapid-spin learnt at level 23",
-        "Flamethrower learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Protect learnt at level 36",
-        "Lava-plume learnt at level 39",
-        "Iron-defense learnt at level 44",
-        "Amnesia learnt at level 49",
-        "Flail learnt at level 52",
-        "Heat-wave learnt at level 55",
-        "Inferno learnt at level 60",
-        "Shell-smash learnt at level 65"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Curse",
+            12
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Rapid-spin",
+            23
+        ],
+        [
+            "Flamethrower",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Protect",
+            36
+        ],
+        [
+            "Lava-plume",
+            39
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Flail",
+            52
+        ],
+        [
+            "Heat-wave",
+            55
+        ],
+        [
+            "Inferno",
+            60
+        ],
+        [
+            "Shell-smash",
+            65
+        ]
     ],
     "emerald": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Curse learnt at level 7",
-        "Smokescreen learnt at level 14",
-        "Fire-spin learnt at level 17",
-        "Body-slam learnt at level 20",
-        "Protect learnt at level 27",
-        "Flamethrower learnt at level 30",
-        "Iron-defense learnt at level 33",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 43",
-        "Heat-wave learnt at level 46"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Curse",
+            7
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Body-slam",
+            20
+        ],
+        [
+            "Protect",
+            27
+        ],
+        [
+            "Flamethrower",
+            30
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Heat-wave",
+            46
+        ]
     ],
     "ruby-sapphire": [
-        "Ember learnt at level 1",
-        "Smog learnt at level 4",
-        "Curse learnt at level 7",
-        "Smokescreen learnt at level 14",
-        "Fire-spin learnt at level 17",
-        "Body-slam learnt at level 20",
-        "Protect learnt at level 27",
-        "Flamethrower learnt at level 30",
-        "Iron-defense learnt at level 33",
-        "Amnesia learnt at level 40",
-        "Flail learnt at level 43",
-        "Heat-wave learnt at level 46"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Curse",
+            7
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Fire-spin",
+            17
+        ],
+        [
+            "Body-slam",
+            20
+        ],
+        [
+            "Protect",
+            27
+        ],
+        [
+            "Flamethrower",
+            30
+        ],
+        [
+            "Iron-defense",
+            33
+        ],
+        [
+            "Amnesia",
+            40
+        ],
+        [
+            "Flail",
+            43
+        ],
+        [
+            "Heat-wave",
+            46
+        ]
     ]
 }

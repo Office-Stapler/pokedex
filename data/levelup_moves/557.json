@@ -1,104 +1,374 @@
 {
     "ultra-sun-ultra-moon": [
-        "Fury-cutter learnt at level 1",
-        "Rock-blast learnt at level 5",
-        "Withdraw learnt at level 7",
-        "Sand-attack learnt at level 11",
-        "Feint-attack learnt at level 13",
-        "Smack-down learnt at level 17",
-        "Rock-polish learnt at level 19",
-        "Bug-bite learnt at level 23",
-        "Stealth-rock learnt at level 24",
-        "Rock-slide learnt at level 29",
-        "Slash learnt at level 31",
-        "X-scissor learnt at level 35",
-        "Shell-smash learnt at level 37",
-        "Flail learnt at level 41",
-        "Rock-wrecker learnt at level 43"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Rock-blast",
+            5
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Sand-attack",
+            11
+        ],
+        [
+            "Feint-attack",
+            13
+        ],
+        [
+            "Smack-down",
+            17
+        ],
+        [
+            "Rock-polish",
+            19
+        ],
+        [
+            "Bug-bite",
+            23
+        ],
+        [
+            "Stealth-rock",
+            24
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "X-scissor",
+            35
+        ],
+        [
+            "Shell-smash",
+            37
+        ],
+        [
+            "Flail",
+            41
+        ],
+        [
+            "Rock-wrecker",
+            43
+        ]
     ],
     "sun-moon": [
-        "Fury-cutter learnt at level 1",
-        "Rock-blast learnt at level 5",
-        "Withdraw learnt at level 7",
-        "Sand-attack learnt at level 11",
-        "Feint-attack learnt at level 13",
-        "Smack-down learnt at level 17",
-        "Rock-polish learnt at level 19",
-        "Bug-bite learnt at level 23",
-        "Stealth-rock learnt at level 24",
-        "Rock-slide learnt at level 29",
-        "Slash learnt at level 31",
-        "X-scissor learnt at level 35",
-        "Shell-smash learnt at level 37",
-        "Flail learnt at level 41",
-        "Rock-wrecker learnt at level 43"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Rock-blast",
+            5
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Sand-attack",
+            11
+        ],
+        [
+            "Feint-attack",
+            13
+        ],
+        [
+            "Smack-down",
+            17
+        ],
+        [
+            "Rock-polish",
+            19
+        ],
+        [
+            "Bug-bite",
+            23
+        ],
+        [
+            "Stealth-rock",
+            24
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "X-scissor",
+            35
+        ],
+        [
+            "Shell-smash",
+            37
+        ],
+        [
+            "Flail",
+            41
+        ],
+        [
+            "Rock-wrecker",
+            43
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Fury-cutter learnt at level 1",
-        "Rock-blast learnt at level 5",
-        "Withdraw learnt at level 7",
-        "Sand-attack learnt at level 11",
-        "Feint-attack learnt at level 13",
-        "Smack-down learnt at level 17",
-        "Rock-polish learnt at level 19",
-        "Bug-bite learnt at level 23",
-        "Stealth-rock learnt at level 24",
-        "Rock-slide learnt at level 29",
-        "Slash learnt at level 31",
-        "X-scissor learnt at level 35",
-        "Shell-smash learnt at level 37",
-        "Flail learnt at level 41",
-        "Rock-wrecker learnt at level 43"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Rock-blast",
+            5
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Sand-attack",
+            11
+        ],
+        [
+            "Feint-attack",
+            13
+        ],
+        [
+            "Smack-down",
+            17
+        ],
+        [
+            "Rock-polish",
+            19
+        ],
+        [
+            "Bug-bite",
+            23
+        ],
+        [
+            "Stealth-rock",
+            24
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "X-scissor",
+            35
+        ],
+        [
+            "Shell-smash",
+            37
+        ],
+        [
+            "Flail",
+            41
+        ],
+        [
+            "Rock-wrecker",
+            43
+        ]
     ],
     "x-y": [
-        "Fury-cutter learnt at level 1",
-        "Rock-blast learnt at level 5",
-        "Withdraw learnt at level 7",
-        "Sand-attack learnt at level 11",
-        "Feint-attack learnt at level 13",
-        "Smack-down learnt at level 17",
-        "Rock-polish learnt at level 19",
-        "Bug-bite learnt at level 23",
-        "Stealth-rock learnt at level 24",
-        "Rock-slide learnt at level 29",
-        "Slash learnt at level 31",
-        "X-scissor learnt at level 35",
-        "Shell-smash learnt at level 37",
-        "Flail learnt at level 41",
-        "Rock-wrecker learnt at level 43"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Rock-blast",
+            5
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Sand-attack",
+            11
+        ],
+        [
+            "Feint-attack",
+            13
+        ],
+        [
+            "Smack-down",
+            17
+        ],
+        [
+            "Rock-polish",
+            19
+        ],
+        [
+            "Bug-bite",
+            23
+        ],
+        [
+            "Stealth-rock",
+            24
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "X-scissor",
+            35
+        ],
+        [
+            "Shell-smash",
+            37
+        ],
+        [
+            "Flail",
+            41
+        ],
+        [
+            "Rock-wrecker",
+            43
+        ]
     ],
     "black-2-white-2": [
-        "Fury-cutter learnt at level 1",
-        "Rock-blast learnt at level 5",
-        "Withdraw learnt at level 7",
-        "Sand-attack learnt at level 11",
-        "Feint-attack learnt at level 13",
-        "Smack-down learnt at level 17",
-        "Rock-polish learnt at level 19",
-        "Bug-bite learnt at level 23",
-        "Stealth-rock learnt at level 24",
-        "Rock-slide learnt at level 29",
-        "Slash learnt at level 31",
-        "X-scissor learnt at level 35",
-        "Shell-smash learnt at level 37",
-        "Flail learnt at level 41",
-        "Rock-wrecker learnt at level 43"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Rock-blast",
+            5
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Sand-attack",
+            11
+        ],
+        [
+            "Feint-attack",
+            13
+        ],
+        [
+            "Smack-down",
+            17
+        ],
+        [
+            "Rock-polish",
+            19
+        ],
+        [
+            "Bug-bite",
+            23
+        ],
+        [
+            "Stealth-rock",
+            24
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "X-scissor",
+            35
+        ],
+        [
+            "Shell-smash",
+            37
+        ],
+        [
+            "Flail",
+            41
+        ],
+        [
+            "Rock-wrecker",
+            43
+        ]
     ],
     "black-white": [
-        "Fury-cutter learnt at level 1",
-        "Rock-blast learnt at level 5",
-        "Withdraw learnt at level 7",
-        "Sand-attack learnt at level 11",
-        "Feint-attack learnt at level 13",
-        "Smack-down learnt at level 17",
-        "Rock-polish learnt at level 19",
-        "Bug-bite learnt at level 23",
-        "Stealth-rock learnt at level 24",
-        "Rock-slide learnt at level 29",
-        "Slash learnt at level 31",
-        "X-scissor learnt at level 35",
-        "Shell-smash learnt at level 37",
-        "Flail learnt at level 41",
-        "Rock-wrecker learnt at level 43"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Rock-blast",
+            5
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Sand-attack",
+            11
+        ],
+        [
+            "Feint-attack",
+            13
+        ],
+        [
+            "Smack-down",
+            17
+        ],
+        [
+            "Rock-polish",
+            19
+        ],
+        [
+            "Bug-bite",
+            23
+        ],
+        [
+            "Stealth-rock",
+            24
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "X-scissor",
+            35
+        ],
+        [
+            "Shell-smash",
+            37
+        ],
+        [
+            "Flail",
+            41
+        ],
+        [
+            "Rock-wrecker",
+            43
+        ]
     ]
 }

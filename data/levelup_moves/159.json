@@ -1,253 +1,910 @@
 {
-    "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Rage learnt at level 1",
-        "Rage learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 21",
-        "Scary-face learnt at level 28",
-        "Slash learnt at level 37",
-        "Screech learnt at level 45",
-        "Hydro-pump learnt at level 55"
-    ],
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Rage learnt at level 1",
-        "Rage learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 21",
-        "Scary-face learnt at level 28",
-        "Slash learnt at level 37",
-        "Screech learnt at level 45",
-        "Hydro-pump learnt at level 55"
+    "sun-moon": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Chip-away",
+            33
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Screech",
+            42
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Aqua-tail",
+            51
+        ],
+        [
+            "Superpower",
+            57
+        ],
+        [
+            "Hydro-pump",
+            60
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Chip-away learnt at level 33",
-        "Slash learnt at level 39",
-        "Screech learnt at level 42",
-        "Thrash learnt at level 48",
-        "Aqua-tail learnt at level 51",
-        "Superpower learnt at level 57",
-        "Hydro-pump learnt at level 60"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Slash learnt at level 33",
-        "Screech learnt at level 39",
-        "Thrash learnt at level 42",
-        "Aqua-tail learnt at level 48",
-        "Superpower learnt at level 51",
-        "Hydro-pump learnt at level 57"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Slash learnt at level 33",
-        "Screech learnt at level 39",
-        "Thrash learnt at level 42",
-        "Aqua-tail learnt at level 48",
-        "Superpower learnt at level 51",
-        "Hydro-pump learnt at level 57"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Chip-away learnt at level 33",
-        "Slash learnt at level 39",
-        "Screech learnt at level 42",
-        "Thrash learnt at level 48",
-        "Aqua-tail learnt at level 51",
-        "Superpower learnt at level 57",
-        "Hydro-pump learnt at level 60"
-    ],
-    "crystal": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Rage learnt at level 1",
-        "Rage learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 21",
-        "Scary-face learnt at level 28",
-        "Slash learnt at level 37",
-        "Screech learnt at level 45",
-        "Hydro-pump learnt at level 55"
-    ],
-    "gold-silver": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Rage learnt at level 1",
-        "Rage learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 21",
-        "Scary-face learnt at level 28",
-        "Slash learnt at level 37",
-        "Screech learnt at level 45",
-        "Hydro-pump learnt at level 55"
-    ],
-    "sun-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Chip-away learnt at level 33",
-        "Slash learnt at level 39",
-        "Screech learnt at level 42",
-        "Thrash learnt at level 48",
-        "Aqua-tail learnt at level 51",
-        "Superpower learnt at level 57",
-        "Hydro-pump learnt at level 60"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Chip-away",
+            33
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Screech",
+            42
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Aqua-tail",
+            51
+        ],
+        [
+            "Superpower",
+            57
+        ],
+        [
+            "Hydro-pump",
+            60
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Chip-away learnt at level 33",
-        "Slash learnt at level 39",
-        "Screech learnt at level 42",
-        "Thrash learnt at level 48",
-        "Aqua-tail learnt at level 51",
-        "Superpower learnt at level 57",
-        "Hydro-pump learnt at level 60"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Chip-away",
+            33
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Screech",
+            42
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Aqua-tail",
+            51
+        ],
+        [
+            "Superpower",
+            57
+        ],
+        [
+            "Hydro-pump",
+            60
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Chip-away",
+            33
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Screech",
+            42
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Aqua-tail",
+            51
+        ],
+        [
+            "Superpower",
+            57
+        ],
+        [
+            "Hydro-pump",
+            60
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Screech",
+            39
+        ],
+        [
+            "Thrash",
+            42
+        ],
+        [
+            "Aqua-tail",
+            48
+        ],
+        [
+            "Superpower",
+            51
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Screech",
+            39
+        ],
+        [
+            "Thrash",
+            42
+        ],
+        [
+            "Aqua-tail",
+            48
+        ],
+        [
+            "Superpower",
+            51
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Chip-away learnt at level 33",
-        "Slash learnt at level 39",
-        "Screech learnt at level 42",
-        "Thrash learnt at level 48",
-        "Aqua-tail learnt at level 51",
-        "Superpower learnt at level 57",
-        "Hydro-pump learnt at level 60"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Chip-away",
+            33
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Screech",
+            42
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Aqua-tail",
+            51
+        ],
+        [
+            "Superpower",
+            57
+        ],
+        [
+            "Hydro-pump",
+            60
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Thrash learnt at level 24",
-        "Crunch learnt at level 30",
-        "Slash learnt at level 33",
-        "Screech learnt at level 39",
-        "Aqua-tail learnt at level 42",
-        "Superpower learnt at level 48",
-        "Hydro-pump learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Thrash",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Screech",
+            39
+        ],
+        [
+            "Aqua-tail",
+            42
+        ],
+        [
+            "Superpower",
+            48
+        ],
+        [
+            "Hydro-pump",
+            51
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Rage learnt at level 1",
-        "Rage learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 21",
-        "Scary-face learnt at level 28",
-        "Slash learnt at level 37",
-        "Screech learnt at level 45",
-        "Hydro-pump learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Rage learnt at level 1",
-        "Rage learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 21",
-        "Scary-face learnt at level 28",
-        "Slash learnt at level 37",
-        "Screech learnt at level 45",
-        "Hydro-pump learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Rage learnt at level 1",
-        "Rage learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Bite learnt at level 21",
-        "Scary-face learnt at level 28",
-        "Slash learnt at level 37",
-        "Screech learnt at level 45",
-        "Hydro-pump learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rage learnt at level 8",
-        "Bite learnt at level 13",
-        "Scary-face learnt at level 15",
-        "Ice-fang learnt at level 21",
-        "Flail learnt at level 24",
-        "Crunch learnt at level 30",
-        "Chip-away learnt at level 33",
-        "Slash learnt at level 39",
-        "Screech learnt at level 42",
-        "Thrash learnt at level 48",
-        "Aqua-tail learnt at level 51",
-        "Superpower learnt at level 57",
-        "Hydro-pump learnt at level 60"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rage",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Scary-face",
+            15
+        ],
+        [
+            "Ice-fang",
+            21
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Crunch",
+            30
+        ],
+        [
+            "Chip-away",
+            33
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Screech",
+            42
+        ],
+        [
+            "Thrash",
+            48
+        ],
+        [
+            "Aqua-tail",
+            51
+        ],
+        [
+            "Superpower",
+            57
+        ],
+        [
+            "Hydro-pump",
+            60
+        ]
+    ],
+    "crystal": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ]
 }

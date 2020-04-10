@@ -1,258 +1,942 @@
 {
+    "ruby-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Screech",
+            24
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Substitute",
+            40
+        ],
+        [
+            "Ancient-power",
+            49
+        ]
+    ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Screech learnt at level 24",
-        "Slash learnt at level 31",
-        "Substitute learnt at level 40",
-        "Ancient-power learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Screech",
+            24
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Substitute",
+            40
+        ],
+        [
+            "Ancient-power",
+            49
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Screech learnt at level 24",
-        "Slash learnt at level 31",
-        "Substitute learnt at level 40",
-        "Ancient-power learnt at level 49"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Feint learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Shadow-sneak learnt at level 22",
-        "Slash learnt at level 27",
-        "Screech learnt at level 32",
-        "Substitute learnt at level 37",
-        "Sucker-punch learnt at level 43",
-        "Shadow-claw learnt at level 49",
-        "Ancient-power learnt at level 55"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Feint learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Shadow-sneak learnt at level 22",
-        "Slash learnt at level 27",
-        "Screech learnt at level 32",
-        "Substitute learnt at level 37",
-        "Sucker-punch learnt at level 43",
-        "Shadow-claw learnt at level 49",
-        "Ancient-power learnt at level 55"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Feint learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Shadow-sneak learnt at level 22",
-        "Slash learnt at level 27",
-        "Screech learnt at level 32",
-        "Substitute learnt at level 37",
-        "Sucker-punch learnt at level 43",
-        "Shadow-claw learnt at level 49",
-        "Ancient-power learnt at level 55",
-        "Synchronoise learnt at level 58"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Shadow-sneak learnt at level 7",
-        "Feint learnt at level 10",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 16",
-        "Psybeam learnt at level 18",
-        "Ancient-power learnt at level 21",
-        "Slash learnt at level 25",
-        "Camouflage learnt at level 30",
-        "Shadow-claw learnt at level 33",
-        "Screech learnt at level 38",
-        "Substitute learnt at level 42",
-        "Sucker-punch learnt at level 46",
-        "Synchronoise learnt at level 50"
-    ],
-    "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Screech learnt at level 24",
-        "Slash learnt at level 31",
-        "Substitute learnt at level 40",
-        "Ancient-power learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Screech",
+            24
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Substitute",
+            40
+        ],
+        [
+            "Ancient-power",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Psybeam learnt at level 15",
-        "Shadow-sneak learnt at level 20",
-        "Slash learnt at level 25",
-        "Screech learnt at level 32",
-        "Substitute learnt at level 39",
-        "Sucker-punch learnt at level 46",
-        "Shadow-claw learnt at level 55",
-        "Ancient-power learnt at level 64"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Psybeam",
+            15
+        ],
+        [
+            "Shadow-sneak",
+            20
+        ],
+        [
+            "Slash",
+            25
+        ],
+        [
+            "Screech",
+            32
+        ],
+        [
+            "Substitute",
+            39
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Shadow-claw",
+            55
+        ],
+        [
+            "Ancient-power",
+            64
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Feint",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Screech",
+            32
+        ],
+        [
+            "Substitute",
+            37
+        ],
+        [
+            "Sucker-punch",
+            43
+        ],
+        [
+            "Shadow-claw",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Feint",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Screech",
+            32
+        ],
+        [
+            "Substitute",
+            37
+        ],
+        [
+            "Sucker-punch",
+            43
+        ],
+        [
+            "Shadow-claw",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Feint learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Shadow-sneak learnt at level 22",
-        "Slash learnt at level 27",
-        "Screech learnt at level 32",
-        "Substitute learnt at level 37",
-        "Sucker-punch learnt at level 43",
-        "Shadow-claw learnt at level 49",
-        "Ancient-power learnt at level 55",
-        "Synchronoise learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Feint",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Screech",
+            32
+        ],
+        [
+            "Substitute",
+            37
+        ],
+        [
+            "Sucker-punch",
+            43
+        ],
+        [
+            "Shadow-claw",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ],
+        [
+            "Synchronoise",
+            58
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Screech learnt at level 24",
-        "Slash learnt at level 31",
-        "Substitute learnt at level 40",
-        "Ancient-power learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Screech",
+            24
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Substitute",
+            40
+        ],
+        [
+            "Ancient-power",
+            49
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Psybeam learnt at level 17",
-        "Screech learnt at level 24",
-        "Slash learnt at level 31",
-        "Substitute learnt at level 40",
-        "Ancient-power learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Psybeam",
+            17
+        ],
+        [
+            "Screech",
+            24
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Substitute",
+            40
+        ],
+        [
+            "Ancient-power",
+            49
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Feint",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Screech",
+            32
+        ],
+        [
+            "Substitute",
+            37
+        ],
+        [
+            "Sucker-punch",
+            43
+        ],
+        [
+            "Shadow-claw",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ],
+        [
+            "Synchronoise",
+            58
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Astonish learnt at level 1",
-        "Synchronoise learnt at level 1",
-        "Bind learnt at level 4",
-        "Feint-attack learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Feint learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Shadow-sneak learnt at level 22",
-        "Slash learnt at level 27",
-        "Screech learnt at level 32",
-        "Substitute learnt at level 37",
-        "Sucker-punch learnt at level 43",
-        "Shadow-claw learnt at level 49",
-        "Ancient-power learnt at level 55",
-        "Synchronoise learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Synchronoise",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Feint-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Feint",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Shadow-sneak",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Screech",
+            32
+        ],
+        [
+            "Substitute",
+            37
+        ],
+        [
+            "Sucker-punch",
+            43
+        ],
+        [
+            "Shadow-claw",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ],
+        [
+            "Synchronoise",
+            58
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Shadow-sneak",
+            7
+        ],
+        [
+            "Feint",
+            10
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            16
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Ancient-power",
+            21
+        ],
+        [
+            "Slash",
+            25
+        ],
+        [
+            "Camouflage",
+            30
+        ],
+        [
+            "Shadow-claw",
+            33
+        ],
+        [
+            "Screech",
+            38
+        ],
+        [
+            "Substitute",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Synchronoise",
+            50
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Shadow-sneak learnt at level 7",
-        "Feint learnt at level 10",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 16",
-        "Psybeam learnt at level 18",
-        "Ancient-power learnt at level 21",
-        "Slash learnt at level 25",
-        "Camouflage learnt at level 30",
-        "Shadow-claw learnt at level 33",
-        "Screech learnt at level 38",
-        "Substitute learnt at level 42",
-        "Sucker-punch learnt at level 46",
-        "Synchronoise learnt at level 50"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Shadow-sneak",
+            7
+        ],
+        [
+            "Feint",
+            10
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            16
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Ancient-power",
+            21
+        ],
+        [
+            "Slash",
+            25
+        ],
+        [
+            "Camouflage",
+            30
+        ],
+        [
+            "Shadow-claw",
+            33
+        ],
+        [
+            "Screech",
+            38
+        ],
+        [
+            "Substitute",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Synchronoise",
+            50
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Lick learnt at level 1",
-        "Thief learnt at level 1",
-        "Astonish learnt at level 1",
-        "Bind learnt at level 4",
-        "Shadow-sneak learnt at level 7",
-        "Feint learnt at level 10",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 16",
-        "Psybeam learnt at level 18",
-        "Ancient-power learnt at level 21",
-        "Slash learnt at level 25",
-        "Camouflage learnt at level 30",
-        "Shadow-claw learnt at level 33",
-        "Screech learnt at level 38",
-        "Substitute learnt at level 42",
-        "Sucker-punch learnt at level 46",
-        "Synchronoise learnt at level 50"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Bind",
+            4
+        ],
+        [
+            "Shadow-sneak",
+            7
+        ],
+        [
+            "Feint",
+            10
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            16
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Ancient-power",
+            21
+        ],
+        [
+            "Slash",
+            25
+        ],
+        [
+            "Camouflage",
+            30
+        ],
+        [
+            "Shadow-claw",
+            33
+        ],
+        [
+            "Screech",
+            38
+        ],
+        [
+            "Substitute",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Synchronoise",
+            50
+        ]
     ]
 }

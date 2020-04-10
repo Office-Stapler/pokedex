@@ -1,10 +1,22 @@
 {
     "ultra-sun-ultra-moon": [
-        "Sand-attack learnt at level 1",
-        "Struggle-bug learnt at level 1"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Struggle-bug",
+            1
+        ]
     ],
     "sun-moon": [
-        "Sand-attack learnt at level 1",
-        "Struggle-bug learnt at level 1"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Struggle-bug",
+            1
+        ]
     ]
 }

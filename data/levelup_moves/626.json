@@ -1,98 +1,350 @@
 {
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Rage learnt at level 6",
-        "Fury-attack learnt at level 11",
-        "Horn-attack learnt at level 16",
-        "Scary-face learnt at level 21",
-        "Revenge learnt at level 26",
-        "Head-charge learnt at level 31",
-        "Focus-energy learnt at level 36",
-        "Megahorn learnt at level 41",
-        "Reversal learnt at level 46",
-        "Thrash learnt at level 50",
-        "Swords-dance learnt at level 56",
-        "Giga-impact learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Horn-attack",
+            16
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Revenge",
+            26
+        ],
+        [
+            "Head-charge",
+            31
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Megahorn",
+            41
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Swords-dance",
+            56
+        ],
+        [
+            "Giga-impact",
+            61
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Rage learnt at level 6",
-        "Fury-attack learnt at level 11",
-        "Horn-attack learnt at level 16",
-        "Scary-face learnt at level 21",
-        "Revenge learnt at level 26",
-        "Head-charge learnt at level 31",
-        "Focus-energy learnt at level 36",
-        "Megahorn learnt at level 41",
-        "Reversal learnt at level 46",
-        "Thrash learnt at level 50",
-        "Swords-dance learnt at level 56",
-        "Giga-impact learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Horn-attack",
+            16
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Revenge",
+            26
+        ],
+        [
+            "Head-charge",
+            31
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Megahorn",
+            41
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Swords-dance",
+            56
+        ],
+        [
+            "Giga-impact",
+            61
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Rage learnt at level 6",
-        "Fury-attack learnt at level 11",
-        "Horn-attack learnt at level 16",
-        "Scary-face learnt at level 21",
-        "Revenge learnt at level 26",
-        "Head-charge learnt at level 31",
-        "Focus-energy learnt at level 36",
-        "Megahorn learnt at level 41",
-        "Reversal learnt at level 46",
-        "Thrash learnt at level 50",
-        "Swords-dance learnt at level 56",
-        "Giga-impact learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Horn-attack",
+            16
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Revenge",
+            26
+        ],
+        [
+            "Head-charge",
+            31
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Megahorn",
+            41
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Swords-dance",
+            56
+        ],
+        [
+            "Giga-impact",
+            61
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Rage learnt at level 6",
-        "Fury-attack learnt at level 11",
-        "Horn-attack learnt at level 16",
-        "Scary-face learnt at level 21",
-        "Revenge learnt at level 26",
-        "Head-charge learnt at level 31",
-        "Focus-energy learnt at level 36",
-        "Megahorn learnt at level 41",
-        "Reversal learnt at level 46",
-        "Thrash learnt at level 50",
-        "Swords-dance learnt at level 56",
-        "Giga-impact learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Horn-attack",
+            16
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Revenge",
+            26
+        ],
+        [
+            "Head-charge",
+            31
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Megahorn",
+            41
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Swords-dance",
+            56
+        ],
+        [
+            "Giga-impact",
+            61
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Rage learnt at level 6",
-        "Fury-attack learnt at level 11",
-        "Horn-attack learnt at level 16",
-        "Scary-face learnt at level 21",
-        "Revenge learnt at level 26",
-        "Head-charge learnt at level 31",
-        "Focus-energy learnt at level 36",
-        "Megahorn learnt at level 41",
-        "Reversal learnt at level 46",
-        "Thrash learnt at level 51",
-        "Swords-dance learnt at level 56",
-        "Giga-impact learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Horn-attack",
+            16
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Revenge",
+            26
+        ],
+        [
+            "Head-charge",
+            31
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Megahorn",
+            41
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Thrash",
+            51
+        ],
+        [
+            "Swords-dance",
+            56
+        ],
+        [
+            "Giga-impact",
+            61
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Rage learnt at level 6",
-        "Fury-attack learnt at level 11",
-        "Horn-attack learnt at level 16",
-        "Scary-face learnt at level 21",
-        "Revenge learnt at level 26",
-        "Head-charge learnt at level 31",
-        "Focus-energy learnt at level 36",
-        "Megahorn learnt at level 41",
-        "Reversal learnt at level 46",
-        "Thrash learnt at level 51",
-        "Swords-dance learnt at level 56",
-        "Giga-impact learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Horn-attack",
+            16
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Revenge",
+            26
+        ],
+        [
+            "Head-charge",
+            31
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Megahorn",
+            41
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Thrash",
+            51
+        ],
+        [
+            "Swords-dance",
+            56
+        ],
+        [
+            "Giga-impact",
+            61
+        ]
     ]
 }

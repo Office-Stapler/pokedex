@@ -1,126 +1,470 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Horn-drill learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Rapid-spin learnt at level 5",
-        "Mud-slap learnt at level 8",
-        "Fury-swipes learnt at level 12",
-        "Metal-claw learnt at level 15",
-        "Dig learnt at level 19",
-        "Hone-claws learnt at level 22",
-        "Slash learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Earthquake learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Sandstorm learnt at level 49",
-        "Drill-run learnt at level 55",
-        "Fissure learnt at level 62"
+        [
+            "Horn-drill",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Horn-drill",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Rapid-spin",
+            5
+        ],
+        [
+            "Mud-slap",
+            8
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Metal-claw",
+            15
+        ],
+        [
+            "Dig",
+            19
+        ],
+        [
+            "Hone-claws",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Sandstorm",
+            49
+        ],
+        [
+            "Drill-run",
+            55
+        ],
+        [
+            "Fissure",
+            62
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Horn-drill learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Rapid-spin learnt at level 5",
-        "Mud-slap learnt at level 8",
-        "Fury-swipes learnt at level 12",
-        "Metal-claw learnt at level 15",
-        "Dig learnt at level 19",
-        "Hone-claws learnt at level 22",
-        "Slash learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Earthquake learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Sandstorm learnt at level 49",
-        "Drill-run learnt at level 55",
-        "Fissure learnt at level 62"
+        [
+            "Horn-drill",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Horn-drill",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Rapid-spin",
+            5
+        ],
+        [
+            "Mud-slap",
+            8
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Metal-claw",
+            15
+        ],
+        [
+            "Dig",
+            19
+        ],
+        [
+            "Hone-claws",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Sandstorm",
+            49
+        ],
+        [
+            "Drill-run",
+            55
+        ],
+        [
+            "Fissure",
+            62
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Rapid-spin learnt at level 5",
-        "Mud-slap learnt at level 8",
-        "Fury-swipes learnt at level 12",
-        "Metal-claw learnt at level 15",
-        "Dig learnt at level 19",
-        "Hone-claws learnt at level 22",
-        "Slash learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Horn-drill learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Sandstorm learnt at level 49",
-        "Drill-run learnt at level 55",
-        "Fissure learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Rapid-spin",
+            5
+        ],
+        [
+            "Mud-slap",
+            8
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Metal-claw",
+            15
+        ],
+        [
+            "Dig",
+            19
+        ],
+        [
+            "Hone-claws",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Horn-drill",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Sandstorm",
+            49
+        ],
+        [
+            "Drill-run",
+            55
+        ],
+        [
+            "Fissure",
+            62
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Rapid-spin learnt at level 5",
-        "Mud-slap learnt at level 8",
-        "Fury-swipes learnt at level 12",
-        "Metal-claw learnt at level 15",
-        "Dig learnt at level 19",
-        "Hone-claws learnt at level 22",
-        "Slash learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Horn-drill learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Sandstorm learnt at level 49",
-        "Drill-run learnt at level 55",
-        "Fissure learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Rapid-spin",
+            5
+        ],
+        [
+            "Mud-slap",
+            8
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Metal-claw",
+            15
+        ],
+        [
+            "Dig",
+            19
+        ],
+        [
+            "Hone-claws",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Horn-drill",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Sandstorm",
+            49
+        ],
+        [
+            "Drill-run",
+            55
+        ],
+        [
+            "Fissure",
+            62
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rapid-spin learnt at level 5",
-        "Mud-slap learnt at level 8",
-        "Fury-swipes learnt at level 12",
-        "Metal-claw learnt at level 15",
-        "Dig learnt at level 19",
-        "Hone-claws learnt at level 22",
-        "Slash learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Horn-drill learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Sandstorm learnt at level 49",
-        "Drill-run learnt at level 55",
-        "Fissure learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rapid-spin",
+            5
+        ],
+        [
+            "Mud-slap",
+            8
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Metal-claw",
+            15
+        ],
+        [
+            "Dig",
+            19
+        ],
+        [
+            "Hone-claws",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Horn-drill",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Sandstorm",
+            49
+        ],
+        [
+            "Drill-run",
+            55
+        ],
+        [
+            "Fissure",
+            62
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Rapid-spin learnt at level 5",
-        "Mud-slap learnt at level 8",
-        "Fury-swipes learnt at level 12",
-        "Metal-claw learnt at level 15",
-        "Dig learnt at level 19",
-        "Hone-claws learnt at level 22",
-        "Slash learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Horn-drill learnt at level 31",
-        "Earthquake learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Sandstorm learnt at level 49",
-        "Drill-run learnt at level 55",
-        "Fissure learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Rapid-spin",
+            5
+        ],
+        [
+            "Mud-slap",
+            8
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Metal-claw",
+            15
+        ],
+        [
+            "Dig",
+            19
+        ],
+        [
+            "Hone-claws",
+            22
+        ],
+        [
+            "Slash",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Horn-drill",
+            31
+        ],
+        [
+            "Earthquake",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Sandstorm",
+            49
+        ],
+        [
+            "Drill-run",
+            55
+        ],
+        [
+            "Fissure",
+            62
+        ]
     ]
 }

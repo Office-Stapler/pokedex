@@ -1,41 +1,146 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leafage learnt at level 1",
-        "Growl learnt at level 4",
-        "Peck learnt at level 8",
-        "Astonish learnt at level 11",
-        "Razor-leaf learnt at level 14",
-        "Ominous-wind learnt at level 16",
-        "Foresight learnt at level 19",
-        "Pluck learnt at level 24",
-        "Synthesis learnt at level 28",
-        "Fury-attack learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Leaf-blade learnt at level 42",
-        "Feather-dance learnt at level 46",
-        "Brave-bird learnt at level 51",
-        "Nasty-plot learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leafage",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Peck",
+            8
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Razor-leaf",
+            14
+        ],
+        [
+            "Ominous-wind",
+            16
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Pluck",
+            24
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Fury-attack",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Leaf-blade",
+            42
+        ],
+        [
+            "Feather-dance",
+            46
+        ],
+        [
+            "Brave-bird",
+            51
+        ],
+        [
+            "Nasty-plot",
+            55
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leafage learnt at level 1",
-        "Growl learnt at level 4",
-        "Peck learnt at level 8",
-        "Astonish learnt at level 11",
-        "Razor-leaf learnt at level 15",
-        "Foresight learnt at level 19",
-        "Pluck learnt at level 24",
-        "Synthesis learnt at level 28",
-        "Fury-attack learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Leaf-blade learnt at level 42",
-        "Feather-dance learnt at level 46",
-        "Brave-bird learnt at level 51",
-        "Nasty-plot learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leafage",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Peck",
+            8
+        ],
+        [
+            "Astonish",
+            11
+        ],
+        [
+            "Razor-leaf",
+            15
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Pluck",
+            24
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Fury-attack",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Leaf-blade",
+            42
+        ],
+        [
+            "Feather-dance",
+            46
+        ],
+        [
+            "Brave-bird",
+            51
+        ],
+        [
+            "Nasty-plot",
+            55
+        ]
     ]
 }

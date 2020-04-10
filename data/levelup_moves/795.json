@@ -1,44 +1,158 @@
 {
     "ultra-sun-ultra-moon": [
-        "Double-kick learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Quick-guard learnt at level 1",
-        "Swift learnt at level 7",
-        "Stomp learnt at level 13",
-        "Feint learnt at level 19",
-        "Silver-wind learnt at level 23",
-        "Bounce learnt at level 29",
-        "Jump-kick learnt at level 31",
-        "Agility learnt at level 37",
-        "Triple-kick learnt at level 43",
-        "Lunge learnt at level 47",
-        "Bug-buzz learnt at level 53",
-        "Me-first learnt at level 59",
-        "High-jump-kick learnt at level 67",
-        "Speed-swap learnt at level 73"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Quick-guard",
+            1
+        ],
+        [
+            "Swift",
+            7
+        ],
+        [
+            "Stomp",
+            13
+        ],
+        [
+            "Feint",
+            19
+        ],
+        [
+            "Silver-wind",
+            23
+        ],
+        [
+            "Bounce",
+            29
+        ],
+        [
+            "Jump-kick",
+            31
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Triple-kick",
+            43
+        ],
+        [
+            "Lunge",
+            47
+        ],
+        [
+            "Bug-buzz",
+            53
+        ],
+        [
+            "Me-first",
+            59
+        ],
+        [
+            "High-jump-kick",
+            67
+        ],
+        [
+            "Speed-swap",
+            73
+        ]
     ],
     "sun-moon": [
-        "Double-kick learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Quick-guard learnt at level 1",
-        "Swift learnt at level 7",
-        "Stomp learnt at level 13",
-        "Feint learnt at level 19",
-        "Silver-wind learnt at level 23",
-        "Bounce learnt at level 29",
-        "Jump-kick learnt at level 31",
-        "Agility learnt at level 37",
-        "Triple-kick learnt at level 43",
-        "Lunge learnt at level 47",
-        "Bug-buzz learnt at level 53",
-        "Me-first learnt at level 59",
-        "High-jump-kick learnt at level 67",
-        "Speed-swap learnt at level 73"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Quick-guard",
+            1
+        ],
+        [
+            "Swift",
+            7
+        ],
+        [
+            "Stomp",
+            13
+        ],
+        [
+            "Feint",
+            19
+        ],
+        [
+            "Silver-wind",
+            23
+        ],
+        [
+            "Bounce",
+            29
+        ],
+        [
+            "Jump-kick",
+            31
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Triple-kick",
+            43
+        ],
+        [
+            "Lunge",
+            47
+        ],
+        [
+            "Bug-buzz",
+            53
+        ],
+        [
+            "Me-first",
+            59
+        ],
+        [
+            "High-jump-kick",
+            67
+        ],
+        [
+            "Speed-swap",
+            73
+        ]
     ]
 }

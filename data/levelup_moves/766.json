@@ -1,36 +1,126 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 4",
-        "Rock-smash learnt at level 8",
-        "Focus-energy learnt at level 11",
-        "Beat-up learnt at level 15",
-        "Scary-face learnt at level 18",
-        "Take-down learnt at level 22",
-        "Bestow learnt at level 25",
-        "Thrash learnt at level 29",
-        "Bulk-up learnt at level 32",
-        "Double-edge learnt at level 36",
-        "Fling learnt at level 39",
-        "Close-combat learnt at level 43",
-        "Reversal learnt at level 46",
-        "Giga-impact learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Rock-smash",
+            8
+        ],
+        [
+            "Focus-energy",
+            11
+        ],
+        [
+            "Beat-up",
+            15
+        ],
+        [
+            "Scary-face",
+            18
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Bulk-up",
+            32
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Fling",
+            39
+        ],
+        [
+            "Close-combat",
+            43
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Giga-impact",
+            50
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 4",
-        "Rock-smash learnt at level 8",
-        "Focus-energy learnt at level 11",
-        "Beat-up learnt at level 15",
-        "Scary-face learnt at level 18",
-        "Take-down learnt at level 22",
-        "Bestow learnt at level 25",
-        "Thrash learnt at level 29",
-        "Bulk-up learnt at level 32",
-        "Double-edge learnt at level 36",
-        "Fling learnt at level 39",
-        "Close-combat learnt at level 43",
-        "Reversal learnt at level 46",
-        "Giga-impact learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Rock-smash",
+            8
+        ],
+        [
+            "Focus-energy",
+            11
+        ],
+        [
+            "Beat-up",
+            15
+        ],
+        [
+            "Scary-face",
+            18
+        ],
+        [
+            "Take-down",
+            22
+        ],
+        [
+            "Bestow",
+            25
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Bulk-up",
+            32
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Fling",
+            39
+        ],
+        [
+            "Close-combat",
+            43
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Giga-impact",
+            50
+        ]
     ]
 }

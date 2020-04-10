@@ -1,250 +1,910 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Psywave learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Wish learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Water-sport learnt at level 4",
-        "Charm learnt at level 7",
-        "Stored-power learnt at level 10",
-        "Refresh learnt at level 13",
-        "Heal-pulse learnt at level 16",
-        "Dragon-breath learnt at level 20",
-        "Mist-ball learnt at level 24",
-        "Psycho-shift learnt at level 28",
-        "Recover learnt at level 32",
-        "Reflect-type learnt at level 36",
-        "Zen-headbutt learnt at level 41",
-        "Guard-split learnt at level 46",
-        "Psychic learnt at level 51",
-        "Dragon-pulse learnt at level 56",
-        "Healing-wish learnt at level 61"
-    ],
-    "x-y": [
-        "Psywave learnt at level 1",
-        "Charm learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Dragon-pulse learnt at level 1",
-        "Guard-split learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Reflect-type learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Zen-headbutt learnt at level 40",
-        "Recover learnt at level 45",
-        "Psycho-shift learnt at level 50",
-        "Charm learnt at level 55",
-        "Psychic learnt at level 60",
-        "Heal-pulse learnt at level 65",
-        "Reflect-type learnt at level 70",
-        "Guard-split learnt at level 75",
-        "Dragon-pulse learnt at level 80",
-        "Healing-wish learnt at level 85"
-    ],
-    "diamond-pearl": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Zen-headbutt learnt at level 40",
-        "Recover learnt at level 45",
-        "Psycho-shift learnt at level 50",
-        "Charm learnt at level 55",
-        "Healing-wish learnt at level 60",
-        "Psychic learnt at level 65",
-        "Dragon-pulse learnt at level 70"
-    ],
-    "firered-leafgreen": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Psychic learnt at level 40",
-        "Recover learnt at level 45",
-        "Charm learnt at level 50"
-    ],
-    "emerald": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Psychic learnt at level 40",
-        "Recover learnt at level 45",
-        "Charm learnt at level 50"
-    ],
-    "black-2-white-2": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Zen-headbutt learnt at level 40",
-        "Recover learnt at level 45",
-        "Psycho-shift learnt at level 50",
-        "Charm learnt at level 55",
-        "Psychic learnt at level 60",
-        "Heal-pulse learnt at level 65",
-        "Reflect-type learnt at level 70",
-        "Guard-split learnt at level 75",
-        "Dragon-pulse learnt at level 80",
-        "Healing-wish learnt at level 85"
-    ],
-    "xd": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Psychic learnt at level 40",
-        "Recover learnt at level 45",
-        "Charm learnt at level 50"
-    ],
-    "colosseum": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Psychic learnt at level 40",
-        "Recover learnt at level 45",
-        "Charm learnt at level 50"
-    ],
-    "black-white": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Zen-headbutt learnt at level 40",
-        "Recover learnt at level 45",
-        "Psycho-shift learnt at level 50",
-        "Charm learnt at level 55",
-        "Psychic learnt at level 60",
-        "Heal-pulse learnt at level 65",
-        "Reflect-type learnt at level 70",
-        "Guard-split learnt at level 75",
-        "Dragon-pulse learnt at level 80",
-        "Healing-wish learnt at level 85"
-    ],
-    "heartgold-soulsilver": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Zen-headbutt learnt at level 40",
-        "Recover learnt at level 45",
-        "Psycho-shift learnt at level 50",
-        "Charm learnt at level 55",
-        "Healing-wish learnt at level 60",
-        "Psychic learnt at level 65",
-        "Dragon-pulse learnt at level 70"
-    ],
-    "platinum": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Zen-headbutt learnt at level 40",
-        "Recover learnt at level 45",
-        "Psycho-shift learnt at level 50",
-        "Charm learnt at level 55",
-        "Healing-wish learnt at level 60",
-        "Psychic learnt at level 65",
-        "Dragon-pulse learnt at level 70"
-    ],
-    "ruby-sapphire": [
-        "Psywave learnt at level 1",
-        "Wish learnt at level 5",
-        "Helping-hand learnt at level 10",
-        "Safeguard learnt at level 15",
-        "Dragon-breath learnt at level 20",
-        "Water-sport learnt at level 25",
-        "Refresh learnt at level 30",
-        "Mist-ball learnt at level 35",
-        "Psychic learnt at level 40",
-        "Recover learnt at level 45",
-        "Charm learnt at level 50"
-    ],
     "ultra-sun-ultra-moon": [
-        "Psywave learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Wish learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Water-sport learnt at level 4",
-        "Charm learnt at level 7",
-        "Stored-power learnt at level 10",
-        "Refresh learnt at level 13",
-        "Heal-pulse learnt at level 16",
-        "Dragon-breath learnt at level 20",
-        "Mist-ball learnt at level 24",
-        "Psycho-shift learnt at level 28",
-        "Recover learnt at level 32",
-        "Reflect-type learnt at level 36",
-        "Zen-headbutt learnt at level 41",
-        "Guard-split learnt at level 46",
-        "Psychic learnt at level 51",
-        "Dragon-pulse learnt at level 56",
-        "Healing-wish learnt at level 61"
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Wish",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Water-sport",
+            4
+        ],
+        [
+            "Charm",
+            7
+        ],
+        [
+            "Stored-power",
+            10
+        ],
+        [
+            "Refresh",
+            13
+        ],
+        [
+            "Heal-pulse",
+            16
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Mist-ball",
+            24
+        ],
+        [
+            "Psycho-shift",
+            28
+        ],
+        [
+            "Recover",
+            32
+        ],
+        [
+            "Reflect-type",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Guard-split",
+            46
+        ],
+        [
+            "Psychic",
+            51
+        ],
+        [
+            "Dragon-pulse",
+            56
+        ],
+        [
+            "Healing-wish",
+            61
+        ]
     ],
     "sun-moon": [
-        "Psywave learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Wish learnt at level 1",
-        "Healing-wish learnt at level 1",
-        "Water-sport learnt at level 4",
-        "Charm learnt at level 7",
-        "Stored-power learnt at level 10",
-        "Refresh learnt at level 13",
-        "Heal-pulse learnt at level 16",
-        "Dragon-breath learnt at level 20",
-        "Mist-ball learnt at level 24",
-        "Psycho-shift learnt at level 28",
-        "Recover learnt at level 32",
-        "Reflect-type learnt at level 36",
-        "Zen-headbutt learnt at level 41",
-        "Guard-split learnt at level 46",
-        "Psychic learnt at level 51",
-        "Dragon-pulse learnt at level 56",
-        "Healing-wish learnt at level 61"
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Wish",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Water-sport",
+            4
+        ],
+        [
+            "Charm",
+            7
+        ],
+        [
+            "Stored-power",
+            10
+        ],
+        [
+            "Refresh",
+            13
+        ],
+        [
+            "Heal-pulse",
+            16
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Mist-ball",
+            24
+        ],
+        [
+            "Psycho-shift",
+            28
+        ],
+        [
+            "Recover",
+            32
+        ],
+        [
+            "Reflect-type",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Guard-split",
+            46
+        ],
+        [
+            "Psychic",
+            51
+        ],
+        [
+            "Dragon-pulse",
+            56
+        ],
+        [
+            "Healing-wish",
+            61
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Wish",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Water-sport",
+            4
+        ],
+        [
+            "Charm",
+            7
+        ],
+        [
+            "Stored-power",
+            10
+        ],
+        [
+            "Refresh",
+            13
+        ],
+        [
+            "Heal-pulse",
+            16
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Mist-ball",
+            24
+        ],
+        [
+            "Psycho-shift",
+            28
+        ],
+        [
+            "Recover",
+            32
+        ],
+        [
+            "Reflect-type",
+            36
+        ],
+        [
+            "Zen-headbutt",
+            41
+        ],
+        [
+            "Guard-split",
+            46
+        ],
+        [
+            "Psychic",
+            51
+        ],
+        [
+            "Dragon-pulse",
+            56
+        ],
+        [
+            "Healing-wish",
+            61
+        ]
+    ],
+    "x-y": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Healing-wish",
+            1
+        ],
+        [
+            "Dragon-pulse",
+            1
+        ],
+        [
+            "Guard-split",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Reflect-type",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Zen-headbutt",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Psycho-shift",
+            50
+        ],
+        [
+            "Charm",
+            55
+        ],
+        [
+            "Psychic",
+            60
+        ],
+        [
+            "Heal-pulse",
+            65
+        ],
+        [
+            "Reflect-type",
+            70
+        ],
+        [
+            "Guard-split",
+            75
+        ],
+        [
+            "Dragon-pulse",
+            80
+        ],
+        [
+            "Healing-wish",
+            85
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Zen-headbutt",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Psycho-shift",
+            50
+        ],
+        [
+            "Charm",
+            55
+        ],
+        [
+            "Healing-wish",
+            60
+        ],
+        [
+            "Psychic",
+            65
+        ],
+        [
+            "Dragon-pulse",
+            70
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Charm",
+            50
+        ]
+    ],
+    "emerald": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Charm",
+            50
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Zen-headbutt",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Psycho-shift",
+            50
+        ],
+        [
+            "Charm",
+            55
+        ],
+        [
+            "Psychic",
+            60
+        ],
+        [
+            "Heal-pulse",
+            65
+        ],
+        [
+            "Reflect-type",
+            70
+        ],
+        [
+            "Guard-split",
+            75
+        ],
+        [
+            "Dragon-pulse",
+            80
+        ],
+        [
+            "Healing-wish",
+            85
+        ]
+    ],
+    "xd": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Charm",
+            50
+        ]
+    ],
+    "colosseum": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Charm",
+            50
+        ]
+    ],
+    "black-white": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Zen-headbutt",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Psycho-shift",
+            50
+        ],
+        [
+            "Charm",
+            55
+        ],
+        [
+            "Psychic",
+            60
+        ],
+        [
+            "Heal-pulse",
+            65
+        ],
+        [
+            "Reflect-type",
+            70
+        ],
+        [
+            "Guard-split",
+            75
+        ],
+        [
+            "Dragon-pulse",
+            80
+        ],
+        [
+            "Healing-wish",
+            85
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Zen-headbutt",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Psycho-shift",
+            50
+        ],
+        [
+            "Charm",
+            55
+        ],
+        [
+            "Healing-wish",
+            60
+        ],
+        [
+            "Psychic",
+            65
+        ],
+        [
+            "Dragon-pulse",
+            70
+        ]
+    ],
+    "platinum": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Zen-headbutt",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Psycho-shift",
+            50
+        ],
+        [
+            "Charm",
+            55
+        ],
+        [
+            "Healing-wish",
+            60
+        ],
+        [
+            "Psychic",
+            65
+        ],
+        [
+            "Dragon-pulse",
+            70
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Wish",
+            5
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Safeguard",
+            15
+        ],
+        [
+            "Dragon-breath",
+            20
+        ],
+        [
+            "Water-sport",
+            25
+        ],
+        [
+            "Refresh",
+            30
+        ],
+        [
+            "Mist-ball",
+            35
+        ],
+        [
+            "Psychic",
+            40
+        ],
+        [
+            "Recover",
+            45
+        ],
+        [
+            "Charm",
+            50
+        ]
     ]
 }

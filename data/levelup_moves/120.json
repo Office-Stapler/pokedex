@@ -1,280 +1,1006 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Rapid-spin learnt at level 7",
-        "Recover learnt at level 10",
-        "Psywave learnt at level 13",
-        "Swift learnt at level 16",
-        "Bubble-beam learnt at level 18",
-        "Camouflage learnt at level 22",
-        "Gyro-ball learnt at level 24",
-        "Brine learnt at level 28",
-        "Minimize learnt at level 31",
-        "Reflect-type learnt at level 35",
-        "Power-gem learnt at level 37",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 42",
-        "Light-screen learnt at level 46",
-        "Cosmic-power learnt at level 49",
-        "Hydro-pump learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Rapid-spin",
+            7
+        ],
+        [
+            "Recover",
+            10
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Camouflage",
+            22
+        ],
+        [
+            "Gyro-ball",
+            24
+        ],
+        [
+            "Brine",
+            28
+        ],
+        [
+            "Minimize",
+            31
+        ],
+        [
+            "Reflect-type",
+            35
+        ],
+        [
+            "Power-gem",
+            37
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            42
+        ],
+        [
+            "Light-screen",
+            46
+        ],
+        [
+            "Cosmic-power",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 12",
-        "Camouflage learnt at level 15",
-        "Swift learnt at level 18",
-        "Bubble-beam learnt at level 22",
-        "Minimize learnt at level 25",
-        "Gyro-ball learnt at level 30",
-        "Light-screen learnt at level 33",
-        "Brine learnt at level 36",
-        "Reflect-type learnt at level 40",
-        "Power-gem learnt at level 43",
-        "Cosmic-power learnt at level 48",
-        "Hydro-pump learnt at level 52"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            12
+        ],
+        [
+            "Camouflage",
+            15
+        ],
+        [
+            "Swift",
+            18
+        ],
+        [
+            "Bubble-beam",
+            22
+        ],
+        [
+            "Minimize",
+            25
+        ],
+        [
+            "Gyro-ball",
+            30
+        ],
+        [
+            "Light-screen",
+            33
+        ],
+        [
+            "Brine",
+            36
+        ],
+        [
+            "Reflect-type",
+            40
+        ],
+        [
+            "Power-gem",
+            43
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Hydro-pump",
+            52
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Light-screen learnt at level 37",
-        "Cosmic-power learnt at level 42",
-        "Hydro-pump learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Cosmic-power",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Light-screen learnt at level 37",
-        "Cosmic-power learnt at level 42",
-        "Hydro-pump learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Cosmic-power",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Gyro-ball learnt at level 37",
-        "Light-screen learnt at level 42",
-        "Reflect-type learnt at level 46",
-        "Power-gem learnt at level 51",
-        "Cosmic-power learnt at level 55",
-        "Hydro-pump learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Gyro-ball",
+            37
+        ],
+        [
+            "Light-screen",
+            42
+        ],
+        [
+            "Reflect-type",
+            46
+        ],
+        [
+            "Power-gem",
+            51
+        ],
+        [
+            "Cosmic-power",
+            55
+        ],
+        [
+            "Hydro-pump",
+            60
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Light-screen learnt at level 37",
-        "Cosmic-power learnt at level 42",
-        "Hydro-pump learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Cosmic-power",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 7",
-        "Rapid-spin learnt at level 13",
-        "Recover learnt at level 19",
-        "Swift learnt at level 25",
-        "Bubble-beam learnt at level 31",
-        "Minimize learnt at level 37",
-        "Light-screen learnt at level 43",
-        "Hydro-pump learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Rapid-spin",
+            13
+        ],
+        [
+            "Recover",
+            19
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Bubble-beam",
+            31
+        ],
+        [
+            "Minimize",
+            37
+        ],
+        [
+            "Light-screen",
+            43
+        ],
+        [
+            "Hydro-pump",
+            50
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 7",
-        "Rapid-spin learnt at level 13",
-        "Recover learnt at level 19",
-        "Swift learnt at level 25",
-        "Bubble-beam learnt at level 31",
-        "Minimize learnt at level 37",
-        "Light-screen learnt at level 43",
-        "Hydro-pump learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Rapid-spin",
+            13
+        ],
+        [
+            "Recover",
+            19
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Bubble-beam",
+            31
+        ],
+        [
+            "Minimize",
+            37
+        ],
+        [
+            "Light-screen",
+            43
+        ],
+        [
+            "Hydro-pump",
+            50
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Rapid-spin learnt at level 7",
-        "Recover learnt at level 10",
-        "Psywave learnt at level 13",
-        "Swift learnt at level 16",
-        "Bubble-beam learnt at level 18",
-        "Camouflage learnt at level 22",
-        "Gyro-ball learnt at level 24",
-        "Brine learnt at level 28",
-        "Minimize learnt at level 31",
-        "Reflect-type learnt at level 35",
-        "Power-gem learnt at level 37",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 42",
-        "Light-screen learnt at level 46",
-        "Cosmic-power learnt at level 49",
-        "Hydro-pump learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Rapid-spin",
+            7
+        ],
+        [
+            "Recover",
+            10
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Camouflage",
+            22
+        ],
+        [
+            "Gyro-ball",
+            24
+        ],
+        [
+            "Brine",
+            28
+        ],
+        [
+            "Minimize",
+            31
+        ],
+        [
+            "Reflect-type",
+            35
+        ],
+        [
+            "Power-gem",
+            37
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            42
+        ],
+        [
+            "Light-screen",
+            46
+        ],
+        [
+            "Cosmic-power",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Rapid-spin learnt at level 7",
-        "Recover learnt at level 10",
-        "Psywave learnt at level 13",
-        "Swift learnt at level 16",
-        "Bubble-beam learnt at level 18",
-        "Camouflage learnt at level 22",
-        "Gyro-ball learnt at level 24",
-        "Brine learnt at level 28",
-        "Minimize learnt at level 31",
-        "Reflect-type learnt at level 35",
-        "Power-gem learnt at level 37",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 42",
-        "Light-screen learnt at level 46",
-        "Cosmic-power learnt at level 49",
-        "Hydro-pump learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Rapid-spin",
+            7
+        ],
+        [
+            "Recover",
+            10
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Camouflage",
+            22
+        ],
+        [
+            "Gyro-ball",
+            24
+        ],
+        [
+            "Brine",
+            28
+        ],
+        [
+            "Minimize",
+            31
+        ],
+        [
+            "Reflect-type",
+            35
+        ],
+        [
+            "Power-gem",
+            37
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            42
+        ],
+        [
+            "Light-screen",
+            46
+        ],
+        [
+            "Cosmic-power",
+            49
+        ],
+        [
+            "Hydro-pump",
+            53
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 12",
-        "Camouflage learnt at level 15",
-        "Swift learnt at level 18",
-        "Bubble-beam learnt at level 22",
-        "Minimize learnt at level 25",
-        "Gyro-ball learnt at level 30",
-        "Light-screen learnt at level 33",
-        "Brine learnt at level 36",
-        "Reflect-type learnt at level 40",
-        "Power-gem learnt at level 43",
-        "Cosmic-power learnt at level 48",
-        "Hydro-pump learnt at level 52"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            12
+        ],
+        [
+            "Camouflage",
+            15
+        ],
+        [
+            "Swift",
+            18
+        ],
+        [
+            "Bubble-beam",
+            22
+        ],
+        [
+            "Minimize",
+            25
+        ],
+        [
+            "Gyro-ball",
+            30
+        ],
+        [
+            "Light-screen",
+            33
+        ],
+        [
+            "Brine",
+            36
+        ],
+        [
+            "Reflect-type",
+            40
+        ],
+        [
+            "Power-gem",
+            43
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Hydro-pump",
+            52
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Gyro-ball learnt at level 37",
-        "Light-screen learnt at level 42",
-        "Power-gem learnt at level 46",
-        "Cosmic-power learnt at level 51",
-        "Hydro-pump learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Gyro-ball",
+            37
+        ],
+        [
+            "Light-screen",
+            42
+        ],
+        [
+            "Power-gem",
+            46
+        ],
+        [
+            "Cosmic-power",
+            51
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Gyro-ball learnt at level 37",
-        "Light-screen learnt at level 42",
-        "Power-gem learnt at level 46",
-        "Cosmic-power learnt at level 51",
-        "Hydro-pump learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Gyro-ball",
+            37
+        ],
+        [
+            "Light-screen",
+            42
+        ],
+        [
+            "Power-gem",
+            46
+        ],
+        [
+            "Cosmic-power",
+            51
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Gyro-ball learnt at level 37",
-        "Light-screen learnt at level 42",
-        "Power-gem learnt at level 46",
-        "Cosmic-power learnt at level 51",
-        "Hydro-pump learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Gyro-ball",
+            37
+        ],
+        [
+            "Light-screen",
+            42
+        ],
+        [
+            "Power-gem",
+            46
+        ],
+        [
+            "Cosmic-power",
+            51
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Light-screen learnt at level 37",
-        "Cosmic-power learnt at level 42",
-        "Hydro-pump learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Cosmic-power",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Water-gun learnt at level 6",
-        "Rapid-spin learnt at level 10",
-        "Recover learnt at level 15",
-        "Camouflage learnt at level 19",
-        "Swift learnt at level 24",
-        "Bubble-beam learnt at level 28",
-        "Minimize learnt at level 33",
-        "Light-screen learnt at level 37",
-        "Cosmic-power learnt at level 42",
-        "Hydro-pump learnt at level 46"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Water-gun",
+            6
+        ],
+        [
+            "Rapid-spin",
+            10
+        ],
+        [
+            "Recover",
+            15
+        ],
+        [
+            "Camouflage",
+            19
+        ],
+        [
+            "Swift",
+            24
+        ],
+        [
+            "Bubble-beam",
+            28
+        ],
+        [
+            "Minimize",
+            33
+        ],
+        [
+            "Light-screen",
+            37
+        ],
+        [
+            "Cosmic-power",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 17",
-        "Harden learnt at level 22",
-        "Recover learnt at level 27",
-        "Swift learnt at level 32",
-        "Minimize learnt at level 37",
-        "Light-screen learnt at level 42",
-        "Hydro-pump learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Recover",
+            27
+        ],
+        [
+            "Swift",
+            32
+        ],
+        [
+            "Minimize",
+            37
+        ],
+        [
+            "Light-screen",
+            42
+        ],
+        [
+            "Hydro-pump",
+            47
+        ]
     ],
     "red-blue": [
-        "Tackle learnt at level 1",
-        "Water-gun learnt at level 17",
-        "Harden learnt at level 22",
-        "Recover learnt at level 27",
-        "Swift learnt at level 32",
-        "Minimize learnt at level 37",
-        "Light-screen learnt at level 42",
-        "Hydro-pump learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Water-gun",
+            17
+        ],
+        [
+            "Harden",
+            22
+        ],
+        [
+            "Recover",
+            27
+        ],
+        [
+            "Swift",
+            32
+        ],
+        [
+            "Minimize",
+            37
+        ],
+        [
+            "Light-screen",
+            42
+        ],
+        [
+            "Hydro-pump",
+            47
+        ]
     ]
 }

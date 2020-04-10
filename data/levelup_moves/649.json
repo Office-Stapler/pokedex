@@ -1,132 +1,486 @@
 {
     "sun-moon": [
-        "Quick-attack learnt at level 1",
-        "Screech learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Techno-blast learnt at level 1",
-        "Fell-stinger learnt at level 1",
-        "Fury-cutter learnt at level 7",
-        "Lock-on learnt at level 11",
-        "Flame-charge learnt at level 18",
-        "Magnet-bomb learnt at level 22",
-        "Slash learnt at level 29",
-        "Metal-sound learnt at level 33",
-        "Signal-beam learnt at level 40",
-        "Tri-attack learnt at level 44",
-        "X-scissor learnt at level 51",
-        "Bug-buzz learnt at level 55",
-        "Simple-beam learnt at level 62",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 73",
-        "Self-destruct learnt at level 77"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Techno-blast",
+            1
+        ],
+        [
+            "Fell-stinger",
+            1
+        ],
+        [
+            "Fury-cutter",
+            7
+        ],
+        [
+            "Lock-on",
+            11
+        ],
+        [
+            "Flame-charge",
+            18
+        ],
+        [
+            "Magnet-bomb",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Metal-sound",
+            33
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Tri-attack",
+            44
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Bug-buzz",
+            55
+        ],
+        [
+            "Simple-beam",
+            62
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Self-destruct",
+            77
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Quick-attack learnt at level 1",
-        "Screech learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Techno-blast learnt at level 1",
-        "Fell-stinger learnt at level 1",
-        "Fury-cutter learnt at level 7",
-        "Lock-on learnt at level 11",
-        "Flame-charge learnt at level 18",
-        "Magnet-bomb learnt at level 22",
-        "Slash learnt at level 29",
-        "Metal-sound learnt at level 33",
-        "Signal-beam learnt at level 40",
-        "Tri-attack learnt at level 44",
-        "X-scissor learnt at level 51",
-        "Bug-buzz learnt at level 55",
-        "Simple-beam learnt at level 62",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 73",
-        "Self-destruct learnt at level 77"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Techno-blast",
+            1
+        ],
+        [
+            "Fell-stinger",
+            1
+        ],
+        [
+            "Fury-cutter",
+            7
+        ],
+        [
+            "Lock-on",
+            11
+        ],
+        [
+            "Flame-charge",
+            18
+        ],
+        [
+            "Magnet-bomb",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Metal-sound",
+            33
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Tri-attack",
+            44
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Bug-buzz",
+            55
+        ],
+        [
+            "Simple-beam",
+            62
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Self-destruct",
+            77
+        ]
     ],
     "x-y": [
-        "Quick-attack learnt at level 1",
-        "Screech learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Techno-blast learnt at level 1",
-        "Fell-stinger learnt at level 1",
-        "Fury-cutter learnt at level 7",
-        "Lock-on learnt at level 11",
-        "Flame-charge learnt at level 18",
-        "Magnet-bomb learnt at level 22",
-        "Slash learnt at level 29",
-        "Metal-sound learnt at level 33",
-        "Signal-beam learnt at level 40",
-        "Tri-attack learnt at level 44",
-        "X-scissor learnt at level 51",
-        "Bug-buzz learnt at level 55",
-        "Simple-beam learnt at level 62",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 73",
-        "Self-destruct learnt at level 77"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Techno-blast",
+            1
+        ],
+        [
+            "Fell-stinger",
+            1
+        ],
+        [
+            "Fury-cutter",
+            7
+        ],
+        [
+            "Lock-on",
+            11
+        ],
+        [
+            "Flame-charge",
+            18
+        ],
+        [
+            "Magnet-bomb",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Metal-sound",
+            33
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Tri-attack",
+            44
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Bug-buzz",
+            55
+        ],
+        [
+            "Simple-beam",
+            62
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Self-destruct",
+            77
+        ]
     ],
     "black-2-white-2": [
-        "Quick-attack learnt at level 1",
-        "Screech learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Techno-blast learnt at level 1",
-        "Fury-cutter learnt at level 7",
-        "Lock-on learnt at level 11",
-        "Flame-charge learnt at level 18",
-        "Magnet-bomb learnt at level 22",
-        "Slash learnt at level 29",
-        "Metal-sound learnt at level 33",
-        "Signal-beam learnt at level 40",
-        "Tri-attack learnt at level 44",
-        "X-scissor learnt at level 51",
-        "Bug-buzz learnt at level 55",
-        "Simple-beam learnt at level 62",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 73",
-        "Self-destruct learnt at level 77"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Techno-blast",
+            1
+        ],
+        [
+            "Fury-cutter",
+            7
+        ],
+        [
+            "Lock-on",
+            11
+        ],
+        [
+            "Flame-charge",
+            18
+        ],
+        [
+            "Magnet-bomb",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Metal-sound",
+            33
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Tri-attack",
+            44
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Bug-buzz",
+            55
+        ],
+        [
+            "Simple-beam",
+            62
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Self-destruct",
+            77
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Quick-attack learnt at level 1",
-        "Screech learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Techno-blast learnt at level 1",
-        "Fell-stinger learnt at level 1",
-        "Fury-cutter learnt at level 7",
-        "Lock-on learnt at level 11",
-        "Flame-charge learnt at level 18",
-        "Magnet-bomb learnt at level 22",
-        "Slash learnt at level 29",
-        "Metal-sound learnt at level 33",
-        "Signal-beam learnt at level 40",
-        "Tri-attack learnt at level 44",
-        "X-scissor learnt at level 51",
-        "Bug-buzz learnt at level 55",
-        "Simple-beam learnt at level 62",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 73",
-        "Self-destruct learnt at level 77"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Techno-blast",
+            1
+        ],
+        [
+            "Fell-stinger",
+            1
+        ],
+        [
+            "Fury-cutter",
+            7
+        ],
+        [
+            "Lock-on",
+            11
+        ],
+        [
+            "Flame-charge",
+            18
+        ],
+        [
+            "Magnet-bomb",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Metal-sound",
+            33
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Tri-attack",
+            44
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Bug-buzz",
+            55
+        ],
+        [
+            "Simple-beam",
+            62
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Self-destruct",
+            77
+        ]
     ],
     "black-white": [
-        "Quick-attack learnt at level 1",
-        "Screech learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Techno-blast learnt at level 1",
-        "Fury-cutter learnt at level 7",
-        "Lock-on learnt at level 11",
-        "Flame-charge learnt at level 18",
-        "Magnet-bomb learnt at level 22",
-        "Slash learnt at level 29",
-        "Metal-sound learnt at level 33",
-        "Signal-beam learnt at level 40",
-        "Tri-attack learnt at level 44",
-        "X-scissor learnt at level 51",
-        "Bug-buzz learnt at level 55",
-        "Simple-beam learnt at level 62",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 73",
-        "Self-destruct learnt at level 77"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Techno-blast",
+            1
+        ],
+        [
+            "Fury-cutter",
+            7
+        ],
+        [
+            "Lock-on",
+            11
+        ],
+        [
+            "Flame-charge",
+            18
+        ],
+        [
+            "Magnet-bomb",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Metal-sound",
+            33
+        ],
+        [
+            "Signal-beam",
+            40
+        ],
+        [
+            "Tri-attack",
+            44
+        ],
+        [
+            "X-scissor",
+            51
+        ],
+        [
+            "Bug-buzz",
+            55
+        ],
+        [
+            "Simple-beam",
+            62
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Self-destruct",
+            77
+        ]
     ]
 }

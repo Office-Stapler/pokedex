@@ -1,254 +1,902 @@
 {
     "ultra-sun-ultra-moon": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Extrasensory learnt at level 47",
-        "Bestow learnt at level 50"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Extrasensory",
+            47
+        ],
+        [
+            "Bestow",
+            50
+        ]
     ],
     "sun-moon": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Extrasensory learnt at level 47",
-        "Bestow learnt at level 50"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Extrasensory",
+            47
+        ],
+        [
+            "Bestow",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Extrasensory learnt at level 47",
-        "Bestow learnt at level 50"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Extrasensory",
+            47
+        ],
+        [
+            "Bestow",
+            50
+        ]
     ],
     "x-y": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Extrasensory learnt at level 47",
-        "Bestow learnt at level 50"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Extrasensory",
+            47
+        ],
+        [
+            "Bestow",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Extrasensory learnt at level 47",
-        "Bestow learnt at level 53"
-    ],
-    "black-white": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Psychic learnt at level 47",
-        "Bestow learnt at level 53"
-    ],
-    "heartgold-soulsilver": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Psychic learnt at level 47"
-    ],
-    "platinum": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Psychic learnt at level 47"
-    ],
-    "diamond-pearl": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 11",
-        "Bullet-seed learnt at level 17",
-        "Stun-spore learnt at level 19",
-        "Poison-powder learnt at level 21",
-        "Sleep-powder learnt at level 23",
-        "Confusion learnt at level 27",
-        "Worry-seed learnt at level 33",
-        "Natural-gift learnt at level 37",
-        "Solar-beam learnt at level 43",
-        "Psychic learnt at level 47"
-    ],
-    "yellow": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Reflect learnt at level 25",
-        "Leech-seed learnt at level 28",
-        "Stun-spore learnt at level 32",
-        "Poison-powder learnt at level 37",
-        "Solar-beam learnt at level 42",
-        "Sleep-powder learnt at level 48"
-    ],
-    "red-blue": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Reflect learnt at level 25",
-        "Leech-seed learnt at level 28",
-        "Stun-spore learnt at level 32",
-        "Poison-powder learnt at level 37",
-        "Solar-beam learnt at level 42",
-        "Sleep-powder learnt at level 48"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Extrasensory",
+            47
+        ],
+        [
+            "Bestow",
+            53
+        ]
     ],
     "xd": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 13",
-        "Confusion learnt at level 19",
-        "Stun-spore learnt at level 25",
-        "Poison-powder learnt at level 31",
-        "Sleep-powder learnt at level 37",
-        "Solar-beam learnt at level 43"
-    ],
-    "firered-leafgreen": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 13",
-        "Confusion learnt at level 19",
-        "Stun-spore learnt at level 25",
-        "Poison-powder learnt at level 31",
-        "Sleep-powder learnt at level 37",
-        "Solar-beam learnt at level 43"
-    ],
-    "emerald": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 13",
-        "Confusion learnt at level 19",
-        "Stun-spore learnt at level 25",
-        "Poison-powder learnt at level 31",
-        "Sleep-powder learnt at level 37",
-        "Solar-beam learnt at level 43"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Confusion",
+            19
+        ],
+        [
+            "Stun-spore",
+            25
+        ],
+        [
+            "Poison-powder",
+            31
+        ],
+        [
+            "Sleep-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ]
     ],
     "colosseum": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 13",
-        "Confusion learnt at level 19",
-        "Stun-spore learnt at level 25",
-        "Poison-powder learnt at level 31",
-        "Sleep-powder learnt at level 37",
-        "Solar-beam learnt at level 43"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Confusion",
+            19
+        ],
+        [
+            "Stun-spore",
+            25
+        ],
+        [
+            "Poison-powder",
+            31
+        ],
+        [
+            "Sleep-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ]
+    ],
+    "black-white": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Psychic",
+            47
+        ],
+        [
+            "Bestow",
+            53
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Psychic",
+            47
+        ]
+    ],
+    "platinum": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Psychic",
+            47
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            11
+        ],
+        [
+            "Bullet-seed",
+            17
+        ],
+        [
+            "Stun-spore",
+            19
+        ],
+        [
+            "Poison-powder",
+            21
+        ],
+        [
+            "Sleep-powder",
+            23
+        ],
+        [
+            "Confusion",
+            27
+        ],
+        [
+            "Worry-seed",
+            33
+        ],
+        [
+            "Natural-gift",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ],
+        [
+            "Psychic",
+            47
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Confusion",
+            19
+        ],
+        [
+            "Stun-spore",
+            25
+        ],
+        [
+            "Poison-powder",
+            31
+        ],
+        [
+            "Sleep-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ]
+    ],
+    "emerald": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Confusion",
+            19
+        ],
+        [
+            "Stun-spore",
+            25
+        ],
+        [
+            "Poison-powder",
+            31
+        ],
+        [
+            "Sleep-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Uproar learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 13",
-        "Confusion learnt at level 19",
-        "Stun-spore learnt at level 25",
-        "Poison-powder learnt at level 31",
-        "Sleep-powder learnt at level 37",
-        "Solar-beam learnt at level 43"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Confusion",
+            19
+        ],
+        [
+            "Stun-spore",
+            25
+        ],
+        [
+            "Poison-powder",
+            31
+        ],
+        [
+            "Sleep-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ]
     ],
     "crystal": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 13",
-        "Confusion learnt at level 19",
-        "Stun-spore learnt at level 25",
-        "Poison-powder learnt at level 31",
-        "Sleep-powder learnt at level 37",
-        "Solar-beam learnt at level 43"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Confusion",
+            19
+        ],
+        [
+            "Stun-spore",
+            25
+        ],
+        [
+            "Poison-powder",
+            31
+        ],
+        [
+            "Sleep-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ]
     ],
     "gold-silver": [
-        "Hypnosis learnt at level 1",
-        "Barrage learnt at level 1",
-        "Reflect learnt at level 7",
-        "Leech-seed learnt at level 13",
-        "Confusion learnt at level 19",
-        "Stun-spore learnt at level 25",
-        "Poison-powder learnt at level 31",
-        "Sleep-powder learnt at level 37",
-        "Solar-beam learnt at level 43"
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Reflect",
+            7
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Confusion",
+            19
+        ],
+        [
+            "Stun-spore",
+            25
+        ],
+        [
+            "Poison-powder",
+            31
+        ],
+        [
+            "Sleep-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            43
+        ]
+    ],
+    "yellow": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Leech-seed",
+            28
+        ],
+        [
+            "Stun-spore",
+            32
+        ],
+        [
+            "Poison-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            42
+        ],
+        [
+            "Sleep-powder",
+            48
+        ]
+    ],
+    "red-blue": [
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Barrage",
+            1
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Leech-seed",
+            28
+        ],
+        [
+            "Stun-spore",
+            32
+        ],
+        [
+            "Poison-powder",
+            37
+        ],
+        [
+            "Solar-beam",
+            42
+        ],
+        [
+            "Sleep-powder",
+            48
+        ]
     ]
 }

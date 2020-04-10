@@ -1,44 +1,158 @@
 {
     "ultra-sun-ultra-moon": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Leer learnt at level 3",
-        "Pursuit learnt at level 7",
-        "Sand-attack learnt at level 10",
-        "Odor-sleuth learnt at level 13",
-        "Bide learnt at level 16",
-        "Bite learnt at level 19",
-        "Mud-slap learnt at level 23",
-        "Super-fang learnt at level 27",
-        "Take-down learnt at level 31",
-        "Scary-face learnt at level 35",
-        "Crunch learnt at level 39",
-        "Hyper-fang learnt at level 43",
-        "Yawn learnt at level 47",
-        "Thrash learnt at level 51",
-        "Rest learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Pursuit",
+            7
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Odor-sleuth",
+            13
+        ],
+        [
+            "Bide",
+            16
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Mud-slap",
+            23
+        ],
+        [
+            "Super-fang",
+            27
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Scary-face",
+            35
+        ],
+        [
+            "Crunch",
+            39
+        ],
+        [
+            "Hyper-fang",
+            43
+        ],
+        [
+            "Yawn",
+            47
+        ],
+        [
+            "Thrash",
+            51
+        ],
+        [
+            "Rest",
+            55
+        ]
     ],
     "sun-moon": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 1",
-        "Leer learnt at level 3",
-        "Pursuit learnt at level 7",
-        "Sand-attack learnt at level 10",
-        "Odor-sleuth learnt at level 13",
-        "Bide learnt at level 16",
-        "Bite learnt at level 19",
-        "Mud-slap learnt at level 23",
-        "Super-fang learnt at level 27",
-        "Take-down learnt at level 31",
-        "Scary-face learnt at level 35",
-        "Crunch learnt at level 39",
-        "Hyper-fang learnt at level 43",
-        "Yawn learnt at level 47",
-        "Thrash learnt at level 51",
-        "Rest learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Pursuit",
+            7
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Odor-sleuth",
+            13
+        ],
+        [
+            "Bide",
+            16
+        ],
+        [
+            "Bite",
+            19
+        ],
+        [
+            "Mud-slap",
+            23
+        ],
+        [
+            "Super-fang",
+            27
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Scary-face",
+            35
+        ],
+        [
+            "Crunch",
+            39
+        ],
+        [
+            "Hyper-fang",
+            43
+        ],
+        [
+            "Yawn",
+            47
+        ],
+        [
+            "Thrash",
+            51
+        ],
+        [
+            "Rest",
+            55
+        ]
     ]
 }

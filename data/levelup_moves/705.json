@@ -1,56 +1,194 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Bubble learnt at level 1",
-        "Absorb learnt at level 5",
-        "Protect learnt at level 9",
-        "Bide learnt at level 13",
-        "Dragon-breath learnt at level 18",
-        "Rain-dance learnt at level 25",
-        "Flail learnt at level 28",
-        "Body-slam learnt at level 32",
-        "Muddy-water learnt at level 38",
-        "Dragon-pulse learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Protect",
+            9
+        ],
+        [
+            "Bide",
+            13
+        ],
+        [
+            "Dragon-breath",
+            18
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Flail",
+            28
+        ],
+        [
+            "Body-slam",
+            32
+        ],
+        [
+            "Muddy-water",
+            38
+        ],
+        [
+            "Dragon-pulse",
+            47
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Bubble learnt at level 1",
-        "Absorb learnt at level 5",
-        "Protect learnt at level 9",
-        "Bide learnt at level 13",
-        "Dragon-breath learnt at level 18",
-        "Rain-dance learnt at level 25",
-        "Flail learnt at level 28",
-        "Body-slam learnt at level 32",
-        "Muddy-water learnt at level 38",
-        "Dragon-pulse learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Protect",
+            9
+        ],
+        [
+            "Bide",
+            13
+        ],
+        [
+            "Dragon-breath",
+            18
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Flail",
+            28
+        ],
+        [
+            "Body-slam",
+            32
+        ],
+        [
+            "Muddy-water",
+            38
+        ],
+        [
+            "Dragon-pulse",
+            47
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Bubble learnt at level 1",
-        "Absorb learnt at level 5",
-        "Protect learnt at level 9",
-        "Bide learnt at level 13",
-        "Dragon-breath learnt at level 18",
-        "Rain-dance learnt at level 25",
-        "Flail learnt at level 28",
-        "Body-slam learnt at level 32",
-        "Muddy-water learnt at level 38",
-        "Dragon-pulse learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Protect",
+            9
+        ],
+        [
+            "Bide",
+            13
+        ],
+        [
+            "Dragon-breath",
+            18
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Flail",
+            28
+        ],
+        [
+            "Body-slam",
+            32
+        ],
+        [
+            "Muddy-water",
+            38
+        ],
+        [
+            "Dragon-pulse",
+            47
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Bubble learnt at level 1",
-        "Absorb learnt at level 5",
-        "Protect learnt at level 9",
-        "Bide learnt at level 13",
-        "Dragon-breath learnt at level 18",
-        "Rain-dance learnt at level 25",
-        "Flail learnt at level 28",
-        "Body-slam learnt at level 32",
-        "Muddy-water learnt at level 38",
-        "Dragon-pulse learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Protect",
+            9
+        ],
+        [
+            "Bide",
+            13
+        ],
+        [
+            "Dragon-breath",
+            18
+        ],
+        [
+            "Rain-dance",
+            25
+        ],
+        [
+            "Flail",
+            28
+        ],
+        [
+            "Body-slam",
+            32
+        ],
+        [
+            "Muddy-water",
+            38
+        ],
+        [
+            "Dragon-pulse",
+            47
+        ]
     ]
 }

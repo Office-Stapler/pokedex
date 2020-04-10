@@ -1,110 +1,398 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Uproar learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 35",
-        "Superpower learnt at level 39",
-        "Overheat learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            35
+        ],
+        [
+            "Superpower",
+            39
+        ],
+        [
+            "Overheat",
+            42
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Uproar learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 35",
-        "Superpower learnt at level 39",
-        "Overheat learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            35
+        ],
+        [
+            "Superpower",
+            39
+        ],
+        [
+            "Overheat",
+            42
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Uproar learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 35",
-        "Superpower learnt at level 39",
-        "Overheat learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            35
+        ],
+        [
+            "Superpower",
+            39
+        ],
+        [
+            "Overheat",
+            42
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Uproar learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 35",
-        "Superpower learnt at level 39",
-        "Overheat learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            35
+        ],
+        [
+            "Superpower",
+            39
+        ],
+        [
+            "Overheat",
+            42
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Uproar learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 35",
-        "Superpower learnt at level 39",
-        "Overheat learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            35
+        ],
+        [
+            "Superpower",
+            39
+        ],
+        [
+            "Overheat",
+            42
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Rollout learnt at level 3",
-        "Incinerate learnt at level 6",
-        "Rage learnt at level 9",
-        "Fire-fang learnt at level 11",
-        "Headbutt learnt at level 14",
-        "Uproar learnt at level 17",
-        "Facade learnt at level 19",
-        "Fire-punch learnt at level 22",
-        "Work-up learnt at level 25",
-        "Thrash learnt at level 27",
-        "Belly-drum learnt at level 30",
-        "Flare-blitz learnt at level 33",
-        "Taunt learnt at level 35",
-        "Superpower learnt at level 39",
-        "Overheat learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rollout",
+            3
+        ],
+        [
+            "Incinerate",
+            6
+        ],
+        [
+            "Rage",
+            9
+        ],
+        [
+            "Fire-fang",
+            11
+        ],
+        [
+            "Headbutt",
+            14
+        ],
+        [
+            "Uproar",
+            17
+        ],
+        [
+            "Facade",
+            19
+        ],
+        [
+            "Fire-punch",
+            22
+        ],
+        [
+            "Work-up",
+            25
+        ],
+        [
+            "Thrash",
+            27
+        ],
+        [
+            "Belly-drum",
+            30
+        ],
+        [
+            "Flare-blitz",
+            33
+        ],
+        [
+            "Taunt",
+            35
+        ],
+        [
+            "Superpower",
+            39
+        ],
+        [
+            "Overheat",
+            42
+        ]
     ]
 }

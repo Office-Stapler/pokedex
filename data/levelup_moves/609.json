@@ -1,42 +1,126 @@
 {
     "ultra-sun-ultra-moon": [
-        "Confuse-ray learnt at level 1",
-        "Smog learnt at level 1",
-        "Pain-split learnt at level 1",
-        "Flame-burst learnt at level 1",
-        "Hex learnt at level 1"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Pain-split",
+            1
+        ],
+        [
+            "Flame-burst",
+            1
+        ],
+        [
+            "Hex",
+            1
+        ]
     ],
     "sun-moon": [
-        "Confuse-ray learnt at level 1",
-        "Smog learnt at level 1",
-        "Pain-split learnt at level 1",
-        "Flame-burst learnt at level 1",
-        "Hex learnt at level 1"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Pain-split",
+            1
+        ],
+        [
+            "Flame-burst",
+            1
+        ],
+        [
+            "Hex",
+            1
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Confuse-ray learnt at level 1",
-        "Smog learnt at level 1",
-        "Pain-split learnt at level 1",
-        "Flame-burst learnt at level 1",
-        "Hex learnt at level 1"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Pain-split",
+            1
+        ],
+        [
+            "Flame-burst",
+            1
+        ],
+        [
+            "Hex",
+            1
+        ]
     ],
     "x-y": [
-        "Confuse-ray learnt at level 1",
-        "Smog learnt at level 1",
-        "Pain-split learnt at level 1",
-        "Flame-burst learnt at level 1",
-        "Hex learnt at level 1"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Pain-split",
+            1
+        ],
+        [
+            "Flame-burst",
+            1
+        ],
+        [
+            "Hex",
+            1
+        ]
     ],
     "black-2-white-2": [
-        "Confuse-ray learnt at level 1",
-        "Smog learnt at level 1",
-        "Flame-burst learnt at level 1",
-        "Hex learnt at level 1"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Flame-burst",
+            1
+        ],
+        [
+            "Hex",
+            1
+        ]
     ],
     "black-white": [
-        "Confuse-ray learnt at level 1",
-        "Smog learnt at level 1",
-        "Flame-burst learnt at level 1",
-        "Hex learnt at level 1"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Flame-burst",
+            1
+        ],
+        [
+            "Hex",
+            1
+        ]
     ]
 }

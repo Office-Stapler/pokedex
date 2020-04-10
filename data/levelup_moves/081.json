@@ -1,273 +1,978 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Thunder-shock learnt at level 5",
-        "Thunder-wave learnt at level 7",
-        "Magnet-bomb learnt at level 11",
-        "Light-screen learnt at level 13",
-        "Sonic-boom learnt at level 17",
-        "Spark learnt at level 19",
-        "Mirror-shot learnt at level 23",
-        "Metal-sound learnt at level 25",
-        "Electro-ball learnt at level 29",
-        "Flash-cannon learnt at level 31",
-        "Screech learnt at level 35",
-        "Discharge learnt at level 37",
-        "Lock-on learnt at level 41",
-        "Magnet-rise learnt at level 43",
-        "Gyro-ball learnt at level 47",
-        "Zap-cannon learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-shock",
+            5
+        ],
+        [
+            "Thunder-wave",
+            7
+        ],
+        [
+            "Magnet-bomb",
+            11
+        ],
+        [
+            "Light-screen",
+            13
+        ],
+        [
+            "Sonic-boom",
+            17
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Mirror-shot",
+            23
+        ],
+        [
+            "Metal-sound",
+            25
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Flash-cannon",
+            31
+        ],
+        [
+            "Screech",
+            35
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Lock-on",
+            41
+        ],
+        [
+            "Magnet-rise",
+            43
+        ],
+        [
+            "Gyro-ball",
+            47
+        ],
+        [
+            "Zap-cannon",
+            49
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Thunder-shock learnt at level 5",
-        "Magnet-bomb learnt at level 7",
-        "Thunder-wave learnt at level 11",
-        "Light-screen learnt at level 13",
-        "Sonic-boom learnt at level 17",
-        "Spark learnt at level 19",
-        "Mirror-shot learnt at level 23",
-        "Metal-sound learnt at level 25",
-        "Electro-ball learnt at level 29",
-        "Flash-cannon learnt at level 31",
-        "Screech learnt at level 35",
-        "Discharge learnt at level 37",
-        "Lock-on learnt at level 41",
-        "Magnet-rise learnt at level 43",
-        "Gyro-ball learnt at level 47",
-        "Zap-cannon learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Thunder-shock",
+            5
+        ],
+        [
+            "Magnet-bomb",
+            7
+        ],
+        [
+            "Thunder-wave",
+            11
+        ],
+        [
+            "Light-screen",
+            13
+        ],
+        [
+            "Sonic-boom",
+            17
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Mirror-shot",
+            23
+        ],
+        [
+            "Metal-sound",
+            25
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Flash-cannon",
+            31
+        ],
+        [
+            "Screech",
+            35
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Lock-on",
+            41
+        ],
+        [
+            "Magnet-rise",
+            43
+        ],
+        [
+            "Gyro-ball",
+            47
+        ],
+        [
+            "Zap-cannon",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 4",
-        "Thunder-shock learnt at level 7",
-        "Sonic-boom learnt at level 11",
-        "Thunder-wave learnt at level 15",
-        "Magnet-bomb learnt at level 18",
-        "Spark learnt at level 21",
-        "Mirror-shot learnt at level 25",
-        "Metal-sound learnt at level 29",
-        "Electro-ball learnt at level 32",
-        "Flash-cannon learnt at level 35",
-        "Screech learnt at level 39",
-        "Discharge learnt at level 43",
-        "Lock-on learnt at level 46",
-        "Magnet-rise learnt at level 49",
-        "Gyro-ball learnt at level 53",
-        "Zap-cannon learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            4
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Sonic-boom",
+            11
+        ],
+        [
+            "Thunder-wave",
+            15
+        ],
+        [
+            "Magnet-bomb",
+            18
+        ],
+        [
+            "Spark",
+            21
+        ],
+        [
+            "Mirror-shot",
+            25
+        ],
+        [
+            "Metal-sound",
+            29
+        ],
+        [
+            "Electro-ball",
+            32
+        ],
+        [
+            "Flash-cannon",
+            35
+        ],
+        [
+            "Screech",
+            39
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Lock-on",
+            46
+        ],
+        [
+            "Magnet-rise",
+            49
+        ],
+        [
+            "Gyro-ball",
+            53
+        ],
+        [
+            "Zap-cannon",
+            57
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 16",
-        "Thunder-wave learnt at level 21",
-        "Spark learnt at level 26",
-        "Lock-on learnt at level 32",
-        "Swift learnt at level 38",
-        "Screech learnt at level 44",
-        "Zap-cannon learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            16
+        ],
+        [
+            "Thunder-wave",
+            21
+        ],
+        [
+            "Spark",
+            26
+        ],
+        [
+            "Lock-on",
+            32
+        ],
+        [
+            "Swift",
+            38
+        ],
+        [
+            "Screech",
+            44
+        ],
+        [
+            "Zap-cannon",
+            50
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 16",
-        "Thunder-wave learnt at level 21",
-        "Spark learnt at level 26",
-        "Lock-on learnt at level 32",
-        "Swift learnt at level 38",
-        "Screech learnt at level 44",
-        "Zap-cannon learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            16
+        ],
+        [
+            "Thunder-wave",
+            21
+        ],
+        [
+            "Spark",
+            26
+        ],
+        [
+            "Lock-on",
+            32
+        ],
+        [
+            "Swift",
+            38
+        ],
+        [
+            "Screech",
+            44
+        ],
+        [
+            "Zap-cannon",
+            50
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Thunder-wave learnt at level 17",
-        "Spark learnt at level 22",
-        "Electro-ball learnt at level 27",
-        "Lock-on learnt at level 30",
-        "Magnet-bomb learnt at level 33",
-        "Screech learnt at level 38",
-        "Discharge learnt at level 43",
-        "Mirror-shot learnt at level 46",
-        "Magnet-rise learnt at level 49",
-        "Gyro-ball learnt at level 54",
-        "Zap-cannon learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Thunder-wave",
+            17
+        ],
+        [
+            "Spark",
+            22
+        ],
+        [
+            "Electro-ball",
+            27
+        ],
+        [
+            "Lock-on",
+            30
+        ],
+        [
+            "Magnet-bomb",
+            33
+        ],
+        [
+            "Screech",
+            38
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Mirror-shot",
+            46
+        ],
+        [
+            "Magnet-rise",
+            49
+        ],
+        [
+            "Gyro-ball",
+            54
+        ],
+        [
+            "Zap-cannon",
+            59
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Thunder-wave learnt at level 17",
-        "Spark learnt at level 22",
-        "Lock-on learnt at level 27",
-        "Magnet-bomb learnt at level 30",
-        "Screech learnt at level 33",
-        "Discharge learnt at level 38",
-        "Mirror-shot learnt at level 43",
-        "Magnet-rise learnt at level 46",
-        "Gyro-ball learnt at level 49",
-        "Zap-cannon learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Thunder-wave",
+            17
+        ],
+        [
+            "Spark",
+            22
+        ],
+        [
+            "Lock-on",
+            27
+        ],
+        [
+            "Magnet-bomb",
+            30
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Discharge",
+            38
+        ],
+        [
+            "Mirror-shot",
+            43
+        ],
+        [
+            "Magnet-rise",
+            46
+        ],
+        [
+            "Gyro-ball",
+            49
+        ],
+        [
+            "Zap-cannon",
+            54
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Thunder-wave learnt at level 17",
-        "Spark learnt at level 22",
-        "Lock-on learnt at level 27",
-        "Magnet-bomb learnt at level 30",
-        "Screech learnt at level 33",
-        "Discharge learnt at level 38",
-        "Mirror-shot learnt at level 43",
-        "Magnet-rise learnt at level 46",
-        "Gyro-ball learnt at level 49",
-        "Zap-cannon learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Thunder-wave",
+            17
+        ],
+        [
+            "Spark",
+            22
+        ],
+        [
+            "Lock-on",
+            27
+        ],
+        [
+            "Magnet-bomb",
+            30
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Discharge",
+            38
+        ],
+        [
+            "Mirror-shot",
+            43
+        ],
+        [
+            "Magnet-rise",
+            46
+        ],
+        [
+            "Gyro-ball",
+            49
+        ],
+        [
+            "Zap-cannon",
+            54
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 14",
-        "Thunder-wave learnt at level 17",
-        "Spark learnt at level 22",
-        "Lock-on learnt at level 27",
-        "Magnet-bomb learnt at level 30",
-        "Screech learnt at level 33",
-        "Discharge learnt at level 38",
-        "Mirror-shot learnt at level 43",
-        "Magnet-rise learnt at level 46",
-        "Gyro-ball learnt at level 49",
-        "Zap-cannon learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            14
+        ],
+        [
+            "Thunder-wave",
+            17
+        ],
+        [
+            "Spark",
+            22
+        ],
+        [
+            "Lock-on",
+            27
+        ],
+        [
+            "Magnet-bomb",
+            30
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Discharge",
+            38
+        ],
+        [
+            "Mirror-shot",
+            43
+        ],
+        [
+            "Magnet-rise",
+            46
+        ],
+        [
+            "Gyro-ball",
+            49
+        ],
+        [
+            "Zap-cannon",
+            54
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 16",
-        "Thunder-wave learnt at level 21",
-        "Spark learnt at level 26",
-        "Lock-on learnt at level 32",
-        "Swift learnt at level 38",
-        "Screech learnt at level 44",
-        "Zap-cannon learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            16
+        ],
+        [
+            "Thunder-wave",
+            21
+        ],
+        [
+            "Spark",
+            26
+        ],
+        [
+            "Lock-on",
+            32
+        ],
+        [
+            "Swift",
+            38
+        ],
+        [
+            "Screech",
+            44
+        ],
+        [
+            "Zap-cannon",
+            50
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 16",
-        "Thunder-wave learnt at level 21",
-        "Spark learnt at level 26",
-        "Lock-on learnt at level 32",
-        "Swift learnt at level 38",
-        "Screech learnt at level 44",
-        "Zap-cannon learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            16
+        ],
+        [
+            "Thunder-wave",
+            21
+        ],
+        [
+            "Spark",
+            26
+        ],
+        [
+            "Lock-on",
+            32
+        ],
+        [
+            "Swift",
+            38
+        ],
+        [
+            "Screech",
+            44
+        ],
+        [
+            "Zap-cannon",
+            50
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Metal-sound learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 16",
-        "Thunder-wave learnt at level 21",
-        "Spark learnt at level 26",
-        "Lock-on learnt at level 32",
-        "Swift learnt at level 38",
-        "Screech learnt at level 44",
-        "Zap-cannon learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metal-sound",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            16
+        ],
+        [
+            "Thunder-wave",
+            21
+        ],
+        [
+            "Spark",
+            26
+        ],
+        [
+            "Lock-on",
+            32
+        ],
+        [
+            "Swift",
+            38
+        ],
+        [
+            "Screech",
+            44
+        ],
+        [
+            "Zap-cannon",
+            50
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 16",
-        "Thunder-wave learnt at level 21",
-        "Lock-on learnt at level 27",
-        "Swift learnt at level 33",
-        "Screech learnt at level 39",
-        "Zap-cannon learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            16
+        ],
+        [
+            "Thunder-wave",
+            21
+        ],
+        [
+            "Lock-on",
+            27
+        ],
+        [
+            "Swift",
+            33
+        ],
+        [
+            "Screech",
+            39
+        ],
+        [
+            "Zap-cannon",
+            45
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Supersonic learnt at level 11",
-        "Sonic-boom learnt at level 16",
-        "Thunder-wave learnt at level 21",
-        "Lock-on learnt at level 27",
-        "Swift learnt at level 33",
-        "Screech learnt at level 39",
-        "Zap-cannon learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Supersonic",
+            11
+        ],
+        [
+            "Sonic-boom",
+            16
+        ],
+        [
+            "Thunder-wave",
+            21
+        ],
+        [
+            "Lock-on",
+            27
+        ],
+        [
+            "Swift",
+            33
+        ],
+        [
+            "Screech",
+            39
+        ],
+        [
+            "Zap-cannon",
+            45
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Thunder-shock learnt at level 7",
-        "Sonic-boom learnt at level 11",
-        "Thunder-wave learnt at level 13",
-        "Magnet-bomb learnt at level 17",
-        "Spark learnt at level 19",
-        "Mirror-shot learnt at level 23",
-        "Metal-sound learnt at level 25",
-        "Electro-ball learnt at level 29",
-        "Flash-cannon learnt at level 31",
-        "Screech learnt at level 35",
-        "Discharge learnt at level 37",
-        "Lock-on learnt at level 41",
-        "Magnet-rise learnt at level 43",
-        "Gyro-ball learnt at level 47",
-        "Zap-cannon learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Sonic-boom",
+            11
+        ],
+        [
+            "Thunder-wave",
+            13
+        ],
+        [
+            "Magnet-bomb",
+            17
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Mirror-shot",
+            23
+        ],
+        [
+            "Metal-sound",
+            25
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Flash-cannon",
+            31
+        ],
+        [
+            "Screech",
+            35
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Lock-on",
+            41
+        ],
+        [
+            "Magnet-rise",
+            43
+        ],
+        [
+            "Gyro-ball",
+            47
+        ],
+        [
+            "Zap-cannon",
+            49
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 4",
-        "Thunder-shock learnt at level 7",
-        "Sonic-boom learnt at level 11",
-        "Thunder-wave learnt at level 15",
-        "Magnet-bomb learnt at level 18",
-        "Spark learnt at level 21",
-        "Mirror-shot learnt at level 25",
-        "Metal-sound learnt at level 29",
-        "Electro-ball learnt at level 32",
-        "Flash-cannon learnt at level 35",
-        "Screech learnt at level 39",
-        "Discharge learnt at level 43",
-        "Lock-on learnt at level 46",
-        "Magnet-rise learnt at level 49",
-        "Gyro-ball learnt at level 53",
-        "Zap-cannon learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            4
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Sonic-boom",
+            11
+        ],
+        [
+            "Thunder-wave",
+            15
+        ],
+        [
+            "Magnet-bomb",
+            18
+        ],
+        [
+            "Spark",
+            21
+        ],
+        [
+            "Mirror-shot",
+            25
+        ],
+        [
+            "Metal-sound",
+            29
+        ],
+        [
+            "Electro-ball",
+            32
+        ],
+        [
+            "Flash-cannon",
+            35
+        ],
+        [
+            "Screech",
+            39
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Lock-on",
+            46
+        ],
+        [
+            "Magnet-rise",
+            49
+        ],
+        [
+            "Gyro-ball",
+            53
+        ],
+        [
+            "Zap-cannon",
+            57
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Sonic-boom learnt at level 21",
-        "Thunder-shock learnt at level 25",
-        "Supersonic learnt at level 29",
-        "Thunder-wave learnt at level 35",
-        "Swift learnt at level 41",
-        "Screech learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Sonic-boom",
+            21
+        ],
+        [
+            "Thunder-shock",
+            25
+        ],
+        [
+            "Supersonic",
+            29
+        ],
+        [
+            "Thunder-wave",
+            35
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Screech",
+            47
+        ]
     ],
     "red-blue": [
-        "Tackle learnt at level 1",
-        "Sonic-boom learnt at level 21",
-        "Thunder-shock learnt at level 25",
-        "Supersonic learnt at level 29",
-        "Thunder-wave learnt at level 35",
-        "Swift learnt at level 41",
-        "Screech learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Sonic-boom",
+            21
+        ],
+        [
+            "Thunder-shock",
+            25
+        ],
+        [
+            "Supersonic",
+            29
+        ],
+        [
+            "Thunder-wave",
+            35
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Screech",
+            47
+        ]
     ]
 }

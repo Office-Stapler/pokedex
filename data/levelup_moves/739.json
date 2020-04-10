@@ -1,32 +1,110 @@
 {
     "ultra-sun-ultra-moon": [
-        "Bubble learnt at level 1",
-        "Rock-smash learnt at level 5",
-        "Leer learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Bubble-beam learnt at level 17",
-        "Power-up-punch learnt at level 22",
-        "Dizzy-punch learnt at level 25",
-        "Payback learnt at level 29",
-        "Reversal learnt at level 33",
-        "Crabhammer learnt at level 37",
-        "Iron-defense learnt at level 42",
-        "Dynamic-punch learnt at level 45",
-        "Close-combat learnt at level 49"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Rock-smash",
+            5
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Bubble-beam",
+            17
+        ],
+        [
+            "Power-up-punch",
+            22
+        ],
+        [
+            "Dizzy-punch",
+            25
+        ],
+        [
+            "Payback",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Crabhammer",
+            37
+        ],
+        [
+            "Iron-defense",
+            42
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ],
+        [
+            "Close-combat",
+            49
+        ]
     ],
     "sun-moon": [
-        "Bubble learnt at level 1",
-        "Rock-smash learnt at level 5",
-        "Leer learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Bubble-beam learnt at level 17",
-        "Power-up-punch learnt at level 22",
-        "Dizzy-punch learnt at level 25",
-        "Payback learnt at level 29",
-        "Reversal learnt at level 33",
-        "Crabhammer learnt at level 37",
-        "Iron-defense learnt at level 42",
-        "Dynamic-punch learnt at level 45",
-        "Close-combat learnt at level 49"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Rock-smash",
+            5
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Bubble-beam",
+            17
+        ],
+        [
+            "Power-up-punch",
+            22
+        ],
+        [
+            "Dizzy-punch",
+            25
+        ],
+        [
+            "Payback",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Crabhammer",
+            37
+        ],
+        [
+            "Iron-defense",
+            42
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ],
+        [
+            "Close-combat",
+            49
+        ]
     ]
 }

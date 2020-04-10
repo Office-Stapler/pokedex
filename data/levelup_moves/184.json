@@ -1,261 +1,942 @@
 {
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Tail-whip learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 24",
-        "Double-edge learnt at level 34",
-        "Rain-dance learnt at level 45",
-        "Hydro-pump learnt at level 57"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Tail-whip learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 24",
-        "Double-edge learnt at level 34",
-        "Rain-dance learnt at level 45",
-        "Hydro-pump learnt at level 57"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Bubble learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 2",
-        "Water-sport learnt at level 5",
-        "Water-gun learnt at level 7",
-        "Defense-curl learnt at level 10",
-        "Rollout learnt at level 10",
-        "Bubble-beam learnt at level 13",
-        "Helping-hand learnt at level 16",
-        "Aqua-tail learnt at level 21",
-        "Double-edge learnt at level 25",
-        "Aqua-ring learnt at level 31",
-        "Rain-dance learnt at level 35",
-        "Superpower learnt at level 42",
-        "Hydro-pump learnt at level 46"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 2",
-        "Tail-whip learnt at level 7",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 20",
-        "Aqua-ring learnt at level 27",
-        "Double-edge learnt at level 33",
-        "Rain-dance learnt at level 40",
-        "Aqua-tail learnt at level 47",
-        "Hydro-pump learnt at level 54"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 2",
-        "Tail-whip learnt at level 7",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 20",
-        "Aqua-ring learnt at level 27",
-        "Double-edge learnt at level 33",
-        "Rain-dance learnt at level 40",
-        "Aqua-tail learnt at level 47",
-        "Hydro-pump learnt at level 54"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 2",
-        "Water-sport learnt at level 5",
-        "Bubble learnt at level 7",
-        "Defense-curl learnt at level 10",
-        "Rollout learnt at level 10",
-        "Bubble-beam learnt at level 13",
-        "Helping-hand learnt at level 16",
-        "Aqua-tail learnt at level 21",
-        "Play-rough learnt at level 25",
-        "Aqua-ring learnt at level 31",
-        "Rain-dance learnt at level 35",
-        "Double-edge learnt at level 42",
-        "Superpower learnt at level 46",
-        "Hydro-pump learnt at level 55"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Tail-whip learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 25",
-        "Double-edge learnt at level 36",
-        "Rain-dance learnt at level 48"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Tail-whip learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 25",
-        "Double-edge learnt at level 36",
-        "Rain-dance learnt at level 48"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 2",
-        "Water-sport learnt at level 5",
-        "Bubble learnt at level 7",
-        "Defense-curl learnt at level 10",
-        "Rollout learnt at level 10",
-        "Bubble-beam learnt at level 13",
-        "Helping-hand learnt at level 16",
-        "Aqua-tail learnt at level 21",
-        "Play-rough learnt at level 25",
-        "Aqua-ring learnt at level 31",
-        "Rain-dance learnt at level 35",
-        "Double-edge learnt at level 42",
-        "Superpower learnt at level 46",
-        "Hydro-pump learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            2
+        ],
+        [
+            "Water-sport",
+            5
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Defense-curl",
+            10
+        ],
+        [
+            "Rollout",
+            10
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Helping-hand",
+            16
+        ],
+        [
+            "Aqua-tail",
+            21
+        ],
+        [
+            "Play-rough",
+            25
+        ],
+        [
+            "Aqua-ring",
+            31
+        ],
+        [
+            "Rain-dance",
+            35
+        ],
+        [
+            "Double-edge",
+            42
+        ],
+        [
+            "Superpower",
+            46
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 2",
-        "Water-sport learnt at level 5",
-        "Bubble learnt at level 7",
-        "Defense-curl learnt at level 10",
-        "Rollout learnt at level 10",
-        "Bubble-beam learnt at level 13",
-        "Helping-hand learnt at level 16",
-        "Aqua-tail learnt at level 21",
-        "Double-edge learnt at level 25",
-        "Aqua-ring learnt at level 31",
-        "Rain-dance learnt at level 35",
-        "Superpower learnt at level 42",
-        "Hydro-pump learnt at level 46",
-        "Play-rough learnt at level 50"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            2
+        ],
+        [
+            "Water-sport",
+            5
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Defense-curl",
+            10
+        ],
+        [
+            "Rollout",
+            10
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Helping-hand",
+            16
+        ],
+        [
+            "Aqua-tail",
+            21
+        ],
+        [
+            "Double-edge",
+            25
+        ],
+        [
+            "Aqua-ring",
+            31
+        ],
+        [
+            "Rain-dance",
+            35
+        ],
+        [
+            "Superpower",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Play-rough",
+            50
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            2
+        ],
+        [
+            "Water-sport",
+            5
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Defense-curl",
+            10
+        ],
+        [
+            "Rollout",
+            10
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Helping-hand",
+            16
+        ],
+        [
+            "Aqua-tail",
+            21
+        ],
+        [
+            "Double-edge",
+            25
+        ],
+        [
+            "Aqua-ring",
+            31
+        ],
+        [
+            "Rain-dance",
+            35
+        ],
+        [
+            "Superpower",
+            42
+        ],
+        [
+            "Hydro-pump",
+            46
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Tail-whip learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 24",
-        "Double-edge learnt at level 34",
-        "Rain-dance learnt at level 45",
-        "Hydro-pump learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Double-edge",
+            34
+        ],
+        [
+            "Rain-dance",
+            45
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Tail-whip learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 24",
-        "Double-edge learnt at level 34",
-        "Rain-dance learnt at level 45",
-        "Hydro-pump learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Double-edge",
+            34
+        ],
+        [
+            "Rain-dance",
+            45
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            2
+        ],
+        [
+            "Tail-whip",
+            7
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Rain-dance",
+            40
+        ],
+        [
+            "Aqua-tail",
+            47
+        ],
+        [
+            "Hydro-pump",
+            54
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            2
+        ],
+        [
+            "Tail-whip",
+            7
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Rain-dance",
+            40
+        ],
+        [
+            "Aqua-tail",
+            47
+        ],
+        [
+            "Hydro-pump",
+            54
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 2",
-        "Water-sport learnt at level 5",
-        "Bubble learnt at level 7",
-        "Defense-curl learnt at level 10",
-        "Rollout learnt at level 10",
-        "Bubble-beam learnt at level 13",
-        "Helping-hand learnt at level 16",
-        "Aqua-tail learnt at level 21",
-        "Play-rough learnt at level 25",
-        "Aqua-ring learnt at level 31",
-        "Rain-dance learnt at level 35",
-        "Double-edge learnt at level 42",
-        "Superpower learnt at level 46",
-        "Hydro-pump learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            2
+        ],
+        [
+            "Water-sport",
+            5
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Defense-curl",
+            10
+        ],
+        [
+            "Rollout",
+            10
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Helping-hand",
+            16
+        ],
+        [
+            "Aqua-tail",
+            21
+        ],
+        [
+            "Play-rough",
+            25
+        ],
+        [
+            "Aqua-ring",
+            31
+        ],
+        [
+            "Rain-dance",
+            35
+        ],
+        [
+            "Double-edge",
+            42
+        ],
+        [
+            "Superpower",
+            46
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            2
+        ],
+        [
+            "Water-sport",
+            5
+        ],
+        [
+            "Bubble",
+            7
+        ],
+        [
+            "Defense-curl",
+            10
+        ],
+        [
+            "Rollout",
+            10
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Helping-hand",
+            16
+        ],
+        [
+            "Aqua-tail",
+            21
+        ],
+        [
+            "Play-rough",
+            25
+        ],
+        [
+            "Aqua-ring",
+            31
+        ],
+        [
+            "Rain-dance",
+            35
+        ],
+        [
+            "Double-edge",
+            42
+        ],
+        [
+            "Superpower",
+            46
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 2",
-        "Tail-whip learnt at level 7",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 20",
-        "Aqua-ring learnt at level 27",
-        "Double-edge learnt at level 33",
-        "Rain-dance learnt at level 40",
-        "Aqua-tail learnt at level 47",
-        "Hydro-pump learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            2
+        ],
+        [
+            "Tail-whip",
+            7
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Rain-dance",
+            40
+        ],
+        [
+            "Aqua-tail",
+            47
+        ],
+        [
+            "Hydro-pump",
+            54
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Double-edge",
+            34
+        ],
+        [
+            "Rain-dance",
+            45
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Double-edge",
+            34
+        ],
+        [
+            "Rain-dance",
+            45
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Tail-whip learnt at level 6",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 24",
-        "Double-edge learnt at level 34",
-        "Rain-dance learnt at level 45",
-        "Hydro-pump learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Double-edge",
+            34
+        ],
+        [
+            "Rain-dance",
+            45
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Rain-dance",
+            48
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 2",
-        "Tail-whip learnt at level 7",
-        "Water-gun learnt at level 10",
-        "Rollout learnt at level 15",
-        "Bubble-beam learnt at level 20",
-        "Aqua-ring learnt at level 27",
-        "Double-edge learnt at level 33",
-        "Rain-dance learnt at level 40",
-        "Aqua-tail learnt at level 47",
-        "Hydro-pump learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            2
+        ],
+        [
+            "Tail-whip",
+            7
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Double-edge",
+            33
+        ],
+        [
+            "Rain-dance",
+            40
+        ],
+        [
+            "Aqua-tail",
+            47
+        ],
+        [
+            "Hydro-pump",
+            54
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Water-gun",
+            10
+        ],
+        [
+            "Rollout",
+            15
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Double-edge",
+            36
+        ],
+        [
+            "Rain-dance",
+            48
+        ]
     ]
 }

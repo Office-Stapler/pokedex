@@ -1,264 +1,966 @@
 {
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Bite learnt at level 30",
-        "Thunder-fang learnt at level 37",
-        "Roar learnt at level 42",
-        "Discharge learnt at level 49",
-        "Charge learnt at level 54",
-        "Thunder learnt at level 61"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Electric-terrain learnt at level 1",
-        "Leer learnt at level 4",
-        "Howl learnt at level 7",
-        "Quick-attack learnt at level 10",
-        "Spark learnt at level 13",
-        "Odor-sleuth learnt at level 16",
-        "Thunder-fang learnt at level 19",
-        "Bite learnt at level 24",
-        "Discharge learnt at level 30",
-        "Roar learnt at level 36",
-        "Wild-charge learnt at level 42",
-        "Charge learnt at level 48",
-        "Thunder learnt at level 54",
-        "Electric-terrain learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Electric-terrain",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            16
+        ],
+        [
+            "Thunder-fang",
+            19
+        ],
+        [
+            "Bite",
+            24
+        ],
+        [
+            "Discharge",
+            30
+        ],
+        [
+            "Roar",
+            36
+        ],
+        [
+            "Wild-charge",
+            42
+        ],
+        [
+            "Charge",
+            48
+        ],
+        [
+            "Thunder",
+            54
+        ],
+        [
+            "Electric-terrain",
+            60
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Electric-terrain learnt at level 1",
-        "Leer learnt at level 4",
-        "Howl learnt at level 7",
-        "Quick-attack learnt at level 10",
-        "Spark learnt at level 13",
-        "Odor-sleuth learnt at level 16",
-        "Thunder-fang learnt at level 19",
-        "Bite learnt at level 24",
-        "Discharge learnt at level 30",
-        "Roar learnt at level 36",
-        "Wild-charge learnt at level 42",
-        "Charge learnt at level 48",
-        "Thunder learnt at level 54",
-        "Electric-terrain learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Electric-terrain",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            16
+        ],
+        [
+            "Thunder-fang",
+            19
+        ],
+        [
+            "Bite",
+            24
+        ],
+        [
+            "Discharge",
+            30
+        ],
+        [
+            "Roar",
+            36
+        ],
+        [
+            "Wild-charge",
+            42
+        ],
+        [
+            "Charge",
+            48
+        ],
+        [
+            "Thunder",
+            54
+        ],
+        [
+            "Electric-terrain",
+            60
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Electric-terrain learnt at level 1",
-        "Leer learnt at level 4",
-        "Howl learnt at level 7",
-        "Quick-attack learnt at level 10",
-        "Spark learnt at level 13",
-        "Odor-sleuth learnt at level 16",
-        "Thunder-fang learnt at level 19",
-        "Bite learnt at level 24",
-        "Discharge learnt at level 30",
-        "Roar learnt at level 36",
-        "Wild-charge learnt at level 42",
-        "Charge learnt at level 48",
-        "Thunder learnt at level 54",
-        "Electric-terrain learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Electric-terrain",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Spark",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            16
+        ],
+        [
+            "Thunder-fang",
+            19
+        ],
+        [
+            "Bite",
+            24
+        ],
+        [
+            "Discharge",
+            30
+        ],
+        [
+            "Roar",
+            36
+        ],
+        [
+            "Wild-charge",
+            42
+        ],
+        [
+            "Charge",
+            48
+        ],
+        [
+            "Thunder",
+            54
+        ],
+        [
+            "Electric-terrain",
+            60
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Roar learnt at level 31",
-        "Bite learnt at level 39",
-        "Thunder learnt at level 45",
-        "Charge learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Roar",
+            31
+        ],
+        [
+            "Bite",
+            39
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Charge",
+            53
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Roar learnt at level 31",
-        "Bite learnt at level 39",
-        "Thunder learnt at level 45",
-        "Charge learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Roar",
+            31
+        ],
+        [
+            "Bite",
+            39
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Charge",
+            53
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Bite learnt at level 30",
-        "Thunder-fang learnt at level 37",
-        "Roar learnt at level 42",
-        "Discharge learnt at level 49",
-        "Charge learnt at level 54",
-        "Wild-charge learnt at level 61",
-        "Thunder learnt at level 66"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Thunder-fang",
+            37
+        ],
+        [
+            "Roar",
+            42
+        ],
+        [
+            "Discharge",
+            49
+        ],
+        [
+            "Charge",
+            54
+        ],
+        [
+            "Wild-charge",
+            61
+        ],
+        [
+            "Thunder",
+            66
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Thunder-fang",
+            37
+        ],
+        [
+            "Roar",
+            42
+        ],
+        [
+            "Discharge",
+            49
+        ],
+        [
+            "Charge",
+            54
+        ],
+        [
+            "Thunder",
+            61
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Bite learnt at level 30",
-        "Thunder-fang learnt at level 37",
-        "Roar learnt at level 42",
-        "Discharge learnt at level 49",
-        "Charge learnt at level 54",
-        "Thunder learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Thunder-fang",
+            37
+        ],
+        [
+            "Roar",
+            42
+        ],
+        [
+            "Discharge",
+            49
+        ],
+        [
+            "Charge",
+            54
+        ],
+        [
+            "Thunder",
+            61
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Roar learnt at level 31",
-        "Bite learnt at level 39",
-        "Thunder learnt at level 45",
-        "Charge learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Roar",
+            31
+        ],
+        [
+            "Bite",
+            39
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Charge",
+            53
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Electric-terrain learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Bite learnt at level 30",
-        "Thunder-fang learnt at level 37",
-        "Roar learnt at level 42",
-        "Discharge learnt at level 49",
-        "Charge learnt at level 54",
-        "Wild-charge learnt at level 61",
-        "Thunder learnt at level 66",
-        "Electric-terrain learnt at level 70"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Electric-terrain",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Thunder-fang",
+            37
+        ],
+        [
+            "Roar",
+            42
+        ],
+        [
+            "Discharge",
+            49
+        ],
+        [
+            "Charge",
+            54
+        ],
+        [
+            "Wild-charge",
+            61
+        ],
+        [
+            "Thunder",
+            66
+        ],
+        [
+            "Electric-terrain",
+            70
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Bite learnt at level 30",
-        "Thunder-fang learnt at level 37",
-        "Roar learnt at level 42",
-        "Discharge learnt at level 49",
-        "Charge learnt at level 54",
-        "Wild-charge learnt at level 61",
-        "Thunder learnt at level 66"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Thunder-fang",
+            37
+        ],
+        [
+            "Roar",
+            42
+        ],
+        [
+            "Discharge",
+            49
+        ],
+        [
+            "Charge",
+            54
+        ],
+        [
+            "Wild-charge",
+            61
+        ],
+        [
+            "Thunder",
+            66
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Bite learnt at level 30",
-        "Thunder-fang learnt at level 37",
-        "Roar learnt at level 42",
-        "Discharge learnt at level 49",
-        "Charge learnt at level 54",
-        "Thunder learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Thunder-fang",
+            37
+        ],
+        [
+            "Roar",
+            42
+        ],
+        [
+            "Discharge",
+            49
+        ],
+        [
+            "Charge",
+            54
+        ],
+        [
+            "Thunder",
+            61
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Roar learnt at level 31",
-        "Bite learnt at level 39",
-        "Thunder learnt at level 45",
-        "Charge learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Roar",
+            31
+        ],
+        [
+            "Bite",
+            39
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Charge",
+            53
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Leer learnt at level 9",
-        "Howl learnt at level 12",
-        "Quick-attack learnt at level 17",
-        "Spark learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Roar learnt at level 31",
-        "Bite learnt at level 39",
-        "Thunder learnt at level 45",
-        "Charge learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Howl",
+            12
+        ],
+        [
+            "Quick-attack",
+            17
+        ],
+        [
+            "Spark",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Roar",
+            31
+        ],
+        [
+            "Bite",
+            39
+        ],
+        [
+            "Thunder",
+            45
+        ],
+        [
+            "Charge",
+            53
+        ]
     ]
 }

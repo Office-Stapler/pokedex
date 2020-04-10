@@ -1,239 +1,842 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Growl learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Covet learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Bite learnt at level 17",
-        "Swift learnt at level 17",
-        "Refresh learnt at level 20",
-        "Take-down learnt at level 25",
-        "Charm learnt at level 29",
-        "Baton-pass learnt at level 33",
-        "Double-edge learnt at level 37",
-        "Last-resort learnt at level 41",
-        "Trump-card learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Swift",
+            17
+        ],
+        [
+            "Refresh",
+            20
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Charm",
+            29
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Double-edge",
+            37
+        ],
+        [
+            "Last-resort",
+            41
+        ],
+        [
+            "Trump-card",
+            45
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Growl learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Swift learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Bite learnt at level 17",
-        "Refresh learnt at level 20",
-        "Covet learnt at level 23",
-        "Take-down learnt at level 25",
-        "Charm learnt at level 29",
-        "Baton-pass learnt at level 33",
-        "Double-edge learnt at level 37",
-        "Last-resort learnt at level 41",
-        "Trump-card learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Swift",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Refresh",
+            20
+        ],
+        [
+            "Covet",
+            23
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Charm",
+            29
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Double-edge",
+            37
+        ],
+        [
+            "Last-resort",
+            41
+        ],
+        [
+            "Trump-card",
+            45
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Growl learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Swift learnt at level 10",
-        "Quick-attack learnt at level 13",
-        "Bite learnt at level 17",
-        "Refresh learnt at level 20",
-        "Covet learnt at level 23",
-        "Take-down learnt at level 25",
-        "Charm learnt at level 29",
-        "Baton-pass learnt at level 33",
-        "Double-edge learnt at level 37",
-        "Last-resort learnt at level 41",
-        "Trump-card learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Swift",
+            10
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Refresh",
+            20
+        ],
+        [
+            "Covet",
+            23
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Charm",
+            29
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Double-edge",
+            37
+        ],
+        [
+            "Last-resort",
+            41
+        ],
+        [
+            "Trump-card",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Growl learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Bite learnt at level 17",
-        "Covet learnt at level 21",
-        "Take-down learnt at level 25",
-        "Charm learnt at level 29",
-        "Baton-pass learnt at level 33",
-        "Double-edge learnt at level 37",
-        "Last-resort learnt at level 41",
-        "Trump-card learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Growl",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Covet",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Charm",
+            29
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Double-edge",
+            37
+        ],
+        [
+            "Last-resort",
+            41
+        ],
+        [
+            "Trump-card",
+            45
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Bite learnt at level 29",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 43",
-        "Last-resort learnt at level 50",
-        "Trump-card learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Bite",
+            29
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Last-resort",
+            50
+        ],
+        [
+            "Trump-card",
+            57
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Growl learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Covet learnt at level 1",
-        "Sand-attack learnt at level 5",
-        "Baby-doll-eyes learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Bite learnt at level 17",
-        "Swift learnt at level 17",
-        "Refresh learnt at level 20",
-        "Take-down learnt at level 25",
-        "Charm learnt at level 29",
-        "Baton-pass learnt at level 33",
-        "Double-edge learnt at level 37",
-        "Last-resort learnt at level 41",
-        "Trump-card learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Sand-attack",
+            5
+        ],
+        [
+            "Baby-doll-eyes",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Swift",
+            17
+        ],
+        [
+            "Refresh",
+            20
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Charm",
+            29
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Double-edge",
+            37
+        ],
+        [
+            "Last-resort",
+            41
+        ],
+        [
+            "Trump-card",
+            45
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Bite learnt at level 29",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 43",
-        "Last-resort learnt at level 50",
-        "Trump-card learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Bite",
+            29
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Last-resort",
+            50
+        ],
+        [
+            "Trump-card",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Bite learnt at level 29",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 43",
-        "Last-resort learnt at level 50",
-        "Trump-card learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Bite",
+            29
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Last-resort",
+            50
+        ],
+        [
+            "Trump-card",
+            57
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Helping-hand learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 15",
-        "Quick-attack learnt at level 22",
-        "Bite learnt at level 29",
-        "Baton-pass learnt at level 36",
-        "Take-down learnt at level 43",
-        "Last-resort learnt at level 50",
-        "Trump-card learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Helping-hand",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            15
+        ],
+        [
+            "Quick-attack",
+            22
+        ],
+        [
+            "Bite",
+            29
+        ],
+        [
+            "Baton-pass",
+            36
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Last-resort",
+            50
+        ],
+        [
+            "Trump-card",
+            57
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Focus-energy learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Sand-attack learnt at level 8",
-        "Growl learnt at level 16",
-        "Quick-attack learnt at level 23",
-        "Bite learnt at level 30",
-        "Focus-energy learnt at level 36",
-        "Take-down learnt at level 42"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Sand-attack",
+            8
+        ],
+        [
+            "Growl",
+            16
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Bite",
+            30
+        ],
+        [
+            "Focus-energy",
+            36
+        ],
+        [
+            "Take-down",
+            42
+        ]
     ],
     "red-blue": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Quick-attack learnt at level 27",
-        "Tail-whip learnt at level 31",
-        "Bite learnt at level 37",
-        "Take-down learnt at level 45"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Quick-attack",
+            27
+        ],
+        [
+            "Tail-whip",
+            31
+        ],
+        [
+            "Bite",
+            37
+        ],
+        [
+            "Take-down",
+            45
+        ]
     ]
 }

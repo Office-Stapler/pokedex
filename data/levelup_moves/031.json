@@ -1,161 +1,530 @@
 {
     "red-blue": [
-        "Scratch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Body-slam learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scratch learnt at level 8",
-        "Poison-sting learnt at level 14",
-        "Body-slam learnt at level 23"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Body-slam",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scratch",
+            8
+        ],
+        [
+            "Poison-sting",
+            14
+        ],
+        [
+            "Body-slam",
+            23
+        ]
     ],
     "yellow": [
-        "Scratch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Body-slam learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scratch learnt at level 8",
-        "Double-kick learnt at level 12",
-        "Body-slam learnt at level 23"
-    ],
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 23"
-    ],
-    "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 22",
-        "Superpower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Body-slam",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scratch",
+            8
+        ],
+        [
+            "Double-kick",
+            12
+        ],
+        [
+            "Body-slam",
+            23
+        ]
     ],
     "gold-silver": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Body-slam learnt at level 23"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ]
     ],
     "crystal": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Body-slam learnt at level 23"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 23",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 23",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Chip-away learnt at level 23",
-        "Body-slam learnt at level 35",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Superpower learnt at level 1",
-        "Chip-away learnt at level 23",
-        "Body-slam learnt at level 35",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 23"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            22
+        ],
+        [
+            "Superpower",
+            43
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 23",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Chip-away learnt at level 23",
-        "Body-slam learnt at level 35",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Chip-away",
+            23
+        ],
+        [
+            "Body-slam",
+            35
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 23"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Body-slam learnt at level 23"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Body-slam",
+            23
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Chip-away",
+            23
+        ],
+        [
+            "Body-slam",
+            35
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Superpower learnt at level 1",
-        "Chip-away learnt at level 23",
-        "Body-slam learnt at level 35",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Chip-away",
+            23
+        ],
+        [
+            "Body-slam",
+            35
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Chip-away",
+            23
+        ],
+        [
+            "Body-slam",
+            35
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Superpower learnt at level 1",
-        "Chip-away learnt at level 23",
-        "Body-slam learnt at level 35",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Chip-away",
+            23
+        ],
+        [
+            "Body-slam",
+            35
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Poison-sting learnt at level 1",
-        "Superpower learnt at level 1",
-        "Chip-away learnt at level 23",
-        "Body-slam learnt at level 35",
-        "Earth-power learnt at level 43",
-        "Superpower learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Chip-away",
+            23
+        ],
+        [
+            "Body-slam",
+            35
+        ],
+        [
+            "Earth-power",
+            43
+        ],
+        [
+            "Superpower",
+            58
+        ]
     ]
 }

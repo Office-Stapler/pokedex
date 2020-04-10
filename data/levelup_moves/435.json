@@ -1,163 +1,600 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Flamethrower learnt at level 1",
-        "Screech learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 3",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 9",
-        "Smokescreen learnt at level 13",
-        "Feint learnt at level 15",
-        "Acid-spray learnt at level 19",
-        "Bite learnt at level 21",
-        "Slash learnt at level 25",
-        "Toxic learnt at level 27",
-        "Night-slash learnt at level 31",
-        "Memento learnt at level 33",
-        "Venom-drench learnt at level 37",
-        "Sucker-punch learnt at level 39",
-        "Belch learnt at level 43",
-        "Explosion learnt at level 45"
+        [
+            "Flamethrower",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Flamethrower",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            3
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Feint",
+            15
+        ],
+        [
+            "Acid-spray",
+            19
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Slash",
+            25
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Night-slash",
+            31
+        ],
+        [
+            "Memento",
+            33
+        ],
+        [
+            "Venom-drench",
+            37
+        ],
+        [
+            "Sucker-punch",
+            39
+        ],
+        [
+            "Belch",
+            43
+        ],
+        [
+            "Explosion",
+            45
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Flamethrower learnt at level 1",
-        "Screech learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 3",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 9",
-        "Smokescreen learnt at level 13",
-        "Feint learnt at level 15",
-        "Acid-spray learnt at level 19",
-        "Bite learnt at level 21",
-        "Slash learnt at level 25",
-        "Toxic learnt at level 27",
-        "Night-slash learnt at level 31",
-        "Memento learnt at level 33",
-        "Venom-drench learnt at level 37",
-        "Sucker-punch learnt at level 39",
-        "Belch learnt at level 43",
-        "Explosion learnt at level 45"
+        [
+            "Flamethrower",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Flamethrower",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            3
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Smokescreen",
+            13
+        ],
+        [
+            "Feint",
+            15
+        ],
+        [
+            "Acid-spray",
+            19
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Slash",
+            25
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Night-slash",
+            31
+        ],
+        [
+            "Memento",
+            33
+        ],
+        [
+            "Venom-drench",
+            37
+        ],
+        [
+            "Sucker-punch",
+            39
+        ],
+        [
+            "Belch",
+            43
+        ],
+        [
+            "Explosion",
+            45
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 4",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Smokescreen learnt at level 14",
-        "Feint learnt at level 18",
-        "Slash learnt at level 22",
-        "Toxic learnt at level 27",
-        "Acid-spray learnt at level 32",
-        "Flamethrower learnt at level 34",
-        "Night-slash learnt at level 41",
-        "Memento learnt at level 51",
-        "Belch learnt at level 56",
-        "Explosion learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            4
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Feint",
+            18
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Acid-spray",
+            32
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Night-slash",
+            41
+        ],
+        [
+            "Memento",
+            51
+        ],
+        [
+            "Belch",
+            56
+        ],
+        [
+            "Explosion",
+            61
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 4",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Smokescreen learnt at level 14",
-        "Feint learnt at level 18",
-        "Slash learnt at level 22",
-        "Toxic learnt at level 27",
-        "Acid-spray learnt at level 32",
-        "Flamethrower learnt at level 34",
-        "Night-slash learnt at level 41",
-        "Memento learnt at level 51",
-        "Explosion learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            4
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Feint",
+            18
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Acid-spray",
+            32
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Night-slash",
+            41
+        ],
+        [
+            "Memento",
+            51
+        ],
+        [
+            "Explosion",
+            61
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 4",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Smokescreen learnt at level 14",
-        "Feint learnt at level 18",
-        "Slash learnt at level 22",
-        "Toxic learnt at level 27",
-        "Acid-spray learnt at level 32",
-        "Flamethrower learnt at level 34",
-        "Night-slash learnt at level 41",
-        "Memento learnt at level 51",
-        "Explosion learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            4
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Feint",
+            18
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Acid-spray",
+            32
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Night-slash",
+            41
+        ],
+        [
+            "Memento",
+            51
+        ],
+        [
+            "Explosion",
+            61
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 4",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Smokescreen learnt at level 14",
-        "Feint learnt at level 18",
-        "Slash learnt at level 22",
-        "Toxic learnt at level 27",
-        "Night-slash learnt at level 32",
-        "Flamethrower learnt at level 34",
-        "Memento learnt at level 42",
-        "Explosion learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            4
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Feint",
+            18
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Night-slash",
+            32
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Memento",
+            42
+        ],
+        [
+            "Explosion",
+            52
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 4",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Smokescreen learnt at level 14",
-        "Feint learnt at level 18",
-        "Slash learnt at level 22",
-        "Toxic learnt at level 27",
-        "Night-slash learnt at level 32",
-        "Flamethrower learnt at level 34",
-        "Memento learnt at level 42",
-        "Explosion learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            4
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Feint",
+            18
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Night-slash",
+            32
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Memento",
+            42
+        ],
+        [
+            "Explosion",
+            52
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 4",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Smokescreen learnt at level 14",
-        "Feint learnt at level 18",
-        "Slash learnt at level 22",
-        "Toxic learnt at level 27",
-        "Acid-spray learnt at level 32",
-        "Flamethrower learnt at level 34",
-        "Night-slash learnt at level 41",
-        "Memento learnt at level 51",
-        "Belch learnt at level 56",
-        "Explosion learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            4
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Smokescreen",
+            14
+        ],
+        [
+            "Feint",
+            18
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Toxic",
+            27
+        ],
+        [
+            "Acid-spray",
+            32
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Night-slash",
+            41
+        ],
+        [
+            "Memento",
+            51
+        ],
+        [
+            "Belch",
+            56
+        ],
+        [
+            "Explosion",
+            61
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Poison-gas learnt at level 4",
-        "Screech learnt at level 7",
-        "Fury-swipes learnt at level 11",
-        "Smokescreen learnt at level 15",
-        "Toxic learnt at level 20",
-        "Slash learnt at level 25",
-        "Night-slash learnt at level 31",
-        "Flamethrower learnt at level 34",
-        "Memento learnt at level 41",
-        "Explosion learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Poison-gas",
+            4
+        ],
+        [
+            "Screech",
+            7
+        ],
+        [
+            "Fury-swipes",
+            11
+        ],
+        [
+            "Smokescreen",
+            15
+        ],
+        [
+            "Toxic",
+            20
+        ],
+        [
+            "Slash",
+            25
+        ],
+        [
+            "Night-slash",
+            31
+        ],
+        [
+            "Flamethrower",
+            34
+        ],
+        [
+            "Memento",
+            41
+        ],
+        [
+            "Explosion",
+            52
+        ]
     ]
 }

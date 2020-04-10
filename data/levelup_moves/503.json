@@ -1,134 +1,502 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slash learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 7",
-        "Water-sport learnt at level 11",
-        "Focus-energy learnt at level 13",
-        "Razor-shell learnt at level 18",
-        "Fury-cutter learnt at level 21",
-        "Water-pulse learnt at level 25",
-        "Revenge learnt at level 29",
-        "Aqua-jet learnt at level 34",
-        "Encore learnt at level 39",
-        "Aqua-tail learnt at level 46",
-        "Retaliate learnt at level 51",
-        "Swords-dance learnt at level 58",
-        "Hydro-pump learnt at level 63"
+        [
+            "Slash",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slash",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Razor-shell",
+            18
+        ],
+        [
+            "Fury-cutter",
+            21
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Revenge",
+            29
+        ],
+        [
+            "Aqua-jet",
+            34
+        ],
+        [
+            "Encore",
+            39
+        ],
+        [
+            "Aqua-tail",
+            46
+        ],
+        [
+            "Retaliate",
+            51
+        ],
+        [
+            "Swords-dance",
+            58
+        ],
+        [
+            "Hydro-pump",
+            63
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Slash learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 7",
-        "Water-sport learnt at level 11",
-        "Focus-energy learnt at level 13",
-        "Razor-shell learnt at level 18",
-        "Fury-cutter learnt at level 21",
-        "Water-pulse learnt at level 25",
-        "Revenge learnt at level 29",
-        "Aqua-jet learnt at level 34",
-        "Encore learnt at level 39",
-        "Aqua-tail learnt at level 46",
-        "Retaliate learnt at level 51",
-        "Swords-dance learnt at level 58",
-        "Hydro-pump learnt at level 63"
+        [
+            "Slash",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Slash",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Razor-shell",
+            18
+        ],
+        [
+            "Fury-cutter",
+            21
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Revenge",
+            29
+        ],
+        [
+            "Aqua-jet",
+            34
+        ],
+        [
+            "Encore",
+            39
+        ],
+        [
+            "Aqua-tail",
+            46
+        ],
+        [
+            "Retaliate",
+            51
+        ],
+        [
+            "Swords-dance",
+            58
+        ],
+        [
+            "Hydro-pump",
+            63
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 7",
-        "Water-sport learnt at level 11",
-        "Focus-energy learnt at level 13",
-        "Razor-shell learnt at level 17",
-        "Fury-cutter learnt at level 20",
-        "Water-pulse learnt at level 25",
-        "Revenge learnt at level 28",
-        "Aqua-jet learnt at level 33",
-        "Slash learnt at level 36",
-        "Encore learnt at level 38",
-        "Aqua-tail learnt at level 45",
-        "Retaliate learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Hydro-pump learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Razor-shell",
+            17
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Revenge",
+            28
+        ],
+        [
+            "Aqua-jet",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Encore",
+            38
+        ],
+        [
+            "Aqua-tail",
+            45
+        ],
+        [
+            "Retaliate",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Hydro-pump",
+            62
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 7",
-        "Water-sport learnt at level 11",
-        "Focus-energy learnt at level 13",
-        "Razor-shell learnt at level 17",
-        "Fury-cutter learnt at level 20",
-        "Water-pulse learnt at level 25",
-        "Revenge learnt at level 28",
-        "Aqua-jet learnt at level 33",
-        "Slash learnt at level 36",
-        "Encore learnt at level 38",
-        "Aqua-tail learnt at level 45",
-        "Retaliate learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Hydro-pump learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Razor-shell",
+            17
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Revenge",
+            28
+        ],
+        [
+            "Aqua-jet",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Encore",
+            38
+        ],
+        [
+            "Aqua-tail",
+            45
+        ],
+        [
+            "Retaliate",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Hydro-pump",
+            62
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 7",
-        "Water-sport learnt at level 11",
-        "Focus-energy learnt at level 13",
-        "Razor-shell learnt at level 17",
-        "Fury-cutter learnt at level 20",
-        "Water-pulse learnt at level 25",
-        "Revenge learnt at level 28",
-        "Aqua-jet learnt at level 33",
-        "Slash learnt at level 36",
-        "Encore learnt at level 38",
-        "Aqua-tail learnt at level 45",
-        "Retaliate learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Hydro-pump learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Razor-shell",
+            17
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Revenge",
+            28
+        ],
+        [
+            "Aqua-jet",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Encore",
+            38
+        ],
+        [
+            "Aqua-tail",
+            45
+        ],
+        [
+            "Retaliate",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Hydro-pump",
+            62
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 7",
-        "Water-sport learnt at level 11",
-        "Focus-energy learnt at level 13",
-        "Razor-shell learnt at level 17",
-        "Fury-cutter learnt at level 20",
-        "Water-pulse learnt at level 25",
-        "Revenge learnt at level 28",
-        "Aqua-jet learnt at level 33",
-        "Slash learnt at level 36",
-        "Encore learnt at level 38",
-        "Aqua-tail learnt at level 45",
-        "Retaliate learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Hydro-pump learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Razor-shell",
+            17
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Water-pulse",
+            25
+        ],
+        [
+            "Revenge",
+            28
+        ],
+        [
+            "Aqua-jet",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Encore",
+            38
+        ],
+        [
+            "Aqua-tail",
+            45
+        ],
+        [
+            "Retaliate",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Hydro-pump",
+            62
+        ]
     ]
 }

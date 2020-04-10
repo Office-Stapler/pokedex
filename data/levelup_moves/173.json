@@ -1,133 +1,430 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 8",
-        "Sweet-kiss learnt at level 13"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 8",
-        "Sweet-kiss learnt at level 13"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 8",
-        "Sweet-kiss learnt at level 13",
-        "Magical-leaf learnt at level 17"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Magical-leaf",
+            17
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 8",
-        "Sweet-kiss learnt at level 13"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 8",
-        "Sweet-kiss learnt at level 13"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ]
     ],
     "crystal": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 8",
-        "Sweet-kiss learnt at level 13"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 7",
-        "Sweet-kiss learnt at level 10",
-        "Copycat learnt at level 13",
-        "Magical-leaf learnt at level 16"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            7
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Copycat",
+            13
+        ],
+        [
+            "Magical-leaf",
+            16
+        ]
     ],
     "gold-silver": [
-        "Pound learnt at level 1",
-        "Charm learnt at level 1",
-        "Encore learnt at level 4",
-        "Sing learnt at level 8",
-        "Sweet-kiss learnt at level 13"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Encore",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ]
     ]
 }

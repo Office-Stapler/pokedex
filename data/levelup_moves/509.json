@@ -1,114 +1,414 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 3",
-        "Assist learnt at level 6",
-        "Sand-attack learnt at level 10",
-        "Fury-swipes learnt at level 12",
-        "Pursuit learnt at level 15",
-        "Torment learnt at level 19",
-        "Fake-out learnt at level 21",
-        "Hone-claws learnt at level 24",
-        "Assurance learnt at level 28",
-        "Slash learnt at level 30",
-        "Captivate learnt at level 33",
-        "Night-slash learnt at level 37",
-        "Snatch learnt at level 39",
-        "Nasty-plot learnt at level 42",
-        "Sucker-punch learnt at level 46",
-        "Play-rough learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Assist",
+            6
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Torment",
+            19
+        ],
+        [
+            "Fake-out",
+            21
+        ],
+        [
+            "Hone-claws",
+            24
+        ],
+        [
+            "Assurance",
+            28
+        ],
+        [
+            "Slash",
+            30
+        ],
+        [
+            "Captivate",
+            33
+        ],
+        [
+            "Night-slash",
+            37
+        ],
+        [
+            "Snatch",
+            39
+        ],
+        [
+            "Nasty-plot",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 3",
-        "Assist learnt at level 6",
-        "Sand-attack learnt at level 10",
-        "Fury-swipes learnt at level 12",
-        "Pursuit learnt at level 15",
-        "Torment learnt at level 19",
-        "Fake-out learnt at level 21",
-        "Hone-claws learnt at level 24",
-        "Assurance learnt at level 28",
-        "Slash learnt at level 30",
-        "Captivate learnt at level 33",
-        "Night-slash learnt at level 37",
-        "Snatch learnt at level 39",
-        "Nasty-plot learnt at level 42",
-        "Sucker-punch learnt at level 46",
-        "Play-rough learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Assist",
+            6
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Torment",
+            19
+        ],
+        [
+            "Fake-out",
+            21
+        ],
+        [
+            "Hone-claws",
+            24
+        ],
+        [
+            "Assurance",
+            28
+        ],
+        [
+            "Slash",
+            30
+        ],
+        [
+            "Captivate",
+            33
+        ],
+        [
+            "Night-slash",
+            37
+        ],
+        [
+            "Snatch",
+            39
+        ],
+        [
+            "Nasty-plot",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 3",
-        "Assist learnt at level 6",
-        "Sand-attack learnt at level 10",
-        "Fury-swipes learnt at level 12",
-        "Pursuit learnt at level 15",
-        "Torment learnt at level 19",
-        "Fake-out learnt at level 21",
-        "Hone-claws learnt at level 24",
-        "Assurance learnt at level 28",
-        "Slash learnt at level 30",
-        "Captivate learnt at level 33",
-        "Night-slash learnt at level 37",
-        "Snatch learnt at level 39",
-        "Nasty-plot learnt at level 42",
-        "Sucker-punch learnt at level 46",
-        "Play-rough learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Assist",
+            6
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Torment",
+            19
+        ],
+        [
+            "Fake-out",
+            21
+        ],
+        [
+            "Hone-claws",
+            24
+        ],
+        [
+            "Assurance",
+            28
+        ],
+        [
+            "Slash",
+            30
+        ],
+        [
+            "Captivate",
+            33
+        ],
+        [
+            "Night-slash",
+            37
+        ],
+        [
+            "Snatch",
+            39
+        ],
+        [
+            "Nasty-plot",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 3",
-        "Assist learnt at level 6",
-        "Sand-attack learnt at level 10",
-        "Fury-swipes learnt at level 12",
-        "Pursuit learnt at level 15",
-        "Torment learnt at level 19",
-        "Fake-out learnt at level 21",
-        "Hone-claws learnt at level 24",
-        "Assurance learnt at level 28",
-        "Slash learnt at level 30",
-        "Captivate learnt at level 33",
-        "Night-slash learnt at level 37",
-        "Snatch learnt at level 39",
-        "Nasty-plot learnt at level 42",
-        "Sucker-punch learnt at level 46",
-        "Play-rough learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Assist",
+            6
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Torment",
+            19
+        ],
+        [
+            "Fake-out",
+            21
+        ],
+        [
+            "Hone-claws",
+            24
+        ],
+        [
+            "Assurance",
+            28
+        ],
+        [
+            "Slash",
+            30
+        ],
+        [
+            "Captivate",
+            33
+        ],
+        [
+            "Night-slash",
+            37
+        ],
+        [
+            "Snatch",
+            39
+        ],
+        [
+            "Nasty-plot",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Play-rough",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 3",
-        "Assist learnt at level 6",
-        "Sand-attack learnt at level 10",
-        "Fury-swipes learnt at level 12",
-        "Pursuit learnt at level 15",
-        "Torment learnt at level 19",
-        "Fake-out learnt at level 21",
-        "Hone-claws learnt at level 24",
-        "Assurance learnt at level 28",
-        "Slash learnt at level 30",
-        "Captivate learnt at level 33",
-        "Night-slash learnt at level 37",
-        "Snatch learnt at level 39",
-        "Nasty-plot learnt at level 42",
-        "Sucker-punch learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Assist",
+            6
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Torment",
+            19
+        ],
+        [
+            "Fake-out",
+            21
+        ],
+        [
+            "Hone-claws",
+            24
+        ],
+        [
+            "Assurance",
+            28
+        ],
+        [
+            "Slash",
+            30
+        ],
+        [
+            "Captivate",
+            33
+        ],
+        [
+            "Night-slash",
+            37
+        ],
+        [
+            "Snatch",
+            39
+        ],
+        [
+            "Nasty-plot",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 3",
-        "Assist learnt at level 6",
-        "Sand-attack learnt at level 10",
-        "Fury-swipes learnt at level 12",
-        "Pursuit learnt at level 15",
-        "Torment learnt at level 19",
-        "Fake-out learnt at level 21",
-        "Hone-claws learnt at level 24",
-        "Assurance learnt at level 28",
-        "Slash learnt at level 30",
-        "Captivate learnt at level 33",
-        "Night-slash learnt at level 37",
-        "Snatch learnt at level 39",
-        "Nasty-plot learnt at level 42",
-        "Sucker-punch learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            3
+        ],
+        [
+            "Assist",
+            6
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Pursuit",
+            15
+        ],
+        [
+            "Torment",
+            19
+        ],
+        [
+            "Fake-out",
+            21
+        ],
+        [
+            "Hone-claws",
+            24
+        ],
+        [
+            "Assurance",
+            28
+        ],
+        [
+            "Slash",
+            30
+        ],
+        [
+            "Captivate",
+            33
+        ],
+        [
+            "Night-slash",
+            37
+        ],
+        [
+            "Snatch",
+            39
+        ],
+        [
+            "Nasty-plot",
+            42
+        ],
+        [
+            "Sucker-punch",
+            46
+        ]
     ]
 }

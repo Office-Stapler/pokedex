@@ -1,261 +1,962 @@
 {
     "ruby-sapphire": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Taunt learnt at level 34",
-        "Crabhammer learnt at level 39",
-        "Swords-dance learnt at level 44",
-        "Guillotine learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Crabhammer",
+            39
+        ],
+        [
+            "Swords-dance",
+            44
+        ],
+        [
+            "Guillotine",
+            52
+        ]
     ],
     "emerald": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Taunt learnt at level 34",
-        "Crabhammer learnt at level 39",
-        "Swords-dance learnt at level 44",
-        "Guillotine learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Crabhammer",
+            39
+        ],
+        [
+            "Swords-dance",
+            44
+        ],
+        [
+            "Guillotine",
+            52
+        ]
     ],
     "firered-leafgreen": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 19",
-        "Protect learnt at level 22",
-        "Knock-off learnt at level 25",
-        "Taunt learnt at level 33",
-        "Crabhammer learnt at level 38",
-        "Swords-dance learnt at level 43",
-        "Crunch learnt at level 51",
-        "Guillotine learnt at level 56"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Protect",
+            22
+        ],
+        [
+            "Knock-off",
+            25
+        ],
+        [
+            "Taunt",
+            33
+        ],
+        [
+            "Crabhammer",
+            38
+        ],
+        [
+            "Swords-dance",
+            43
+        ],
+        [
+            "Crunch",
+            51
+        ],
+        [
+            "Guillotine",
+            56
+        ]
     ],
     "diamond-pearl": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Swift learnt at level 30",
-        "Taunt learnt at level 34",
-        "Night-slash learnt at level 39",
-        "Crabhammer learnt at level 44",
-        "Swords-dance learnt at level 52",
-        "Crunch learnt at level 57",
-        "Guillotine learnt at level 65"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Swift",
+            30
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Night-slash",
+            39
+        ],
+        [
+            "Crabhammer",
+            44
+        ],
+        [
+            "Swords-dance",
+            52
+        ],
+        [
+            "Crunch",
+            57
+        ],
+        [
+            "Guillotine",
+            65
+        ]
     ],
     "platinum": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Swift learnt at level 30",
-        "Taunt learnt at level 34",
-        "Night-slash learnt at level 39",
-        "Crabhammer learnt at level 44",
-        "Swords-dance learnt at level 52",
-        "Crunch learnt at level 57",
-        "Guillotine learnt at level 65"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Swift",
+            30
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Night-slash",
+            39
+        ],
+        [
+            "Crabhammer",
+            44
+        ],
+        [
+            "Swords-dance",
+            52
+        ],
+        [
+            "Crunch",
+            57
+        ],
+        [
+            "Guillotine",
+            65
+        ]
     ],
     "heartgold-soulsilver": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Swift learnt at level 30",
-        "Taunt learnt at level 34",
-        "Night-slash learnt at level 39",
-        "Crabhammer learnt at level 44",
-        "Swords-dance learnt at level 52",
-        "Crunch learnt at level 57",
-        "Guillotine learnt at level 65"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Swift",
+            30
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Night-slash",
+            39
+        ],
+        [
+            "Crabhammer",
+            44
+        ],
+        [
+            "Swords-dance",
+            52
+        ],
+        [
+            "Crunch",
+            57
+        ],
+        [
+            "Guillotine",
+            65
+        ]
     ],
     "black-white": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Swift learnt at level 30",
-        "Taunt learnt at level 34",
-        "Night-slash learnt at level 39",
-        "Crabhammer learnt at level 44",
-        "Swords-dance learnt at level 52",
-        "Crunch learnt at level 57",
-        "Guillotine learnt at level 65"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Swift",
+            30
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Night-slash",
+            39
+        ],
+        [
+            "Crabhammer",
+            44
+        ],
+        [
+            "Swords-dance",
+            52
+        ],
+        [
+            "Crunch",
+            57
+        ],
+        [
+            "Guillotine",
+            65
+        ]
     ],
     "colosseum": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Taunt learnt at level 34",
-        "Crabhammer learnt at level 39",
-        "Swords-dance learnt at level 44",
-        "Guillotine learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Crabhammer",
+            39
+        ],
+        [
+            "Swords-dance",
+            44
+        ],
+        [
+            "Guillotine",
+            52
+        ]
     ],
     "xd": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Taunt learnt at level 34",
-        "Crabhammer learnt at level 39",
-        "Swords-dance learnt at level 44",
-        "Guillotine learnt at level 52"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Crabhammer",
+            39
+        ],
+        [
+            "Swords-dance",
+            44
+        ],
+        [
+            "Guillotine",
+            52
+        ]
     ],
     "black-2-white-2": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Swift learnt at level 30",
-        "Taunt learnt at level 34",
-        "Night-slash learnt at level 39",
-        "Crabhammer learnt at level 44",
-        "Swords-dance learnt at level 52",
-        "Crunch learnt at level 57",
-        "Guillotine learnt at level 65"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Swift",
+            30
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Night-slash",
+            39
+        ],
+        [
+            "Crabhammer",
+            44
+        ],
+        [
+            "Swords-dance",
+            52
+        ],
+        [
+            "Crunch",
+            57
+        ],
+        [
+            "Guillotine",
+            65
+        ]
     ],
     "x-y": [
-        "Vice-grip learnt at level 1",
-        "Guillotine learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 7",
-        "Vice-grip learnt at level 10",
-        "Leer learnt at level 13",
-        "Bubble-beam learnt at level 20",
-        "Protect learnt at level 23",
-        "Knock-off learnt at level 26",
-        "Swift learnt at level 30",
-        "Taunt learnt at level 34",
-        "Night-slash learnt at level 39",
-        "Crabhammer learnt at level 44",
-        "Swords-dance learnt at level 52",
-        "Crunch learnt at level 57",
-        "Guillotine learnt at level 65"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Guillotine",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Vice-grip",
+            10
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Bubble-beam",
+            20
+        ],
+        [
+            "Protect",
+            23
+        ],
+        [
+            "Knock-off",
+            26
+        ],
+        [
+            "Swift",
+            30
+        ],
+        [
+            "Taunt",
+            34
+        ],
+        [
+            "Night-slash",
+            39
+        ],
+        [
+            "Crabhammer",
+            44
+        ],
+        [
+            "Swords-dance",
+            52
+        ],
+        [
+            "Crunch",
+            57
+        ],
+        [
+            "Guillotine",
+            65
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 5",
-        "Vice-grip learnt at level 7",
-        "Leer learnt at level 10",
-        "Bubble-beam learnt at level 14",
-        "Protect learnt at level 17",
-        "Double-hit learnt at level 20",
-        "Knock-off learnt at level 23",
-        "Night-slash learnt at level 26",
-        "Swift learnt at level 30",
-        "Razor-shell learnt at level 32",
-        "Taunt learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Crunch learnt at level 43",
-        "Crabhammer learnt at level 48",
-        "Guillotine learnt at level 54"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            5
+        ],
+        [
+            "Vice-grip",
+            7
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Bubble-beam",
+            14
+        ],
+        [
+            "Protect",
+            17
+        ],
+        [
+            "Double-hit",
+            20
+        ],
+        [
+            "Knock-off",
+            23
+        ],
+        [
+            "Night-slash",
+            26
+        ],
+        [
+            "Swift",
+            30
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Crabhammer",
+            48
+        ],
+        [
+            "Guillotine",
+            54
+        ]
     ],
     "sun-moon": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Swift learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 5",
-        "Vice-grip learnt at level 7",
-        "Leer learnt at level 10",
-        "Bubble-beam learnt at level 14",
-        "Protect learnt at level 17",
-        "Double-hit learnt at level 20",
-        "Knock-off learnt at level 23",
-        "Night-slash learnt at level 26",
-        "Razor-shell learnt at level 32",
-        "Taunt learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Crunch learnt at level 43",
-        "Crabhammer learnt at level 48",
-        "Guillotine learnt at level 54"
+        [
+            "Swift",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Swift",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            5
+        ],
+        [
+            "Vice-grip",
+            7
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Bubble-beam",
+            14
+        ],
+        [
+            "Protect",
+            17
+        ],
+        [
+            "Double-hit",
+            20
+        ],
+        [
+            "Knock-off",
+            23
+        ],
+        [
+            "Night-slash",
+            26
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Crabhammer",
+            48
+        ],
+        [
+            "Guillotine",
+            54
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Vice-grip learnt at level 1",
-        "Leer learnt at level 1",
-        "Harden learnt at level 1",
-        "Swift learnt at level 1",
-        "Bubble learnt at level 1",
-        "Harden learnt at level 5",
-        "Vice-grip learnt at level 7",
-        "Leer learnt at level 10",
-        "Bubble-beam learnt at level 14",
-        "Protect learnt at level 17",
-        "Double-hit learnt at level 20",
-        "Knock-off learnt at level 23",
-        "Night-slash learnt at level 26",
-        "Razor-shell learnt at level 32",
-        "Taunt learnt at level 36",
-        "Swords-dance learnt at level 40",
-        "Crunch learnt at level 43",
-        "Crabhammer learnt at level 48",
-        "Guillotine learnt at level 54"
+        [
+            "Swift",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Swift",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Harden",
+            5
+        ],
+        [
+            "Vice-grip",
+            7
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Bubble-beam",
+            14
+        ],
+        [
+            "Protect",
+            17
+        ],
+        [
+            "Double-hit",
+            20
+        ],
+        [
+            "Knock-off",
+            23
+        ],
+        [
+            "Night-slash",
+            26
+        ],
+        [
+            "Razor-shell",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Swords-dance",
+            40
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Crabhammer",
+            48
+        ],
+        [
+            "Guillotine",
+            54
+        ]
     ]
 }

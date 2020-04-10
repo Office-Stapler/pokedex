@@ -1,288 +1,1038 @@
 {
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 53",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            53
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 50",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 53",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            53
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 53",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            53
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "platinum": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Vacuum-wave learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 53",
-        "Swords-dance learnt at level 57",
-        "Feint learnt at level 61"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Vacuum-wave",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            53
+        ],
+        [
+            "Swords-dance",
+            57
+        ],
+        [
+            "Feint",
+            61
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 5",
-        "Pursuit learnt at level 9",
-        "False-swipe learnt at level 13",
-        "Agility learnt at level 17",
-        "Wing-attack learnt at level 21",
-        "Fury-cutter learnt at level 25",
-        "Slash learnt at level 29",
-        "Razor-wind learnt at level 33",
-        "Double-team learnt at level 37",
-        "X-scissor learnt at level 41",
-        "Night-slash learnt at level 45",
-        "Double-hit learnt at level 49",
-        "Air-slash learnt at level 53",
-        "Swords-dance learnt at level 57"
-    ],
-    "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 11",
-        "False-swipe learnt at level 16",
-        "Agility learnt at level 21",
-        "Wing-attack learnt at level 26",
-        "Slash learnt at level 31",
-        "Swords-dance learnt at level 36",
-        "Double-team learnt at level 41",
-        "Fury-cutter learnt at level 46"
-    ],
-    "emerald": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 11",
-        "False-swipe learnt at level 16",
-        "Agility learnt at level 21",
-        "Wing-attack learnt at level 26",
-        "Slash learnt at level 31",
-        "Swords-dance learnt at level 36",
-        "Double-team learnt at level 41",
-        "Fury-cutter learnt at level 46"
-    ],
-    "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 11",
-        "False-swipe learnt at level 16",
-        "Agility learnt at level 21",
-        "Wing-attack learnt at level 26",
-        "Slash learnt at level 31",
-        "Swords-dance learnt at level 36",
-        "Double-team learnt at level 41",
-        "Fury-cutter learnt at level 46"
-    ],
-    "crystal": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 12",
-        "False-swipe learnt at level 18",
-        "Agility learnt at level 24",
-        "Wing-attack learnt at level 30",
-        "Slash learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Double-team learnt at level 48"
-    ],
-    "gold-silver": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 12",
-        "False-swipe learnt at level 18",
-        "Agility learnt at level 24",
-        "Wing-attack learnt at level 30",
-        "Slash learnt at level 36",
-        "Swords-dance learnt at level 42",
-        "Double-team learnt at level 48"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            5
+        ],
+        [
+            "Pursuit",
+            9
+        ],
+        [
+            "False-swipe",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Wing-attack",
+            21
+        ],
+        [
+            "Fury-cutter",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Razor-wind",
+            33
+        ],
+        [
+            "Double-team",
+            37
+        ],
+        [
+            "X-scissor",
+            41
+        ],
+        [
+            "Night-slash",
+            45
+        ],
+        [
+            "Double-hit",
+            49
+        ],
+        [
+            "Air-slash",
+            53
+        ],
+        [
+            "Swords-dance",
+            57
+        ]
     ],
     "xd": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 11",
-        "False-swipe learnt at level 16",
-        "Agility learnt at level 21",
-        "Wing-attack learnt at level 26",
-        "Slash learnt at level 31",
-        "Swords-dance learnt at level 36",
-        "Double-team learnt at level 41",
-        "Fury-cutter learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            11
+        ],
+        [
+            "False-swipe",
+            16
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Wing-attack",
+            26
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Swords-dance",
+            36
+        ],
+        [
+            "Double-team",
+            41
+        ],
+        [
+            "Fury-cutter",
+            46
+        ]
     ],
     "colosseum": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Focus-energy learnt at level 6",
-        "Pursuit learnt at level 11",
-        "False-swipe learnt at level 16",
-        "Agility learnt at level 21",
-        "Wing-attack learnt at level 26",
-        "Slash learnt at level 31",
-        "Swords-dance learnt at level 36",
-        "Double-team learnt at level 41",
-        "Fury-cutter learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            11
+        ],
+        [
+            "False-swipe",
+            16
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Wing-attack",
+            26
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Swords-dance",
+            36
+        ],
+        [
+            "Double-team",
+            41
+        ],
+        [
+            "Fury-cutter",
+            46
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            11
+        ],
+        [
+            "False-swipe",
+            16
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Wing-attack",
+            26
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Swords-dance",
+            36
+        ],
+        [
+            "Double-team",
+            41
+        ],
+        [
+            "Fury-cutter",
+            46
+        ]
+    ],
+    "emerald": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            11
+        ],
+        [
+            "False-swipe",
+            16
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Wing-attack",
+            26
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Swords-dance",
+            36
+        ],
+        [
+            "Double-team",
+            41
+        ],
+        [
+            "Fury-cutter",
+            46
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            11
+        ],
+        [
+            "False-swipe",
+            16
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Wing-attack",
+            26
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Swords-dance",
+            36
+        ],
+        [
+            "Double-team",
+            41
+        ],
+        [
+            "Fury-cutter",
+            46
+        ]
+    ],
+    "crystal": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            12
+        ],
+        [
+            "False-swipe",
+            18
+        ],
+        [
+            "Agility",
+            24
+        ],
+        [
+            "Wing-attack",
+            30
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Double-team",
+            48
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Focus-energy",
+            6
+        ],
+        [
+            "Pursuit",
+            12
+        ],
+        [
+            "False-swipe",
+            18
+        ],
+        [
+            "Agility",
+            24
+        ],
+        [
+            "Wing-attack",
+            30
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Swords-dance",
+            42
+        ],
+        [
+            "Double-team",
+            48
+        ]
     ],
     "yellow": [
-        "Quick-attack learnt at level 1",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 20",
-        "Double-team learnt at level 24",
-        "Slash learnt at level 29",
-        "Swords-dance learnt at level 35",
-        "Agility learnt at level 42",
-        "Wing-attack learnt at level 50"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Double-team",
+            24
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Swords-dance",
+            35
+        ],
+        [
+            "Agility",
+            42
+        ],
+        [
+            "Wing-attack",
+            50
+        ]
     ],
     "red-blue": [
-        "Quick-attack learnt at level 1",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 20",
-        "Double-team learnt at level 24",
-        "Slash learnt at level 29",
-        "Swords-dance learnt at level 35",
-        "Agility learnt at level 42"
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Double-team",
+            24
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Swords-dance",
+            35
+        ],
+        [
+            "Agility",
+            42
+        ]
     ]
 }

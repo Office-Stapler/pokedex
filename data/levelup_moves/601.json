@@ -1,132 +1,494 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vice-grip learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Charge learnt at level 1",
-        "Gear-grind learnt at level 1",
-        "Magnetic-flux learnt at level 1",
-        "Gear-up learnt at level 1",
-        "Charge learnt at level 6",
-        "Thunder-shock learnt at level 11",
-        "Gear-grind learnt at level 16",
-        "Bind learnt at level 21",
-        "Charge-beam learnt at level 25",
-        "Autotomize learnt at level 31",
-        "Mirror-shot learnt at level 36",
-        "Screech learnt at level 40",
-        "Discharge learnt at level 44",
-        "Metal-sound learnt at level 48",
-        "Shift-gear learnt at level 54",
-        "Lock-on learnt at level 60",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 72"
+        [
+            "Magnetic-flux",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Gear-grind",
+            1
+        ],
+        [
+            "Magnetic-flux",
+            1
+        ],
+        [
+            "Gear-up",
+            1
+        ],
+        [
+            "Charge",
+            6
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Gear-grind",
+            16
+        ],
+        [
+            "Bind",
+            21
+        ],
+        [
+            "Charge-beam",
+            25
+        ],
+        [
+            "Autotomize",
+            31
+        ],
+        [
+            "Mirror-shot",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Discharge",
+            44
+        ],
+        [
+            "Metal-sound",
+            48
+        ],
+        [
+            "Shift-gear",
+            54
+        ],
+        [
+            "Lock-on",
+            60
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            72
+        ]
     ],
     "sun-moon": [
-        "Vice-grip learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Charge learnt at level 1",
-        "Gear-grind learnt at level 1",
-        "Magnetic-flux learnt at level 1",
-        "Gear-up learnt at level 1",
-        "Charge learnt at level 6",
-        "Thunder-shock learnt at level 11",
-        "Gear-grind learnt at level 16",
-        "Bind learnt at level 21",
-        "Charge-beam learnt at level 25",
-        "Autotomize learnt at level 31",
-        "Mirror-shot learnt at level 36",
-        "Screech learnt at level 40",
-        "Discharge learnt at level 44",
-        "Metal-sound learnt at level 48",
-        "Shift-gear learnt at level 54",
-        "Lock-on learnt at level 60",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 72"
+        [
+            "Magnetic-flux",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Gear-grind",
+            1
+        ],
+        [
+            "Magnetic-flux",
+            1
+        ],
+        [
+            "Gear-up",
+            1
+        ],
+        [
+            "Charge",
+            6
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Gear-grind",
+            16
+        ],
+        [
+            "Bind",
+            21
+        ],
+        [
+            "Charge-beam",
+            25
+        ],
+        [
+            "Autotomize",
+            31
+        ],
+        [
+            "Mirror-shot",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Discharge",
+            44
+        ],
+        [
+            "Metal-sound",
+            48
+        ],
+        [
+            "Shift-gear",
+            54
+        ],
+        [
+            "Lock-on",
+            60
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            72
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Vice-grip learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Charge learnt at level 1",
-        "Gear-grind learnt at level 1",
-        "Magnetic-flux learnt at level 1",
-        "Charge learnt at level 6",
-        "Thunder-shock learnt at level 11",
-        "Gear-grind learnt at level 16",
-        "Bind learnt at level 21",
-        "Charge-beam learnt at level 25",
-        "Autotomize learnt at level 31",
-        "Mirror-shot learnt at level 36",
-        "Screech learnt at level 40",
-        "Discharge learnt at level 44",
-        "Metal-sound learnt at level 48",
-        "Shift-gear learnt at level 54",
-        "Lock-on learnt at level 60",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 72",
-        "Magnetic-flux learnt at level 76"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Gear-grind",
+            1
+        ],
+        [
+            "Magnetic-flux",
+            1
+        ],
+        [
+            "Charge",
+            6
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Gear-grind",
+            16
+        ],
+        [
+            "Bind",
+            21
+        ],
+        [
+            "Charge-beam",
+            25
+        ],
+        [
+            "Autotomize",
+            31
+        ],
+        [
+            "Mirror-shot",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Discharge",
+            44
+        ],
+        [
+            "Metal-sound",
+            48
+        ],
+        [
+            "Shift-gear",
+            54
+        ],
+        [
+            "Lock-on",
+            60
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            72
+        ],
+        [
+            "Magnetic-flux",
+            76
+        ]
     ],
     "x-y": [
-        "Vice-grip learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Charge learnt at level 1",
-        "Gear-grind learnt at level 1",
-        "Magnetic-flux learnt at level 1",
-        "Charge learnt at level 6",
-        "Thunder-shock learnt at level 11",
-        "Gear-grind learnt at level 16",
-        "Bind learnt at level 21",
-        "Charge-beam learnt at level 25",
-        "Autotomize learnt at level 31",
-        "Mirror-shot learnt at level 36",
-        "Screech learnt at level 40",
-        "Discharge learnt at level 44",
-        "Metal-sound learnt at level 48",
-        "Shift-gear learnt at level 54",
-        "Lock-on learnt at level 60",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 72",
-        "Magnetic-flux learnt at level 76"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Gear-grind",
+            1
+        ],
+        [
+            "Magnetic-flux",
+            1
+        ],
+        [
+            "Charge",
+            6
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Gear-grind",
+            16
+        ],
+        [
+            "Bind",
+            21
+        ],
+        [
+            "Charge-beam",
+            25
+        ],
+        [
+            "Autotomize",
+            31
+        ],
+        [
+            "Mirror-shot",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Discharge",
+            44
+        ],
+        [
+            "Metal-sound",
+            48
+        ],
+        [
+            "Shift-gear",
+            54
+        ],
+        [
+            "Lock-on",
+            60
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            72
+        ],
+        [
+            "Magnetic-flux",
+            76
+        ]
     ],
     "black-2-white-2": [
-        "Vice-grip learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Charge learnt at level 1",
-        "Gear-grind learnt at level 1",
-        "Charge learnt at level 6",
-        "Thunder-shock learnt at level 11",
-        "Gear-grind learnt at level 16",
-        "Bind learnt at level 21",
-        "Charge-beam learnt at level 25",
-        "Autotomize learnt at level 31",
-        "Mirror-shot learnt at level 36",
-        "Screech learnt at level 40",
-        "Discharge learnt at level 44",
-        "Metal-sound learnt at level 48",
-        "Shift-gear learnt at level 54",
-        "Lock-on learnt at level 60",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 72"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Gear-grind",
+            1
+        ],
+        [
+            "Charge",
+            6
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Gear-grind",
+            16
+        ],
+        [
+            "Bind",
+            21
+        ],
+        [
+            "Charge-beam",
+            25
+        ],
+        [
+            "Autotomize",
+            31
+        ],
+        [
+            "Mirror-shot",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Discharge",
+            44
+        ],
+        [
+            "Metal-sound",
+            48
+        ],
+        [
+            "Shift-gear",
+            54
+        ],
+        [
+            "Lock-on",
+            60
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            72
+        ]
     ],
     "black-white": [
-        "Vice-grip learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Charge learnt at level 1",
-        "Gear-grind learnt at level 1",
-        "Charge learnt at level 6",
-        "Thunder-shock learnt at level 11",
-        "Gear-grind learnt at level 16",
-        "Bind learnt at level 21",
-        "Charge-beam learnt at level 25",
-        "Autotomize learnt at level 31",
-        "Mirror-shot learnt at level 36",
-        "Screech learnt at level 40",
-        "Discharge learnt at level 44",
-        "Metal-sound learnt at level 48",
-        "Shift-gear learnt at level 54",
-        "Lock-on learnt at level 60",
-        "Zap-cannon learnt at level 66",
-        "Hyper-beam learnt at level 72"
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Gear-grind",
+            1
+        ],
+        [
+            "Charge",
+            6
+        ],
+        [
+            "Thunder-shock",
+            11
+        ],
+        [
+            "Gear-grind",
+            16
+        ],
+        [
+            "Bind",
+            21
+        ],
+        [
+            "Charge-beam",
+            25
+        ],
+        [
+            "Autotomize",
+            31
+        ],
+        [
+            "Mirror-shot",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Discharge",
+            44
+        ],
+        [
+            "Metal-sound",
+            48
+        ],
+        [
+            "Shift-gear",
+            54
+        ],
+        [
+            "Lock-on",
+            60
+        ],
+        [
+            "Zap-cannon",
+            66
+        ],
+        [
+            "Hyper-beam",
+            72
+        ]
     ]
 }

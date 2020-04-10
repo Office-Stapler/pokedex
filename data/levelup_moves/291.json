@@ -1,258 +1,966 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Absorb learnt at level 1",
-        "Screech learnt at level 1",
-        "Double-team learnt at level 1",
-        "Harden learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Absorb learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Agility learnt at level 17",
-        "Slash learnt at level 23",
-        "Mind-reader learnt at level 29",
-        "Baton-pass learnt at level 35",
-        "Swords-dance learnt at level 41",
-        "X-scissor learnt at level 47"
+        [
+            "Screech",
+            0
+        ],
+        [
+            "Double-team",
+            0
+        ],
+        [
+            "Fury-cutter",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Slash",
+            23
+        ],
+        [
+            "Mind-reader",
+            29
+        ],
+        [
+            "Baton-pass",
+            35
+        ],
+        [
+            "Swords-dance",
+            41
+        ],
+        [
+            "X-scissor",
+            47
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Absorb learnt at level 1",
-        "Screech learnt at level 1",
-        "Double-team learnt at level 1",
-        "Harden learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Absorb learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Agility learnt at level 17",
-        "Slash learnt at level 23",
-        "Mind-reader learnt at level 29",
-        "Baton-pass learnt at level 35",
-        "Swords-dance learnt at level 41",
-        "X-scissor learnt at level 47"
+        [
+            "Screech",
+            0
+        ],
+        [
+            "Double-team",
+            0
+        ],
+        [
+            "Fury-cutter",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Slash",
+            23
+        ],
+        [
+            "Mind-reader",
+            29
+        ],
+        [
+            "Baton-pass",
+            35
+        ],
+        [
+            "Swords-dance",
+            41
+        ],
+        [
+            "X-scissor",
+            47
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Agility learnt at level 17",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Slash learnt at level 23",
-        "Mind-reader learnt at level 29",
-        "Baton-pass learnt at level 35",
-        "Swords-dance learnt at level 41",
-        "X-scissor learnt at level 47"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Agility",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Slash",
+            23
+        ],
+        [
+            "Mind-reader",
+            29
+        ],
+        [
+            "Baton-pass",
+            35
+        ],
+        [
+            "Swords-dance",
+            41
+        ],
+        [
+            "X-scissor",
+            47
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45",
-        "X-scissor learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ],
+        [
+            "X-scissor",
+            52
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45",
-        "X-scissor learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ],
+        [
+            "X-scissor",
+            52
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45",
-        "X-scissor learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ],
+        [
+            "X-scissor",
+            52
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45",
-        "X-scissor learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ],
+        [
+            "X-scissor",
+            52
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45",
-        "X-scissor learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ],
+        [
+            "X-scissor",
+            52
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45",
-        "X-scissor learnt at level 52"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ],
+        [
+            "X-scissor",
+            52
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Harden learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Leech-life learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Fury-swipes learnt at level 14",
-        "Mind-reader learnt at level 19",
-        "Screech learnt at level 20",
-        "Double-team learnt at level 20",
-        "Fury-cutter learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Slash learnt at level 31",
-        "Agility learnt at level 38",
-        "Baton-pass learnt at level 45"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Leech-life",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Fury-swipes",
+            14
+        ],
+        [
+            "Mind-reader",
+            19
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Double-team",
+            20
+        ],
+        [
+            "Fury-cutter",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Baton-pass",
+            45
+        ]
     ]
 }

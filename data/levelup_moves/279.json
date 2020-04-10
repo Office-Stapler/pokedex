@@ -1,276 +1,1022 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tailwind learnt at level 1",
-        "Soak learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Wing-attack learnt at level 8",
-        "Mist learnt at level 12",
-        "Water-pulse learnt at level 15",
-        "Payback learnt at level 19",
-        "Roost learnt at level 22",
-        "Protect learnt at level 25",
-        "Brine learnt at level 28",
-        "Stockpile learnt at level 33",
-        "Spit-up learnt at level 33",
-        "Swallow learnt at level 33",
-        "Fling learnt at level 39",
-        "Tailwind learnt at level 44",
-        "Hydro-pump learnt at level 50",
-        "Hurricane learnt at level 55"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tailwind",
+            1
+        ],
+        [
+            "Soak",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Wing-attack",
+            8
+        ],
+        [
+            "Mist",
+            12
+        ],
+        [
+            "Water-pulse",
+            15
+        ],
+        [
+            "Payback",
+            19
+        ],
+        [
+            "Roost",
+            22
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Brine",
+            28
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Spit-up",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Fling",
+            39
+        ],
+        [
+            "Tailwind",
+            44
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Hurricane",
+            55
+        ]
     ],
     "x-y": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tailwind learnt at level 1",
-        "Soak learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Mist learnt at level 14",
-        "Water-pulse learnt at level 17",
-        "Payback learnt at level 22",
-        "Protect learnt at level 25",
-        "Roost learnt at level 28",
-        "Brine learnt at level 34",
-        "Stockpile learnt at level 39",
-        "Spit-up learnt at level 39",
-        "Swallow learnt at level 39",
-        "Fling learnt at level 46",
-        "Tailwind learnt at level 52",
-        "Hydro-pump learnt at level 58",
-        "Hurricane learnt at level 63"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tailwind",
+            1
+        ],
+        [
+            "Soak",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Mist",
+            14
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Payback",
+            22
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Roost",
+            28
+        ],
+        [
+            "Brine",
+            34
+        ],
+        [
+            "Stockpile",
+            39
+        ],
+        [
+            "Spit-up",
+            39
+        ],
+        [
+            "Swallow",
+            39
+        ],
+        [
+            "Fling",
+            46
+        ],
+        [
+            "Tailwind",
+            52
+        ],
+        [
+            "Hydro-pump",
+            58
+        ],
+        [
+            "Hurricane",
+            63
+        ]
     ],
     "black-2-white-2": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Soak learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Wing-attack learnt at level 9",
-        "Mist learnt at level 14",
-        "Water-pulse learnt at level 17",
-        "Payback learnt at level 22",
-        "Protect learnt at level 25",
-        "Roost learnt at level 28",
-        "Brine learnt at level 34",
-        "Stockpile learnt at level 39",
-        "Spit-up learnt at level 39",
-        "Swallow learnt at level 39",
-        "Fling learnt at level 46",
-        "Tailwind learnt at level 52",
-        "Hydro-pump learnt at level 58",
-        "Hurricane learnt at level 63"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Soak",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Mist",
+            14
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Payback",
+            22
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Roost",
+            28
+        ],
+        [
+            "Brine",
+            34
+        ],
+        [
+            "Stockpile",
+            39
+        ],
+        [
+            "Spit-up",
+            39
+        ],
+        [
+            "Swallow",
+            39
+        ],
+        [
+            "Fling",
+            46
+        ],
+        [
+            "Tailwind",
+            52
+        ],
+        [
+            "Hydro-pump",
+            58
+        ],
+        [
+            "Hurricane",
+            63
+        ]
     ],
     "xd": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 3",
-        "Supersonic learnt at level 7",
-        "Wing-attack learnt at level 13",
-        "Mist learnt at level 21",
-        "Protect learnt at level 25",
-        "Stockpile learnt at level 33",
-        "Swallow learnt at level 33",
-        "Spit-up learnt at level 47",
-        "Hydro-pump learnt at level 61"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            3
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Mist",
+            21
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Spit-up",
+            47
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "colosseum": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 3",
-        "Supersonic learnt at level 7",
-        "Wing-attack learnt at level 13",
-        "Mist learnt at level 21",
-        "Protect learnt at level 25",
-        "Stockpile learnt at level 33",
-        "Swallow learnt at level 33",
-        "Spit-up learnt at level 47",
-        "Hydro-pump learnt at level 61"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            3
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Mist",
+            21
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Spit-up",
+            47
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "black-white": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Soak learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Wing-attack learnt at level 11",
-        "Mist learnt at level 16",
-        "Water-pulse learnt at level 19",
-        "Payback learnt at level 24",
-        "Protect learnt at level 25",
-        "Roost learnt at level 31",
-        "Stockpile learnt at level 38",
-        "Spit-up learnt at level 38",
-        "Swallow learnt at level 38",
-        "Fling learnt at level 43",
-        "Tailwind learnt at level 50",
-        "Hydro-pump learnt at level 57",
-        "Hurricane learnt at level 63"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Soak",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Wing-attack",
+            11
+        ],
+        [
+            "Mist",
+            16
+        ],
+        [
+            "Water-pulse",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Roost",
+            31
+        ],
+        [
+            "Stockpile",
+            38
+        ],
+        [
+            "Spit-up",
+            38
+        ],
+        [
+            "Swallow",
+            38
+        ],
+        [
+            "Fling",
+            43
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Hydro-pump",
+            57
+        ],
+        [
+            "Hurricane",
+            63
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Protect learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tailwind learnt at level 1",
-        "Soak learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Wing-attack learnt at level 8",
-        "Mist learnt at level 12",
-        "Water-pulse learnt at level 15",
-        "Payback learnt at level 19",
-        "Brine learnt at level 22",
-        "Fling learnt at level 28",
-        "Stockpile learnt at level 33",
-        "Spit-up learnt at level 33",
-        "Swallow learnt at level 33",
-        "Roost learnt at level 39",
-        "Tailwind learnt at level 44",
-        "Hydro-pump learnt at level 50",
-        "Hurricane learnt at level 55"
+        [
+            "Protect",
+            0
+        ],
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tailwind",
+            1
+        ],
+        [
+            "Soak",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Wing-attack",
+            8
+        ],
+        [
+            "Mist",
+            12
+        ],
+        [
+            "Water-pulse",
+            15
+        ],
+        [
+            "Payback",
+            19
+        ],
+        [
+            "Brine",
+            22
+        ],
+        [
+            "Fling",
+            28
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Spit-up",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Roost",
+            39
+        ],
+        [
+            "Tailwind",
+            44
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Hurricane",
+            55
+        ]
     ],
     "sun-moon": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Protect learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tailwind learnt at level 1",
-        "Soak learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Wing-attack learnt at level 8",
-        "Mist learnt at level 12",
-        "Water-pulse learnt at level 15",
-        "Payback learnt at level 19",
-        "Brine learnt at level 22",
-        "Fling learnt at level 28",
-        "Stockpile learnt at level 33",
-        "Spit-up learnt at level 33",
-        "Swallow learnt at level 33",
-        "Roost learnt at level 39",
-        "Tailwind learnt at level 44",
-        "Hydro-pump learnt at level 50",
-        "Hurricane learnt at level 55"
+        [
+            "Protect",
+            0
+        ],
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tailwind",
+            1
+        ],
+        [
+            "Soak",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Wing-attack",
+            8
+        ],
+        [
+            "Mist",
+            12
+        ],
+        [
+            "Water-pulse",
+            15
+        ],
+        [
+            "Payback",
+            19
+        ],
+        [
+            "Brine",
+            22
+        ],
+        [
+            "Fling",
+            28
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Spit-up",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Roost",
+            39
+        ],
+        [
+            "Tailwind",
+            44
+        ],
+        [
+            "Hydro-pump",
+            50
+        ],
+        [
+            "Hurricane",
+            55
+        ]
     ],
     "heartgold-soulsilver": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Wing-attack learnt at level 11",
-        "Mist learnt at level 16",
-        "Water-pulse learnt at level 19",
-        "Payback learnt at level 24",
-        "Protect learnt at level 25",
-        "Roost learnt at level 31",
-        "Stockpile learnt at level 38",
-        "Spit-up learnt at level 38",
-        "Swallow learnt at level 38",
-        "Fling learnt at level 43",
-        "Tailwind learnt at level 50",
-        "Hydro-pump learnt at level 57"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Wing-attack",
+            11
+        ],
+        [
+            "Mist",
+            16
+        ],
+        [
+            "Water-pulse",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Roost",
+            31
+        ],
+        [
+            "Stockpile",
+            38
+        ],
+        [
+            "Spit-up",
+            38
+        ],
+        [
+            "Swallow",
+            38
+        ],
+        [
+            "Fling",
+            43
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "platinum": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Wing-attack learnt at level 11",
-        "Mist learnt at level 16",
-        "Water-pulse learnt at level 19",
-        "Payback learnt at level 24",
-        "Protect learnt at level 25",
-        "Roost learnt at level 31",
-        "Stockpile learnt at level 38",
-        "Spit-up learnt at level 38",
-        "Swallow learnt at level 38",
-        "Fling learnt at level 43",
-        "Tailwind learnt at level 50",
-        "Hydro-pump learnt at level 57"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Wing-attack",
+            11
+        ],
+        [
+            "Mist",
+            16
+        ],
+        [
+            "Water-pulse",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Roost",
+            31
+        ],
+        [
+            "Stockpile",
+            38
+        ],
+        [
+            "Spit-up",
+            38
+        ],
+        [
+            "Swallow",
+            38
+        ],
+        [
+            "Fling",
+            43
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Wing-attack learnt at level 11",
-        "Mist learnt at level 16",
-        "Water-pulse learnt at level 19",
-        "Payback learnt at level 24",
-        "Protect learnt at level 25",
-        "Roost learnt at level 31",
-        "Stockpile learnt at level 38",
-        "Spit-up learnt at level 38",
-        "Swallow learnt at level 38",
-        "Fling learnt at level 43",
-        "Tailwind learnt at level 50",
-        "Hydro-pump learnt at level 57"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Wing-attack",
+            11
+        ],
+        [
+            "Mist",
+            16
+        ],
+        [
+            "Water-pulse",
+            19
+        ],
+        [
+            "Payback",
+            24
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Roost",
+            31
+        ],
+        [
+            "Stockpile",
+            38
+        ],
+        [
+            "Spit-up",
+            38
+        ],
+        [
+            "Swallow",
+            38
+        ],
+        [
+            "Fling",
+            43
+        ],
+        [
+            "Tailwind",
+            50
+        ],
+        [
+            "Hydro-pump",
+            57
+        ]
     ],
     "firered-leafgreen": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 3",
-        "Supersonic learnt at level 7",
-        "Wing-attack learnt at level 13",
-        "Mist learnt at level 21",
-        "Protect learnt at level 25",
-        "Stockpile learnt at level 33",
-        "Swallow learnt at level 33",
-        "Spit-up learnt at level 47",
-        "Hydro-pump learnt at level 61"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            3
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Mist",
+            21
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Spit-up",
+            47
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "emerald": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 3",
-        "Supersonic learnt at level 7",
-        "Wing-attack learnt at level 13",
-        "Mist learnt at level 21",
-        "Protect learnt at level 25",
-        "Stockpile learnt at level 33",
-        "Swallow learnt at level 33",
-        "Spit-up learnt at level 47",
-        "Hydro-pump learnt at level 61"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            3
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Mist",
+            21
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Spit-up",
+            47
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ],
     "ruby-sapphire": [
-        "Wing-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Water-gun learnt at level 3",
-        "Supersonic learnt at level 7",
-        "Wing-attack learnt at level 13",
-        "Mist learnt at level 21",
-        "Protect learnt at level 25",
-        "Stockpile learnt at level 33",
-        "Swallow learnt at level 33",
-        "Spit-up learnt at level 47",
-        "Hydro-pump learnt at level 61"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Water-gun",
+            3
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Wing-attack",
+            13
+        ],
+        [
+            "Mist",
+            21
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Stockpile",
+            33
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Spit-up",
+            47
+        ],
+        [
+            "Hydro-pump",
+            61
+        ]
     ]
 }

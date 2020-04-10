@@ -1,224 +1,806 @@
 {
-    "firered-leafgreen": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 9",
-        "Detect learnt at level 12",
-        "Hidden-power learnt at level 17",
-        "Swagger learnt at level 20",
-        "Mind-reader learnt at level 25",
-        "Calm-mind learnt at level 28",
-        "High-jump-kick learnt at level 33",
-        "Psych-up learnt at level 36",
-        "Reversal learnt at level 41",
-        "Recover learnt at level 44"
-    ],
-    "emerald": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 9",
-        "Detect learnt at level 12",
-        "Hidden-power learnt at level 18",
-        "Mind-reader learnt at level 22",
-        "Calm-mind learnt at level 28",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 38",
-        "Reversal learnt at level 42",
-        "Recover learnt at level 48"
-    ],
     "ultra-sun-ultra-moon": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 7",
-        "Detect learnt at level 9",
-        "Endure learnt at level 12",
-        "Feint learnt at level 15",
-        "Force-palm learnt at level 17",
-        "Hidden-power learnt at level 20",
-        "Calm-mind learnt at level 23",
-        "Mind-reader learnt at level 25",
-        "High-jump-kick learnt at level 28",
-        "Psych-up learnt at level 31",
-        "Acupressure learnt at level 33",
-        "Power-trick learnt at level 36",
-        "Reversal learnt at level 39",
-        "Recover learnt at level 41",
-        "Counter learnt at level 44"
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Detect",
+            9
+        ],
+        [
+            "Endure",
+            12
+        ],
+        [
+            "Feint",
+            15
+        ],
+        [
+            "Force-palm",
+            17
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Calm-mind",
+            23
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "High-jump-kick",
+            28
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Acupressure",
+            33
+        ],
+        [
+            "Power-trick",
+            36
+        ],
+        [
+            "Reversal",
+            39
+        ],
+        [
+            "Recover",
+            41
+        ],
+        [
+            "Counter",
+            44
+        ]
     ],
     "sun-moon": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 7",
-        "Detect learnt at level 9",
-        "Endure learnt at level 12",
-        "Feint learnt at level 15",
-        "Force-palm learnt at level 17",
-        "Hidden-power learnt at level 20",
-        "Calm-mind learnt at level 23",
-        "Mind-reader learnt at level 25",
-        "High-jump-kick learnt at level 28",
-        "Psych-up learnt at level 31",
-        "Acupressure learnt at level 33",
-        "Power-trick learnt at level 36",
-        "Reversal learnt at level 39",
-        "Recover learnt at level 41",
-        "Counter learnt at level 44"
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Detect",
+            9
+        ],
+        [
+            "Endure",
+            12
+        ],
+        [
+            "Feint",
+            15
+        ],
+        [
+            "Force-palm",
+            17
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Calm-mind",
+            23
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "High-jump-kick",
+            28
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Acupressure",
+            33
+        ],
+        [
+            "Power-trick",
+            36
+        ],
+        [
+            "Reversal",
+            39
+        ],
+        [
+            "Recover",
+            41
+        ],
+        [
+            "Counter",
+            44
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 7",
-        "Detect learnt at level 9",
-        "Endure learnt at level 12",
-        "Feint learnt at level 15",
-        "Force-palm learnt at level 17",
-        "Hidden-power learnt at level 20",
-        "Calm-mind learnt at level 23",
-        "Mind-reader learnt at level 25",
-        "High-jump-kick learnt at level 28",
-        "Psych-up learnt at level 31",
-        "Acupressure learnt at level 33",
-        "Power-trick learnt at level 36",
-        "Reversal learnt at level 39",
-        "Recover learnt at level 41",
-        "Counter learnt at level 44"
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Detect",
+            9
+        ],
+        [
+            "Endure",
+            12
+        ],
+        [
+            "Feint",
+            15
+        ],
+        [
+            "Force-palm",
+            17
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Calm-mind",
+            23
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "High-jump-kick",
+            28
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Acupressure",
+            33
+        ],
+        [
+            "Power-trick",
+            36
+        ],
+        [
+            "Reversal",
+            39
+        ],
+        [
+            "Recover",
+            41
+        ],
+        [
+            "Counter",
+            44
+        ]
     ],
     "x-y": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 8",
-        "Detect learnt at level 11",
-        "Hidden-power learnt at level 15",
-        "Mind-reader learnt at level 18",
-        "Feint learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Force-palm learnt at level 29",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 36",
-        "Acupressure learnt at level 39",
-        "Power-trick learnt at level 43",
-        "Reversal learnt at level 46",
-        "Recover learnt at level 50"
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Hidden-power",
+            15
+        ],
+        [
+            "Mind-reader",
+            18
+        ],
+        [
+            "Feint",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Acupressure",
+            39
+        ],
+        [
+            "Power-trick",
+            43
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Recover",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 8",
-        "Detect learnt at level 11",
-        "Hidden-power learnt at level 15",
-        "Mind-reader learnt at level 18",
-        "Feint learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Force-palm learnt at level 29",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 36",
-        "Acupressure learnt at level 39",
-        "Power-trick learnt at level 43",
-        "Reversal learnt at level 46",
-        "Recover learnt at level 50"
-    ],
-    "black-white": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 8",
-        "Detect learnt at level 11",
-        "Hidden-power learnt at level 15",
-        "Mind-reader learnt at level 18",
-        "Feint learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Force-palm learnt at level 29",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 36",
-        "Acupressure learnt at level 39",
-        "Power-trick learnt at level 43",
-        "Reversal learnt at level 46",
-        "Recover learnt at level 50"
-    ],
-    "platinum": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 8",
-        "Detect learnt at level 11",
-        "Hidden-power learnt at level 15",
-        "Mind-reader learnt at level 18",
-        "Feint learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Force-palm learnt at level 29",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 36",
-        "Power-trick learnt at level 39",
-        "Reversal learnt at level 43",
-        "Recover learnt at level 46"
-    ],
-    "diamond-pearl": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 8",
-        "Detect learnt at level 11",
-        "Hidden-power learnt at level 15",
-        "Mind-reader learnt at level 18",
-        "Feint learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Force-palm learnt at level 29",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 36",
-        "Power-trick learnt at level 39",
-        "Reversal learnt at level 43",
-        "Recover learnt at level 46"
-    ],
-    "heartgold-soulsilver": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 8",
-        "Detect learnt at level 11",
-        "Hidden-power learnt at level 15",
-        "Mind-reader learnt at level 18",
-        "Feint learnt at level 22",
-        "Calm-mind learnt at level 25",
-        "Force-palm learnt at level 29",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 36",
-        "Power-trick learnt at level 39",
-        "Reversal learnt at level 43",
-        "Recover learnt at level 46"
-    ],
-    "ruby-sapphire": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 9",
-        "Detect learnt at level 12",
-        "Hidden-power learnt at level 18",
-        "Mind-reader learnt at level 22",
-        "Calm-mind learnt at level 28",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 38",
-        "Reversal learnt at level 42",
-        "Recover learnt at level 48"
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Hidden-power",
+            15
+        ],
+        [
+            "Mind-reader",
+            18
+        ],
+        [
+            "Feint",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Acupressure",
+            39
+        ],
+        [
+            "Power-trick",
+            43
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Recover",
+            50
+        ]
     ],
     "xd": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 9",
-        "Detect learnt at level 12",
-        "Hidden-power learnt at level 18",
-        "Mind-reader learnt at level 22",
-        "Calm-mind learnt at level 28",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 38",
-        "Reversal learnt at level 42",
-        "Recover learnt at level 48"
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Detect",
+            12
+        ],
+        [
+            "Hidden-power",
+            18
+        ],
+        [
+            "Mind-reader",
+            22
+        ],
+        [
+            "Calm-mind",
+            28
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            38
+        ],
+        [
+            "Reversal",
+            42
+        ],
+        [
+            "Recover",
+            48
+        ]
     ],
     "colosseum": [
-        "Bide learnt at level 1",
-        "Meditate learnt at level 4",
-        "Confusion learnt at level 9",
-        "Detect learnt at level 12",
-        "Hidden-power learnt at level 18",
-        "Mind-reader learnt at level 22",
-        "Calm-mind learnt at level 28",
-        "High-jump-kick learnt at level 32",
-        "Psych-up learnt at level 38",
-        "Reversal learnt at level 42",
-        "Recover learnt at level 48"
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Detect",
+            12
+        ],
+        [
+            "Hidden-power",
+            18
+        ],
+        [
+            "Mind-reader",
+            22
+        ],
+        [
+            "Calm-mind",
+            28
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            38
+        ],
+        [
+            "Reversal",
+            42
+        ],
+        [
+            "Recover",
+            48
+        ]
+    ],
+    "black-white": [
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Hidden-power",
+            15
+        ],
+        [
+            "Mind-reader",
+            18
+        ],
+        [
+            "Feint",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Acupressure",
+            39
+        ],
+        [
+            "Power-trick",
+            43
+        ],
+        [
+            "Reversal",
+            46
+        ],
+        [
+            "Recover",
+            50
+        ]
+    ],
+    "platinum": [
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Hidden-power",
+            15
+        ],
+        [
+            "Mind-reader",
+            18
+        ],
+        [
+            "Feint",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Power-trick",
+            39
+        ],
+        [
+            "Reversal",
+            43
+        ],
+        [
+            "Recover",
+            46
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Hidden-power",
+            15
+        ],
+        [
+            "Mind-reader",
+            18
+        ],
+        [
+            "Feint",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Power-trick",
+            39
+        ],
+        [
+            "Reversal",
+            43
+        ],
+        [
+            "Recover",
+            46
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Detect",
+            12
+        ],
+        [
+            "Hidden-power",
+            17
+        ],
+        [
+            "Swagger",
+            20
+        ],
+        [
+            "Mind-reader",
+            25
+        ],
+        [
+            "Calm-mind",
+            28
+        ],
+        [
+            "High-jump-kick",
+            33
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Reversal",
+            41
+        ],
+        [
+            "Recover",
+            44
+        ]
+    ],
+    "emerald": [
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Detect",
+            12
+        ],
+        [
+            "Hidden-power",
+            18
+        ],
+        [
+            "Mind-reader",
+            22
+        ],
+        [
+            "Calm-mind",
+            28
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            38
+        ],
+        [
+            "Reversal",
+            42
+        ],
+        [
+            "Recover",
+            48
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Hidden-power",
+            15
+        ],
+        [
+            "Mind-reader",
+            18
+        ],
+        [
+            "Feint",
+            22
+        ],
+        [
+            "Calm-mind",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Power-trick",
+            39
+        ],
+        [
+            "Reversal",
+            43
+        ],
+        [
+            "Recover",
+            46
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Meditate",
+            4
+        ],
+        [
+            "Confusion",
+            9
+        ],
+        [
+            "Detect",
+            12
+        ],
+        [
+            "Hidden-power",
+            18
+        ],
+        [
+            "Mind-reader",
+            22
+        ],
+        [
+            "Calm-mind",
+            28
+        ],
+        [
+            "High-jump-kick",
+            32
+        ],
+        [
+            "Psych-up",
+            38
+        ],
+        [
+            "Reversal",
+            42
+        ],
+        [
+            "Recover",
+            48
+        ]
     ]
 }

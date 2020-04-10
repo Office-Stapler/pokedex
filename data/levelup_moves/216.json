@@ -1,236 +1,842 @@
 {
-    "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Fake-tears learnt at level 19",
-        "Feint-attack learnt at level 25",
-        "Rest learnt at level 31",
-        "Slash learnt at level 37",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 49"
-    ],
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Fake-tears learnt at level 19",
-        "Feint-attack learnt at level 25",
-        "Rest learnt at level 31",
-        "Slash learnt at level 37",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 49"
+    "sun-moon": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Play-nice",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fling learnt at level 1",
-        "Baby-doll-eyes learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Play-nice learnt at level 25",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
-    ],
-    "crystal": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 8",
-        "Fury-swipes learnt at level 15",
-        "Feint-attack learnt at level 22",
-        "Rest learnt at level 29",
-        "Slash learnt at level 36",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
-    ],
-    "gold-silver": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 8",
-        "Fury-swipes learnt at level 15",
-        "Feint-attack learnt at level 22",
-        "Rest learnt at level 29",
-        "Slash learnt at level 36",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50"
-    ],
-    "sun-moon": [
-        "Scratch learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fling learnt at level 1",
-        "Baby-doll-eyes learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Play-nice learnt at level 25",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Play-nice",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fling learnt at level 1",
-        "Baby-doll-eyes learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Play-nice learnt at level 25",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Play-nice",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Fake-tears learnt at level 19",
-        "Feint-attack learnt at level 25",
-        "Rest learnt at level 31",
-        "Slash learnt at level 37",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Fake-tears",
+            19
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rest",
+            31
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            49
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fling learnt at level 1",
-        "Baby-doll-eyes learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Play-nice learnt at level 25",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Baby-doll-eyes",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Play-nice",
+            25
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Fake-tears learnt at level 19",
-        "Feint-attack learnt at level 25",
-        "Rest learnt at level 31",
-        "Slash learnt at level 37",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Fake-tears",
+            19
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rest",
+            31
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            49
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 1",
-        "Fake-tears learnt at level 1",
-        "Covet learnt at level 1",
-        "Fury-swipes learnt at level 8",
-        "Feint-attack learnt at level 15",
-        "Sweet-scent learnt at level 22",
-        "Slash learnt at level 29",
-        "Charm learnt at level 36",
-        "Rest learnt at level 43",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 50",
-        "Fling learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Fake-tears",
+            19
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rest",
+            31
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            49
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Fake-tears",
+            19
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rest",
+            31
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Lick learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Fake-tears learnt at level 19",
-        "Feint-attack learnt at level 25",
-        "Rest learnt at level 31",
-        "Slash learnt at level 37",
-        "Snore learnt at level 43",
-        "Thrash learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Fake-tears",
+            19
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rest",
+            31
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            49
+        ]
+    ],
+    "crystal": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            8
+        ],
+        [
+            "Fury-swipes",
+            15
+        ],
+        [
+            "Feint-attack",
+            22
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Covet",
+            1
+        ],
+        [
+            "Fury-swipes",
+            8
+        ],
+        [
+            "Feint-attack",
+            15
+        ],
+        [
+            "Sweet-scent",
+            22
+        ],
+        [
+            "Slash",
+            29
+        ],
+        [
+            "Charm",
+            36
+        ],
+        [
+            "Rest",
+            43
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ],
+        [
+            "Fling",
+            57
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Lick",
+            8
+        ],
+        [
+            "Fury-swipes",
+            15
+        ],
+        [
+            "Feint-attack",
+            22
+        ],
+        [
+            "Rest",
+            29
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Snore",
+            43
+        ],
+        [
+            "Thrash",
+            50
+        ]
     ]
 }

@@ -1,214 +1,742 @@
 {
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 4",
-        "Pursuit learnt at level 8",
-        "Fury-attack learnt at level 11",
-        "Aerial-ace learnt at level 15",
-        "Mirror-move learnt at level 18",
-        "Assurance learnt at level 22",
-        "Agility learnt at level 25",
-        "Focus-energy learnt at level 29",
-        "Roost learnt at level 32",
-        "Drill-peck learnt at level 36"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Pursuit",
+            8
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Mirror-move",
+            18
+        ],
+        [
+            "Assurance",
+            22
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Focus-energy",
+            29
+        ],
+        [
+            "Roost",
+            32
+        ],
+        [
+            "Drill-peck",
+            36
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 5",
-        "Fury-attack learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Aerial-ace learnt at level 17",
-        "Mirror-move learnt at level 21",
-        "Agility learnt at level 25",
-        "Assurance learnt at level 29",
-        "Roost learnt at level 33",
-        "Drill-peck learnt at level 37"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Fury-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Mirror-move",
+            21
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Assurance",
+            29
+        ],
+        [
+            "Roost",
+            33
+        ],
+        [
+            "Drill-peck",
+            37
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 5",
-        "Fury-attack learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Aerial-ace learnt at level 17",
-        "Mirror-move learnt at level 21",
-        "Agility learnt at level 25",
-        "Assurance learnt at level 29",
-        "Roost learnt at level 33",
-        "Drill-peck learnt at level 37"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Fury-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Mirror-move",
+            21
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Assurance",
+            29
+        ],
+        [
+            "Roost",
+            33
+        ],
+        [
+            "Drill-peck",
+            37
+        ]
     ],
     "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 5",
-        "Fury-attack learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Aerial-ace learnt at level 17",
-        "Mirror-move learnt at level 21",
-        "Agility learnt at level 25",
-        "Assurance learnt at level 29",
-        "Roost learnt at level 33",
-        "Drill-peck learnt at level 37"
-    ],
-    "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 4",
-        "Pursuit learnt at level 8",
-        "Fury-attack learnt at level 11",
-        "Aerial-ace learnt at level 15",
-        "Mirror-move learnt at level 18",
-        "Assurance learnt at level 22",
-        "Agility learnt at level 25",
-        "Focus-energy learnt at level 29",
-        "Roost learnt at level 32",
-        "Drill-peck learnt at level 36"
-    ],
-    "black-white": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 5",
-        "Fury-attack learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Aerial-ace learnt at level 17",
-        "Mirror-move learnt at level 21",
-        "Agility learnt at level 25",
-        "Assurance learnt at level 29",
-        "Roost learnt at level 33",
-        "Drill-peck learnt at level 37"
-    ],
-    "yellow": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 9",
-        "Fury-attack learnt at level 15",
-        "Mirror-move learnt at level 22",
-        "Drill-peck learnt at level 29",
-        "Agility learnt at level 36"
-    ],
-    "red-blue": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 9",
-        "Fury-attack learnt at level 15",
-        "Mirror-move learnt at level 22",
-        "Drill-peck learnt at level 29",
-        "Agility learnt at level 36"
-    ],
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 5",
-        "Fury-attack learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Aerial-ace learnt at level 17",
-        "Mirror-move learnt at level 21",
-        "Agility learnt at level 25",
-        "Assurance learnt at level 29",
-        "Roost learnt at level 33",
-        "Drill-peck learnt at level 37"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 5",
-        "Fury-attack learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Aerial-ace learnt at level 17",
-        "Mirror-move learnt at level 21",
-        "Agility learnt at level 25",
-        "Assurance learnt at level 29",
-        "Roost learnt at level 33",
-        "Drill-peck learnt at level 37"
-    ],
-    "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 5",
-        "Fury-attack learnt at level 9",
-        "Pursuit learnt at level 13",
-        "Aerial-ace learnt at level 17",
-        "Mirror-move learnt at level 21",
-        "Agility learnt at level 25",
-        "Assurance learnt at level 29",
-        "Roost learnt at level 33",
-        "Drill-peck learnt at level 37"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Fury-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Mirror-move",
+            21
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Assurance",
+            29
+        ],
+        [
+            "Roost",
+            33
+        ],
+        [
+            "Drill-peck",
+            37
+        ]
     ],
     "xd": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 7",
-        "Fury-attack learnt at level 13",
-        "Pursuit learnt at level 19",
-        "Aerial-ace learnt at level 25",
-        "Mirror-move learnt at level 31",
-        "Drill-peck learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Pursuit",
+            19
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Mirror-move",
+            31
+        ],
+        [
+            "Drill-peck",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Fury-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Mirror-move",
+            21
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Assurance",
+            29
+        ],
+        [
+            "Roost",
+            33
+        ],
+        [
+            "Drill-peck",
+            37
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Fury-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Mirror-move",
+            21
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Assurance",
+            29
+        ],
+        [
+            "Roost",
+            33
+        ],
+        [
+            "Drill-peck",
+            37
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Pursuit",
+            8
+        ],
+        [
+            "Fury-attack",
+            11
+        ],
+        [
+            "Aerial-ace",
+            15
+        ],
+        [
+            "Mirror-move",
+            18
+        ],
+        [
+            "Assurance",
+            22
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Focus-energy",
+            29
+        ],
+        [
+            "Roost",
+            32
+        ],
+        [
+            "Drill-peck",
+            36
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Fury-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Mirror-move",
+            21
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Assurance",
+            29
+        ],
+        [
+            "Roost",
+            33
+        ],
+        [
+            "Drill-peck",
+            37
+        ]
     ],
     "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 7",
-        "Fury-attack learnt at level 13",
-        "Pursuit learnt at level 19",
-        "Aerial-ace learnt at level 25",
-        "Mirror-move learnt at level 31",
-        "Drill-peck learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Pursuit",
+            19
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Mirror-move",
+            31
+        ],
+        [
+            "Drill-peck",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "emerald": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 7",
-        "Fury-attack learnt at level 13",
-        "Pursuit learnt at level 19",
-        "Aerial-ace learnt at level 25",
-        "Mirror-move learnt at level 31",
-        "Drill-peck learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Pursuit",
+            19
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Mirror-move",
+            31
+        ],
+        [
+            "Drill-peck",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 7",
-        "Fury-attack learnt at level 13",
-        "Pursuit learnt at level 19",
-        "Aerial-ace learnt at level 25",
-        "Mirror-move learnt at level 31",
-        "Drill-peck learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Pursuit",
+            19
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Mirror-move",
+            31
+        ],
+        [
+            "Drill-peck",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "crystal": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 7",
-        "Fury-attack learnt at level 13",
-        "Pursuit learnt at level 25",
-        "Mirror-move learnt at level 31",
-        "Drill-peck learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Mirror-move",
+            31
+        ],
+        [
+            "Drill-peck",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "gold-silver": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 7",
-        "Fury-attack learnt at level 13",
-        "Pursuit learnt at level 25",
-        "Mirror-move learnt at level 31",
-        "Drill-peck learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Pursuit",
+            25
+        ],
+        [
+            "Mirror-move",
+            31
+        ],
+        [
+            "Drill-peck",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Leer learnt at level 7",
-        "Fury-attack learnt at level 13",
-        "Pursuit learnt at level 19",
-        "Aerial-ace learnt at level 25",
-        "Mirror-move learnt at level 31",
-        "Drill-peck learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Pursuit",
+            19
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Mirror-move",
+            31
+        ],
+        [
+            "Drill-peck",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
+    ],
+    "black-white": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Fury-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Mirror-move",
+            21
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Assurance",
+            29
+        ],
+        [
+            "Roost",
+            33
+        ],
+        [
+            "Drill-peck",
+            37
+        ]
+    ],
+    "yellow": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Fury-attack",
+            15
+        ],
+        [
+            "Mirror-move",
+            22
+        ],
+        [
+            "Drill-peck",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ]
+    ],
+    "red-blue": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Fury-attack",
+            15
+        ],
+        [
+            "Mirror-move",
+            22
+        ],
+        [
+            "Drill-peck",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ]
     ]
 }

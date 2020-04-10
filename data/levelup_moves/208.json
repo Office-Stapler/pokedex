@@ -1,313 +1,1150 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Curse learnt at level 4",
-        "Rock-throw learnt at level 7",
-        "Rock-tomb learnt at level 10",
-        "Rage learnt at level 13",
-        "Stealth-rock learnt at level 16",
-        "Autotomize learnt at level 19",
-        "Gyro-ball learnt at level 20",
-        "Smack-down learnt at level 22",
-        "Dragon-breath learnt at level 25",
-        "Slam learnt at level 28",
-        "Screech learnt at level 31",
-        "Rock-slide learnt at level 34",
-        "Crunch learnt at level 37",
-        "Iron-tail learnt at level 40",
-        "Dig learnt at level 43",
-        "Stone-edge learnt at level 46",
-        "Double-edge learnt at level 49",
-        "Sandstorm learnt at level 52"
-    ],
-    "x-y": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Curse learnt at level 4",
-        "Rock-throw learnt at level 7",
-        "Rock-tomb learnt at level 10",
-        "Rage learnt at level 13",
-        "Stealth-rock learnt at level 16",
-        "Autotomize learnt at level 19",
-        "Gyro-ball learnt at level 20",
-        "Smack-down learnt at level 22",
-        "Dragon-breath learnt at level 25",
-        "Slam learnt at level 28",
-        "Screech learnt at level 31",
-        "Rock-slide learnt at level 34",
-        "Crunch learnt at level 37",
-        "Iron-tail learnt at level 40",
-        "Dig learnt at level 43",
-        "Stone-edge learnt at level 46",
-        "Double-edge learnt at level 49",
-        "Sandstorm learnt at level 52"
-    ],
-    "black-2-white-2": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Curse learnt at level 4",
-        "Rock-throw learnt at level 7",
-        "Rage learnt at level 10",
-        "Rock-tomb learnt at level 13",
-        "Stealth-rock learnt at level 16",
-        "Autotomize learnt at level 19",
-        "Smack-down learnt at level 22",
-        "Dragon-breath learnt at level 25",
-        "Slam learnt at level 28",
-        "Screech learnt at level 31",
-        "Rock-slide learnt at level 34",
-        "Crunch learnt at level 37",
-        "Iron-tail learnt at level 40",
-        "Dig learnt at level 43",
-        "Stone-edge learnt at level 46",
-        "Double-edge learnt at level 49",
-        "Sandstorm learnt at level 52"
-    ],
-    "xd": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Bind learnt at level 9",
-        "Rock-throw learnt at level 13",
-        "Harden learnt at level 21",
-        "Rage learnt at level 25",
-        "Sandstorm learnt at level 33",
-        "Slam learnt at level 37",
-        "Iron-tail learnt at level 45",
-        "Crunch learnt at level 49",
-        "Double-edge learnt at level 57"
-    ],
-    "heartgold-soulsilver": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Screech learnt at level 6",
-        "Rock-throw learnt at level 9",
-        "Rage learnt at level 14",
-        "Rock-tomb learnt at level 17",
-        "Sandstorm learnt at level 22",
-        "Slam learnt at level 25",
-        "Rock-polish learnt at level 30",
-        "Dragon-breath learnt at level 33",
-        "Curse learnt at level 38",
-        "Iron-tail learnt at level 41",
-        "Crunch learnt at level 46",
-        "Double-edge learnt at level 49",
-        "Stone-edge learnt at level 54"
-    ],
-    "platinum": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Screech learnt at level 6",
-        "Rock-throw learnt at level 9",
-        "Rage learnt at level 14",
-        "Rock-tomb learnt at level 17",
-        "Sandstorm learnt at level 22",
-        "Slam learnt at level 25",
-        "Rock-polish learnt at level 30",
-        "Dragon-breath learnt at level 33",
-        "Curse learnt at level 38",
-        "Iron-tail learnt at level 41",
-        "Crunch learnt at level 46",
-        "Double-edge learnt at level 49",
-        "Stone-edge learnt at level 54"
-    ],
-    "diamond-pearl": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Screech learnt at level 6",
-        "Rock-throw learnt at level 9",
-        "Rage learnt at level 14",
-        "Rock-tomb learnt at level 17",
-        "Sandstorm learnt at level 22",
-        "Slam learnt at level 25",
-        "Rock-polish learnt at level 30",
-        "Dragon-breath learnt at level 33",
-        "Iron-tail learnt at level 38",
-        "Crunch learnt at level 41",
-        "Double-edge learnt at level 46",
-        "Stone-edge learnt at level 49"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Bind learnt at level 8",
-        "Rock-throw learnt at level 12",
-        "Harden learnt at level 19",
-        "Rage learnt at level 23",
-        "Dragon-breath learnt at level 30",
-        "Sandstorm learnt at level 34",
-        "Slam learnt at level 41",
-        "Iron-tail learnt at level 45",
-        "Crunch learnt at level 52",
-        "Double-edge learnt at level 56"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Bind learnt at level 9",
-        "Rock-throw learnt at level 13",
-        "Harden learnt at level 21",
-        "Rage learnt at level 25",
-        "Sandstorm learnt at level 33",
-        "Slam learnt at level 37",
-        "Iron-tail learnt at level 45",
-        "Crunch learnt at level 49",
-        "Double-edge learnt at level 57"
-    ],
-    "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Bind learnt at level 9",
-        "Rock-throw learnt at level 13",
-        "Harden learnt at level 21",
-        "Rage learnt at level 25",
-        "Sandstorm learnt at level 33",
-        "Slam learnt at level 37",
-        "Iron-tail learnt at level 45",
-        "Crunch learnt at level 49",
-        "Double-edge learnt at level 57"
-    ],
-    "colosseum": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Bind learnt at level 9",
-        "Rock-throw learnt at level 13",
-        "Harden learnt at level 21",
-        "Rage learnt at level 25",
-        "Sandstorm learnt at level 33",
-        "Slam learnt at level 37",
-        "Iron-tail learnt at level 45",
-        "Crunch learnt at level 49",
-        "Double-edge learnt at level 57"
-    ],
-    "black-white": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Screech learnt at level 6",
-        "Rock-throw learnt at level 9",
-        "Rage learnt at level 14",
-        "Rock-tomb learnt at level 17",
-        "Smack-down learnt at level 22",
-        "Sandstorm learnt at level 25",
-        "Autotomize learnt at level 30",
-        "Slam learnt at level 33",
-        "Stealth-rock learnt at level 38",
-        "Dragon-breath learnt at level 41",
-        "Curse learnt at level 46",
-        "Iron-tail learnt at level 49",
-        "Crunch learnt at level 54",
-        "Double-edge learnt at level 57",
-        "Stone-edge learnt at level 62"
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Bind",
+            10
+        ],
+        [
+            "Rock-throw",
+            14
+        ],
+        [
+            "Harden",
+            23
+        ],
+        [
+            "Rage",
+            27
+        ],
+        [
+            "Sandstorm",
+            36
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Crunch",
+            49
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Bind learnt at level 10",
-        "Rock-throw learnt at level 14",
-        "Harden learnt at level 23",
-        "Rage learnt at level 27",
-        "Sandstorm learnt at level 36",
-        "Slam learnt at level 40",
-        "Crunch learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Bind",
+            10
+        ],
+        [
+            "Rock-throw",
+            14
+        ],
+        [
+            "Harden",
+            23
+        ],
+        [
+            "Rage",
+            27
+        ],
+        [
+            "Sandstorm",
+            36
+        ],
+        [
+            "Slam",
+            40
+        ],
+        [
+            "Crunch",
+            49
+        ]
     ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Screech learnt at level 1",
-        "Bind learnt at level 10",
-        "Rock-throw learnt at level 14",
-        "Harden learnt at level 23",
-        "Rage learnt at level 27",
-        "Sandstorm learnt at level 36",
-        "Slam learnt at level 40",
-        "Crunch learnt at level 49"
+    "ruby-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Bind",
+            9
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Harden",
+            21
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Sandstorm",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Iron-tail",
+            45
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Double-edge",
+            57
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Bind",
+            9
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Harden",
+            21
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Sandstorm",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Iron-tail",
+            45
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Double-edge",
+            57
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Bind",
+            8
+        ],
+        [
+            "Rock-throw",
+            12
+        ],
+        [
+            "Harden",
+            19
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "Dragon-breath",
+            30
+        ],
+        [
+            "Sandstorm",
+            34
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Iron-tail",
+            45
+        ],
+        [
+            "Crunch",
+            52
+        ],
+        [
+            "Double-edge",
+            56
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Screech",
+            6
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Rage",
+            14
+        ],
+        [
+            "Rock-tomb",
+            17
+        ],
+        [
+            "Sandstorm",
+            22
+        ],
+        [
+            "Slam",
+            25
+        ],
+        [
+            "Rock-polish",
+            30
+        ],
+        [
+            "Dragon-breath",
+            33
+        ],
+        [
+            "Iron-tail",
+            38
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Double-edge",
+            46
+        ],
+        [
+            "Stone-edge",
+            49
+        ]
+    ],
+    "platinum": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Screech",
+            6
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Rage",
+            14
+        ],
+        [
+            "Rock-tomb",
+            17
+        ],
+        [
+            "Sandstorm",
+            22
+        ],
+        [
+            "Slam",
+            25
+        ],
+        [
+            "Rock-polish",
+            30
+        ],
+        [
+            "Dragon-breath",
+            33
+        ],
+        [
+            "Curse",
+            38
+        ],
+        [
+            "Iron-tail",
+            41
+        ],
+        [
+            "Crunch",
+            46
+        ],
+        [
+            "Double-edge",
+            49
+        ],
+        [
+            "Stone-edge",
+            54
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Screech",
+            6
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Rage",
+            14
+        ],
+        [
+            "Rock-tomb",
+            17
+        ],
+        [
+            "Sandstorm",
+            22
+        ],
+        [
+            "Slam",
+            25
+        ],
+        [
+            "Rock-polish",
+            30
+        ],
+        [
+            "Dragon-breath",
+            33
+        ],
+        [
+            "Curse",
+            38
+        ],
+        [
+            "Iron-tail",
+            41
+        ],
+        [
+            "Crunch",
+            46
+        ],
+        [
+            "Double-edge",
+            49
+        ],
+        [
+            "Stone-edge",
+            54
+        ]
+    ],
+    "black-white": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Screech",
+            6
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Rage",
+            14
+        ],
+        [
+            "Rock-tomb",
+            17
+        ],
+        [
+            "Smack-down",
+            22
+        ],
+        [
+            "Sandstorm",
+            25
+        ],
+        [
+            "Autotomize",
+            30
+        ],
+        [
+            "Slam",
+            33
+        ],
+        [
+            "Stealth-rock",
+            38
+        ],
+        [
+            "Dragon-breath",
+            41
+        ],
+        [
+            "Curse",
+            46
+        ],
+        [
+            "Iron-tail",
+            49
+        ],
+        [
+            "Crunch",
+            54
+        ],
+        [
+            "Double-edge",
+            57
+        ],
+        [
+            "Stone-edge",
+            62
+        ]
+    ],
+    "colosseum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Bind",
+            9
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Harden",
+            21
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Sandstorm",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Iron-tail",
+            45
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Double-edge",
+            57
+        ]
+    ],
+    "xd": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Bind",
+            9
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Harden",
+            21
+        ],
+        [
+            "Rage",
+            25
+        ],
+        [
+            "Sandstorm",
+            33
+        ],
+        [
+            "Slam",
+            37
+        ],
+        [
+            "Iron-tail",
+            45
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Double-edge",
+            57
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Curse",
+            4
+        ],
+        [
+            "Rock-throw",
+            7
+        ],
+        [
+            "Rage",
+            10
+        ],
+        [
+            "Rock-tomb",
+            13
+        ],
+        [
+            "Stealth-rock",
+            16
+        ],
+        [
+            "Autotomize",
+            19
+        ],
+        [
+            "Smack-down",
+            22
+        ],
+        [
+            "Dragon-breath",
+            25
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Rock-slide",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Iron-tail",
+            40
+        ],
+        [
+            "Dig",
+            43
+        ],
+        [
+            "Stone-edge",
+            46
+        ],
+        [
+            "Double-edge",
+            49
+        ],
+        [
+            "Sandstorm",
+            52
+        ]
+    ],
+    "x-y": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Curse",
+            4
+        ],
+        [
+            "Rock-throw",
+            7
+        ],
+        [
+            "Rock-tomb",
+            10
+        ],
+        [
+            "Rage",
+            13
+        ],
+        [
+            "Stealth-rock",
+            16
+        ],
+        [
+            "Autotomize",
+            19
+        ],
+        [
+            "Gyro-ball",
+            20
+        ],
+        [
+            "Smack-down",
+            22
+        ],
+        [
+            "Dragon-breath",
+            25
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Rock-slide",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Iron-tail",
+            40
+        ],
+        [
+            "Dig",
+            43
+        ],
+        [
+            "Stone-edge",
+            46
+        ],
+        [
+            "Double-edge",
+            49
+        ],
+        [
+            "Sandstorm",
+            52
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Curse",
+            4
+        ],
+        [
+            "Rock-throw",
+            7
+        ],
+        [
+            "Rock-tomb",
+            10
+        ],
+        [
+            "Rage",
+            13
+        ],
+        [
+            "Stealth-rock",
+            16
+        ],
+        [
+            "Autotomize",
+            19
+        ],
+        [
+            "Gyro-ball",
+            20
+        ],
+        [
+            "Smack-down",
+            22
+        ],
+        [
+            "Dragon-breath",
+            25
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Rock-slide",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Iron-tail",
+            40
+        ],
+        [
+            "Dig",
+            43
+        ],
+        [
+            "Stone-edge",
+            46
+        ],
+        [
+            "Double-edge",
+            49
+        ],
+        [
+            "Sandstorm",
+            52
+        ]
     ],
     "sun-moon": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Curse learnt at level 4",
-        "Rock-throw learnt at level 7",
-        "Rock-tomb learnt at level 10",
-        "Rage learnt at level 13",
-        "Stealth-rock learnt at level 16",
-        "Autotomize learnt at level 19",
-        "Gyro-ball learnt at level 20",
-        "Smack-down learnt at level 22",
-        "Dragon-breath learnt at level 25",
-        "Slam learnt at level 28",
-        "Screech learnt at level 31",
-        "Rock-slide learnt at level 34",
-        "Crunch learnt at level 37",
-        "Iron-tail learnt at level 40",
-        "Dig learnt at level 43",
-        "Stone-edge learnt at level 46",
-        "Double-edge learnt at level 49",
-        "Sandstorm learnt at level 52"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Curse",
+            4
+        ],
+        [
+            "Rock-throw",
+            7
+        ],
+        [
+            "Rock-tomb",
+            10
+        ],
+        [
+            "Rage",
+            13
+        ],
+        [
+            "Stealth-rock",
+            16
+        ],
+        [
+            "Autotomize",
+            19
+        ],
+        [
+            "Gyro-ball",
+            20
+        ],
+        [
+            "Smack-down",
+            22
+        ],
+        [
+            "Dragon-breath",
+            25
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Rock-slide",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Iron-tail",
+            40
+        ],
+        [
+            "Dig",
+            43
+        ],
+        [
+            "Stone-edge",
+            46
+        ],
+        [
+            "Double-edge",
+            49
+        ],
+        [
+            "Sandstorm",
+            52
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Bind learnt at level 1",
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Curse learnt at level 4",
-        "Rock-throw learnt at level 7",
-        "Rock-tomb learnt at level 10",
-        "Rage learnt at level 13",
-        "Stealth-rock learnt at level 16",
-        "Autotomize learnt at level 19",
-        "Gyro-ball learnt at level 20",
-        "Smack-down learnt at level 22",
-        "Dragon-breath learnt at level 25",
-        "Slam learnt at level 28",
-        "Screech learnt at level 31",
-        "Rock-slide learnt at level 34",
-        "Crunch learnt at level 37",
-        "Iron-tail learnt at level 40",
-        "Dig learnt at level 43",
-        "Stone-edge learnt at level 46",
-        "Double-edge learnt at level 49",
-        "Sandstorm learnt at level 52"
+        [
+            "Bind",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Curse",
+            4
+        ],
+        [
+            "Rock-throw",
+            7
+        ],
+        [
+            "Rock-tomb",
+            10
+        ],
+        [
+            "Rage",
+            13
+        ],
+        [
+            "Stealth-rock",
+            16
+        ],
+        [
+            "Autotomize",
+            19
+        ],
+        [
+            "Gyro-ball",
+            20
+        ],
+        [
+            "Smack-down",
+            22
+        ],
+        [
+            "Dragon-breath",
+            25
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Rock-slide",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Iron-tail",
+            40
+        ],
+        [
+            "Dig",
+            43
+        ],
+        [
+            "Stone-edge",
+            46
+        ],
+        [
+            "Double-edge",
+            49
+        ],
+        [
+            "Sandstorm",
+            52
+        ]
     ]
 }

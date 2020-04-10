@@ -1,118 +1,430 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Absorb learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Bubble learnt at level 1",
-        "Water-spout learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Absorb learnt at level 5",
-        "Night-shade learnt at level 9",
-        "Bubble-beam learnt at level 13",
-        "Recover learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Ominous-wind learnt at level 27",
-        "Brine learnt at level 32",
-        "Rain-dance learnt at level 37",
-        "Hex learnt at level 45",
-        "Hydro-pump learnt at level 53",
-        "Wring-out learnt at level 61",
-        "Water-spout learnt at level 69"
-    ],
-    "black-2-white-2": [
-        "Absorb learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Bubble learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Absorb learnt at level 5",
-        "Night-shade learnt at level 9",
-        "Bubble-beam learnt at level 13",
-        "Recover learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Ominous-wind learnt at level 27",
-        "Brine learnt at level 32",
-        "Rain-dance learnt at level 37",
-        "Hex learnt at level 45",
-        "Hydro-pump learnt at level 53",
-        "Wring-out learnt at level 61",
-        "Water-spout learnt at level 69"
-    ],
     "ultra-sun-ultra-moon": [
-        "Absorb learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Bubble learnt at level 1",
-        "Water-spout learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Absorb learnt at level 5",
-        "Night-shade learnt at level 9",
-        "Bubble-beam learnt at level 13",
-        "Recover learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Ominous-wind learnt at level 27",
-        "Brine learnt at level 32",
-        "Rain-dance learnt at level 37",
-        "Hex learnt at level 45",
-        "Hydro-pump learnt at level 53",
-        "Wring-out learnt at level 61",
-        "Water-spout learnt at level 69"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-spout",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Night-shade",
+            9
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Recover",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Ominous-wind",
+            27
+        ],
+        [
+            "Brine",
+            32
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Hex",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Wring-out",
+            61
+        ],
+        [
+            "Water-spout",
+            69
+        ]
     ],
     "sun-moon": [
-        "Absorb learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Bubble learnt at level 1",
-        "Water-spout learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Absorb learnt at level 5",
-        "Night-shade learnt at level 9",
-        "Bubble-beam learnt at level 13",
-        "Recover learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Ominous-wind learnt at level 27",
-        "Brine learnt at level 32",
-        "Rain-dance learnt at level 37",
-        "Hex learnt at level 45",
-        "Hydro-pump learnt at level 53",
-        "Wring-out learnt at level 61",
-        "Water-spout learnt at level 69"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-spout",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Night-shade",
+            9
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Recover",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Ominous-wind",
+            27
+        ],
+        [
+            "Brine",
+            32
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Hex",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Wring-out",
+            61
+        ],
+        [
+            "Water-spout",
+            69
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-spout",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Night-shade",
+            9
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Recover",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Ominous-wind",
+            27
+        ],
+        [
+            "Brine",
+            32
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Hex",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Wring-out",
+            61
+        ],
+        [
+            "Water-spout",
+            69
+        ]
     ],
     "x-y": [
-        "Absorb learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Bubble learnt at level 1",
-        "Water-spout learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Wring-out learnt at level 1",
-        "Absorb learnt at level 5",
-        "Night-shade learnt at level 9",
-        "Bubble-beam learnt at level 13",
-        "Recover learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Ominous-wind learnt at level 27",
-        "Brine learnt at level 32",
-        "Rain-dance learnt at level 37",
-        "Hex learnt at level 45",
-        "Hydro-pump learnt at level 53",
-        "Wring-out learnt at level 61",
-        "Water-spout learnt at level 69"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-spout",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Wring-out",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Night-shade",
+            9
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Recover",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Ominous-wind",
+            27
+        ],
+        [
+            "Brine",
+            32
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Hex",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Wring-out",
+            61
+        ],
+        [
+            "Water-spout",
+            69
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Night-shade",
+            9
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Recover",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Ominous-wind",
+            27
+        ],
+        [
+            "Brine",
+            32
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Hex",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Wring-out",
+            61
+        ],
+        [
+            "Water-spout",
+            69
+        ]
     ],
     "black-white": [
-        "Absorb learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Bubble learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Absorb learnt at level 5",
-        "Night-shade learnt at level 9",
-        "Bubble-beam learnt at level 13",
-        "Recover learnt at level 17",
-        "Water-pulse learnt at level 22",
-        "Ominous-wind learnt at level 27",
-        "Brine learnt at level 32",
-        "Rain-dance learnt at level 37",
-        "Hex learnt at level 45",
-        "Hydro-pump learnt at level 53",
-        "Wring-out learnt at level 61",
-        "Water-spout learnt at level 69"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Night-shade",
+            9
+        ],
+        [
+            "Bubble-beam",
+            13
+        ],
+        [
+            "Recover",
+            17
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Ominous-wind",
+            27
+        ],
+        [
+            "Brine",
+            32
+        ],
+        [
+            "Rain-dance",
+            37
+        ],
+        [
+            "Hex",
+            45
+        ],
+        [
+            "Hydro-pump",
+            53
+        ],
+        [
+            "Wring-out",
+            61
+        ],
+        [
+            "Water-spout",
+            69
+        ]
     ]
 }

@@ -1,26 +1,74 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Stun-spore learnt at level 6",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Stun-spore learnt at level 6",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Stun-spore learnt at level 6",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "String-shot learnt at level 1",
-        "Stun-spore learnt at level 6",
-        "Bug-bite learnt at level 15"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ]
 }

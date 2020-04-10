@@ -1,292 +1,1066 @@
 {
-    "emerald": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Sandstorm learnt at level 8",
-        "Screech learnt at level 15",
-        "Rock-slide learnt at level 22",
-        "Thrash learnt at level 29",
-        "Scary-face learnt at level 38",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 61",
-        "Hyper-beam learnt at level 75"
-    ],
-    "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Sandstorm learnt at level 8",
-        "Screech learnt at level 15",
-        "Rock-slide learnt at level 22",
-        "Thrash learnt at level 29",
-        "Scary-face learnt at level 38",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 61",
-        "Hyper-beam learnt at level 75"
-    ],
     "gold-silver": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Sandstorm learnt at level 8",
-        "Screech learnt at level 15",
-        "Rock-slide learnt at level 22",
-        "Thrash learnt at level 29",
-        "Scary-face learnt at level 38",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 61",
-        "Hyper-beam learnt at level 75"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Sandstorm",
+            8
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Scary-face",
+            38
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            61
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
     ],
     "crystal": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Sandstorm learnt at level 8",
-        "Screech learnt at level 15",
-        "Rock-slide learnt at level 22",
-        "Thrash learnt at level 29",
-        "Scary-face learnt at level 38",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 61",
-        "Hyper-beam learnt at level 75"
-    ],
-    "platinum": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Rock-slide learnt at level 14",
-        "Scary-face learnt at level 19",
-        "Thrash learnt at level 23",
-        "Dark-pulse learnt at level 28",
-        "Payback learnt at level 34",
-        "Crunch learnt at level 41",
-        "Earthquake learnt at level 47",
-        "Stone-edge learnt at level 54",
-        "Hyper-beam learnt at level 70"
-    ],
-    "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Rock-slide learnt at level 14",
-        "Scary-face learnt at level 19",
-        "Thrash learnt at level 23",
-        "Dark-pulse learnt at level 28",
-        "Payback learnt at level 34",
-        "Crunch learnt at level 41",
-        "Earthquake learnt at level 47",
-        "Stone-edge learnt at level 54",
-        "Hyper-beam learnt at level 70"
-    ],
-    "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Chip-away learnt at level 14",
-        "Rock-slide learnt at level 19",
-        "Scary-face learnt at level 23",
-        "Thrash learnt at level 28",
-        "Dark-pulse learnt at level 34",
-        "Payback learnt at level 41",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Stone-edge learnt at level 63",
-        "Hyper-beam learnt at level 73",
-        "Giga-impact learnt at level 82"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Chip-away learnt at level 14",
-        "Rock-slide learnt at level 19",
-        "Scary-face learnt at level 23",
-        "Thrash learnt at level 28",
-        "Dark-pulse learnt at level 34",
-        "Payback learnt at level 41",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Stone-edge learnt at level 63",
-        "Hyper-beam learnt at level 73",
-        "Giga-impact learnt at level 82"
-    ],
-    "x-y": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Chip-away learnt at level 14",
-        "Rock-slide learnt at level 19",
-        "Scary-face learnt at level 23",
-        "Thrash learnt at level 28",
-        "Dark-pulse learnt at level 34",
-        "Payback learnt at level 41",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Stone-edge learnt at level 63",
-        "Hyper-beam learnt at level 73",
-        "Giga-impact learnt at level 82"
-    ],
-    "black-white": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Chip-away learnt at level 14",
-        "Rock-slide learnt at level 19",
-        "Scary-face learnt at level 23",
-        "Thrash learnt at level 28",
-        "Dark-pulse learnt at level 34",
-        "Payback learnt at level 41",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Stone-edge learnt at level 63",
-        "Hyper-beam learnt at level 73",
-        "Giga-impact learnt at level 82"
-    ],
-    "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Rock-slide learnt at level 14",
-        "Scary-face learnt at level 19",
-        "Thrash learnt at level 23",
-        "Dark-pulse learnt at level 28",
-        "Payback learnt at level 34",
-        "Crunch learnt at level 41",
-        "Earthquake learnt at level 47",
-        "Stone-edge learnt at level 54",
-        "Hyper-beam learnt at level 70"
-    ],
-    "xd": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Sandstorm learnt at level 8",
-        "Screech learnt at level 15",
-        "Rock-slide learnt at level 22",
-        "Thrash learnt at level 29",
-        "Scary-face learnt at level 38",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 61",
-        "Hyper-beam learnt at level 75"
-    ],
-    "colosseum": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Sandstorm learnt at level 8",
-        "Screech learnt at level 15",
-        "Rock-slide learnt at level 22",
-        "Thrash learnt at level 29",
-        "Scary-face learnt at level 38",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 61",
-        "Hyper-beam learnt at level 75"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Sandstorm",
+            8
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Scary-face",
+            38
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            61
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
     ],
     "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Sandstorm learnt at level 8",
-        "Screech learnt at level 15",
-        "Rock-slide learnt at level 22",
-        "Thrash learnt at level 29",
-        "Scary-face learnt at level 38",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 61",
-        "Hyper-beam learnt at level 75"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Sandstorm",
+            8
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Scary-face",
+            38
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            61
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
+    ],
+    "emerald": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Sandstorm",
+            8
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Scary-face",
+            38
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            61
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Sandstorm",
+            8
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Scary-face",
+            38
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            61
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Rock-slide",
+            14
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Thrash",
+            23
+        ],
+        [
+            "Dark-pulse",
+            28
+        ],
+        [
+            "Payback",
+            34
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Stone-edge",
+            54
+        ],
+        [
+            "Hyper-beam",
+            70
+        ]
+    ],
+    "platinum": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Rock-slide",
+            14
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Thrash",
+            23
+        ],
+        [
+            "Dark-pulse",
+            28
+        ],
+        [
+            "Payback",
+            34
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Stone-edge",
+            54
+        ],
+        [
+            "Hyper-beam",
+            70
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Rock-slide",
+            14
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Thrash",
+            23
+        ],
+        [
+            "Dark-pulse",
+            28
+        ],
+        [
+            "Payback",
+            34
+        ],
+        [
+            "Crunch",
+            41
+        ],
+        [
+            "Earthquake",
+            47
+        ],
+        [
+            "Stone-edge",
+            54
+        ],
+        [
+            "Hyper-beam",
+            70
+        ]
+    ],
+    "black-white": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Chip-away",
+            14
+        ],
+        [
+            "Rock-slide",
+            19
+        ],
+        [
+            "Scary-face",
+            23
+        ],
+        [
+            "Thrash",
+            28
+        ],
+        [
+            "Dark-pulse",
+            34
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Stone-edge",
+            63
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Giga-impact",
+            82
+        ]
+    ],
+    "colosseum": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Sandstorm",
+            8
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Scary-face",
+            38
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            61
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
+    ],
+    "xd": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Sandstorm",
+            8
+        ],
+        [
+            "Screech",
+            15
+        ],
+        [
+            "Rock-slide",
+            22
+        ],
+        [
+            "Thrash",
+            29
+        ],
+        [
+            "Scary-face",
+            38
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            61
+        ],
+        [
+            "Hyper-beam",
+            75
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Chip-away",
+            14
+        ],
+        [
+            "Rock-slide",
+            19
+        ],
+        [
+            "Scary-face",
+            23
+        ],
+        [
+            "Thrash",
+            28
+        ],
+        [
+            "Dark-pulse",
+            34
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Stone-edge",
+            63
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Giga-impact",
+            82
+        ]
+    ],
+    "x-y": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Chip-away",
+            14
+        ],
+        [
+            "Rock-slide",
+            19
+        ],
+        [
+            "Scary-face",
+            23
+        ],
+        [
+            "Thrash",
+            28
+        ],
+        [
+            "Dark-pulse",
+            34
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Stone-edge",
+            63
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Giga-impact",
+            82
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Chip-away",
+            14
+        ],
+        [
+            "Rock-slide",
+            19
+        ],
+        [
+            "Scary-face",
+            23
+        ],
+        [
+            "Thrash",
+            28
+        ],
+        [
+            "Dark-pulse",
+            34
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Stone-edge",
+            63
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Giga-impact",
+            82
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Chip-away learnt at level 14",
-        "Rock-slide learnt at level 19",
-        "Scary-face learnt at level 23",
-        "Thrash learnt at level 28",
-        "Dark-pulse learnt at level 34",
-        "Payback learnt at level 41",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Stone-edge learnt at level 63",
-        "Hyper-beam learnt at level 73",
-        "Giga-impact learnt at level 82"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Chip-away",
+            14
+        ],
+        [
+            "Rock-slide",
+            19
+        ],
+        [
+            "Scary-face",
+            23
+        ],
+        [
+            "Thrash",
+            28
+        ],
+        [
+            "Dark-pulse",
+            34
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Stone-edge",
+            63
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Giga-impact",
+            82
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Screech learnt at level 1",
-        "Sandstorm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Sandstorm learnt at level 5",
-        "Screech learnt at level 10",
-        "Chip-away learnt at level 14",
-        "Rock-slide learnt at level 19",
-        "Scary-face learnt at level 23",
-        "Thrash learnt at level 28",
-        "Dark-pulse learnt at level 34",
-        "Payback learnt at level 41",
-        "Crunch learnt at level 47",
-        "Earthquake learnt at level 54",
-        "Stone-edge learnt at level 63",
-        "Hyper-beam learnt at level 73",
-        "Giga-impact learnt at level 82"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Screech",
+            1
+        ],
+        [
+            "Sandstorm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Sandstorm",
+            5
+        ],
+        [
+            "Screech",
+            10
+        ],
+        [
+            "Chip-away",
+            14
+        ],
+        [
+            "Rock-slide",
+            19
+        ],
+        [
+            "Scary-face",
+            23
+        ],
+        [
+            "Thrash",
+            28
+        ],
+        [
+            "Dark-pulse",
+            34
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Earthquake",
+            54
+        ],
+        [
+            "Stone-edge",
+            63
+        ],
+        [
+            "Hyper-beam",
+            73
+        ],
+        [
+            "Giga-impact",
+            82
+        ]
     ]
 }

@@ -1,123 +1,390 @@
 {
     "ultra-sun-ultra-moon": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Sweet-kiss learnt at level 10",
-        "Nasty-plot learnt at level 13",
-        "Thunder-wave learnt at level 18"
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Nasty-plot",
+            13
+        ],
+        [
+            "Thunder-wave",
+            18
+        ]
     ],
     "sun-moon": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Sweet-kiss learnt at level 10",
-        "Nasty-plot learnt at level 13",
-        "Thunder-wave learnt at level 18"
-    ],
-    "x-y": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Sweet-kiss learnt at level 10",
-        "Thunder-wave learnt at level 13",
-        "Nasty-plot learnt at level 18"
-    ],
-    "black-2-white-2": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Thunder-wave learnt at level 10",
-        "Sweet-kiss learnt at level 13",
-        "Nasty-plot learnt at level 18"
-    ],
-    "black-white": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Thunder-wave learnt at level 10",
-        "Sweet-kiss learnt at level 13",
-        "Nasty-plot learnt at level 18"
-    ],
-    "heartgold-soulsilver": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Thunder-wave learnt at level 10",
-        "Sweet-kiss learnt at level 13",
-        "Nasty-plot learnt at level 18"
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Nasty-plot",
+            13
+        ],
+        [
+            "Thunder-wave",
+            18
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Sweet-kiss learnt at level 10",
-        "Nasty-plot learnt at level 13",
-        "Thunder-wave learnt at level 18"
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Nasty-plot",
+            13
+        ],
+        [
+            "Thunder-wave",
+            18
+        ]
     ],
-    "platinum": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Thunder-wave learnt at level 10",
-        "Sweet-kiss learnt at level 13",
-        "Nasty-plot learnt at level 18"
+    "x-y": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            10
+        ],
+        [
+            "Thunder-wave",
+            13
+        ],
+        [
+            "Nasty-plot",
+            18
+        ]
     ],
-    "diamond-pearl": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Thunder-wave learnt at level 10",
-        "Sweet-kiss learnt at level 13",
-        "Nasty-plot learnt at level 18"
-    ],
-    "firered-leafgreen": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Thunder-wave learnt at level 8",
-        "Sweet-kiss learnt at level 11"
-    ],
-    "emerald": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Thunder-wave learnt at level 8",
-        "Sweet-kiss learnt at level 11"
-    ],
-    "ruby-sapphire": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Thunder-wave learnt at level 8",
-        "Sweet-kiss learnt at level 11"
-    ],
-    "crystal": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Thunder-wave learnt at level 8",
-        "Sweet-kiss learnt at level 11"
-    ],
-    "gold-silver": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Thunder-wave learnt at level 8",
-        "Sweet-kiss learnt at level 11"
+    "black-2-white-2": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Thunder-wave",
+            10
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Nasty-plot",
+            18
+        ]
     ],
     "xd": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Thunder-wave learnt at level 8",
-        "Sweet-kiss learnt at level 11"
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Thunder-wave",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ]
     ],
     "colosseum": [
-        "Thunder-shock learnt at level 1",
-        "Charm learnt at level 1",
-        "Tail-whip learnt at level 6",
-        "Thunder-wave learnt at level 8",
-        "Sweet-kiss learnt at level 11"
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Thunder-wave",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ]
+    ],
+    "black-white": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Thunder-wave",
+            10
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Nasty-plot",
+            18
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Thunder-wave",
+            10
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Nasty-plot",
+            18
+        ]
+    ],
+    "platinum": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Thunder-wave",
+            10
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Nasty-plot",
+            18
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Thunder-wave",
+            10
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Nasty-plot",
+            18
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Thunder-wave",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ]
+    ],
+    "emerald": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Thunder-wave",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Thunder-wave",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ]
+    ],
+    "crystal": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Thunder-wave",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Tail-whip",
+            6
+        ],
+        [
+            "Thunder-wave",
+            8
+        ],
+        [
+            "Sweet-kiss",
+            11
+        ]
     ]
 }

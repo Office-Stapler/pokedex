@@ -1,248 +1,890 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Swift learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Swift learnt at level 8",
-        "Light-screen learnt at level 12",
-        "Reflect learnt at level 12",
-        "Safeguard learnt at level 12",
-        "Mach-punch learnt at level 15",
-        "Silver-wind learnt at level 20",
-        "Comet-punch learnt at level 24",
-        "Baton-pass learnt at level 29",
-        "Agility learnt at level 33",
-        "Bug-buzz learnt at level 38",
-        "Air-slash learnt at level 42",
-        "Double-edge learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Swift",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Swift",
+            8
+        ],
+        [
+            "Light-screen",
+            12
+        ],
+        [
+            "Reflect",
+            12
+        ],
+        [
+            "Safeguard",
+            12
+        ],
+        [
+            "Mach-punch",
+            15
+        ],
+        [
+            "Silver-wind",
+            20
+        ],
+        [
+            "Comet-punch",
+            24
+        ],
+        [
+            "Baton-pass",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Bug-buzz",
+            38
+        ],
+        [
+            "Air-slash",
+            42
+        ],
+        [
+            "Double-edge",
+            47
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Swift learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Swift learnt at level 8",
-        "Light-screen learnt at level 12",
-        "Reflect learnt at level 12",
-        "Safeguard learnt at level 12",
-        "Mach-punch learnt at level 15",
-        "Silver-wind learnt at level 20",
-        "Comet-punch learnt at level 24",
-        "Baton-pass learnt at level 29",
-        "Agility learnt at level 33",
-        "Bug-buzz learnt at level 38",
-        "Air-slash learnt at level 42",
-        "Double-edge learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Swift",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Swift",
+            8
+        ],
+        [
+            "Light-screen",
+            12
+        ],
+        [
+            "Reflect",
+            12
+        ],
+        [
+            "Safeguard",
+            12
+        ],
+        [
+            "Mach-punch",
+            15
+        ],
+        [
+            "Silver-wind",
+            20
+        ],
+        [
+            "Comet-punch",
+            24
+        ],
+        [
+            "Baton-pass",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Bug-buzz",
+            38
+        ],
+        [
+            "Air-slash",
+            42
+        ],
+        [
+            "Double-edge",
+            47
+        ]
     ],
     "x-y": [
-        "Comet-punch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Comet-punch learnt at level 9",
-        "Light-screen learnt at level 14",
-        "Reflect learnt at level 14",
-        "Safeguard learnt at level 14",
-        "Mach-punch learnt at level 17",
-        "Baton-pass learnt at level 24",
-        "Silver-wind learnt at level 29",
-        "Agility learnt at level 36",
-        "Swift learnt at level 41",
-        "Double-edge learnt at level 48",
-        "Bug-buzz learnt at level 53"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Comet-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            14
+        ],
+        [
+            "Reflect",
+            14
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Mach-punch",
+            17
+        ],
+        [
+            "Baton-pass",
+            24
+        ],
+        [
+            "Silver-wind",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Double-edge",
+            48
+        ],
+        [
+            "Bug-buzz",
+            53
+        ]
     ],
     "black-2-white-2": [
-        "Comet-punch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Comet-punch learnt at level 9",
-        "Light-screen learnt at level 14",
-        "Reflect learnt at level 14",
-        "Safeguard learnt at level 14",
-        "Mach-punch learnt at level 17",
-        "Baton-pass learnt at level 24",
-        "Silver-wind learnt at level 29",
-        "Agility learnt at level 36",
-        "Swift learnt at level 41",
-        "Double-edge learnt at level 48",
-        "Bug-buzz learnt at level 53"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Comet-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            14
+        ],
+        [
+            "Reflect",
+            14
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Mach-punch",
+            17
+        ],
+        [
+            "Baton-pass",
+            24
+        ],
+        [
+            "Silver-wind",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Double-edge",
+            48
+        ],
+        [
+            "Bug-buzz",
+            53
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 8",
-        "Comet-punch learnt at level 15",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 24",
-        "Safeguard learnt at level 24",
-        "Baton-pass learnt at level 33",
-        "Swift learnt at level 42",
-        "Agility learnt at level 51",
-        "Double-edge learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Comet-punch",
+            15
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            24
+        ],
+        [
+            "Safeguard",
+            24
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Double-edge",
+            60
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 8",
-        "Comet-punch learnt at level 15",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 24",
-        "Safeguard learnt at level 24",
-        "Baton-pass learnt at level 33",
-        "Swift learnt at level 42",
-        "Agility learnt at level 51",
-        "Double-edge learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Comet-punch",
+            15
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            24
+        ],
+        [
+            "Safeguard",
+            24
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Double-edge",
+            60
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 8",
-        "Comet-punch learnt at level 15",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 24",
-        "Safeguard learnt at level 24",
-        "Baton-pass learnt at level 33",
-        "Swift learnt at level 42",
-        "Agility learnt at level 51",
-        "Double-edge learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Comet-punch",
+            15
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            24
+        ],
+        [
+            "Safeguard",
+            24
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Double-edge",
+            60
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 8",
-        "Comet-punch learnt at level 15",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 24",
-        "Safeguard learnt at level 24",
-        "Baton-pass learnt at level 33",
-        "Swift learnt at level 42",
-        "Agility learnt at level 51",
-        "Double-edge learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Comet-punch",
+            15
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            24
+        ],
+        [
+            "Safeguard",
+            24
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Double-edge",
+            60
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 8",
-        "Comet-punch learnt at level 15",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 24",
-        "Safeguard learnt at level 24",
-        "Baton-pass learnt at level 33",
-        "Swift learnt at level 42",
-        "Agility learnt at level 51",
-        "Double-edge learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Comet-punch",
+            15
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            24
+        ],
+        [
+            "Safeguard",
+            24
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Double-edge",
+            60
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Comet-punch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Comet-punch learnt at level 9",
-        "Light-screen learnt at level 14",
-        "Reflect learnt at level 14",
-        "Safeguard learnt at level 14",
-        "Mach-punch learnt at level 17",
-        "Baton-pass learnt at level 24",
-        "Silver-wind learnt at level 29",
-        "Agility learnt at level 36",
-        "Swift learnt at level 41",
-        "Double-edge learnt at level 48",
-        "Bug-buzz learnt at level 53"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Comet-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            14
+        ],
+        [
+            "Reflect",
+            14
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Mach-punch",
+            17
+        ],
+        [
+            "Baton-pass",
+            24
+        ],
+        [
+            "Silver-wind",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Double-edge",
+            48
+        ],
+        [
+            "Bug-buzz",
+            53
+        ]
     ],
     "black-white": [
-        "Comet-punch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Comet-punch learnt at level 9",
-        "Light-screen learnt at level 14",
-        "Reflect learnt at level 14",
-        "Safeguard learnt at level 14",
-        "Mach-punch learnt at level 17",
-        "Baton-pass learnt at level 24",
-        "Silver-wind learnt at level 29",
-        "Agility learnt at level 36",
-        "Swift learnt at level 41",
-        "Double-edge learnt at level 48",
-        "Bug-buzz learnt at level 53"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Comet-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            14
+        ],
+        [
+            "Reflect",
+            14
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Mach-punch",
+            17
+        ],
+        [
+            "Baton-pass",
+            24
+        ],
+        [
+            "Silver-wind",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Double-edge",
+            48
+        ],
+        [
+            "Bug-buzz",
+            53
+        ]
     ],
     "heartgold-soulsilver": [
-        "Comet-punch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Comet-punch learnt at level 9",
-        "Light-screen learnt at level 14",
-        "Reflect learnt at level 14",
-        "Safeguard learnt at level 14",
-        "Mach-punch learnt at level 17",
-        "Baton-pass learnt at level 24",
-        "Silver-wind learnt at level 29",
-        "Agility learnt at level 36",
-        "Swift learnt at level 41",
-        "Double-edge learnt at level 48",
-        "Bug-buzz learnt at level 53"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Comet-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            14
+        ],
+        [
+            "Reflect",
+            14
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Mach-punch",
+            17
+        ],
+        [
+            "Baton-pass",
+            24
+        ],
+        [
+            "Silver-wind",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Double-edge",
+            48
+        ],
+        [
+            "Bug-buzz",
+            53
+        ]
     ],
     "platinum": [
-        "Comet-punch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Comet-punch learnt at level 9",
-        "Light-screen learnt at level 14",
-        "Reflect learnt at level 14",
-        "Safeguard learnt at level 14",
-        "Mach-punch learnt at level 17",
-        "Baton-pass learnt at level 24",
-        "Silver-wind learnt at level 29",
-        "Agility learnt at level 36",
-        "Swift learnt at level 41",
-        "Double-edge learnt at level 48",
-        "Bug-buzz learnt at level 53"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Comet-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            14
+        ],
+        [
+            "Reflect",
+            14
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Mach-punch",
+            17
+        ],
+        [
+            "Baton-pass",
+            24
+        ],
+        [
+            "Silver-wind",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Double-edge",
+            48
+        ],
+        [
+            "Bug-buzz",
+            53
+        ]
     ],
     "diamond-pearl": [
-        "Comet-punch learnt at level 1",
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Comet-punch learnt at level 9",
-        "Light-screen learnt at level 14",
-        "Reflect learnt at level 14",
-        "Safeguard learnt at level 14",
-        "Mach-punch learnt at level 17",
-        "Baton-pass learnt at level 24",
-        "Silver-wind learnt at level 29",
-        "Agility learnt at level 36",
-        "Swift learnt at level 41",
-        "Double-edge learnt at level 48",
-        "Bug-buzz learnt at level 53"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Comet-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            14
+        ],
+        [
+            "Reflect",
+            14
+        ],
+        [
+            "Safeguard",
+            14
+        ],
+        [
+            "Mach-punch",
+            17
+        ],
+        [
+            "Baton-pass",
+            24
+        ],
+        [
+            "Silver-wind",
+            29
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Swift",
+            41
+        ],
+        [
+            "Double-edge",
+            48
+        ],
+        [
+            "Bug-buzz",
+            53
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 8",
-        "Comet-punch learnt at level 15",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 24",
-        "Safeguard learnt at level 24",
-        "Baton-pass learnt at level 33",
-        "Swift learnt at level 42",
-        "Agility learnt at level 51",
-        "Double-edge learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Comet-punch",
+            15
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            24
+        ],
+        [
+            "Safeguard",
+            24
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Double-edge",
+            60
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Supersonic learnt at level 8",
-        "Comet-punch learnt at level 15",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 24",
-        "Safeguard learnt at level 24",
-        "Baton-pass learnt at level 33",
-        "Swift learnt at level 42",
-        "Agility learnt at level 51",
-        "Double-edge learnt at level 60"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Supersonic",
+            8
+        ],
+        [
+            "Comet-punch",
+            15
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            24
+        ],
+        [
+            "Safeguard",
+            24
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Swift",
+            42
+        ],
+        [
+            "Agility",
+            51
+        ],
+        [
+            "Double-edge",
+            60
+        ]
     ]
 }

@@ -1,139 +1,496 @@
 {
-    "black-2-white-2": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
-    ],
-    "heartgold-soulsilver": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
-    ],
-    "platinum": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Flail learnt at level 1",
-        "Memento learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
-    ],
     "x-y": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Flail learnt at level 1",
-        "Memento learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Flail",
+            1
+        ],
+        [
+            "Memento",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
     ],
     "black-white": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
+    ],
+    "platinum": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Flail learnt at level 1",
-        "Memento learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Flail",
+            1
+        ],
+        [
+            "Memento",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
     ],
     "sun-moon": [
-        "Confusion learnt at level 1",
-        "Rest learnt at level 1",
-        "Flail learnt at level 1",
-        "Memento learnt at level 1",
-        "Natural-gift learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Swift learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 50",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Flail",
+            1
+        ],
+        [
+            "Memento",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Flail",
+            1
+        ],
+        [
+            "Memento",
+            1
+        ],
+        [
+            "Natural-gift",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Swift",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            50
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
     ],
     "diamond-pearl": [
-        "Rest learnt at level 1",
-        "Imprison learnt at level 6",
-        "Endure learnt at level 16",
-        "Confusion learnt at level 21",
-        "Yawn learnt at level 31",
-        "Future-sight learnt at level 36",
-        "Amnesia learnt at level 46",
-        "Extrasensory learnt at level 51",
-        "Flail learnt at level 61",
-        "Natural-gift learnt at level 66",
-        "Memento learnt at level 76"
+        [
+            "Rest",
+            1
+        ],
+        [
+            "Imprison",
+            6
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Confusion",
+            21
+        ],
+        [
+            "Yawn",
+            31
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Extrasensory",
+            51
+        ],
+        [
+            "Flail",
+            61
+        ],
+        [
+            "Natural-gift",
+            66
+        ],
+        [
+            "Memento",
+            76
+        ]
     ]
 }

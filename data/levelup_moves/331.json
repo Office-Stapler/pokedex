@@ -1,243 +1,882 @@
 {
-    "emerald": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Needle-arm learnt at level 37",
-        "Cotton-spore learnt at level 41",
-        "Sandstorm learnt at level 45"
-    ],
-    "firered-leafgreen": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Needle-arm learnt at level 37",
-        "Cotton-spore learnt at level 41",
-        "Sandstorm learnt at level 45",
-        "Destiny-bond learnt at level 49"
-    ],
-    "platinum": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Payback learnt at level 41",
-        "Needle-arm learnt at level 45",
-        "Cotton-spore learnt at level 49",
-        "Sandstorm learnt at level 53",
-        "Destiny-bond learnt at level 57"
-    ],
-    "heartgold-soulsilver": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Payback learnt at level 41",
-        "Needle-arm learnt at level 45",
-        "Cotton-spore learnt at level 49",
-        "Sandstorm learnt at level 53",
-        "Destiny-bond learnt at level 57"
-    ],
-    "black-2-white-2": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Payback learnt at level 41",
-        "Needle-arm learnt at level 45",
-        "Cotton-spore learnt at level 49",
-        "Sandstorm learnt at level 53",
-        "Destiny-bond learnt at level 57"
+    "sun-moon": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            4
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Needle-arm",
+            16
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Ingrain",
+            22
+        ],
+        [
+            "Payback",
+            26
+        ],
+        [
+            "Spikes",
+            30
+        ],
+        [
+            "Sucker-punch",
+            34
+        ],
+        [
+            "Pin-missile",
+            38
+        ],
+        [
+            "Energy-ball",
+            42
+        ],
+        [
+            "Cotton-spore",
+            46
+        ],
+        [
+            "Sandstorm",
+            50
+        ],
+        [
+            "Destiny-bond",
+            54
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 4",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Sand-attack learnt at level 13",
-        "Needle-arm learnt at level 16",
-        "Feint-attack learnt at level 19",
-        "Ingrain learnt at level 22",
-        "Payback learnt at level 26",
-        "Spikes learnt at level 30",
-        "Sucker-punch learnt at level 34",
-        "Pin-missile learnt at level 38",
-        "Energy-ball learnt at level 42",
-        "Cotton-spore learnt at level 46",
-        "Sandstorm learnt at level 50",
-        "Destiny-bond learnt at level 54"
-    ],
-    "sun-moon": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 4",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Sand-attack learnt at level 13",
-        "Needle-arm learnt at level 16",
-        "Feint-attack learnt at level 19",
-        "Ingrain learnt at level 22",
-        "Payback learnt at level 26",
-        "Spikes learnt at level 30",
-        "Sucker-punch learnt at level 34",
-        "Pin-missile learnt at level 38",
-        "Energy-ball learnt at level 42",
-        "Cotton-spore learnt at level 46",
-        "Sandstorm learnt at level 50",
-        "Destiny-bond learnt at level 54"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            4
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Needle-arm",
+            16
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Ingrain",
+            22
+        ],
+        [
+            "Payback",
+            26
+        ],
+        [
+            "Spikes",
+            30
+        ],
+        [
+            "Sucker-punch",
+            34
+        ],
+        [
+            "Pin-missile",
+            38
+        ],
+        [
+            "Energy-ball",
+            42
+        ],
+        [
+            "Cotton-spore",
+            46
+        ],
+        [
+            "Sandstorm",
+            50
+        ],
+        [
+            "Destiny-bond",
+            54
+        ]
     ],
     "x-y": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Payback learnt at level 41",
-        "Needle-arm learnt at level 45",
-        "Cotton-spore learnt at level 49",
-        "Sandstorm learnt at level 53",
-        "Destiny-bond learnt at level 57"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Needle-arm",
+            45
+        ],
+        [
+            "Cotton-spore",
+            49
+        ],
+        [
+            "Sandstorm",
+            53
+        ],
+        [
+            "Destiny-bond",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Payback learnt at level 41",
-        "Needle-arm learnt at level 45",
-        "Cotton-spore learnt at level 49",
-        "Sandstorm learnt at level 53",
-        "Destiny-bond learnt at level 57"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Needle-arm",
+            45
+        ],
+        [
+            "Cotton-spore",
+            49
+        ],
+        [
+            "Sandstorm",
+            53
+        ],
+        [
+            "Destiny-bond",
+            57
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Needle-arm",
+            37
+        ],
+        [
+            "Cotton-spore",
+            41
+        ],
+        [
+            "Sandstorm",
+            45
+        ],
+        [
+            "Destiny-bond",
+            49
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 4",
-        "Growth learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Sand-attack learnt at level 13",
-        "Needle-arm learnt at level 16",
-        "Feint-attack learnt at level 19",
-        "Ingrain learnt at level 22",
-        "Payback learnt at level 26",
-        "Spikes learnt at level 30",
-        "Sucker-punch learnt at level 34",
-        "Pin-missile learnt at level 38",
-        "Energy-ball learnt at level 42",
-        "Cotton-spore learnt at level 46",
-        "Sandstorm learnt at level 50",
-        "Destiny-bond learnt at level 54"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            4
+        ],
+        [
+            "Growth",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Needle-arm",
+            16
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Ingrain",
+            22
+        ],
+        [
+            "Payback",
+            26
+        ],
+        [
+            "Spikes",
+            30
+        ],
+        [
+            "Sucker-punch",
+            34
+        ],
+        [
+            "Pin-missile",
+            38
+        ],
+        [
+            "Energy-ball",
+            42
+        ],
+        [
+            "Cotton-spore",
+            46
+        ],
+        [
+            "Sandstorm",
+            50
+        ],
+        [
+            "Destiny-bond",
+            54
+        ]
     ],
-    "black-white": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Sucker-punch learnt at level 37",
-        "Payback learnt at level 41",
-        "Needle-arm learnt at level 45",
-        "Cotton-spore learnt at level 49",
-        "Sandstorm learnt at level 53",
-        "Destiny-bond learnt at level 57"
+    "black-2-white-2": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Needle-arm",
+            45
+        ],
+        [
+            "Cotton-spore",
+            49
+        ],
+        [
+            "Sandstorm",
+            53
+        ],
+        [
+            "Destiny-bond",
+            57
+        ]
     ],
     "xd": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Needle-arm learnt at level 37",
-        "Cotton-spore learnt at level 41",
-        "Sandstorm learnt at level 45"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Needle-arm",
+            37
+        ],
+        [
+            "Cotton-spore",
+            41
+        ],
+        [
+            "Sandstorm",
+            45
+        ]
     ],
     "colosseum": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Needle-arm learnt at level 37",
-        "Cotton-spore learnt at level 41",
-        "Sandstorm learnt at level 45"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Needle-arm",
+            37
+        ],
+        [
+            "Cotton-spore",
+            41
+        ],
+        [
+            "Sandstorm",
+            45
+        ]
+    ],
+    "black-white": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Needle-arm",
+            45
+        ],
+        [
+            "Cotton-spore",
+            49
+        ],
+        [
+            "Sandstorm",
+            53
+        ],
+        [
+            "Destiny-bond",
+            57
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Needle-arm",
+            45
+        ],
+        [
+            "Cotton-spore",
+            49
+        ],
+        [
+            "Sandstorm",
+            53
+        ],
+        [
+            "Destiny-bond",
+            57
+        ]
+    ],
+    "platinum": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Sucker-punch",
+            37
+        ],
+        [
+            "Payback",
+            41
+        ],
+        [
+            "Needle-arm",
+            45
+        ],
+        [
+            "Cotton-spore",
+            49
+        ],
+        [
+            "Sandstorm",
+            53
+        ],
+        [
+            "Destiny-bond",
+            57
+        ]
+    ],
+    "emerald": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Needle-arm",
+            37
+        ],
+        [
+            "Cotton-spore",
+            41
+        ],
+        [
+            "Sandstorm",
+            45
+        ]
     ],
     "ruby-sapphire": [
-        "Poison-sting learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 5",
-        "Growth learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Sand-attack learnt at level 17",
-        "Pin-missile learnt at level 21",
-        "Ingrain learnt at level 25",
-        "Feint-attack learnt at level 29",
-        "Spikes learnt at level 33",
-        "Needle-arm learnt at level 37",
-        "Cotton-spore learnt at level 41",
-        "Sandstorm learnt at level 45"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Growth",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Sand-attack",
+            17
+        ],
+        [
+            "Pin-missile",
+            21
+        ],
+        [
+            "Ingrain",
+            25
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Needle-arm",
+            37
+        ],
+        [
+            "Cotton-spore",
+            41
+        ],
+        [
+            "Sandstorm",
+            45
+        ]
     ]
 }

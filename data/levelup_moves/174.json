@@ -1,123 +1,390 @@
 {
     "ultra-sun-ultra-moon": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Pound learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Copycat learnt at level 11"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Pound",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Copycat",
+            11
+        ]
     ],
     "sun-moon": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Pound learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Copycat learnt at level 11"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Pound",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Copycat",
+            11
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 3",
-        "Pound learnt at level 5",
-        "Sweet-kiss learnt at level 9",
-        "Copycat learnt at level 11"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            3
+        ],
+        [
+            "Pound",
+            5
+        ],
+        [
+            "Sweet-kiss",
+            9
+        ],
+        [
+            "Copycat",
+            11
+        ]
     ],
     "x-y": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 13",
-        "Copycat learnt at level 17"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Copycat",
+            17
+        ]
     ],
     "black-2-white-2": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 13",
-        "Copycat learnt at level 17"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Copycat",
+            17
+        ]
     ],
     "xd": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 14"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            14
+        ]
     ],
     "colosseum": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 14"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            14
+        ]
     ],
     "heartgold-soulsilver": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 13",
-        "Copycat learnt at level 17"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Copycat",
+            17
+        ]
     ],
     "platinum": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 13",
-        "Copycat learnt at level 17"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Copycat",
+            17
+        ]
     ],
     "diamond-pearl": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 13",
-        "Copycat learnt at level 17"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Copycat",
+            17
+        ]
     ],
     "firered-leafgreen": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 14"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            14
+        ]
     ],
     "emerald": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 14"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            14
+        ]
     ],
     "ruby-sapphire": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 14"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            14
+        ]
     ],
     "black-white": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 13",
-        "Copycat learnt at level 17"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            13
+        ],
+        [
+            "Copycat",
+            17
+        ]
     ],
     "crystal": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 14"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            14
+        ]
     ],
     "gold-silver": [
-        "Sing learnt at level 1",
-        "Charm learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Pound learnt at level 9",
-        "Sweet-kiss learnt at level 14"
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Pound",
+            9
+        ],
+        [
+            "Sweet-kiss",
+            14
+        ]
     ]
 }

@@ -1,20 +1,68 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Spark learnt at level 1",
-        "Hone-claws learnt at level 5",
-        "Quick-attack learnt at level 8",
-        "Fury-swipes learnt at level 12",
-        "Volt-switch learnt at level 15",
-        "Snarl learnt at level 19",
-        "Fake-out learnt at level 22",
-        "Charge learnt at level 26",
-        "Thunder-punch learnt at level 29",
-        "Slash learnt at level 33",
-        "Wild-charge learnt at level 36",
-        "Quick-guard learnt at level 40",
-        "Plasma-fists learnt at level 43",
-        "Close-combat learnt at level 47",
-        "Discharge learnt at level 50"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Spark",
+            1
+        ],
+        [
+            "Hone-claws",
+            5
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Volt-switch",
+            15
+        ],
+        [
+            "Snarl",
+            19
+        ],
+        [
+            "Fake-out",
+            22
+        ],
+        [
+            "Charge",
+            26
+        ],
+        [
+            "Thunder-punch",
+            29
+        ],
+        [
+            "Slash",
+            33
+        ],
+        [
+            "Wild-charge",
+            36
+        ],
+        [
+            "Quick-guard",
+            40
+        ],
+        [
+            "Plasma-fists",
+            43
+        ],
+        [
+            "Close-combat",
+            47
+        ],
+        [
+            "Discharge",
+            50
+        ]
     ]
 }

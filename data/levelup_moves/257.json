@@ -1,276 +1,1022 @@
 {
-    "firered-leafgreen": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Mirror-move learnt at level 49",
-        "Sky-uppercut learnt at level 59"
-    ],
-    "emerald": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Mirror-move learnt at level 49",
-        "Sky-uppercut learnt at level 59"
-    ],
     "ultra-sun-ultra-moon": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "High-jump-kick learnt at level 1",
-        "Blaze-kick learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Ember learnt at level 5",
-        "Sand-attack learnt at level 10",
-        "Peck learnt at level 14",
-        "Flame-charge learnt at level 20",
-        "Quick-attack learnt at level 25",
-        "Bulk-up learnt at level 31",
-        "Focus-energy learnt at level 37",
-        "Slash learnt at level 44",
-        "Brave-bird learnt at level 50",
-        "Sky-uppercut learnt at level 57",
-        "Flare-blitz learnt at level 63"
+        [
+            "Blaze-kick",
+            0
+        ],
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "High-jump-kick",
+            1
+        ],
+        [
+            "Blaze-kick",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Peck",
+            14
+        ],
+        [
+            "Flame-charge",
+            20
+        ],
+        [
+            "Quick-attack",
+            25
+        ],
+        [
+            "Bulk-up",
+            31
+        ],
+        [
+            "Focus-energy",
+            37
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Brave-bird",
+            50
+        ],
+        [
+            "Sky-uppercut",
+            57
+        ],
+        [
+            "Flare-blitz",
+            63
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "High-jump-kick learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Ember learnt at level 5",
-        "Sand-attack learnt at level 10",
-        "Peck learnt at level 14",
-        "Double-kick learnt at level 16",
-        "Flame-charge learnt at level 20",
-        "Quick-attack learnt at level 25",
-        "Bulk-up learnt at level 31",
-        "Blaze-kick learnt at level 36",
-        "Focus-energy learnt at level 37",
-        "Slash learnt at level 44",
-        "Brave-bird learnt at level 50",
-        "Sky-uppercut learnt at level 57",
-        "Flare-blitz learnt at level 63"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "High-jump-kick",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Peck",
+            14
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Flame-charge",
+            20
+        ],
+        [
+            "Quick-attack",
+            25
+        ],
+        [
+            "Bulk-up",
+            31
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Focus-energy",
+            37
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Brave-bird",
+            50
+        ],
+        [
+            "Sky-uppercut",
+            57
+        ],
+        [
+            "Flare-blitz",
+            63
+        ]
     ],
     "x-y": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "High-jump-kick learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Brave-bird learnt at level 49",
-        "Sky-uppercut learnt at level 59",
-        "Flare-blitz learnt at level 66"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "High-jump-kick",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Brave-bird",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
     ],
     "black-2-white-2": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "High-jump-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Brave-bird learnt at level 49",
-        "Sky-uppercut learnt at level 59",
-        "Flare-blitz learnt at level 66"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "High-jump-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Brave-bird",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
     ],
     "xd": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Mirror-move learnt at level 49",
-        "Sky-uppercut learnt at level 59"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Mirror-move",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ]
     ],
     "black-white": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "High-jump-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Brave-bird learnt at level 49",
-        "Sky-uppercut learnt at level 59",
-        "Flare-blitz learnt at level 66"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "High-jump-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Brave-bird",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
     ],
     "sun-moon": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Double-kick learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "High-jump-kick learnt at level 1",
-        "Blaze-kick learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Ember learnt at level 5",
-        "Sand-attack learnt at level 10",
-        "Peck learnt at level 14",
-        "Flame-charge learnt at level 20",
-        "Quick-attack learnt at level 25",
-        "Bulk-up learnt at level 31",
-        "Focus-energy learnt at level 37",
-        "Slash learnt at level 44",
-        "Brave-bird learnt at level 50",
-        "Sky-uppercut learnt at level 57",
-        "Flare-blitz learnt at level 63"
+        [
+            "Blaze-kick",
+            0
+        ],
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "High-jump-kick",
+            1
+        ],
+        [
+            "Blaze-kick",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Peck",
+            14
+        ],
+        [
+            "Flame-charge",
+            20
+        ],
+        [
+            "Quick-attack",
+            25
+        ],
+        [
+            "Bulk-up",
+            31
+        ],
+        [
+            "Focus-energy",
+            37
+        ],
+        [
+            "Slash",
+            44
+        ],
+        [
+            "Brave-bird",
+            50
+        ],
+        [
+            "Sky-uppercut",
+            57
+        ],
+        [
+            "Flare-blitz",
+            63
+        ]
     ],
     "heartgold-soulsilver": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Brave-bird learnt at level 49",
-        "Sky-uppercut learnt at level 59",
-        "Flare-blitz learnt at level 66"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Brave-bird",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
     ],
-    "platinum": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Brave-bird learnt at level 49",
-        "Sky-uppercut learnt at level 59",
-        "Flare-blitz learnt at level 66"
+    "firered-leafgreen": [
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Mirror-move",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ]
+    ],
+    "emerald": [
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Mirror-move",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ]
     ],
     "colosseum": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Mirror-move learnt at level 49",
-        "Sky-uppercut learnt at level 59"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Mirror-move",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ]
+    ],
+    "platinum": [
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Brave-bird",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
     ],
     "diamond-pearl": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Brave-bird learnt at level 49",
-        "Sky-uppercut learnt at level 59",
-        "Flare-blitz learnt at level 66"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Brave-bird",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ],
+        [
+            "Flare-blitz",
+            66
+        ]
     ],
     "ruby-sapphire": [
-        "Fire-punch learnt at level 1",
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 13",
-        "Double-kick learnt at level 16",
-        "Peck learnt at level 17",
-        "Sand-attack learnt at level 21",
-        "Bulk-up learnt at level 28",
-        "Quick-attack learnt at level 32",
-        "Blaze-kick learnt at level 36",
-        "Slash learnt at level 42",
-        "Mirror-move learnt at level 49",
-        "Sky-uppercut learnt at level 59"
+        [
+            "Fire-punch",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            13
+        ],
+        [
+            "Double-kick",
+            16
+        ],
+        [
+            "Peck",
+            17
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Bulk-up",
+            28
+        ],
+        [
+            "Quick-attack",
+            32
+        ],
+        [
+            "Blaze-kick",
+            36
+        ],
+        [
+            "Slash",
+            42
+        ],
+        [
+            "Mirror-move",
+            49
+        ],
+        [
+            "Sky-uppercut",
+            59
+        ]
     ]
 }

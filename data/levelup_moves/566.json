@@ -1,122 +1,446 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Wing-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Double-team learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pluck learnt at level 15",
-        "Ancient-power learnt at level 18",
-        "Agility learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Acrobatics learnt at level 28",
-        "Dragon-breath learnt at level 31",
-        "Crunch learnt at level 35",
-        "Endeavor learnt at level 38",
-        "U-turn learnt at level 41",
-        "Rock-slide learnt at level 45",
-        "Dragon-claw learnt at level 48",
-        "Thrash learnt at level 50"
-    ],
-    "x-y": [
-        "Wing-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Double-team learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pluck learnt at level 15",
-        "Ancient-power learnt at level 18",
-        "Agility learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Acrobatics learnt at level 28",
-        "Dragon-breath learnt at level 31",
-        "Crunch learnt at level 35",
-        "Endeavor learnt at level 38",
-        "U-turn learnt at level 41",
-        "Rock-slide learnt at level 45",
-        "Dragon-claw learnt at level 48",
-        "Thrash learnt at level 50"
-    ],
-    "black-2-white-2": [
-        "Wing-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Double-team learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pluck learnt at level 15",
-        "Ancient-power learnt at level 18",
-        "Agility learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Acrobatics learnt at level 28",
-        "Dragon-breath learnt at level 31",
-        "Crunch learnt at level 35",
-        "Endeavor learnt at level 38",
-        "U-turn learnt at level 41",
-        "Rock-slide learnt at level 45",
-        "Dragon-claw learnt at level 48",
-        "Thrash learnt at level 51"
-    ],
-    "black-white": [
-        "Wing-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Double-team learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pluck learnt at level 15",
-        "Ancient-power learnt at level 18",
-        "Agility learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Acrobatics learnt at level 28",
-        "Dragon-breath learnt at level 31",
-        "Crunch learnt at level 35",
-        "Endeavor learnt at level 38",
-        "U-turn learnt at level 41",
-        "Rock-slide learnt at level 45",
-        "Dragon-claw learnt at level 48",
-        "Thrash learnt at level 51"
-    ],
     "ultra-sun-ultra-moon": [
-        "Wing-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Double-team learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pluck learnt at level 15",
-        "Ancient-power learnt at level 18",
-        "Agility learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Acrobatics learnt at level 28",
-        "Dragon-breath learnt at level 31",
-        "Crunch learnt at level 35",
-        "Endeavor learnt at level 38",
-        "U-turn learnt at level 41",
-        "Rock-slide learnt at level 45",
-        "Dragon-claw learnt at level 48",
-        "Thrash learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Double-team",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pluck",
+            15
+        ],
+        [
+            "Ancient-power",
+            18
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Acrobatics",
+            28
+        ],
+        [
+            "Dragon-breath",
+            31
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Endeavor",
+            38
+        ],
+        [
+            "U-turn",
+            41
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Dragon-claw",
+            48
+        ],
+        [
+            "Thrash",
+            50
+        ]
     ],
     "sun-moon": [
-        "Wing-attack learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Double-team learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Pluck learnt at level 15",
-        "Ancient-power learnt at level 18",
-        "Agility learnt at level 21",
-        "Quick-guard learnt at level 25",
-        "Acrobatics learnt at level 28",
-        "Dragon-breath learnt at level 31",
-        "Crunch learnt at level 35",
-        "Endeavor learnt at level 38",
-        "U-turn learnt at level 41",
-        "Rock-slide learnt at level 45",
-        "Dragon-claw learnt at level 48",
-        "Thrash learnt at level 50"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Double-team",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pluck",
+            15
+        ],
+        [
+            "Ancient-power",
+            18
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Acrobatics",
+            28
+        ],
+        [
+            "Dragon-breath",
+            31
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Endeavor",
+            38
+        ],
+        [
+            "U-turn",
+            41
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Dragon-claw",
+            48
+        ],
+        [
+            "Thrash",
+            50
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Double-team",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pluck",
+            15
+        ],
+        [
+            "Ancient-power",
+            18
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Acrobatics",
+            28
+        ],
+        [
+            "Dragon-breath",
+            31
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Endeavor",
+            38
+        ],
+        [
+            "U-turn",
+            41
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Dragon-claw",
+            48
+        ],
+        [
+            "Thrash",
+            50
+        ]
+    ],
+    "x-y": [
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Double-team",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pluck",
+            15
+        ],
+        [
+            "Ancient-power",
+            18
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Acrobatics",
+            28
+        ],
+        [
+            "Dragon-breath",
+            31
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Endeavor",
+            38
+        ],
+        [
+            "U-turn",
+            41
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Dragon-claw",
+            48
+        ],
+        [
+            "Thrash",
+            50
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Double-team",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pluck",
+            15
+        ],
+        [
+            "Ancient-power",
+            18
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Acrobatics",
+            28
+        ],
+        [
+            "Dragon-breath",
+            31
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Endeavor",
+            38
+        ],
+        [
+            "U-turn",
+            41
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Dragon-claw",
+            48
+        ],
+        [
+            "Thrash",
+            51
+        ]
+    ],
+    "black-white": [
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Double-team",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Pluck",
+            15
+        ],
+        [
+            "Ancient-power",
+            18
+        ],
+        [
+            "Agility",
+            21
+        ],
+        [
+            "Quick-guard",
+            25
+        ],
+        [
+            "Acrobatics",
+            28
+        ],
+        [
+            "Dragon-breath",
+            31
+        ],
+        [
+            "Crunch",
+            35
+        ],
+        [
+            "Endeavor",
+            38
+        ],
+        [
+            "U-turn",
+            41
+        ],
+        [
+            "Rock-slide",
+            45
+        ],
+        [
+            "Dragon-claw",
+            48
+        ],
+        [
+            "Thrash",
+            51
+        ]
     ]
 }

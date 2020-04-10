@@ -1,200 +1,710 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 4",
-        "Focus-energy learnt at level 8",
-        "Aqua-jet learnt at level 11",
-        "Assurance learnt at level 15",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 22",
-        "Ice-fang learnt at level 25",
-        "Scary-face learnt at level 29",
-        "Poison-fang learnt at level 32",
-        "Crunch learnt at level 36",
-        "Agility learnt at level 39",
-        "Take-down learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            4
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Aqua-jet",
+            11
+        ],
+        [
+            "Assurance",
+            15
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            22
+        ],
+        [
+            "Ice-fang",
+            25
+        ],
+        [
+            "Scary-face",
+            29
+        ],
+        [
+            "Poison-fang",
+            32
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Agility",
+            39
+        ],
+        [
+            "Take-down",
+            43
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 6",
-        "Focus-energy learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Ice-fang learnt at level 16",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 21",
-        "Assurance learnt at level 26",
-        "Crunch learnt at level 28",
-        "Aqua-jet learnt at level 31",
-        "Agility learnt at level 36",
-        "Take-down learnt at level 38"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Ice-fang",
+            16
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            21
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Take-down",
+            38
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 6",
-        "Focus-energy learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Ice-fang learnt at level 16",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 21",
-        "Assurance learnt at level 26",
-        "Crunch learnt at level 28",
-        "Aqua-jet learnt at level 31",
-        "Agility learnt at level 36",
-        "Take-down learnt at level 38"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Ice-fang",
+            16
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            21
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Take-down",
+            38
+        ]
     ],
     "xd": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 7",
-        "Focus-energy learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Crunch learnt at level 22",
-        "Screech learnt at level 28",
-        "Take-down learnt at level 31",
-        "Swagger learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Screech",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Swagger",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "colosseum": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 7",
-        "Focus-energy learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Crunch learnt at level 22",
-        "Screech learnt at level 28",
-        "Take-down learnt at level 31",
-        "Swagger learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Screech",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Swagger",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "platinum": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 6",
-        "Focus-energy learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Ice-fang learnt at level 16",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 21",
-        "Assurance learnt at level 26",
-        "Crunch learnt at level 28",
-        "Aqua-jet learnt at level 31",
-        "Agility learnt at level 36",
-        "Take-down learnt at level 38"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Ice-fang",
+            16
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            21
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Take-down",
+            38
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 6",
-        "Focus-energy learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Ice-fang learnt at level 16",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 21",
-        "Assurance learnt at level 26",
-        "Crunch learnt at level 28",
-        "Aqua-jet learnt at level 31",
-        "Agility learnt at level 36",
-        "Take-down learnt at level 38"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Ice-fang",
+            16
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            21
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Take-down",
+            38
+        ]
     ],
     "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 7",
-        "Focus-energy learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Crunch learnt at level 22",
-        "Screech learnt at level 28",
-        "Take-down learnt at level 31",
-        "Swagger learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Screech",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Swagger",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 4",
-        "Focus-energy learnt at level 8",
-        "Aqua-jet learnt at level 11",
-        "Assurance learnt at level 15",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 22",
-        "Ice-fang learnt at level 25",
-        "Scary-face learnt at level 29",
-        "Poison-fang learnt at level 32",
-        "Crunch learnt at level 36",
-        "Agility learnt at level 39",
-        "Take-down learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            4
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Aqua-jet",
+            11
+        ],
+        [
+            "Assurance",
+            15
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            22
+        ],
+        [
+            "Ice-fang",
+            25
+        ],
+        [
+            "Scary-face",
+            29
+        ],
+        [
+            "Poison-fang",
+            32
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Agility",
+            39
+        ],
+        [
+            "Take-down",
+            43
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 4",
-        "Focus-energy learnt at level 8",
-        "Aqua-jet learnt at level 11",
-        "Assurance learnt at level 15",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 22",
-        "Ice-fang learnt at level 25",
-        "Scary-face learnt at level 29",
-        "Poison-fang learnt at level 32",
-        "Crunch learnt at level 36",
-        "Agility learnt at level 39",
-        "Take-down learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            4
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Aqua-jet",
+            11
+        ],
+        [
+            "Assurance",
+            15
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            22
+        ],
+        [
+            "Ice-fang",
+            25
+        ],
+        [
+            "Scary-face",
+            29
+        ],
+        [
+            "Poison-fang",
+            32
+        ],
+        [
+            "Crunch",
+            36
+        ],
+        [
+            "Agility",
+            39
+        ],
+        [
+            "Take-down",
+            43
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 6",
-        "Focus-energy learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Ice-fang learnt at level 16",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 21",
-        "Assurance learnt at level 26",
-        "Crunch learnt at level 28",
-        "Aqua-jet learnt at level 31",
-        "Agility learnt at level 36",
-        "Take-down learnt at level 38"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Ice-fang",
+            16
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            21
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Take-down",
+            38
+        ]
     ],
     "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 6",
-        "Focus-energy learnt at level 8",
-        "Scary-face learnt at level 11",
-        "Ice-fang learnt at level 16",
-        "Screech learnt at level 18",
-        "Swagger learnt at level 21",
-        "Assurance learnt at level 26",
-        "Crunch learnt at level 28",
-        "Aqua-jet learnt at level 31",
-        "Agility learnt at level 36",
-        "Take-down learnt at level 38"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            6
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Scary-face",
+            11
+        ],
+        [
+            "Ice-fang",
+            16
+        ],
+        [
+            "Screech",
+            18
+        ],
+        [
+            "Swagger",
+            21
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Agility",
+            36
+        ],
+        [
+            "Take-down",
+            38
+        ]
     ],
     "emerald": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 7",
-        "Focus-energy learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Crunch learnt at level 22",
-        "Screech learnt at level 28",
-        "Take-down learnt at level 31",
-        "Swagger learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Screech",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Swagger",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 7",
-        "Focus-energy learnt at level 13",
-        "Scary-face learnt at level 16",
-        "Crunch learnt at level 22",
-        "Screech learnt at level 28",
-        "Take-down learnt at level 31",
-        "Swagger learnt at level 37",
-        "Agility learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            7
+        ],
+        [
+            "Focus-energy",
+            13
+        ],
+        [
+            "Scary-face",
+            16
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Screech",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Swagger",
+            37
+        ],
+        [
+            "Agility",
+            43
+        ]
     ]
 }

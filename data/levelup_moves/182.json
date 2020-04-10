@@ -1,148 +1,498 @@
 {
-    "ultra-sun-ultra-moon": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Leaf-storm learnt at level 1",
-        "Quiver-dance learnt at level 39",
-        "Petal-blizzard learnt at level 49",
-        "Petal-dance learnt at level 59",
-        "Leaf-storm learnt at level 69"
-    ],
-    "platinum": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Magical-leaf learnt at level 23",
-        "Leaf-storm learnt at level 53"
-    ],
-    "diamond-pearl": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Magical-leaf learnt at level 23",
-        "Leaf-storm learnt at level 53"
-    ],
     "firered-leafgreen": [
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Petal-dance learnt at level 44",
-        "Solar-beam learnt at level 55"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Petal-dance",
+            44
+        ],
+        [
+            "Solar-beam",
+            55
+        ]
     ],
     "emerald": [
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Petal-dance learnt at level 44",
-        "Solar-beam learnt at level 55"
-    ],
-    "sun-moon": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Leaf-storm learnt at level 1",
-        "Quiver-dance learnt at level 39",
-        "Petal-blizzard learnt at level 49",
-        "Petal-dance learnt at level 59",
-        "Leaf-storm learnt at level 69"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Leaf-storm learnt at level 1",
-        "Magical-leaf learnt at level 24",
-        "Petal-blizzard learnt at level 49",
-        "Leaf-storm learnt at level 64"
-    ],
-    "x-y": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Leaf-storm learnt at level 1",
-        "Magical-leaf learnt at level 23",
-        "Petal-blizzard learnt at level 50",
-        "Leaf-storm learnt at level 53"
-    ],
-    "black-2-white-2": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Magical-leaf learnt at level 23",
-        "Leaf-storm learnt at level 53"
-    ],
-    "black-white": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Magical-leaf learnt at level 23",
-        "Leaf-storm learnt at level 53"
-    ],
-    "heartgold-soulsilver": [
-        "Mega-drain learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Sunny-day learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Magical-leaf learnt at level 23",
-        "Leaf-storm learnt at level 53"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Petal-dance",
+            44
+        ],
+        [
+            "Solar-beam",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Petal-dance learnt at level 44",
-        "Solar-beam learnt at level 55"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Petal-dance",
+            44
+        ],
+        [
+            "Solar-beam",
+            55
+        ]
     ],
     "xd": [
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Petal-dance learnt at level 44",
-        "Solar-beam learnt at level 55"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Petal-dance",
+            44
+        ],
+        [
+            "Solar-beam",
+            55
+        ]
     ],
     "colosseum": [
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Magical-leaf learnt at level 1",
-        "Petal-dance learnt at level 44",
-        "Solar-beam learnt at level 55"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Petal-dance",
+            44
+        ],
+        [
+            "Solar-beam",
+            55
+        ]
     ],
     "crystal": [
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Petal-dance learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Solar-beam learnt at level 55"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Petal-dance",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Solar-beam",
+            55
+        ]
     ],
     "gold-silver": [
-        "Absorb learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Petal-dance learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Solar-beam learnt at level 55"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Petal-dance",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Solar-beam",
+            55
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Magical-leaf",
+            0
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Leaf-storm",
+            1
+        ],
+        [
+            "Quiver-dance",
+            39
+        ],
+        [
+            "Petal-blizzard",
+            49
+        ],
+        [
+            "Petal-dance",
+            59
+        ],
+        [
+            "Leaf-storm",
+            69
+        ]
+    ],
+    "platinum": [
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Magical-leaf",
+            23
+        ],
+        [
+            "Leaf-storm",
+            53
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Magical-leaf",
+            23
+        ],
+        [
+            "Leaf-storm",
+            53
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Magical-leaf",
+            0
+        ],
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Magical-leaf",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Leaf-storm",
+            1
+        ],
+        [
+            "Quiver-dance",
+            39
+        ],
+        [
+            "Petal-blizzard",
+            49
+        ],
+        [
+            "Petal-dance",
+            59
+        ],
+        [
+            "Leaf-storm",
+            69
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Leaf-storm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            24
+        ],
+        [
+            "Petal-blizzard",
+            49
+        ],
+        [
+            "Leaf-storm",
+            64
+        ]
+    ],
+    "x-y": [
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Leaf-storm",
+            1
+        ],
+        [
+            "Magical-leaf",
+            23
+        ],
+        [
+            "Petal-blizzard",
+            50
+        ],
+        [
+            "Leaf-storm",
+            53
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Magical-leaf",
+            23
+        ],
+        [
+            "Leaf-storm",
+            53
+        ]
+    ],
+    "black-white": [
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Magical-leaf",
+            23
+        ],
+        [
+            "Leaf-storm",
+            53
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Mega-drain",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Sunny-day",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Magical-leaf",
+            23
+        ],
+        [
+            "Leaf-storm",
+            53
+        ]
     ]
 }

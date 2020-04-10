@@ -1,247 +1,874 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 4",
-        "Smokescreen learnt at level 7",
-        "Assurance learnt at level 12",
-        "Clear-smog learnt at level 15",
-        "Sludge learnt at level 18",
-        "Self-destruct learnt at level 23",
-        "Haze learnt at level 26",
-        "Gyro-ball learnt at level 29",
-        "Sludge-bomb learnt at level 34",
-        "Explosion learnt at level 37",
-        "Destiny-bond learnt at level 40",
-        "Belch learnt at level 42",
-        "Memento learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Smokescreen",
+            7
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Clear-smog",
+            15
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Self-destruct",
+            23
+        ],
+        [
+            "Haze",
+            26
+        ],
+        [
+            "Gyro-ball",
+            29
+        ],
+        [
+            "Sludge-bomb",
+            34
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Destiny-bond",
+            40
+        ],
+        [
+            "Belch",
+            42
+        ],
+        [
+            "Memento",
+            45
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 4",
-        "Smokescreen learnt at level 7",
-        "Assurance learnt at level 12",
-        "Clear-smog learnt at level 15",
-        "Sludge learnt at level 18",
-        "Self-destruct learnt at level 23",
-        "Haze learnt at level 26",
-        "Gyro-ball learnt at level 29",
-        "Sludge-bomb learnt at level 34",
-        "Explosion learnt at level 37",
-        "Destiny-bond learnt at level 40",
-        "Belch learnt at level 42",
-        "Memento learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Smokescreen",
+            7
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Clear-smog",
+            15
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Self-destruct",
+            23
+        ],
+        [
+            "Haze",
+            26
+        ],
+        [
+            "Gyro-ball",
+            29
+        ],
+        [
+            "Sludge-bomb",
+            34
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Destiny-bond",
+            40
+        ],
+        [
+            "Belch",
+            42
+        ],
+        [
+            "Memento",
+            45
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 9",
-        "Self-destruct learnt at level 17",
-        "Sludge learnt at level 21",
-        "Smokescreen learnt at level 25",
-        "Haze learnt at level 33",
-        "Explosion learnt at level 41",
-        "Destiny-bond learnt at level 45",
-        "Memento learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Self-destruct",
+            17
+        ],
+        [
+            "Sludge",
+            21
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Destiny-bond",
+            45
+        ],
+        [
+            "Memento",
+            49
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 6",
-        "Smokescreen learnt at level 10",
-        "Assurance learnt at level 15",
-        "Clear-smog learnt at level 19",
-        "Self-destruct learnt at level 24",
-        "Sludge learnt at level 28",
-        "Haze learnt at level 33",
-        "Gyro-ball learnt at level 37",
-        "Explosion learnt at level 42",
-        "Sludge-bomb learnt at level 46",
-        "Destiny-bond learnt at level 51",
-        "Memento learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            6
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Assurance",
+            15
+        ],
+        [
+            "Clear-smog",
+            19
+        ],
+        [
+            "Self-destruct",
+            24
+        ],
+        [
+            "Sludge",
+            28
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Gyro-ball",
+            37
+        ],
+        [
+            "Explosion",
+            42
+        ],
+        [
+            "Sludge-bomb",
+            46
+        ],
+        [
+            "Destiny-bond",
+            51
+        ],
+        [
+            "Memento",
+            55
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 6",
-        "Smokescreen learnt at level 10",
-        "Assurance learnt at level 15",
-        "Self-destruct learnt at level 19",
-        "Sludge learnt at level 24",
-        "Haze learnt at level 28",
-        "Gyro-ball learnt at level 33",
-        "Explosion learnt at level 37",
-        "Sludge-bomb learnt at level 42",
-        "Destiny-bond learnt at level 46",
-        "Memento learnt at level 51"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            6
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Assurance",
+            15
+        ],
+        [
+            "Self-destruct",
+            19
+        ],
+        [
+            "Sludge",
+            24
+        ],
+        [
+            "Haze",
+            28
+        ],
+        [
+            "Gyro-ball",
+            33
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Sludge-bomb",
+            42
+        ],
+        [
+            "Destiny-bond",
+            46
+        ],
+        [
+            "Memento",
+            51
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 6",
-        "Smokescreen learnt at level 10",
-        "Assurance learnt at level 15",
-        "Self-destruct learnt at level 19",
-        "Sludge learnt at level 24",
-        "Haze learnt at level 28",
-        "Gyro-ball learnt at level 33",
-        "Explosion learnt at level 37",
-        "Sludge-bomb learnt at level 42",
-        "Destiny-bond learnt at level 46",
-        "Memento learnt at level 51"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            6
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Assurance",
+            15
+        ],
+        [
+            "Self-destruct",
+            19
+        ],
+        [
+            "Sludge",
+            24
+        ],
+        [
+            "Haze",
+            28
+        ],
+        [
+            "Gyro-ball",
+            33
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Sludge-bomb",
+            42
+        ],
+        [
+            "Destiny-bond",
+            46
+        ],
+        [
+            "Memento",
+            51
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 4",
-        "Smokescreen learnt at level 7",
-        "Assurance learnt at level 12",
-        "Clear-smog learnt at level 15",
-        "Sludge learnt at level 18",
-        "Self-destruct learnt at level 23",
-        "Haze learnt at level 26",
-        "Gyro-ball learnt at level 29",
-        "Sludge-bomb learnt at level 34",
-        "Explosion learnt at level 37",
-        "Destiny-bond learnt at level 40",
-        "Belch learnt at level 42",
-        "Memento learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Smokescreen",
+            7
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Clear-smog",
+            15
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Self-destruct",
+            23
+        ],
+        [
+            "Haze",
+            26
+        ],
+        [
+            "Gyro-ball",
+            29
+        ],
+        [
+            "Sludge-bomb",
+            34
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Destiny-bond",
+            40
+        ],
+        [
+            "Belch",
+            42
+        ],
+        [
+            "Memento",
+            45
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 4",
-        "Smokescreen learnt at level 7",
-        "Assurance learnt at level 12",
-        "Clear-smog learnt at level 15",
-        "Sludge learnt at level 18",
-        "Self-destruct learnt at level 23",
-        "Haze learnt at level 26",
-        "Gyro-ball learnt at level 29",
-        "Sludge-bomb learnt at level 34",
-        "Explosion learnt at level 37",
-        "Destiny-bond learnt at level 40",
-        "Belch learnt at level 42",
-        "Memento learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Smokescreen",
+            7
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Clear-smog",
+            15
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Self-destruct",
+            23
+        ],
+        [
+            "Haze",
+            26
+        ],
+        [
+            "Gyro-ball",
+            29
+        ],
+        [
+            "Sludge-bomb",
+            34
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Destiny-bond",
+            40
+        ],
+        [
+            "Belch",
+            42
+        ],
+        [
+            "Memento",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 4",
-        "Smokescreen learnt at level 7",
-        "Assurance learnt at level 12",
-        "Clear-smog learnt at level 15",
-        "Sludge learnt at level 18",
-        "Self-destruct learnt at level 23",
-        "Haze learnt at level 26",
-        "Gyro-ball learnt at level 29",
-        "Sludge-bomb learnt at level 34",
-        "Explosion learnt at level 37",
-        "Destiny-bond learnt at level 40",
-        "Memento learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            4
+        ],
+        [
+            "Smokescreen",
+            7
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Clear-smog",
+            15
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Self-destruct",
+            23
+        ],
+        [
+            "Haze",
+            26
+        ],
+        [
+            "Gyro-ball",
+            29
+        ],
+        [
+            "Sludge-bomb",
+            34
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Destiny-bond",
+            40
+        ],
+        [
+            "Memento",
+            45
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 9",
-        "Self-destruct learnt at level 17",
-        "Sludge learnt at level 21",
-        "Smokescreen learnt at level 25",
-        "Haze learnt at level 33",
-        "Explosion learnt at level 41",
-        "Destiny-bond learnt at level 45",
-        "Memento learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Self-destruct",
+            17
+        ],
+        [
+            "Sludge",
+            21
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Destiny-bond",
+            45
+        ],
+        [
+            "Memento",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 6",
-        "Smokescreen learnt at level 10",
-        "Assurance learnt at level 15",
-        "Self-destruct learnt at level 19",
-        "Sludge learnt at level 24",
-        "Haze learnt at level 28",
-        "Gyro-ball learnt at level 33",
-        "Explosion learnt at level 37",
-        "Sludge-bomb learnt at level 42",
-        "Destiny-bond learnt at level 46",
-        "Memento learnt at level 51"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            6
+        ],
+        [
+            "Smokescreen",
+            10
+        ],
+        [
+            "Assurance",
+            15
+        ],
+        [
+            "Self-destruct",
+            19
+        ],
+        [
+            "Sludge",
+            24
+        ],
+        [
+            "Haze",
+            28
+        ],
+        [
+            "Gyro-ball",
+            33
+        ],
+        [
+            "Explosion",
+            37
+        ],
+        [
+            "Sludge-bomb",
+            42
+        ],
+        [
+            "Destiny-bond",
+            46
+        ],
+        [
+            "Memento",
+            51
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 9",
-        "Self-destruct learnt at level 17",
-        "Sludge learnt at level 21",
-        "Smokescreen learnt at level 25",
-        "Haze learnt at level 33",
-        "Explosion learnt at level 41",
-        "Destiny-bond learnt at level 45",
-        "Memento learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Self-destruct",
+            17
+        ],
+        [
+            "Sludge",
+            21
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Destiny-bond",
+            45
+        ],
+        [
+            "Memento",
+            49
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 9",
-        "Self-destruct learnt at level 17",
-        "Sludge learnt at level 21",
-        "Smokescreen learnt at level 25",
-        "Haze learnt at level 33",
-        "Explosion learnt at level 41",
-        "Destiny-bond learnt at level 45",
-        "Memento learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Self-destruct",
+            17
+        ],
+        [
+            "Sludge",
+            21
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Destiny-bond",
+            45
+        ],
+        [
+            "Memento",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 9",
-        "Self-destruct learnt at level 17",
-        "Sludge learnt at level 21",
-        "Smokescreen learnt at level 25",
-        "Haze learnt at level 33",
-        "Explosion learnt at level 41",
-        "Destiny-bond learnt at level 45",
-        "Memento learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Self-destruct",
+            17
+        ],
+        [
+            "Sludge",
+            21
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Destiny-bond",
+            45
+        ],
+        [
+            "Memento",
+            49
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 9",
-        "Self-destruct learnt at level 17",
-        "Sludge learnt at level 21",
-        "Smokescreen learnt at level 25",
-        "Haze learnt at level 33",
-        "Explosion learnt at level 41",
-        "Destiny-bond learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Self-destruct",
+            17
+        ],
+        [
+            "Sludge",
+            21
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Destiny-bond",
+            45
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Smog learnt at level 9",
-        "Self-destruct learnt at level 17",
-        "Sludge learnt at level 21",
-        "Smokescreen learnt at level 25",
-        "Haze learnt at level 33",
-        "Explosion learnt at level 41",
-        "Destiny-bond learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Self-destruct",
+            17
+        ],
+        [
+            "Sludge",
+            21
+        ],
+        [
+            "Smokescreen",
+            25
+        ],
+        [
+            "Haze",
+            33
+        ],
+        [
+            "Explosion",
+            41
+        ],
+        [
+            "Destiny-bond",
+            45
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Smog learnt at level 1",
-        "Sludge learnt at level 32",
-        "Smokescreen learnt at level 37",
-        "Self-destruct learnt at level 40",
-        "Haze learnt at level 45",
-        "Explosion learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Sludge",
+            32
+        ],
+        [
+            "Smokescreen",
+            37
+        ],
+        [
+            "Self-destruct",
+            40
+        ],
+        [
+            "Haze",
+            45
+        ],
+        [
+            "Explosion",
+            48
+        ]
     ],
     "red-blue": [
-        "Tackle learnt at level 1",
-        "Smog learnt at level 1",
-        "Sludge learnt at level 32",
-        "Smokescreen learnt at level 37",
-        "Self-destruct learnt at level 40",
-        "Haze learnt at level 45",
-        "Explosion learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Smog",
+            1
+        ],
+        [
+            "Sludge",
+            32
+        ],
+        [
+            "Smokescreen",
+            37
+        ],
+        [
+            "Self-destruct",
+            40
+        ],
+        [
+            "Haze",
+            45
+        ],
+        [
+            "Explosion",
+            48
+        ]
     ]
 }

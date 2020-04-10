@@ -1,263 +1,962 @@
 {
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 5",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Razor-wind learnt at level 17",
-        "Bite learnt at level 21",
-        "Swords-dance learnt at level 26",
-        "Double-team learnt at level 31",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Perish-song learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Double-team",
+            31
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 5",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Razor-wind learnt at level 17",
-        "Bite learnt at level 21",
-        "Swords-dance learnt at level 26",
-        "Double-team learnt at level 31",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Perish-song learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Double-team",
+            31
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 5",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Razor-wind learnt at level 17",
-        "Bite learnt at level 21",
-        "Swords-dance learnt at level 26",
-        "Double-team learnt at level 31",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Perish-song learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Double-team",
+            31
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 4",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 12",
-        "Razor-wind learnt at level 17",
-        "Pursuit learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Bite learnt at level 28",
-        "Double-team learnt at level 33",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Sucker-punch learnt at level 44",
-        "Detect learnt at level 49",
-        "Night-slash learnt at level 52",
-        "Me-first learnt at level 57",
-        "Psycho-cut learnt at level 60",
-        "Perish-song learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            12
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Pursuit",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Bite",
+            28
+        ],
+        [
+            "Double-team",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Sucker-punch",
+            44
+        ],
+        [
+            "Detect",
+            49
+        ],
+        [
+            "Night-slash",
+            52
+        ],
+        [
+            "Me-first",
+            57
+        ],
+        [
+            "Psycho-cut",
+            60
+        ],
+        [
+            "Perish-song",
+            65
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Feint learnt at level 1",
-        "Leer learnt at level 4",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 12",
-        "Razor-wind learnt at level 17",
-        "Pursuit learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Bite learnt at level 28",
-        "Double-team learnt at level 33",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Sucker-punch learnt at level 44",
-        "Detect learnt at level 49",
-        "Night-slash learnt at level 52",
-        "Me-first learnt at level 57",
-        "Psycho-cut learnt at level 60",
-        "Perish-song learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            12
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Pursuit",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Bite",
+            28
+        ],
+        [
+            "Double-team",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Sucker-punch",
+            44
+        ],
+        [
+            "Detect",
+            49
+        ],
+        [
+            "Night-slash",
+            52
+        ],
+        [
+            "Me-first",
+            57
+        ],
+        [
+            "Psycho-cut",
+            60
+        ],
+        [
+            "Perish-song",
+            65
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Feint learnt at level 1",
-        "Leer learnt at level 4",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 12",
-        "Razor-wind learnt at level 17",
-        "Pursuit learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Bite learnt at level 28",
-        "Double-team learnt at level 33",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Sucker-punch learnt at level 44",
-        "Detect learnt at level 49",
-        "Night-slash learnt at level 52",
-        "Me-first learnt at level 57",
-        "Psycho-cut learnt at level 60",
-        "Perish-song learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            12
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Pursuit",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Bite",
+            28
+        ],
+        [
+            "Double-team",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Sucker-punch",
+            44
+        ],
+        [
+            "Detect",
+            49
+        ],
+        [
+            "Night-slash",
+            52
+        ],
+        [
+            "Me-first",
+            57
+        ],
+        [
+            "Psycho-cut",
+            60
+        ],
+        [
+            "Perish-song",
+            65
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Feint learnt at level 1",
-        "Leer learnt at level 4",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 12",
-        "Razor-wind learnt at level 17",
-        "Pursuit learnt at level 20",
-        "Swords-dance learnt at level 25",
-        "Bite learnt at level 28",
-        "Double-team learnt at level 33",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Sucker-punch learnt at level 44",
-        "Detect learnt at level 49",
-        "Night-slash learnt at level 52",
-        "Me-first learnt at level 57",
-        "Psycho-cut learnt at level 60",
-        "Perish-song learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            12
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Pursuit",
+            20
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Bite",
+            28
+        ],
+        [
+            "Double-team",
+            33
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Sucker-punch",
+            44
+        ],
+        [
+            "Detect",
+            49
+        ],
+        [
+            "Night-slash",
+            52
+        ],
+        [
+            "Me-first",
+            57
+        ],
+        [
+            "Psycho-cut",
+            60
+        ],
+        [
+            "Perish-song",
+            65
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 5",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Razor-wind learnt at level 17",
-        "Bite learnt at level 21",
-        "Swords-dance learnt at level 26",
-        "Double-team learnt at level 31",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Perish-song learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Double-team",
+            31
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 5",
-        "Taunt learnt at level 9",
-        "Quick-attack learnt at level 13",
-        "Razor-wind learnt at level 17",
-        "Bite learnt at level 21",
-        "Swords-dance learnt at level 26",
-        "Double-team learnt at level 31",
-        "Slash learnt at level 36",
-        "Future-sight learnt at level 41",
-        "Perish-song learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            5
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Quick-attack",
+            13
+        ],
+        [
+            "Razor-wind",
+            17
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Double-team",
+            31
+        ],
+        [
+            "Slash",
+            36
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Perish-song",
+            46
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Feint learnt at level 1",
-        "Leer learnt at level 4",
-        "Quick-attack learnt at level 9",
-        "Pursuit learnt at level 12",
-        "Taunt learnt at level 17",
-        "Bite learnt at level 20",
-        "Double-team learnt at level 25",
-        "Slash learnt at level 28",
-        "Swords-dance learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Night-slash learnt at level 41",
-        "Detect learnt at level 44",
-        "Psycho-cut learnt at level 49",
-        "Sucker-punch learnt at level 52",
-        "Razor-wind learnt at level 57",
-        "Me-first learnt at level 60",
-        "Perish-song learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            12
+        ],
+        [
+            "Taunt",
+            17
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Double-team",
+            25
+        ],
+        [
+            "Slash",
+            28
+        ],
+        [
+            "Swords-dance",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Night-slash",
+            41
+        ],
+        [
+            "Detect",
+            44
+        ],
+        [
+            "Psycho-cut",
+            49
+        ],
+        [
+            "Sucker-punch",
+            52
+        ],
+        [
+            "Razor-wind",
+            57
+        ],
+        [
+            "Me-first",
+            60
+        ],
+        [
+            "Perish-song",
+            65
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Razor-wind learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Detect learnt at level 1",
-        "Taunt learnt at level 1",
-        "Feint learnt at level 1",
-        "Me-first learnt at level 1",
-        "Leer learnt at level 4",
-        "Quick-attack learnt at level 9",
-        "Pursuit learnt at level 12",
-        "Taunt learnt at level 17",
-        "Bite learnt at level 20",
-        "Double-team learnt at level 25",
-        "Slash learnt at level 28",
-        "Swords-dance learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Night-slash learnt at level 41",
-        "Detect learnt at level 44",
-        "Psycho-cut learnt at level 47",
-        "Sucker-punch learnt at level 50",
-        "Razor-wind learnt at level 57",
-        "Me-first learnt at level 60",
-        "Perish-song learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Razor-wind",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Detect",
+            1
+        ],
+        [
+            "Taunt",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Me-first",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Pursuit",
+            12
+        ],
+        [
+            "Taunt",
+            17
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Double-team",
+            25
+        ],
+        [
+            "Slash",
+            28
+        ],
+        [
+            "Swords-dance",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Night-slash",
+            41
+        ],
+        [
+            "Detect",
+            44
+        ],
+        [
+            "Psycho-cut",
+            47
+        ],
+        [
+            "Sucker-punch",
+            50
+        ],
+        [
+            "Razor-wind",
+            57
+        ],
+        [
+            "Me-first",
+            60
+        ],
+        [
+            "Perish-song",
+            65
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Feint learnt at level 1",
-        "Leer learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Pursuit learnt at level 10",
-        "Taunt learnt at level 13",
-        "Bite learnt at level 16",
-        "Double-team learnt at level 19",
-        "Slash learnt at level 22",
-        "Swords-dance learnt at level 25",
-        "Night-slash learnt at level 29",
-        "Detect learnt at level 33",
-        "Psycho-cut learnt at level 37",
-        "Me-first learnt at level 41",
-        "Sucker-punch learnt at level 45",
-        "Razor-wind learnt at level 49",
-        "Future-sight learnt at level 53",
-        "Perish-song learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Taunt",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Night-slash",
+            29
+        ],
+        [
+            "Detect",
+            33
+        ],
+        [
+            "Psycho-cut",
+            37
+        ],
+        [
+            "Me-first",
+            41
+        ],
+        [
+            "Sucker-punch",
+            45
+        ],
+        [
+            "Razor-wind",
+            49
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Perish-song",
+            57
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Feint learnt at level 1",
-        "Leer learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Pursuit learnt at level 10",
-        "Taunt learnt at level 13",
-        "Bite learnt at level 16",
-        "Double-team learnt at level 19",
-        "Slash learnt at level 22",
-        "Swords-dance learnt at level 25",
-        "Night-slash learnt at level 29",
-        "Detect learnt at level 33",
-        "Psycho-cut learnt at level 37",
-        "Me-first learnt at level 41",
-        "Sucker-punch learnt at level 45",
-        "Razor-wind learnt at level 49",
-        "Future-sight learnt at level 53",
-        "Perish-song learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Taunt",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Night-slash",
+            29
+        ],
+        [
+            "Detect",
+            33
+        ],
+        [
+            "Psycho-cut",
+            37
+        ],
+        [
+            "Me-first",
+            41
+        ],
+        [
+            "Sucker-punch",
+            45
+        ],
+        [
+            "Razor-wind",
+            49
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Perish-song",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Feint learnt at level 1",
-        "Leer learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Pursuit learnt at level 10",
-        "Taunt learnt at level 13",
-        "Bite learnt at level 16",
-        "Double-team learnt at level 19",
-        "Slash learnt at level 22",
-        "Swords-dance learnt at level 25",
-        "Night-slash learnt at level 29",
-        "Detect learnt at level 33",
-        "Psycho-cut learnt at level 37",
-        "Me-first learnt at level 41",
-        "Sucker-punch learnt at level 45",
-        "Razor-wind learnt at level 49",
-        "Future-sight learnt at level 53",
-        "Perish-song learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Feint",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Pursuit",
+            10
+        ],
+        [
+            "Taunt",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Double-team",
+            19
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Night-slash",
+            29
+        ],
+        [
+            "Detect",
+            33
+        ],
+        [
+            "Psycho-cut",
+            37
+        ],
+        [
+            "Me-first",
+            41
+        ],
+        [
+            "Sucker-punch",
+            45
+        ],
+        [
+            "Razor-wind",
+            49
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Perish-song",
+            57
+        ]
     ]
 }

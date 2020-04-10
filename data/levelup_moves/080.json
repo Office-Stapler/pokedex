@@ -1,306 +1,1118 @@
 {
-    "red-blue": [
-        "Headbutt learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Disable learnt at level 18",
-        "Headbutt learnt at level 22",
-        "Growl learnt at level 27",
-        "Water-gun learnt at level 33",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 44",
-        "Psychic learnt at level 55"
-    ],
-    "yellow": [
-        "Headbutt learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Disable learnt at level 18",
-        "Headbutt learnt at level 22",
-        "Growl learnt at level 27",
-        "Water-gun learnt at level 33",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 44",
-        "Psychic learnt at level 55"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 15",
-        "Confusion learnt at level 20",
-        "Disable learnt at level 29",
-        "Headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 46",
-        "Psychic learnt at level 54"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 13",
-        "Confusion learnt at level 17",
-        "Disable learnt at level 24",
-        "Headbutt learnt at level 29",
-        "Amnesia learnt at level 36",
-        "Withdraw learnt at level 37",
-        "Psychic learnt at level 44",
-        "Psych-up learnt at level 55"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Curse learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 15",
-        "Confusion learnt at level 20",
-        "Disable learnt at level 29",
-        "Headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 46",
-        "Psychic learnt at level 54"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Curse learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 15",
-        "Confusion learnt at level 20",
-        "Disable learnt at level 29",
-        "Headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 46",
-        "Psychic learnt at level 54"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Confusion learnt at level 15",
-        "Disable learnt at level 20",
-        "Headbutt learnt at level 25",
-        "Water-pulse learnt at level 29",
-        "Zen-headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Slack-off learnt at level 41",
-        "Amnesia learnt at level 47",
-        "Psychic learnt at level 54",
-        "Rain-dance learnt at level 61",
-        "Psych-up learnt at level 67"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Confusion learnt at level 15",
-        "Disable learnt at level 20",
-        "Headbutt learnt at level 25",
-        "Water-pulse learnt at level 29",
-        "Zen-headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Slack-off learnt at level 41",
-        "Amnesia learnt at level 47",
-        "Psychic learnt at level 54",
-        "Rain-dance learnt at level 61",
-        "Psych-up learnt at level 67"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Confusion learnt at level 14",
-        "Disable learnt at level 19",
-        "Headbutt learnt at level 23",
-        "Water-pulse learnt at level 28",
-        "Zen-headbutt learnt at level 32",
-        "Slack-off learnt at level 36",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 43",
-        "Psychic learnt at level 49",
-        "Rain-dance learnt at level 55",
-        "Psych-up learnt at level 62",
-        "Heal-pulse learnt at level 68"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Growl learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Confusion learnt at level 14",
-        "Disable learnt at level 19",
-        "Headbutt learnt at level 23",
-        "Water-pulse learnt at level 28",
-        "Zen-headbutt learnt at level 32",
-        "Slack-off learnt at level 36",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 43",
-        "Psychic learnt at level 49",
-        "Rain-dance learnt at level 55",
-        "Psych-up learnt at level 62",
-        "Heal-pulse learnt at level 68"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Growl learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Confusion learnt at level 14",
-        "Disable learnt at level 19",
-        "Headbutt learnt at level 23",
-        "Water-pulse learnt at level 28",
-        "Zen-headbutt learnt at level 32",
-        "Slack-off learnt at level 36",
-        "Amnesia learnt at level 43",
-        "Psychic learnt at level 49",
-        "Rain-dance learnt at level 55",
-        "Psych-up learnt at level 62",
-        "Heal-pulse learnt at level 68"
+        [
+            "Withdraw",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Headbutt",
+            23
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Slack-off",
+            36
+        ],
+        [
+            "Amnesia",
+            43
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Rain-dance",
+            55
+        ],
+        [
+            "Psych-up",
+            62
+        ],
+        [
+            "Heal-pulse",
+            68
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Growl learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Confusion learnt at level 14",
-        "Disable learnt at level 19",
-        "Headbutt learnt at level 23",
-        "Water-pulse learnt at level 28",
-        "Zen-headbutt learnt at level 32",
-        "Slack-off learnt at level 36",
-        "Amnesia learnt at level 43",
-        "Psychic learnt at level 49",
-        "Rain-dance learnt at level 55",
-        "Psych-up learnt at level 62",
-        "Heal-pulse learnt at level 68"
+        [
+            "Withdraw",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Headbutt",
+            23
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Slack-off",
+            36
+        ],
+        [
+            "Amnesia",
+            43
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Rain-dance",
+            55
+        ],
+        [
+            "Psych-up",
+            62
+        ],
+        [
+            "Heal-pulse",
+            68
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 15",
-        "Confusion learnt at level 20",
-        "Disable learnt at level 29",
-        "Headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 46",
-        "Psychic learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Disable",
+            29
+        ],
+        [
+            "Headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Psychic",
+            54
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 15",
-        "Confusion learnt at level 20",
-        "Disable learnt at level 29",
-        "Headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 46",
-        "Psychic learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Disable",
+            29
+        ],
+        [
+            "Headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Psychic",
+            54
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Confusion learnt at level 14",
-        "Disable learnt at level 19",
-        "Headbutt learnt at level 23",
-        "Water-pulse learnt at level 28",
-        "Zen-headbutt learnt at level 32",
-        "Slack-off learnt at level 36",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 43",
-        "Psychic learnt at level 49",
-        "Rain-dance learnt at level 55",
-        "Psych-up learnt at level 62",
-        "Heal-pulse learnt at level 68"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Headbutt",
+            23
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Slack-off",
+            36
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            43
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Rain-dance",
+            55
+        ],
+        [
+            "Psych-up",
+            62
+        ],
+        [
+            "Heal-pulse",
+            68
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Disable",
+            20
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Slack-off",
+            41
+        ],
+        [
+            "Amnesia",
+            47
+        ],
+        [
+            "Psychic",
+            54
+        ],
+        [
+            "Rain-dance",
+            61
+        ],
+        [
+            "Psych-up",
+            67
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Confusion",
+            17
+        ],
+        [
+            "Disable",
+            24
+        ],
+        [
+            "Headbutt",
+            29
+        ],
+        [
+            "Amnesia",
+            36
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Psych-up",
+            55
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Heal-pulse learnt at level 1",
-        "Growl learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Confusion learnt at level 14",
-        "Disable learnt at level 19",
-        "Headbutt learnt at level 23",
-        "Water-pulse learnt at level 28",
-        "Zen-headbutt learnt at level 32",
-        "Slack-off learnt at level 36",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 43",
-        "Psychic learnt at level 49",
-        "Rain-dance learnt at level 55",
-        "Psych-up learnt at level 62",
-        "Heal-pulse learnt at level 68"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Headbutt",
+            23
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Slack-off",
+            36
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            43
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Rain-dance",
+            55
+        ],
+        [
+            "Psych-up",
+            62
+        ],
+        [
+            "Heal-pulse",
+            68
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Headbutt",
+            23
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Slack-off",
+            36
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            43
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Rain-dance",
+            55
+        ],
+        [
+            "Psych-up",
+            62
+        ],
+        [
+            "Heal-pulse",
+            68
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Disable",
+            29
+        ],
+        [
+            "Headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Psychic",
+            54
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 15",
-        "Confusion learnt at level 20",
-        "Disable learnt at level 29",
-        "Headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Amnesia learnt at level 46",
-        "Psychic learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Disable",
+            29
+        ],
+        [
+            "Headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Psychic",
+            54
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Disable",
+            29
+        ],
+        [
+            "Headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Psychic",
+            54
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Disable",
+            29
+        ],
+        [
+            "Headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Psychic",
+            54
+        ]
+    ],
+    "yellow": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Disable",
+            18
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Growl",
+            27
+        ],
+        [
+            "Water-gun",
+            33
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            44
+        ],
+        [
+            "Psychic",
+            55
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Heal-pulse",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Confusion",
+            14
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Headbutt",
+            23
+        ],
+        [
+            "Water-pulse",
+            28
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Slack-off",
+            36
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            43
+        ],
+        [
+            "Psychic",
+            49
+        ],
+        [
+            "Rain-dance",
+            55
+        ],
+        [
+            "Psych-up",
+            62
+        ],
+        [
+            "Heal-pulse",
+            68
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Disable",
+            20
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Slack-off",
+            41
+        ],
+        [
+            "Amnesia",
+            47
+        ],
+        [
+            "Psychic",
+            54
+        ],
+        [
+            "Rain-dance",
+            61
+        ],
+        [
+            "Psych-up",
+            67
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Curse learnt at level 1",
-        "Yawn learnt at level 1",
-        "Growl learnt at level 6",
-        "Water-gun learnt at level 11",
-        "Confusion learnt at level 15",
-        "Disable learnt at level 20",
-        "Headbutt learnt at level 25",
-        "Water-pulse learnt at level 29",
-        "Zen-headbutt learnt at level 34",
-        "Withdraw learnt at level 37",
-        "Slack-off learnt at level 41",
-        "Amnesia learnt at level 47",
-        "Psychic learnt at level 54",
-        "Rain-dance learnt at level 61",
-        "Psych-up learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Yawn",
+            1
+        ],
+        [
+            "Growl",
+            6
+        ],
+        [
+            "Water-gun",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Disable",
+            20
+        ],
+        [
+            "Headbutt",
+            25
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            34
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Slack-off",
+            41
+        ],
+        [
+            "Amnesia",
+            47
+        ],
+        [
+            "Psychic",
+            54
+        ],
+        [
+            "Rain-dance",
+            61
+        ],
+        [
+            "Psych-up",
+            67
+        ]
+    ],
+    "red-blue": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Disable",
+            18
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Growl",
+            27
+        ],
+        [
+            "Water-gun",
+            33
+        ],
+        [
+            "Withdraw",
+            37
+        ],
+        [
+            "Amnesia",
+            44
+        ],
+        [
+            "Psychic",
+            55
+        ]
     ]
 }

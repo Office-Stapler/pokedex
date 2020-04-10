@@ -1,68 +1,242 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Bubble learnt at level 5",
-        "Quick-attack learnt at level 8",
-        "Lick learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Smokescreen learnt at level 19",
-        "Round learnt at level 23",
-        "Fling learnt at level 28",
-        "Smack-down learnt at level 33",
-        "Substitute learnt at level 40",
-        "Bounce learnt at level 45",
-        "Double-team learnt at level 50",
-        "Hydro-pump learnt at level 56"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Lick",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Smokescreen",
+            19
+        ],
+        [
+            "Round",
+            23
+        ],
+        [
+            "Fling",
+            28
+        ],
+        [
+            "Smack-down",
+            33
+        ],
+        [
+            "Substitute",
+            40
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Double-team",
+            50
+        ],
+        [
+            "Hydro-pump",
+            56
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 5",
-        "Quick-attack learnt at level 8",
-        "Lick learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Smokescreen learnt at level 20",
-        "Round learnt at level 23",
-        "Fling learnt at level 28",
-        "Smack-down learnt at level 33",
-        "Substitute learnt at level 38",
-        "Bounce learnt at level 44",
-        "Double-team learnt at level 48",
-        "Hydro-pump learnt at level 55"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Lick",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Round",
+            23
+        ],
+        [
+            "Fling",
+            28
+        ],
+        [
+            "Smack-down",
+            33
+        ],
+        [
+            "Substitute",
+            38
+        ],
+        [
+            "Bounce",
+            44
+        ],
+        [
+            "Double-team",
+            48
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Bubble learnt at level 5",
-        "Quick-attack learnt at level 8",
-        "Lick learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Smokescreen learnt at level 19",
-        "Round learnt at level 23",
-        "Fling learnt at level 28",
-        "Smack-down learnt at level 33",
-        "Substitute learnt at level 40",
-        "Bounce learnt at level 45",
-        "Double-team learnt at level 50",
-        "Hydro-pump learnt at level 56"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Lick",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Smokescreen",
+            19
+        ],
+        [
+            "Round",
+            23
+        ],
+        [
+            "Fling",
+            28
+        ],
+        [
+            "Smack-down",
+            33
+        ],
+        [
+            "Substitute",
+            40
+        ],
+        [
+            "Bounce",
+            45
+        ],
+        [
+            "Double-team",
+            50
+        ],
+        [
+            "Hydro-pump",
+            56
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 5",
-        "Quick-attack learnt at level 8",
-        "Lick learnt at level 10",
-        "Water-pulse learnt at level 14",
-        "Smokescreen learnt at level 20",
-        "Round learnt at level 23",
-        "Fling learnt at level 28",
-        "Smack-down learnt at level 33",
-        "Substitute learnt at level 38",
-        "Bounce learnt at level 44",
-        "Double-team learnt at level 48",
-        "Hydro-pump learnt at level 55"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            5
+        ],
+        [
+            "Quick-attack",
+            8
+        ],
+        [
+            "Lick",
+            10
+        ],
+        [
+            "Water-pulse",
+            14
+        ],
+        [
+            "Smokescreen",
+            20
+        ],
+        [
+            "Round",
+            23
+        ],
+        [
+            "Fling",
+            28
+        ],
+        [
+            "Smack-down",
+            33
+        ],
+        [
+            "Substitute",
+            38
+        ],
+        [
+            "Bounce",
+            44
+        ],
+        [
+            "Double-team",
+            48
+        ],
+        [
+            "Hydro-pump",
+            55
+        ]
     ]
 }

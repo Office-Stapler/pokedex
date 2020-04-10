@@ -1,244 +1,894 @@
 {
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Absorb learnt at level 5",
-        "Quick-attack learnt at level 9",
-        "Mega-drain learnt at level 13",
-        "Pursuit learnt at level 18",
-        "Leaf-blade learnt at level 23",
-        "Agility learnt at level 28",
-        "Slam learnt at level 33",
-        "Detect learnt at level 38",
-        "X-scissor learnt at level 43",
-        "False-swipe learnt at level 48",
-        "Quick-guard learnt at level 53",
-        "Leaf-storm learnt at level 58",
-        "Screech learnt at level 63"
+        [
+            "Fury-cutter",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Mega-drain",
+            13
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Leaf-blade",
+            23
+        ],
+        [
+            "Agility",
+            28
+        ],
+        [
+            "Slam",
+            33
+        ],
+        [
+            "Detect",
+            38
+        ],
+        [
+            "X-scissor",
+            43
+        ],
+        [
+            "False-swipe",
+            48
+        ],
+        [
+            "Quick-guard",
+            53
+        ],
+        [
+            "Leaf-storm",
+            58
+        ],
+        [
+            "Screech",
+            63
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 5",
-        "Quick-attack learnt at level 9",
-        "Mega-drain learnt at level 13",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 18",
-        "Leaf-blade learnt at level 23",
-        "Agility learnt at level 28",
-        "Slam learnt at level 33",
-        "Detect learnt at level 38",
-        "X-scissor learnt at level 43",
-        "False-swipe learnt at level 48",
-        "Quick-guard learnt at level 53",
-        "Leaf-storm learnt at level 58",
-        "Screech learnt at level 63"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Mega-drain",
+            13
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Leaf-blade",
+            23
+        ],
+        [
+            "Agility",
+            28
+        ],
+        [
+            "Slam",
+            33
+        ],
+        [
+            "Detect",
+            38
+        ],
+        [
+            "X-scissor",
+            43
+        ],
+        [
+            "False-swipe",
+            48
+        ],
+        [
+            "Quick-guard",
+            53
+        ],
+        [
+            "Leaf-storm",
+            58
+        ],
+        [
+            "Screech",
+            63
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53",
-        "Leaf-storm learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ],
+        [
+            "Leaf-storm",
+            59
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53",
-        "Leaf-storm learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ],
+        [
+            "Leaf-storm",
+            59
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53",
-        "Leaf-storm learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ],
+        [
+            "Leaf-storm",
+            59
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53",
-        "Leaf-storm learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ],
+        [
+            "Leaf-storm",
+            59
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Fury-cutter learnt at level 1",
-        "Absorb learnt at level 5",
-        "Quick-attack learnt at level 9",
-        "Mega-drain learnt at level 13",
-        "Pursuit learnt at level 18",
-        "Leaf-blade learnt at level 23",
-        "Agility learnt at level 28",
-        "Slam learnt at level 33",
-        "Detect learnt at level 38",
-        "X-scissor learnt at level 43",
-        "False-swipe learnt at level 48",
-        "Quick-guard learnt at level 53",
-        "Leaf-storm learnt at level 58",
-        "Screech learnt at level 63"
+        [
+            "Fury-cutter",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Absorb",
+            5
+        ],
+        [
+            "Quick-attack",
+            9
+        ],
+        [
+            "Mega-drain",
+            13
+        ],
+        [
+            "Pursuit",
+            18
+        ],
+        [
+            "Leaf-blade",
+            23
+        ],
+        [
+            "Agility",
+            28
+        ],
+        [
+            "Slam",
+            33
+        ],
+        [
+            "Detect",
+            38
+        ],
+        [
+            "X-scissor",
+            43
+        ],
+        [
+            "False-swipe",
+            48
+        ],
+        [
+            "Quick-guard",
+            53
+        ],
+        [
+            "Leaf-storm",
+            58
+        ],
+        [
+            "Screech",
+            63
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53",
-        "Leaf-storm learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ],
+        [
+            "Leaf-storm",
+            59
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53",
-        "Leaf-storm learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ],
+        [
+            "Leaf-storm",
+            59
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Leer learnt at level 1",
-        "Absorb learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Absorb learnt at level 6",
-        "Quick-attack learnt at level 11",
-        "Fury-cutter learnt at level 16",
-        "Pursuit learnt at level 17",
-        "Screech learnt at level 23",
-        "Leaf-blade learnt at level 29",
-        "Agility learnt at level 35",
-        "Slam learnt at level 41",
-        "Detect learnt at level 47",
-        "False-swipe learnt at level 53"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-cutter",
+            16
+        ],
+        [
+            "Pursuit",
+            17
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Leaf-blade",
+            29
+        ],
+        [
+            "Agility",
+            35
+        ],
+        [
+            "Slam",
+            41
+        ],
+        [
+            "Detect",
+            47
+        ],
+        [
+            "False-swipe",
+            53
+        ]
     ]
 }

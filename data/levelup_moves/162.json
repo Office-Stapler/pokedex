@@ -1,255 +1,926 @@
 {
     "gold-silver": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Quick-attack learnt at level 11",
-        "Fury-swipes learnt at level 18",
-        "Slam learnt at level 28",
-        "Rest learnt at level 38",
-        "Amnesia learnt at level 48"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-swipes",
+            18
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            38
+        ],
+        [
+            "Amnesia",
+            48
+        ]
     ],
     "crystal": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Quick-attack learnt at level 11",
-        "Fury-swipes learnt at level 18",
-        "Slam learnt at level 28",
-        "Rest learnt at level 38",
-        "Amnesia learnt at level 48"
-    ],
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Helping-hand learnt at level 19",
-        "Slam learnt at level 28",
-        "Follow-me learnt at level 37",
-        "Rest learnt at level 48",
-        "Amnesia learnt at level 59"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Fury-swipes",
+            18
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            38
+        ],
+        [
+            "Amnesia",
+            48
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Helping-hand learnt at level 19",
-        "Slam learnt at level 28",
-        "Follow-me learnt at level 37",
-        "Rest learnt at level 48",
-        "Amnesia learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Helping-hand",
+            19
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Follow-me",
+            37
+        ],
+        [
+            "Rest",
+            48
+        ],
+        [
+            "Amnesia",
+            59
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Helping-hand",
+            19
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Follow-me",
+            37
+        ],
+        [
+            "Rest",
+            48
+        ],
+        [
+            "Amnesia",
+            59
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Helping-hand learnt at level 19",
-        "Slam learnt at level 28",
-        "Follow-me learnt at level 37",
-        "Rest learnt at level 48",
-        "Amnesia learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Helping-hand",
+            19
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Follow-me",
+            37
+        ],
+        [
+            "Rest",
+            48
+        ],
+        [
+            "Amnesia",
+            59
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Helping-hand learnt at level 19",
-        "Slam learnt at level 28",
-        "Follow-me learnt at level 37",
-        "Rest learnt at level 48",
-        "Amnesia learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Helping-hand",
+            19
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Follow-me",
+            37
+        ],
+        [
+            "Rest",
+            48
+        ],
+        [
+            "Amnesia",
+            59
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 12",
-        "Helping-hand learnt at level 19",
-        "Slam learnt at level 28",
-        "Follow-me learnt at level 37",
-        "Rest learnt at level 48",
-        "Amnesia learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            12
+        ],
+        [
+            "Helping-hand",
+            19
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Follow-me",
+            37
+        ],
+        [
+            "Rest",
+            48
+        ],
+        [
+            "Amnesia",
+            59
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Agility learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Coil learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
+        [
+            "Agility",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Coil",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Agility learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Foresight learnt at level 1",
-        "Coil learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Quick-attack learnt at level 7",
-        "Fury-swipes learnt at level 13",
-        "Helping-hand learnt at level 17",
-        "Follow-me learnt at level 21",
-        "Slam learnt at level 28",
-        "Rest learnt at level 32",
-        "Sucker-punch learnt at level 36",
-        "Amnesia learnt at level 42",
-        "Baton-pass learnt at level 46",
-        "Me-first learnt at level 50",
-        "Hyper-voice learnt at level 56"
+        [
+            "Agility",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Coil",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Helping-hand",
+            17
+        ],
+        [
+            "Follow-me",
+            21
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Rest",
+            32
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Amnesia",
+            42
+        ],
+        [
+            "Baton-pass",
+            46
+        ],
+        [
+            "Me-first",
+            50
+        ],
+        [
+            "Hyper-voice",
+            56
+        ]
     ]
 }

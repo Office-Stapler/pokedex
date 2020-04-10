@@ -1,241 +1,850 @@
 {
-    "ultra-sun-ultra-moon": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Scary-face learnt at level 9",
-        "Smack-down learnt at level 13",
-        "Stomp learnt at level 17",
-        "Bulldoze learnt at level 21",
-        "Chip-away learnt at level 25",
-        "Rock-blast learnt at level 29",
-        "Drill-run learnt at level 33",
-        "Take-down learnt at level 37",
-        "Stone-edge learnt at level 41",
-        "Earthquake learnt at level 45",
-        "Megahorn learnt at level 49",
-        "Horn-drill learnt at level 53"
-    ],
-    "sun-moon": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Scary-face learnt at level 9",
-        "Smack-down learnt at level 13",
-        "Stomp learnt at level 17",
-        "Bulldoze learnt at level 21",
-        "Chip-away learnt at level 25",
-        "Rock-blast learnt at level 29",
-        "Drill-run learnt at level 33",
-        "Take-down learnt at level 37",
-        "Stone-edge learnt at level 41",
-        "Earthquake learnt at level 45",
-        "Megahorn learnt at level 49",
-        "Horn-drill learnt at level 53"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Scary-face learnt at level 9",
-        "Smack-down learnt at level 13",
-        "Stomp learnt at level 17",
-        "Bulldoze learnt at level 21",
-        "Chip-away learnt at level 25",
-        "Rock-blast learnt at level 29",
-        "Drill-run learnt at level 33",
-        "Take-down learnt at level 37",
-        "Stone-edge learnt at level 41",
-        "Earthquake learnt at level 45",
-        "Megahorn learnt at level 49",
-        "Horn-drill learnt at level 53"
-    ],
-    "black-2-white-2": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 8",
-        "Fury-attack learnt at level 12",
-        "Scary-face learnt at level 19",
-        "Rock-blast learnt at level 23",
-        "Bulldoze learnt at level 30",
-        "Chip-away learnt at level 34",
-        "Take-down learnt at level 41",
-        "Drill-run learnt at level 45",
-        "Stone-edge learnt at level 52",
-        "Earthquake learnt at level 56",
-        "Horn-drill learnt at level 63",
-        "Megahorn learnt at level 67"
-    ],
-    "black-white": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 8",
-        "Fury-attack learnt at level 12",
-        "Scary-face learnt at level 19",
-        "Rock-blast learnt at level 23",
-        "Bulldoze learnt at level 30",
-        "Chip-away learnt at level 34",
-        "Take-down learnt at level 41",
-        "Drill-run learnt at level 45",
-        "Stone-edge learnt at level 52",
-        "Earthquake learnt at level 56",
-        "Horn-drill learnt at level 63",
-        "Megahorn learnt at level 67"
-    ],
-    "x-y": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 8",
-        "Fury-attack learnt at level 12",
-        "Scary-face learnt at level 19",
-        "Rock-blast learnt at level 23",
-        "Bulldoze learnt at level 30",
-        "Chip-away learnt at level 34",
-        "Take-down learnt at level 41",
-        "Drill-run learnt at level 45",
-        "Stone-edge learnt at level 52",
-        "Earthquake learnt at level 56",
-        "Horn-drill learnt at level 63",
-        "Megahorn learnt at level 67"
-    ],
-    "heartgold-soulsilver": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 9",
-        "Fury-attack learnt at level 13",
-        "Scary-face learnt at level 21",
-        "Rock-blast learnt at level 25",
-        "Take-down learnt at level 33",
-        "Horn-drill learnt at level 37",
-        "Stone-edge learnt at level 45",
-        "Earthquake learnt at level 49",
-        "Megahorn learnt at level 57"
-    ],
-    "platinum": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 9",
-        "Fury-attack learnt at level 13",
-        "Scary-face learnt at level 21",
-        "Rock-blast learnt at level 25",
-        "Take-down learnt at level 33",
-        "Horn-drill learnt at level 37",
-        "Stone-edge learnt at level 45",
-        "Earthquake learnt at level 49",
-        "Megahorn learnt at level 57"
-    ],
-    "diamond-pearl": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 9",
-        "Fury-attack learnt at level 13",
-        "Scary-face learnt at level 21",
-        "Rock-blast learnt at level 25",
-        "Take-down learnt at level 33",
-        "Horn-drill learnt at level 37",
-        "Stone-edge learnt at level 45",
-        "Earthquake learnt at level 49",
-        "Megahorn learnt at level 57"
-    ],
-    "firered-leafgreen": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 10",
-        "Fury-attack learnt at level 15",
-        "Scary-face learnt at level 24",
-        "Rock-blast learnt at level 29",
-        "Horn-drill learnt at level 38",
-        "Take-down learnt at level 43",
-        "Earthquake learnt at level 52",
-        "Megahorn learnt at level 57"
-    ],
-    "emerald": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 10",
-        "Fury-attack learnt at level 15",
-        "Scary-face learnt at level 24",
-        "Rock-blast learnt at level 29",
-        "Horn-drill learnt at level 38",
-        "Take-down learnt at level 43",
-        "Earthquake learnt at level 52",
-        "Megahorn learnt at level 57"
-    ],
-    "ruby-sapphire": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 10",
-        "Fury-attack learnt at level 15",
-        "Scary-face learnt at level 24",
-        "Rock-blast learnt at level 29",
-        "Horn-drill learnt at level 38",
-        "Take-down learnt at level 43",
-        "Earthquake learnt at level 52",
-        "Megahorn learnt at level 57"
-    ],
     "red-blue": [
-        "Horn-attack learnt at level 1",
-        "Stomp learnt at level 30",
-        "Tail-whip learnt at level 35",
-        "Fury-attack learnt at level 40",
-        "Horn-drill learnt at level 45",
-        "Leer learnt at level 50",
-        "Take-down learnt at level 55"
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Stomp",
+            30
+        ],
+        [
+            "Tail-whip",
+            35
+        ],
+        [
+            "Fury-attack",
+            40
+        ],
+        [
+            "Horn-drill",
+            45
+        ],
+        [
+            "Leer",
+            50
+        ],
+        [
+            "Take-down",
+            55
+        ]
     ],
     "yellow": [
-        "Stomp learnt at level 1",
-        "Horn-attack learnt at level 1",
-        "Fury-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 30",
-        "Tail-whip learnt at level 35",
-        "Fury-attack learnt at level 40",
-        "Horn-drill learnt at level 45",
-        "Leer learnt at level 50",
-        "Take-down learnt at level 55"
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            30
+        ],
+        [
+            "Tail-whip",
+            35
+        ],
+        [
+            "Fury-attack",
+            40
+        ],
+        [
+            "Horn-drill",
+            45
+        ],
+        [
+            "Leer",
+            50
+        ],
+        [
+            "Take-down",
+            55
+        ]
     ],
     "gold-silver": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 13",
-        "Fury-attack learnt at level 19",
-        "Scary-face learnt at level 31",
-        "Horn-drill learnt at level 37",
-        "Take-down learnt at level 49",
-        "Earthquake learnt at level 55"
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            13
+        ],
+        [
+            "Fury-attack",
+            19
+        ],
+        [
+            "Scary-face",
+            31
+        ],
+        [
+            "Horn-drill",
+            37
+        ],
+        [
+            "Take-down",
+            49
+        ],
+        [
+            "Earthquake",
+            55
+        ]
     ],
     "crystal": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 13",
-        "Fury-attack learnt at level 19",
-        "Scary-face learnt at level 31",
-        "Horn-drill learnt at level 37",
-        "Take-down learnt at level 49",
-        "Earthquake learnt at level 55"
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            13
+        ],
+        [
+            "Fury-attack",
+            19
+        ],
+        [
+            "Scary-face",
+            31
+        ],
+        [
+            "Horn-drill",
+            37
+        ],
+        [
+            "Take-down",
+            49
+        ],
+        [
+            "Earthquake",
+            55
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            10
+        ],
+        [
+            "Fury-attack",
+            15
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Horn-drill",
+            38
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Earthquake",
+            52
+        ],
+        [
+            "Megahorn",
+            57
+        ]
+    ],
+    "emerald": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            10
+        ],
+        [
+            "Fury-attack",
+            15
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Horn-drill",
+            38
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Earthquake",
+            52
+        ],
+        [
+            "Megahorn",
+            57
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            10
+        ],
+        [
+            "Fury-attack",
+            15
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Horn-drill",
+            38
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Earthquake",
+            52
+        ],
+        [
+            "Megahorn",
+            57
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            9
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Rock-blast",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Horn-drill",
+            37
+        ],
+        [
+            "Stone-edge",
+            45
+        ],
+        [
+            "Earthquake",
+            49
+        ],
+        [
+            "Megahorn",
+            57
+        ]
+    ],
+    "platinum": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            9
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Rock-blast",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Horn-drill",
+            37
+        ],
+        [
+            "Stone-edge",
+            45
+        ],
+        [
+            "Earthquake",
+            49
+        ],
+        [
+            "Megahorn",
+            57
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            9
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Rock-blast",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Horn-drill",
+            37
+        ],
+        [
+            "Stone-edge",
+            45
+        ],
+        [
+            "Earthquake",
+            49
+        ],
+        [
+            "Megahorn",
+            57
+        ]
+    ],
+    "black-white": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            8
+        ],
+        [
+            "Fury-attack",
+            12
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Rock-blast",
+            23
+        ],
+        [
+            "Bulldoze",
+            30
+        ],
+        [
+            "Chip-away",
+            34
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Drill-run",
+            45
+        ],
+        [
+            "Stone-edge",
+            52
+        ],
+        [
+            "Earthquake",
+            56
+        ],
+        [
+            "Horn-drill",
+            63
+        ],
+        [
+            "Megahorn",
+            67
+        ]
     ],
     "colosseum": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 10",
-        "Fury-attack learnt at level 15",
-        "Scary-face learnt at level 24",
-        "Rock-blast learnt at level 29",
-        "Horn-drill learnt at level 38",
-        "Take-down learnt at level 43",
-        "Earthquake learnt at level 52",
-        "Megahorn learnt at level 57"
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            10
+        ],
+        [
+            "Fury-attack",
+            15
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Horn-drill",
+            38
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Earthquake",
+            52
+        ],
+        [
+            "Megahorn",
+            57
+        ]
     ],
     "xd": [
-        "Horn-attack learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Stomp learnt at level 10",
-        "Fury-attack learnt at level 15",
-        "Scary-face learnt at level 24",
-        "Rock-blast learnt at level 29",
-        "Horn-drill learnt at level 38",
-        "Take-down learnt at level 43",
-        "Earthquake learnt at level 52",
-        "Megahorn learnt at level 57"
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            10
+        ],
+        [
+            "Fury-attack",
+            15
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Horn-drill",
+            38
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Earthquake",
+            52
+        ],
+        [
+            "Megahorn",
+            57
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            8
+        ],
+        [
+            "Fury-attack",
+            12
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Rock-blast",
+            23
+        ],
+        [
+            "Bulldoze",
+            30
+        ],
+        [
+            "Chip-away",
+            34
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Drill-run",
+            45
+        ],
+        [
+            "Stone-edge",
+            52
+        ],
+        [
+            "Earthquake",
+            56
+        ],
+        [
+            "Horn-drill",
+            63
+        ],
+        [
+            "Megahorn",
+            67
+        ]
+    ],
+    "x-y": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Stomp",
+            8
+        ],
+        [
+            "Fury-attack",
+            12
+        ],
+        [
+            "Scary-face",
+            19
+        ],
+        [
+            "Rock-blast",
+            23
+        ],
+        [
+            "Bulldoze",
+            30
+        ],
+        [
+            "Chip-away",
+            34
+        ],
+        [
+            "Take-down",
+            41
+        ],
+        [
+            "Drill-run",
+            45
+        ],
+        [
+            "Stone-edge",
+            52
+        ],
+        [
+            "Earthquake",
+            56
+        ],
+        [
+            "Horn-drill",
+            63
+        ],
+        [
+            "Megahorn",
+            67
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Scary-face",
+            9
+        ],
+        [
+            "Smack-down",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Bulldoze",
+            21
+        ],
+        [
+            "Chip-away",
+            25
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Drill-run",
+            33
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Stone-edge",
+            41
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Megahorn",
+            49
+        ],
+        [
+            "Horn-drill",
+            53
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Scary-face",
+            9
+        ],
+        [
+            "Smack-down",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Bulldoze",
+            21
+        ],
+        [
+            "Chip-away",
+            25
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Drill-run",
+            33
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Stone-edge",
+            41
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Megahorn",
+            49
+        ],
+        [
+            "Horn-drill",
+            53
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Horn-attack",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Scary-face",
+            9
+        ],
+        [
+            "Smack-down",
+            13
+        ],
+        [
+            "Stomp",
+            17
+        ],
+        [
+            "Bulldoze",
+            21
+        ],
+        [
+            "Chip-away",
+            25
+        ],
+        [
+            "Rock-blast",
+            29
+        ],
+        [
+            "Drill-run",
+            33
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Stone-edge",
+            41
+        ],
+        [
+            "Earthquake",
+            45
+        ],
+        [
+            "Megahorn",
+            49
+        ],
+        [
+            "Horn-drill",
+            53
+        ]
     ]
 }

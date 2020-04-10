@@ -1,228 +1,798 @@
 {
-    "ultra-sun-ultra-moon": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 14",
-        "Sleep-powder learnt at level 15",
-        "Mega-drain learnt at level 19",
-        "Lucky-chant learnt at level 23",
-        "Moonlight learnt at level 27",
-        "Giga-drain learnt at level 31",
-        "Toxic learnt at level 35",
-        "Natural-gift learnt at level 39",
-        "Moonblast learnt at level 43",
-        "Grassy-terrain learnt at level 47",
-        "Petal-dance learnt at level 51"
-    ],
-    "sun-moon": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 14",
-        "Sleep-powder learnt at level 15",
-        "Mega-drain learnt at level 19",
-        "Lucky-chant learnt at level 23",
-        "Moonlight learnt at level 27",
-        "Giga-drain learnt at level 31",
-        "Toxic learnt at level 35",
-        "Natural-gift learnt at level 39",
-        "Moonblast learnt at level 43",
-        "Grassy-terrain learnt at level 47",
-        "Petal-dance learnt at level 51"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 14",
-        "Sleep-powder learnt at level 15",
-        "Mega-drain learnt at level 19",
-        "Lucky-chant learnt at level 23",
-        "Moonlight learnt at level 27",
-        "Giga-drain learnt at level 31",
-        "Toxic learnt at level 35",
-        "Natural-gift learnt at level 39",
-        "Moonblast learnt at level 43",
-        "Grassy-terrain learnt at level 47",
-        "Petal-dance learnt at level 51"
-    ],
-    "x-y": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 15",
-        "Sleep-powder learnt at level 17",
-        "Mega-drain learnt at level 21",
-        "Lucky-chant learnt at level 25",
-        "Natural-gift learnt at level 29",
-        "Moonlight learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Petal-dance learnt at level 41",
-        "Grassy-terrain learnt at level 45"
-    ],
-    "platinum": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 15",
-        "Sleep-powder learnt at level 17",
-        "Mega-drain learnt at level 21",
-        "Lucky-chant learnt at level 25",
-        "Natural-gift learnt at level 29",
-        "Moonlight learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Petal-dance learnt at level 41"
-    ],
-    "diamond-pearl": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 15",
-        "Sleep-powder learnt at level 17",
-        "Mega-drain learnt at level 21",
-        "Lucky-chant learnt at level 25",
-        "Natural-gift learnt at level 29",
-        "Moonlight learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Petal-dance learnt at level 41"
-    ],
-    "firered-leafgreen": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 7",
-        "Poison-powder learnt at level 14",
-        "Stun-spore learnt at level 16",
-        "Sleep-powder learnt at level 18",
-        "Acid learnt at level 23",
-        "Moonlight learnt at level 32",
-        "Petal-dance learnt at level 39"
-    ],
-    "emerald": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 7",
-        "Poison-powder learnt at level 14",
-        "Stun-spore learnt at level 16",
-        "Sleep-powder learnt at level 18",
-        "Acid learnt at level 23",
-        "Moonlight learnt at level 32",
-        "Petal-dance learnt at level 39"
-    ],
-    "ruby-sapphire": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 7",
-        "Poison-powder learnt at level 14",
-        "Stun-spore learnt at level 16",
-        "Sleep-powder learnt at level 18",
-        "Acid learnt at level 23",
-        "Moonlight learnt at level 32",
-        "Petal-dance learnt at level 39"
-    ],
-    "crystal": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 7",
-        "Poison-powder learnt at level 14",
-        "Stun-spore learnt at level 16",
-        "Sleep-powder learnt at level 18",
-        "Acid learnt at level 23",
-        "Moonlight learnt at level 32",
-        "Petal-dance learnt at level 39"
-    ],
-    "gold-silver": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 7",
-        "Poison-powder learnt at level 14",
-        "Stun-spore learnt at level 16",
-        "Sleep-powder learnt at level 18",
-        "Acid learnt at level 23",
-        "Moonlight learnt at level 32",
-        "Petal-dance learnt at level 39"
-    ],
-    "black-2-white-2": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 15",
-        "Sleep-powder learnt at level 17",
-        "Mega-drain learnt at level 21",
-        "Lucky-chant learnt at level 25",
-        "Natural-gift learnt at level 29",
-        "Moonlight learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Petal-dance learnt at level 41"
-    ],
-    "black-white": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 15",
-        "Sleep-powder learnt at level 17",
-        "Mega-drain learnt at level 21",
-        "Lucky-chant learnt at level 25",
-        "Natural-gift learnt at level 29",
-        "Moonlight learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Petal-dance learnt at level 41"
-    ],
-    "heartgold-soulsilver": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 5",
-        "Acid learnt at level 9",
-        "Poison-powder learnt at level 13",
-        "Stun-spore learnt at level 15",
-        "Sleep-powder learnt at level 17",
-        "Mega-drain learnt at level 21",
-        "Lucky-chant learnt at level 25",
-        "Natural-gift learnt at level 29",
-        "Moonlight learnt at level 33",
-        "Giga-drain learnt at level 37",
-        "Petal-dance learnt at level 41"
+    "red-blue": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Sleep-powder",
+            19
+        ],
+        [
+            "Acid",
+            24
+        ],
+        [
+            "Petal-dance",
+            33
+        ],
+        [
+            "Solar-beam",
+            46
+        ]
     ],
     "yellow": [
-        "Absorb learnt at level 1",
-        "Poison-powder learnt at level 15",
-        "Stun-spore learnt at level 17",
-        "Sleep-powder learnt at level 19",
-        "Acid learnt at level 24",
-        "Petal-dance learnt at level 33",
-        "Solar-beam learnt at level 46"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Poison-powder",
+            15
+        ],
+        [
+            "Stun-spore",
+            17
+        ],
+        [
+            "Sleep-powder",
+            19
+        ],
+        [
+            "Acid",
+            24
+        ],
+        [
+            "Petal-dance",
+            33
+        ],
+        [
+            "Solar-beam",
+            46
+        ]
     ],
-    "red-blue": [
-        "Absorb learnt at level 1",
-        "Poison-powder learnt at level 15",
-        "Stun-spore learnt at level 17",
-        "Sleep-powder learnt at level 19",
-        "Acid learnt at level 24",
-        "Petal-dance learnt at level 33",
-        "Solar-beam learnt at level 46"
+    "gold-silver": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            7
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Stun-spore",
+            16
+        ],
+        [
+            "Sleep-powder",
+            18
+        ],
+        [
+            "Acid",
+            23
+        ],
+        [
+            "Moonlight",
+            32
+        ],
+        [
+            "Petal-dance",
+            39
+        ]
     ],
-    "xd": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 7",
-        "Poison-powder learnt at level 14",
-        "Stun-spore learnt at level 16",
-        "Sleep-powder learnt at level 18",
-        "Acid learnt at level 23",
-        "Moonlight learnt at level 32",
-        "Petal-dance learnt at level 39"
+    "crystal": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            7
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Stun-spore",
+            16
+        ],
+        [
+            "Sleep-powder",
+            18
+        ],
+        [
+            "Acid",
+            23
+        ],
+        [
+            "Moonlight",
+            32
+        ],
+        [
+            "Petal-dance",
+            39
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            7
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Stun-spore",
+            16
+        ],
+        [
+            "Sleep-powder",
+            18
+        ],
+        [
+            "Acid",
+            23
+        ],
+        [
+            "Moonlight",
+            32
+        ],
+        [
+            "Petal-dance",
+            39
+        ]
+    ],
+    "emerald": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            7
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Stun-spore",
+            16
+        ],
+        [
+            "Sleep-powder",
+            18
+        ],
+        [
+            "Acid",
+            23
+        ],
+        [
+            "Moonlight",
+            32
+        ],
+        [
+            "Petal-dance",
+            39
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            7
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Stun-spore",
+            16
+        ],
+        [
+            "Sleep-powder",
+            18
+        ],
+        [
+            "Acid",
+            23
+        ],
+        [
+            "Moonlight",
+            32
+        ],
+        [
+            "Petal-dance",
+            39
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Sleep-powder",
+            17
+        ],
+        [
+            "Mega-drain",
+            21
+        ],
+        [
+            "Lucky-chant",
+            25
+        ],
+        [
+            "Natural-gift",
+            29
+        ],
+        [
+            "Moonlight",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Petal-dance",
+            41
+        ]
+    ],
+    "platinum": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Sleep-powder",
+            17
+        ],
+        [
+            "Mega-drain",
+            21
+        ],
+        [
+            "Lucky-chant",
+            25
+        ],
+        [
+            "Natural-gift",
+            29
+        ],
+        [
+            "Moonlight",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Petal-dance",
+            41
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Sleep-powder",
+            17
+        ],
+        [
+            "Mega-drain",
+            21
+        ],
+        [
+            "Lucky-chant",
+            25
+        ],
+        [
+            "Natural-gift",
+            29
+        ],
+        [
+            "Moonlight",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Petal-dance",
+            41
+        ]
+    ],
+    "black-white": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Sleep-powder",
+            17
+        ],
+        [
+            "Mega-drain",
+            21
+        ],
+        [
+            "Lucky-chant",
+            25
+        ],
+        [
+            "Natural-gift",
+            29
+        ],
+        [
+            "Moonlight",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Petal-dance",
+            41
+        ]
     ],
     "colosseum": [
-        "Absorb learnt at level 1",
-        "Sweet-scent learnt at level 7",
-        "Poison-powder learnt at level 14",
-        "Stun-spore learnt at level 16",
-        "Sleep-powder learnt at level 18",
-        "Acid learnt at level 23",
-        "Moonlight learnt at level 32",
-        "Petal-dance learnt at level 39"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            7
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Stun-spore",
+            16
+        ],
+        [
+            "Sleep-powder",
+            18
+        ],
+        [
+            "Acid",
+            23
+        ],
+        [
+            "Moonlight",
+            32
+        ],
+        [
+            "Petal-dance",
+            39
+        ]
+    ],
+    "xd": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            7
+        ],
+        [
+            "Poison-powder",
+            14
+        ],
+        [
+            "Stun-spore",
+            16
+        ],
+        [
+            "Sleep-powder",
+            18
+        ],
+        [
+            "Acid",
+            23
+        ],
+        [
+            "Moonlight",
+            32
+        ],
+        [
+            "Petal-dance",
+            39
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Sleep-powder",
+            17
+        ],
+        [
+            "Mega-drain",
+            21
+        ],
+        [
+            "Lucky-chant",
+            25
+        ],
+        [
+            "Natural-gift",
+            29
+        ],
+        [
+            "Moonlight",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Petal-dance",
+            41
+        ]
+    ],
+    "x-y": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            15
+        ],
+        [
+            "Sleep-powder",
+            17
+        ],
+        [
+            "Mega-drain",
+            21
+        ],
+        [
+            "Lucky-chant",
+            25
+        ],
+        [
+            "Natural-gift",
+            29
+        ],
+        [
+            "Moonlight",
+            33
+        ],
+        [
+            "Giga-drain",
+            37
+        ],
+        [
+            "Petal-dance",
+            41
+        ],
+        [
+            "Grassy-terrain",
+            45
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            14
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Mega-drain",
+            19
+        ],
+        [
+            "Lucky-chant",
+            23
+        ],
+        [
+            "Moonlight",
+            27
+        ],
+        [
+            "Giga-drain",
+            31
+        ],
+        [
+            "Toxic",
+            35
+        ],
+        [
+            "Natural-gift",
+            39
+        ],
+        [
+            "Moonblast",
+            43
+        ],
+        [
+            "Grassy-terrain",
+            47
+        ],
+        [
+            "Petal-dance",
+            51
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            14
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Mega-drain",
+            19
+        ],
+        [
+            "Lucky-chant",
+            23
+        ],
+        [
+            "Moonlight",
+            27
+        ],
+        [
+            "Giga-drain",
+            31
+        ],
+        [
+            "Toxic",
+            35
+        ],
+        [
+            "Natural-gift",
+            39
+        ],
+        [
+            "Moonblast",
+            43
+        ],
+        [
+            "Grassy-terrain",
+            47
+        ],
+        [
+            "Petal-dance",
+            51
+        ]
+    ],
+    "ultra-sun-ultra-moon": [
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Sweet-scent",
+            5
+        ],
+        [
+            "Acid",
+            9
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Stun-spore",
+            14
+        ],
+        [
+            "Sleep-powder",
+            15
+        ],
+        [
+            "Mega-drain",
+            19
+        ],
+        [
+            "Lucky-chant",
+            23
+        ],
+        [
+            "Moonlight",
+            27
+        ],
+        [
+            "Giga-drain",
+            31
+        ],
+        [
+            "Toxic",
+            35
+        ],
+        [
+            "Natural-gift",
+            39
+        ],
+        [
+            "Moonblast",
+            43
+        ],
+        [
+            "Grassy-terrain",
+            47
+        ],
+        [
+            "Petal-dance",
+            51
+        ]
     ]
 }

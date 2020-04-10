@@ -1,153 +1,560 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Rollout learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Hyper-fang learnt at level 18",
-        "Yawn learnt at level 23",
-        "Crunch learnt at level 28",
-        "Take-down learnt at level 33",
-        "Super-fang learnt at level 38",
-        "Swords-dance learnt at level 43",
-        "Amnesia learnt at level 48",
-        "Superpower learnt at level 53",
-        "Curse learnt at level 58"
+        [
+            "Water-gun",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Hyper-fang",
+            18
+        ],
+        [
+            "Yawn",
+            23
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Super-fang",
+            38
+        ],
+        [
+            "Swords-dance",
+            43
+        ],
+        [
+            "Amnesia",
+            48
+        ],
+        [
+            "Superpower",
+            53
+        ],
+        [
+            "Curse",
+            58
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Defense-curl learnt at level 5",
-        "Rollout learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Hyper-fang learnt at level 18",
-        "Yawn learnt at level 23",
-        "Crunch learnt at level 28",
-        "Take-down learnt at level 33",
-        "Super-fang learnt at level 38",
-        "Swords-dance learnt at level 43",
-        "Amnesia learnt at level 48",
-        "Superpower learnt at level 53",
-        "Curse learnt at level 58"
+        [
+            "Water-gun",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Defense-curl",
+            5
+        ],
+        [
+            "Rollout",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Hyper-fang",
+            18
+        ],
+        [
+            "Yawn",
+            23
+        ],
+        [
+            "Crunch",
+            28
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Super-fang",
+            38
+        ],
+        [
+            "Swords-dance",
+            43
+        ],
+        [
+            "Amnesia",
+            48
+        ],
+        [
+            "Superpower",
+            53
+        ],
+        [
+            "Curse",
+            58
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Growl learnt at level 5",
-        "Defense-curl learnt at level 9",
-        "Rollout learnt at level 13",
-        "Water-gun learnt at level 15",
-        "Headbutt learnt at level 18",
-        "Hyper-fang learnt at level 23",
-        "Yawn learnt at level 28",
-        "Amnesia learnt at level 33",
-        "Take-down learnt at level 38",
-        "Super-fang learnt at level 43",
-        "Superpower learnt at level 48",
-        "Curse learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Defense-curl",
+            9
+        ],
+        [
+            "Rollout",
+            13
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Hyper-fang",
+            23
+        ],
+        [
+            "Yawn",
+            28
+        ],
+        [
+            "Amnesia",
+            33
+        ],
+        [
+            "Take-down",
+            38
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Superpower",
+            48
+        ],
+        [
+            "Curse",
+            53
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Rototiller learnt at level 1",
-        "Growl learnt at level 5",
-        "Defense-curl learnt at level 9",
-        "Rollout learnt at level 13",
-        "Water-gun learnt at level 15",
-        "Headbutt learnt at level 18",
-        "Hyper-fang learnt at level 23",
-        "Yawn learnt at level 28",
-        "Amnesia learnt at level 33",
-        "Take-down learnt at level 38",
-        "Super-fang learnt at level 43",
-        "Superpower learnt at level 48",
-        "Curse learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Rototiller",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Defense-curl",
+            9
+        ],
+        [
+            "Rollout",
+            13
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Hyper-fang",
+            23
+        ],
+        [
+            "Yawn",
+            28
+        ],
+        [
+            "Amnesia",
+            33
+        ],
+        [
+            "Take-down",
+            38
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Superpower",
+            48
+        ],
+        [
+            "Curse",
+            53
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Growl learnt at level 5",
-        "Defense-curl learnt at level 9",
-        "Rollout learnt at level 13",
-        "Water-gun learnt at level 15",
-        "Headbutt learnt at level 18",
-        "Hyper-fang learnt at level 23",
-        "Yawn learnt at level 28",
-        "Amnesia learnt at level 33",
-        "Take-down learnt at level 38",
-        "Super-fang learnt at level 43",
-        "Superpower learnt at level 48",
-        "Curse learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Defense-curl",
+            9
+        ],
+        [
+            "Rollout",
+            13
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Hyper-fang",
+            23
+        ],
+        [
+            "Yawn",
+            28
+        ],
+        [
+            "Amnesia",
+            33
+        ],
+        [
+            "Take-down",
+            38
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Superpower",
+            48
+        ],
+        [
+            "Curse",
+            53
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Growl learnt at level 5",
-        "Defense-curl learnt at level 9",
-        "Rollout learnt at level 13",
-        "Water-gun learnt at level 15",
-        "Headbutt learnt at level 18",
-        "Hyper-fang learnt at level 23",
-        "Yawn learnt at level 28",
-        "Amnesia learnt at level 33",
-        "Take-down learnt at level 38",
-        "Super-fang learnt at level 43",
-        "Superpower learnt at level 48",
-        "Curse learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Defense-curl",
+            9
+        ],
+        [
+            "Rollout",
+            13
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Hyper-fang",
+            23
+        ],
+        [
+            "Yawn",
+            28
+        ],
+        [
+            "Amnesia",
+            33
+        ],
+        [
+            "Take-down",
+            38
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Superpower",
+            48
+        ],
+        [
+            "Curse",
+            53
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Growl learnt at level 5",
-        "Defense-curl learnt at level 9",
-        "Rollout learnt at level 13",
-        "Water-gun learnt at level 15",
-        "Headbutt learnt at level 18",
-        "Hyper-fang learnt at level 23",
-        "Yawn learnt at level 28",
-        "Amnesia learnt at level 33",
-        "Take-down learnt at level 38",
-        "Super-fang learnt at level 43",
-        "Superpower learnt at level 48",
-        "Curse learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Defense-curl",
+            9
+        ],
+        [
+            "Rollout",
+            13
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Hyper-fang",
+            23
+        ],
+        [
+            "Yawn",
+            28
+        ],
+        [
+            "Amnesia",
+            33
+        ],
+        [
+            "Take-down",
+            38
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Superpower",
+            48
+        ],
+        [
+            "Curse",
+            53
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Growl learnt at level 5",
-        "Defense-curl learnt at level 9",
-        "Rollout learnt at level 13",
-        "Water-gun learnt at level 15",
-        "Headbutt learnt at level 18",
-        "Hyper-fang learnt at level 23",
-        "Yawn learnt at level 28",
-        "Amnesia learnt at level 33",
-        "Take-down learnt at level 38",
-        "Super-fang learnt at level 43",
-        "Superpower learnt at level 48",
-        "Curse learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Defense-curl",
+            9
+        ],
+        [
+            "Rollout",
+            13
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Hyper-fang",
+            23
+        ],
+        [
+            "Yawn",
+            28
+        ],
+        [
+            "Amnesia",
+            33
+        ],
+        [
+            "Take-down",
+            38
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Superpower",
+            48
+        ],
+        [
+            "Curse",
+            53
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Growl learnt at level 5",
-        "Defense-curl learnt at level 9",
-        "Rollout learnt at level 13",
-        "Water-gun learnt at level 15",
-        "Headbutt learnt at level 18",
-        "Hyper-fang learnt at level 23",
-        "Yawn learnt at level 28",
-        "Amnesia learnt at level 33",
-        "Take-down learnt at level 38",
-        "Super-fang learnt at level 43",
-        "Superpower learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Growl",
+            5
+        ],
+        [
+            "Defense-curl",
+            9
+        ],
+        [
+            "Rollout",
+            13
+        ],
+        [
+            "Water-gun",
+            15
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Hyper-fang",
+            23
+        ],
+        [
+            "Yawn",
+            28
+        ],
+        [
+            "Amnesia",
+            33
+        ],
+        [
+            "Take-down",
+            38
+        ],
+        [
+            "Super-fang",
+            43
+        ],
+        [
+            "Superpower",
+            48
+        ]
     ]
 }

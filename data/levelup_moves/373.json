@@ -1,291 +1,1082 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Ember learnt at level 1",
-        "Rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Dragon-tail learnt at level 1",
-        "Ember learnt at level 4",
-        "Leer learnt at level 7",
-        "Bite learnt at level 10",
-        "Dragon-breath learnt at level 13",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 29",
-        "Protect learnt at level 30",
-        "Zen-headbutt learnt at level 35",
-        "Scary-face learnt at level 42",
-        "Flamethrower learnt at level 49",
-        "Fly learnt at level 50",
-        "Double-edge learnt at level 63"
-    ],
-    "xd": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 38",
-        "Scary-face learnt at level 47",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 61",
-        "Dragon-claw learnt at level 79",
-        "Double-edge learnt at level 93"
-    ],
-    "colosseum": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 38",
-        "Scary-face learnt at level 47",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 61",
-        "Dragon-claw learnt at level 79",
-        "Double-edge learnt at level 93"
-    ],
-    "black-white": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 10",
-        "Headbutt learnt at level 16",
-        "Focus-energy learnt at level 20",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 53",
-        "Dragon-claw learnt at level 61",
-        "Double-edge learnt at level 70",
-        "Dragon-tail learnt at level 80"
-    ],
-    "heartgold-soulsilver": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 10",
-        "Headbutt learnt at level 16",
-        "Focus-energy learnt at level 20",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 53",
-        "Dragon-claw learnt at level 61",
-        "Double-edge learnt at level 70"
-    ],
-    "platinum": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 10",
-        "Headbutt learnt at level 16",
-        "Focus-energy learnt at level 20",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 53",
-        "Dragon-claw learnt at level 61",
-        "Double-edge learnt at level 70"
-    ],
-    "diamond-pearl": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 10",
-        "Headbutt learnt at level 16",
-        "Focus-energy learnt at level 20",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 53",
-        "Dragon-claw learnt at level 61",
-        "Double-edge learnt at level 70"
-    ],
-    "firered-leafgreen": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 38",
-        "Scary-face learnt at level 47",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 61",
-        "Dragon-claw learnt at level 79",
-        "Double-edge learnt at level 93"
-    ],
-    "emerald": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 38",
-        "Scary-face learnt at level 47",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 61",
-        "Dragon-claw learnt at level 79",
-        "Double-edge learnt at level 93"
-    ],
-    "x-y": [
-        "Headbutt learnt at level 1",
-        "Double-edge learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 10",
-        "Headbutt learnt at level 16",
-        "Focus-energy learnt at level 20",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 53",
-        "Dragon-claw learnt at level 61",
-        "Double-edge learnt at level 70",
-        "Dragon-tail learnt at level 80"
-    ],
-    "black-2-white-2": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 10",
-        "Headbutt learnt at level 16",
-        "Focus-energy learnt at level 20",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 53",
-        "Dragon-claw learnt at level 61",
-        "Double-edge learnt at level 70",
-        "Dragon-tail learnt at level 80"
-    ],
-    "ruby-sapphire": [
-        "Headbutt learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 5",
-        "Leer learnt at level 9",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Ember learnt at level 25",
-        "Protect learnt at level 30",
-        "Dragon-breath learnt at level 38",
-        "Scary-face learnt at level 47",
-        "Fly learnt at level 50",
-        "Crunch learnt at level 61",
-        "Dragon-claw learnt at level 79",
-        "Double-edge learnt at level 93"
-    ],
     "ultra-sun-ultra-moon": [
-        "Fly learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Ember learnt at level 1",
-        "Rage learnt at level 1",
-        "Protect learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Dragon-tail learnt at level 1",
-        "Ember learnt at level 4",
-        "Leer learnt at level 7",
-        "Bite learnt at level 10",
-        "Dragon-breath learnt at level 13",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 29",
-        "Zen-headbutt learnt at level 35",
-        "Scary-face learnt at level 42",
-        "Flamethrower learnt at level 49",
-        "Double-edge learnt at level 63"
+        [
+            "Fly",
+            0
+        ],
+        [
+            "Fly",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Dragon-tail",
+            1
+        ],
+        [
+            "Ember",
+            4
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Dragon-breath",
+            13
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Scary-face",
+            42
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Double-edge",
+            63
+        ]
     ],
     "sun-moon": [
-        "Fly learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 1",
-        "Ember learnt at level 1",
-        "Rage learnt at level 1",
-        "Protect learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Dragon-tail learnt at level 1",
-        "Ember learnt at level 4",
-        "Leer learnt at level 7",
-        "Bite learnt at level 10",
-        "Dragon-breath learnt at level 13",
-        "Headbutt learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 29",
-        "Zen-headbutt learnt at level 35",
-        "Scary-face learnt at level 42",
-        "Flamethrower learnt at level 49",
-        "Double-edge learnt at level 63"
+        [
+            "Fly",
+            0
+        ],
+        [
+            "Fly",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Dragon-tail",
+            1
+        ],
+        [
+            "Ember",
+            4
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Dragon-breath",
+            13
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Scary-face",
+            42
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Double-edge",
+            63
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Dragon-tail",
+            1
+        ],
+        [
+            "Ember",
+            4
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Dragon-breath",
+            13
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            29
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Zen-headbutt",
+            35
+        ],
+        [
+            "Scary-face",
+            42
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Double-edge",
+            63
+        ]
+    ],
+    "xd": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            38
+        ],
+        [
+            "Scary-face",
+            47
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Dragon-claw",
+            79
+        ],
+        [
+            "Double-edge",
+            93
+        ]
+    ],
+    "colosseum": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            38
+        ],
+        [
+            "Scary-face",
+            47
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Dragon-claw",
+            79
+        ],
+        [
+            "Double-edge",
+            93
+        ]
+    ],
+    "black-white": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Headbutt",
+            16
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            53
+        ],
+        [
+            "Dragon-claw",
+            61
+        ],
+        [
+            "Double-edge",
+            70
+        ],
+        [
+            "Dragon-tail",
+            80
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Headbutt",
+            16
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            53
+        ],
+        [
+            "Dragon-claw",
+            61
+        ],
+        [
+            "Double-edge",
+            70
+        ]
+    ],
+    "platinum": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Headbutt",
+            16
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            53
+        ],
+        [
+            "Dragon-claw",
+            61
+        ],
+        [
+            "Double-edge",
+            70
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Headbutt",
+            16
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            53
+        ],
+        [
+            "Dragon-claw",
+            61
+        ],
+        [
+            "Double-edge",
+            70
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            38
+        ],
+        [
+            "Scary-face",
+            47
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Dragon-claw",
+            79
+        ],
+        [
+            "Double-edge",
+            93
+        ]
+    ],
+    "emerald": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            38
+        ],
+        [
+            "Scary-face",
+            47
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Dragon-claw",
+            79
+        ],
+        [
+            "Double-edge",
+            93
+        ]
+    ],
+    "x-y": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Double-edge",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Headbutt",
+            16
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            53
+        ],
+        [
+            "Dragon-claw",
+            61
+        ],
+        [
+            "Double-edge",
+            70
+        ],
+        [
+            "Dragon-tail",
+            80
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            10
+        ],
+        [
+            "Headbutt",
+            16
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            53
+        ],
+        [
+            "Dragon-claw",
+            61
+        ],
+        [
+            "Double-edge",
+            70
+        ],
+        [
+            "Dragon-tail",
+            80
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Headbutt",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            5
+        ],
+        [
+            "Leer",
+            9
+        ],
+        [
+            "Headbutt",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Ember",
+            25
+        ],
+        [
+            "Protect",
+            30
+        ],
+        [
+            "Dragon-breath",
+            38
+        ],
+        [
+            "Scary-face",
+            47
+        ],
+        [
+            "Fly",
+            50
+        ],
+        [
+            "Crunch",
+            61
+        ],
+        [
+            "Dragon-claw",
+            79
+        ],
+        [
+            "Double-edge",
+            93
+        ]
     ]
 }

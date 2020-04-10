@@ -1,126 +1,462 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Recycle learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Recycle learnt at level 3",
-        "Toxic-spikes learnt at level 7",
-        "Acid-spray learnt at level 12",
-        "Double-slap learnt at level 14",
-        "Sludge learnt at level 18",
-        "Stockpile learnt at level 23",
-        "Swallow learnt at level 23",
-        "Body-slam learnt at level 25",
-        "Sludge-bomb learnt at level 29",
-        "Clear-smog learnt at level 34",
-        "Toxic learnt at level 39",
-        "Amnesia learnt at level 46",
-        "Belch learnt at level 49",
-        "Gunk-shot learnt at level 54",
-        "Explosion learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Recycle",
+            3
+        ],
+        [
+            "Toxic-spikes",
+            7
+        ],
+        [
+            "Acid-spray",
+            12
+        ],
+        [
+            "Double-slap",
+            14
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Stockpile",
+            23
+        ],
+        [
+            "Swallow",
+            23
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Sludge-bomb",
+            29
+        ],
+        [
+            "Clear-smog",
+            34
+        ],
+        [
+            "Toxic",
+            39
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Belch",
+            49
+        ],
+        [
+            "Gunk-shot",
+            54
+        ],
+        [
+            "Explosion",
+            59
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Recycle learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Recycle learnt at level 3",
-        "Toxic-spikes learnt at level 7",
-        "Acid-spray learnt at level 12",
-        "Double-slap learnt at level 14",
-        "Sludge learnt at level 18",
-        "Stockpile learnt at level 23",
-        "Swallow learnt at level 23",
-        "Body-slam learnt at level 25",
-        "Sludge-bomb learnt at level 29",
-        "Clear-smog learnt at level 34",
-        "Toxic learnt at level 39",
-        "Amnesia learnt at level 46",
-        "Belch learnt at level 49",
-        "Gunk-shot learnt at level 54",
-        "Explosion learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Recycle",
+            3
+        ],
+        [
+            "Toxic-spikes",
+            7
+        ],
+        [
+            "Acid-spray",
+            12
+        ],
+        [
+            "Double-slap",
+            14
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Stockpile",
+            23
+        ],
+        [
+            "Swallow",
+            23
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Sludge-bomb",
+            29
+        ],
+        [
+            "Clear-smog",
+            34
+        ],
+        [
+            "Toxic",
+            39
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Belch",
+            49
+        ],
+        [
+            "Gunk-shot",
+            54
+        ],
+        [
+            "Explosion",
+            59
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Recycle learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Recycle learnt at level 3",
-        "Toxic-spikes learnt at level 7",
-        "Acid-spray learnt at level 12",
-        "Double-slap learnt at level 14",
-        "Sludge learnt at level 18",
-        "Stockpile learnt at level 23",
-        "Swallow learnt at level 23",
-        "Body-slam learnt at level 25",
-        "Sludge-bomb learnt at level 29",
-        "Clear-smog learnt at level 34",
-        "Toxic learnt at level 39",
-        "Amnesia learnt at level 46",
-        "Gunk-shot learnt at level 54",
-        "Explosion learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Recycle",
+            3
+        ],
+        [
+            "Toxic-spikes",
+            7
+        ],
+        [
+            "Acid-spray",
+            12
+        ],
+        [
+            "Double-slap",
+            14
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Stockpile",
+            23
+        ],
+        [
+            "Swallow",
+            23
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Sludge-bomb",
+            29
+        ],
+        [
+            "Clear-smog",
+            34
+        ],
+        [
+            "Toxic",
+            39
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Gunk-shot",
+            54
+        ],
+        [
+            "Explosion",
+            59
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Recycle learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Recycle learnt at level 3",
-        "Toxic-spikes learnt at level 7",
-        "Acid-spray learnt at level 12",
-        "Double-slap learnt at level 14",
-        "Sludge learnt at level 18",
-        "Stockpile learnt at level 23",
-        "Swallow learnt at level 23",
-        "Body-slam learnt at level 25",
-        "Sludge-bomb learnt at level 29",
-        "Clear-smog learnt at level 34",
-        "Toxic learnt at level 39",
-        "Amnesia learnt at level 46",
-        "Belch learnt at level 49",
-        "Gunk-shot learnt at level 54",
-        "Explosion learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Recycle",
+            3
+        ],
+        [
+            "Toxic-spikes",
+            7
+        ],
+        [
+            "Acid-spray",
+            12
+        ],
+        [
+            "Double-slap",
+            14
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Stockpile",
+            23
+        ],
+        [
+            "Swallow",
+            23
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Sludge-bomb",
+            29
+        ],
+        [
+            "Clear-smog",
+            34
+        ],
+        [
+            "Toxic",
+            39
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Belch",
+            49
+        ],
+        [
+            "Gunk-shot",
+            54
+        ],
+        [
+            "Explosion",
+            59
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Recycle learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Recycle learnt at level 3",
-        "Toxic-spikes learnt at level 7",
-        "Acid-spray learnt at level 12",
-        "Double-slap learnt at level 14",
-        "Sludge learnt at level 18",
-        "Stockpile learnt at level 23",
-        "Swallow learnt at level 23",
-        "Body-slam learnt at level 25",
-        "Sludge-bomb learnt at level 29",
-        "Clear-smog learnt at level 34",
-        "Toxic learnt at level 39",
-        "Amnesia learnt at level 46",
-        "Belch learnt at level 49",
-        "Gunk-shot learnt at level 54",
-        "Explosion learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Recycle",
+            3
+        ],
+        [
+            "Toxic-spikes",
+            7
+        ],
+        [
+            "Acid-spray",
+            12
+        ],
+        [
+            "Double-slap",
+            14
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Stockpile",
+            23
+        ],
+        [
+            "Swallow",
+            23
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Sludge-bomb",
+            29
+        ],
+        [
+            "Clear-smog",
+            34
+        ],
+        [
+            "Toxic",
+            39
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Belch",
+            49
+        ],
+        [
+            "Gunk-shot",
+            54
+        ],
+        [
+            "Explosion",
+            59
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Recycle learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Recycle learnt at level 3",
-        "Toxic-spikes learnt at level 7",
-        "Acid-spray learnt at level 12",
-        "Double-slap learnt at level 14",
-        "Sludge learnt at level 18",
-        "Stockpile learnt at level 23",
-        "Swallow learnt at level 23",
-        "Body-slam learnt at level 25",
-        "Sludge-bomb learnt at level 29",
-        "Clear-smog learnt at level 34",
-        "Toxic learnt at level 39",
-        "Amnesia learnt at level 46",
-        "Gunk-shot learnt at level 54",
-        "Explosion learnt at level 59"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Recycle",
+            3
+        ],
+        [
+            "Toxic-spikes",
+            7
+        ],
+        [
+            "Acid-spray",
+            12
+        ],
+        [
+            "Double-slap",
+            14
+        ],
+        [
+            "Sludge",
+            18
+        ],
+        [
+            "Stockpile",
+            23
+        ],
+        [
+            "Swallow",
+            23
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Sludge-bomb",
+            29
+        ],
+        [
+            "Clear-smog",
+            34
+        ],
+        [
+            "Toxic",
+            39
+        ],
+        [
+            "Amnesia",
+            46
+        ],
+        [
+            "Gunk-shot",
+            54
+        ],
+        [
+            "Explosion",
+            59
+        ]
     ]
 }

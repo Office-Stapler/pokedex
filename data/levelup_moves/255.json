@@ -1,187 +1,658 @@
 {
-    "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
-    ],
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
-    ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Sand-attack learnt at level 10",
-        "Peck learnt at level 14",
-        "Fire-spin learnt at level 19",
-        "Quick-attack learnt at level 23",
-        "Flame-burst learnt at level 28",
-        "Focus-energy learnt at level 32",
-        "Slash learnt at level 37",
-        "Mirror-move learnt at level 41",
-        "Flamethrower learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Peck",
+            14
+        ],
+        [
+            "Fire-spin",
+            19
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Flame-burst",
+            28
+        ],
+        [
+            "Focus-energy",
+            32
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Mirror-move",
+            41
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Sand-attack learnt at level 10",
-        "Peck learnt at level 14",
-        "Fire-spin learnt at level 19",
-        "Quick-attack learnt at level 23",
-        "Flame-burst learnt at level 28",
-        "Focus-energy learnt at level 32",
-        "Slash learnt at level 37",
-        "Mirror-move learnt at level 41",
-        "Flamethrower learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Peck",
+            14
+        ],
+        [
+            "Fire-spin",
+            19
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Flame-burst",
+            28
+        ],
+        [
+            "Focus-energy",
+            32
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Mirror-move",
+            41
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 5",
-        "Sand-attack learnt at level 10",
-        "Peck learnt at level 14",
-        "Fire-spin learnt at level 19",
-        "Quick-attack learnt at level 23",
-        "Flame-burst learnt at level 28",
-        "Focus-energy learnt at level 32",
-        "Slash learnt at level 37",
-        "Mirror-move learnt at level 41",
-        "Flamethrower learnt at level 46"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sand-attack",
+            10
+        ],
+        [
+            "Peck",
+            14
+        ],
+        [
+            "Fire-spin",
+            19
+        ],
+        [
+            "Quick-attack",
+            23
+        ],
+        [
+            "Flame-burst",
+            28
+        ],
+        [
+            "Focus-energy",
+            32
+        ],
+        [
+            "Slash",
+            37
+        ],
+        [
+            "Mirror-move",
+            41
+        ],
+        [
+            "Flamethrower",
+            46
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Growl learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Ember learnt at level 10",
-        "Peck learnt at level 16",
-        "Sand-attack learnt at level 19",
-        "Fire-spin learnt at level 25",
-        "Quick-attack learnt at level 28",
-        "Slash learnt at level 34",
-        "Mirror-move learnt at level 37",
-        "Flamethrower learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Ember",
+            10
+        ],
+        [
+            "Peck",
+            16
+        ],
+        [
+            "Sand-attack",
+            19
+        ],
+        [
+            "Fire-spin",
+            25
+        ],
+        [
+            "Quick-attack",
+            28
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Mirror-move",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ]
     ]
 }

@@ -1,104 +1,374 @@
 {
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Double-kick learnt at level 5",
-        "Low-sweep learnt at level 9",
-        "Counter learnt at level 13",
-        "Karate-chop learnt at level 17",
-        "Brick-break learnt at level 21",
-        "Bulk-up learnt at level 25",
-        "Retaliate learnt at level 29",
-        "Endure learnt at level 33",
-        "Quick-guard learnt at level 37",
-        "Close-combat learnt at level 41",
-        "Reversal learnt at level 45"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Double-kick",
+            5
+        ],
+        [
+            "Low-sweep",
+            9
+        ],
+        [
+            "Counter",
+            13
+        ],
+        [
+            "Karate-chop",
+            17
+        ],
+        [
+            "Brick-break",
+            21
+        ],
+        [
+            "Bulk-up",
+            25
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Quick-guard",
+            37
+        ],
+        [
+            "Close-combat",
+            41
+        ],
+        [
+            "Reversal",
+            45
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Bide learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Double-kick learnt at level 5",
-        "Low-sweep learnt at level 9",
-        "Counter learnt at level 13",
-        "Karate-chop learnt at level 17",
-        "Brick-break learnt at level 21",
-        "Bulk-up learnt at level 25",
-        "Retaliate learnt at level 29",
-        "Endure learnt at level 33",
-        "Quick-guard learnt at level 37",
-        "Close-combat learnt at level 41",
-        "Reversal learnt at level 45"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Double-kick",
+            5
+        ],
+        [
+            "Low-sweep",
+            9
+        ],
+        [
+            "Counter",
+            13
+        ],
+        [
+            "Karate-chop",
+            17
+        ],
+        [
+            "Brick-break",
+            21
+        ],
+        [
+            "Bulk-up",
+            25
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Endure",
+            33
+        ],
+        [
+            "Quick-guard",
+            37
+        ],
+        [
+            "Close-combat",
+            41
+        ],
+        [
+            "Reversal",
+            45
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Bide learnt at level 5",
-        "Focus-energy learnt at level 9",
-        "Double-kick learnt at level 13",
-        "Low-sweep learnt at level 17",
-        "Counter learnt at level 21",
-        "Karate-chop learnt at level 25",
-        "Brick-break learnt at level 29",
-        "Bulk-up learnt at level 33",
-        "Retaliate learnt at level 37",
-        "Endure learnt at level 41",
-        "Quick-guard learnt at level 45",
-        "Close-combat learnt at level 48",
-        "Reversal learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Bide",
+            5
+        ],
+        [
+            "Focus-energy",
+            9
+        ],
+        [
+            "Double-kick",
+            13
+        ],
+        [
+            "Low-sweep",
+            17
+        ],
+        [
+            "Counter",
+            21
+        ],
+        [
+            "Karate-chop",
+            25
+        ],
+        [
+            "Brick-break",
+            29
+        ],
+        [
+            "Bulk-up",
+            33
+        ],
+        [
+            "Retaliate",
+            37
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Quick-guard",
+            45
+        ],
+        [
+            "Close-combat",
+            48
+        ],
+        [
+            "Reversal",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Bide learnt at level 5",
-        "Focus-energy learnt at level 9",
-        "Double-kick learnt at level 13",
-        "Low-sweep learnt at level 17",
-        "Counter learnt at level 21",
-        "Karate-chop learnt at level 25",
-        "Brick-break learnt at level 29",
-        "Bulk-up learnt at level 33",
-        "Retaliate learnt at level 37",
-        "Endure learnt at level 41",
-        "Quick-guard learnt at level 45",
-        "Close-combat learnt at level 49",
-        "Reversal learnt at level 53"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Bide",
+            5
+        ],
+        [
+            "Focus-energy",
+            9
+        ],
+        [
+            "Double-kick",
+            13
+        ],
+        [
+            "Low-sweep",
+            17
+        ],
+        [
+            "Counter",
+            21
+        ],
+        [
+            "Karate-chop",
+            25
+        ],
+        [
+            "Brick-break",
+            29
+        ],
+        [
+            "Bulk-up",
+            33
+        ],
+        [
+            "Retaliate",
+            37
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Quick-guard",
+            45
+        ],
+        [
+            "Close-combat",
+            49
+        ],
+        [
+            "Reversal",
+            53
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Bide learnt at level 5",
-        "Focus-energy learnt at level 9",
-        "Double-kick learnt at level 13",
-        "Low-sweep learnt at level 17",
-        "Counter learnt at level 21",
-        "Karate-chop learnt at level 25",
-        "Brick-break learnt at level 29",
-        "Bulk-up learnt at level 33",
-        "Retaliate learnt at level 37",
-        "Endure learnt at level 41",
-        "Quick-guard learnt at level 45",
-        "Close-combat learnt at level 48",
-        "Reversal learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Bide",
+            5
+        ],
+        [
+            "Focus-energy",
+            9
+        ],
+        [
+            "Double-kick",
+            13
+        ],
+        [
+            "Low-sweep",
+            17
+        ],
+        [
+            "Counter",
+            21
+        ],
+        [
+            "Karate-chop",
+            25
+        ],
+        [
+            "Brick-break",
+            29
+        ],
+        [
+            "Bulk-up",
+            33
+        ],
+        [
+            "Retaliate",
+            37
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Quick-guard",
+            45
+        ],
+        [
+            "Close-combat",
+            48
+        ],
+        [
+            "Reversal",
+            50
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Rock-smash learnt at level 1",
-        "Bide learnt at level 5",
-        "Focus-energy learnt at level 9",
-        "Double-kick learnt at level 13",
-        "Low-sweep learnt at level 17",
-        "Counter learnt at level 21",
-        "Karate-chop learnt at level 25",
-        "Brick-break learnt at level 29",
-        "Bulk-up learnt at level 33",
-        "Retaliate learnt at level 37",
-        "Endure learnt at level 41",
-        "Quick-guard learnt at level 45",
-        "Close-combat learnt at level 49",
-        "Reversal learnt at level 53"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Rock-smash",
+            1
+        ],
+        [
+            "Bide",
+            5
+        ],
+        [
+            "Focus-energy",
+            9
+        ],
+        [
+            "Double-kick",
+            13
+        ],
+        [
+            "Low-sweep",
+            17
+        ],
+        [
+            "Counter",
+            21
+        ],
+        [
+            "Karate-chop",
+            25
+        ],
+        [
+            "Brick-break",
+            29
+        ],
+        [
+            "Bulk-up",
+            33
+        ],
+        [
+            "Retaliate",
+            37
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Quick-guard",
+            45
+        ],
+        [
+            "Close-combat",
+            49
+        ],
+        [
+            "Reversal",
+            53
+        ]
     ]
 }

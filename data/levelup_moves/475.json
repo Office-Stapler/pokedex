@@ -1,210 +1,788 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Confusion learnt at level 4",
-        "Double-team learnt at level 6",
-        "Teleport learnt at level 9",
-        "Quick-guard learnt at level 11",
-        "Fury-cutter learnt at level 14",
-        "Slash learnt at level 17",
-        "Heal-pulse learnt at level 19",
-        "Wide-guard learnt at level 23",
-        "Swords-dance learnt at level 26",
-        "Psycho-cut learnt at level 31",
-        "Helping-hand learnt at level 35",
-        "Feint learnt at level 40",
-        "False-swipe learnt at level 44",
-        "Protect learnt at level 49",
-        "Close-combat learnt at level 53",
-        "Stored-power learnt at level 58"
-    ],
-    "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Fury-cutter learnt at level 17",
-        "Slash learnt at level 22",
-        "Swords-dance learnt at level 25",
-        "Psycho-cut learnt at level 31",
-        "Helping-hand learnt at level 36",
-        "Feint learnt at level 39",
-        "False-swipe learnt at level 45",
-        "Protect learnt at level 50",
-        "Close-combat learnt at level 53"
-    ],
-    "platinum": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Fury-cutter learnt at level 17",
-        "Slash learnt at level 22",
-        "Swords-dance learnt at level 25",
-        "Psycho-cut learnt at level 31",
-        "Helping-hand learnt at level 36",
-        "Feint learnt at level 39",
-        "False-swipe learnt at level 45",
-        "Protect learnt at level 50",
-        "Close-combat learnt at level 53"
-    ],
-    "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Fury-cutter learnt at level 17",
-        "Slash learnt at level 22",
-        "Heal-pulse learnt at level 25",
-        "Swords-dance learnt at level 31",
-        "Psycho-cut learnt at level 36",
-        "Helping-hand learnt at level 39",
-        "Feint learnt at level 45",
-        "False-swipe learnt at level 50",
-        "Protect learnt at level 53",
-        "Close-combat learnt at level 59",
-        "Stored-power learnt at level 64"
-    ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Slash learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Confusion learnt at level 4",
-        "Double-team learnt at level 6",
-        "Teleport learnt at level 9",
-        "Quick-guard learnt at level 11",
-        "Fury-cutter learnt at level 14",
-        "Aerial-ace learnt at level 17",
-        "Heal-pulse learnt at level 19",
-        "Wide-guard learnt at level 23",
-        "Swords-dance learnt at level 26",
-        "Psycho-cut learnt at level 31",
-        "Helping-hand learnt at level 35",
-        "Feint learnt at level 40",
-        "False-swipe learnt at level 44",
-        "Protect learnt at level 49",
-        "Close-combat learnt at level 53",
-        "Stored-power learnt at level 58"
+        [
+            "Slash",
+            0
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Slash",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Confusion",
+            4
+        ],
+        [
+            "Double-team",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Quick-guard",
+            11
+        ],
+        [
+            "Fury-cutter",
+            14
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Heal-pulse",
+            19
+        ],
+        [
+            "Wide-guard",
+            23
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Psycho-cut",
+            31
+        ],
+        [
+            "Helping-hand",
+            35
+        ],
+        [
+            "Feint",
+            40
+        ],
+        [
+            "False-swipe",
+            44
+        ],
+        [
+            "Protect",
+            49
+        ],
+        [
+            "Close-combat",
+            53
+        ],
+        [
+            "Stored-power",
+            58
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Slash learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Confusion learnt at level 4",
-        "Double-team learnt at level 6",
-        "Teleport learnt at level 9",
-        "Quick-guard learnt at level 11",
-        "Fury-cutter learnt at level 14",
-        "Aerial-ace learnt at level 17",
-        "Heal-pulse learnt at level 19",
-        "Wide-guard learnt at level 23",
-        "Swords-dance learnt at level 26",
-        "Psycho-cut learnt at level 31",
-        "Helping-hand learnt at level 35",
-        "Feint learnt at level 40",
-        "False-swipe learnt at level 44",
-        "Protect learnt at level 49",
-        "Close-combat learnt at level 53",
-        "Stored-power learnt at level 58"
+        [
+            "Slash",
+            0
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Slash",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Confusion",
+            4
+        ],
+        [
+            "Double-team",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Quick-guard",
+            11
+        ],
+        [
+            "Fury-cutter",
+            14
+        ],
+        [
+            "Aerial-ace",
+            17
+        ],
+        [
+            "Heal-pulse",
+            19
+        ],
+        [
+            "Wide-guard",
+            23
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Psycho-cut",
+            31
+        ],
+        [
+            "Helping-hand",
+            35
+        ],
+        [
+            "Feint",
+            40
+        ],
+        [
+            "False-swipe",
+            44
+        ],
+        [
+            "Protect",
+            49
+        ],
+        [
+            "Close-combat",
+            53
+        ],
+        [
+            "Stored-power",
+            58
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Confusion",
+            4
+        ],
+        [
+            "Double-team",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Quick-guard",
+            11
+        ],
+        [
+            "Fury-cutter",
+            14
+        ],
+        [
+            "Slash",
+            17
+        ],
+        [
+            "Heal-pulse",
+            19
+        ],
+        [
+            "Wide-guard",
+            23
+        ],
+        [
+            "Swords-dance",
+            26
+        ],
+        [
+            "Psycho-cut",
+            31
+        ],
+        [
+            "Helping-hand",
+            35
+        ],
+        [
+            "Feint",
+            40
+        ],
+        [
+            "False-swipe",
+            44
+        ],
+        [
+            "Protect",
+            49
+        ],
+        [
+            "Close-combat",
+            53
+        ],
+        [
+            "Stored-power",
+            58
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Stored-power learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Fury-cutter learnt at level 17",
-        "Slash learnt at level 22",
-        "Heal-pulse learnt at level 25",
-        "Swords-dance learnt at level 31",
-        "Psycho-cut learnt at level 36",
-        "Helping-hand learnt at level 39",
-        "Feint learnt at level 45",
-        "False-swipe learnt at level 50",
-        "Protect learnt at level 53",
-        "Close-combat learnt at level 59",
-        "Stored-power learnt at level 64"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Stored-power",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Heal-pulse",
+            25
+        ],
+        [
+            "Swords-dance",
+            31
+        ],
+        [
+            "Psycho-cut",
+            36
+        ],
+        [
+            "Helping-hand",
+            39
+        ],
+        [
+            "Feint",
+            45
+        ],
+        [
+            "False-swipe",
+            50
+        ],
+        [
+            "Protect",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ],
+        [
+            "Stored-power",
+            64
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Fury-cutter learnt at level 17",
-        "Slash learnt at level 22",
-        "Heal-pulse learnt at level 25",
-        "Swords-dance learnt at level 31",
-        "Psycho-cut learnt at level 36",
-        "Helping-hand learnt at level 39",
-        "Feint learnt at level 45",
-        "False-swipe learnt at level 50",
-        "Protect learnt at level 53",
-        "Close-combat learnt at level 59",
-        "Stored-power learnt at level 64"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Heal-pulse",
+            25
+        ],
+        [
+            "Swords-dance",
+            31
+        ],
+        [
+            "Psycho-cut",
+            36
+        ],
+        [
+            "Helping-hand",
+            39
+        ],
+        [
+            "Feint",
+            45
+        ],
+        [
+            "False-swipe",
+            50
+        ],
+        [
+            "Protect",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ],
+        [
+            "Stored-power",
+            64
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Psycho-cut",
+            31
+        ],
+        [
+            "Helping-hand",
+            36
+        ],
+        [
+            "Feint",
+            39
+        ],
+        [
+            "False-swipe",
+            45
+        ],
+        [
+            "Protect",
+            50
+        ],
+        [
+            "Close-combat",
+            53
+        ]
+    ],
+    "platinum": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Psycho-cut",
+            31
+        ],
+        [
+            "Helping-hand",
+            36
+        ],
+        [
+            "Feint",
+            39
+        ],
+        [
+            "False-swipe",
+            45
+        ],
+        [
+            "Protect",
+            50
+        ],
+        [
+            "Close-combat",
+            53
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Heal-pulse",
+            25
+        ],
+        [
+            "Swords-dance",
+            31
+        ],
+        [
+            "Psycho-cut",
+            36
+        ],
+        [
+            "Helping-hand",
+            39
+        ],
+        [
+            "Feint",
+            45
+        ],
+        [
+            "False-swipe",
+            50
+        ],
+        [
+            "Protect",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ],
+        [
+            "Stored-power",
+            64
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Confusion learnt at level 1",
-        "Teleport learnt at level 1",
-        "Double-team learnt at level 1",
-        "Leaf-blade learnt at level 1",
-        "Night-slash learnt at level 1",
-        "Confusion learnt at level 6",
-        "Double-team learnt at level 10",
-        "Teleport learnt at level 12",
-        "Fury-cutter learnt at level 17",
-        "Slash learnt at level 22",
-        "Swords-dance learnt at level 25",
-        "Psycho-cut learnt at level 31",
-        "Helping-hand learnt at level 36",
-        "Feint learnt at level 39",
-        "False-swipe learnt at level 45",
-        "Protect learnt at level 50",
-        "Close-combat learnt at level 53"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Leaf-blade",
+            1
+        ],
+        [
+            "Night-slash",
+            1
+        ],
+        [
+            "Confusion",
+            6
+        ],
+        [
+            "Double-team",
+            10
+        ],
+        [
+            "Teleport",
+            12
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Swords-dance",
+            25
+        ],
+        [
+            "Psycho-cut",
+            31
+        ],
+        [
+            "Helping-hand",
+            36
+        ],
+        [
+            "Feint",
+            39
+        ],
+        [
+            "False-swipe",
+            45
+        ],
+        [
+            "Protect",
+            50
+        ],
+        [
+            "Close-combat",
+            53
+        ]
     ]
 }

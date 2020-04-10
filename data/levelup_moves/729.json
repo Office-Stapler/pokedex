@@ -1,41 +1,146 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Disarming-voice learnt at level 1",
-        "Growl learnt at level 4",
-        "Disarming-voice learnt at level 8",
-        "Baby-doll-eyes learnt at level 11",
-        "Aqua-jet learnt at level 14",
-        "Icy-wind learnt at level 16",
-        "Encore learnt at level 19",
-        "Bubble-beam learnt at level 24",
-        "Sing learnt at level 28",
-        "Double-slap learnt at level 33",
-        "Hyper-voice learnt at level 37",
-        "Moonblast learnt at level 42",
-        "Captivate learnt at level 46",
-        "Hydro-pump learnt at level 51",
-        "Misty-terrain learnt at level 55"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Disarming-voice",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Disarming-voice",
+            8
+        ],
+        [
+            "Baby-doll-eyes",
+            11
+        ],
+        [
+            "Aqua-jet",
+            14
+        ],
+        [
+            "Icy-wind",
+            16
+        ],
+        [
+            "Encore",
+            19
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Sing",
+            28
+        ],
+        [
+            "Double-slap",
+            33
+        ],
+        [
+            "Hyper-voice",
+            37
+        ],
+        [
+            "Moonblast",
+            42
+        ],
+        [
+            "Captivate",
+            46
+        ],
+        [
+            "Hydro-pump",
+            51
+        ],
+        [
+            "Misty-terrain",
+            55
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Disarming-voice learnt at level 1",
-        "Growl learnt at level 4",
-        "Disarming-voice learnt at level 8",
-        "Baby-doll-eyes learnt at level 11",
-        "Aqua-jet learnt at level 15",
-        "Encore learnt at level 19",
-        "Bubble-beam learnt at level 24",
-        "Sing learnt at level 28",
-        "Double-slap learnt at level 33",
-        "Hyper-voice learnt at level 37",
-        "Moonblast learnt at level 42",
-        "Captivate learnt at level 46",
-        "Hydro-pump learnt at level 51",
-        "Misty-terrain learnt at level 55"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Disarming-voice",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Disarming-voice",
+            8
+        ],
+        [
+            "Baby-doll-eyes",
+            11
+        ],
+        [
+            "Aqua-jet",
+            15
+        ],
+        [
+            "Encore",
+            19
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Sing",
+            28
+        ],
+        [
+            "Double-slap",
+            33
+        ],
+        [
+            "Hyper-voice",
+            37
+        ],
+        [
+            "Moonblast",
+            42
+        ],
+        [
+            "Captivate",
+            46
+        ],
+        [
+            "Hydro-pump",
+            51
+        ],
+        [
+            "Misty-terrain",
+            55
+        ]
     ]
 }

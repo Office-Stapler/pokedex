@@ -1,134 +1,502 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Reflect learnt at level 1",
-        "Psywave learnt at level 1",
-        "Rollout learnt at level 1",
-        "Snatch learnt at level 1",
-        "Reflect learnt at level 3",
-        "Rollout learnt at level 7",
-        "Snatch learnt at level 10",
-        "Hidden-power learnt at level 14",
-        "Light-screen learnt at level 16",
-        "Charm learnt at level 19",
-        "Recover learnt at level 24",
-        "Psyshock learnt at level 25",
-        "Endeavor learnt at level 28",
-        "Future-sight learnt at level 31",
-        "Pain-split learnt at level 34",
-        "Psychic learnt at level 39",
-        "Dizzy-punch learnt at level 41",
-        "Skill-swap learnt at level 45",
-        "Heal-block learnt at level 54",
-        "Wonder-room learnt at level 59"
-    ],
-    "black-2-white-2": [
-        "Reflect learnt at level 1",
-        "Psywave learnt at level 1",
-        "Rollout learnt at level 1",
-        "Snatch learnt at level 1",
-        "Reflect learnt at level 3",
-        "Rollout learnt at level 7",
-        "Snatch learnt at level 10",
-        "Hidden-power learnt at level 14",
-        "Light-screen learnt at level 16",
-        "Charm learnt at level 19",
-        "Recover learnt at level 24",
-        "Psyshock learnt at level 25",
-        "Endeavor learnt at level 28",
-        "Future-sight learnt at level 31",
-        "Pain-split learnt at level 34",
-        "Psychic learnt at level 39",
-        "Dizzy-punch learnt at level 41",
-        "Skill-swap learnt at level 45",
-        "Heal-block learnt at level 54",
-        "Wonder-room learnt at level 59"
-    ],
     "ultra-sun-ultra-moon": [
-        "Reflect learnt at level 1",
-        "Dizzy-punch learnt at level 1",
-        "Psywave learnt at level 1",
-        "Rollout learnt at level 1",
-        "Snatch learnt at level 1",
-        "Reflect learnt at level 3",
-        "Rollout learnt at level 7",
-        "Snatch learnt at level 10",
-        "Hidden-power learnt at level 14",
-        "Light-screen learnt at level 16",
-        "Charm learnt at level 19",
-        "Recover learnt at level 24",
-        "Psyshock learnt at level 25",
-        "Endeavor learnt at level 28",
-        "Future-sight learnt at level 31",
-        "Pain-split learnt at level 34",
-        "Psychic learnt at level 39",
-        "Skill-swap learnt at level 45",
-        "Heal-block learnt at level 54",
-        "Wonder-room learnt at level 59"
+        [
+            "Dizzy-punch",
+            0
+        ],
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Dizzy-punch",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Snatch",
+            1
+        ],
+        [
+            "Reflect",
+            3
+        ],
+        [
+            "Rollout",
+            7
+        ],
+        [
+            "Snatch",
+            10
+        ],
+        [
+            "Hidden-power",
+            14
+        ],
+        [
+            "Light-screen",
+            16
+        ],
+        [
+            "Charm",
+            19
+        ],
+        [
+            "Recover",
+            24
+        ],
+        [
+            "Psyshock",
+            25
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Future-sight",
+            31
+        ],
+        [
+            "Pain-split",
+            34
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Skill-swap",
+            45
+        ],
+        [
+            "Heal-block",
+            54
+        ],
+        [
+            "Wonder-room",
+            59
+        ]
     ],
     "sun-moon": [
-        "Reflect learnt at level 1",
-        "Dizzy-punch learnt at level 1",
-        "Psywave learnt at level 1",
-        "Rollout learnt at level 1",
-        "Snatch learnt at level 1",
-        "Reflect learnt at level 3",
-        "Rollout learnt at level 7",
-        "Snatch learnt at level 10",
-        "Hidden-power learnt at level 14",
-        "Light-screen learnt at level 16",
-        "Charm learnt at level 19",
-        "Recover learnt at level 24",
-        "Psyshock learnt at level 25",
-        "Endeavor learnt at level 28",
-        "Future-sight learnt at level 31",
-        "Pain-split learnt at level 34",
-        "Psychic learnt at level 39",
-        "Skill-swap learnt at level 45",
-        "Heal-block learnt at level 54",
-        "Wonder-room learnt at level 59"
+        [
+            "Dizzy-punch",
+            0
+        ],
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Dizzy-punch",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Snatch",
+            1
+        ],
+        [
+            "Reflect",
+            3
+        ],
+        [
+            "Rollout",
+            7
+        ],
+        [
+            "Snatch",
+            10
+        ],
+        [
+            "Hidden-power",
+            14
+        ],
+        [
+            "Light-screen",
+            16
+        ],
+        [
+            "Charm",
+            19
+        ],
+        [
+            "Recover",
+            24
+        ],
+        [
+            "Psyshock",
+            25
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Future-sight",
+            31
+        ],
+        [
+            "Pain-split",
+            34
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Skill-swap",
+            45
+        ],
+        [
+            "Heal-block",
+            54
+        ],
+        [
+            "Wonder-room",
+            59
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Snatch",
+            1
+        ],
+        [
+            "Reflect",
+            3
+        ],
+        [
+            "Rollout",
+            7
+        ],
+        [
+            "Snatch",
+            10
+        ],
+        [
+            "Hidden-power",
+            14
+        ],
+        [
+            "Light-screen",
+            16
+        ],
+        [
+            "Charm",
+            19
+        ],
+        [
+            "Recover",
+            24
+        ],
+        [
+            "Psyshock",
+            25
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Future-sight",
+            31
+        ],
+        [
+            "Pain-split",
+            34
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Dizzy-punch",
+            41
+        ],
+        [
+            "Skill-swap",
+            45
+        ],
+        [
+            "Heal-block",
+            54
+        ],
+        [
+            "Wonder-room",
+            59
+        ]
     ],
     "x-y": [
-        "Reflect learnt at level 1",
-        "Psywave learnt at level 1",
-        "Rollout learnt at level 1",
-        "Snatch learnt at level 1",
-        "Reflect learnt at level 3",
-        "Rollout learnt at level 7",
-        "Snatch learnt at level 10",
-        "Hidden-power learnt at level 14",
-        "Light-screen learnt at level 16",
-        "Charm learnt at level 19",
-        "Recover learnt at level 24",
-        "Psyshock learnt at level 25",
-        "Endeavor learnt at level 28",
-        "Future-sight learnt at level 31",
-        "Pain-split learnt at level 34",
-        "Psychic learnt at level 39",
-        "Dizzy-punch learnt at level 41",
-        "Skill-swap learnt at level 45",
-        "Heal-block learnt at level 54",
-        "Wonder-room learnt at level 59"
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Snatch",
+            1
+        ],
+        [
+            "Reflect",
+            3
+        ],
+        [
+            "Rollout",
+            7
+        ],
+        [
+            "Snatch",
+            10
+        ],
+        [
+            "Hidden-power",
+            14
+        ],
+        [
+            "Light-screen",
+            16
+        ],
+        [
+            "Charm",
+            19
+        ],
+        [
+            "Recover",
+            24
+        ],
+        [
+            "Psyshock",
+            25
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Future-sight",
+            31
+        ],
+        [
+            "Pain-split",
+            34
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Dizzy-punch",
+            41
+        ],
+        [
+            "Skill-swap",
+            45
+        ],
+        [
+            "Heal-block",
+            54
+        ],
+        [
+            "Wonder-room",
+            59
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Snatch",
+            1
+        ],
+        [
+            "Reflect",
+            3
+        ],
+        [
+            "Rollout",
+            7
+        ],
+        [
+            "Snatch",
+            10
+        ],
+        [
+            "Hidden-power",
+            14
+        ],
+        [
+            "Light-screen",
+            16
+        ],
+        [
+            "Charm",
+            19
+        ],
+        [
+            "Recover",
+            24
+        ],
+        [
+            "Psyshock",
+            25
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Future-sight",
+            31
+        ],
+        [
+            "Pain-split",
+            34
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Dizzy-punch",
+            41
+        ],
+        [
+            "Skill-swap",
+            45
+        ],
+        [
+            "Heal-block",
+            54
+        ],
+        [
+            "Wonder-room",
+            59
+        ]
     ],
     "black-white": [
-        "Reflect learnt at level 1",
-        "Psywave learnt at level 1",
-        "Rollout learnt at level 1",
-        "Snatch learnt at level 1",
-        "Reflect learnt at level 3",
-        "Rollout learnt at level 7",
-        "Snatch learnt at level 10",
-        "Hidden-power learnt at level 14",
-        "Light-screen learnt at level 16",
-        "Charm learnt at level 19",
-        "Recover learnt at level 24",
-        "Psyshock learnt at level 25",
-        "Endeavor learnt at level 28",
-        "Future-sight learnt at level 31",
-        "Pain-split learnt at level 34",
-        "Psychic learnt at level 39",
-        "Dizzy-punch learnt at level 41",
-        "Skill-swap learnt at level 45",
-        "Heal-block learnt at level 54",
-        "Wonder-room learnt at level 59"
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Psywave",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Snatch",
+            1
+        ],
+        [
+            "Reflect",
+            3
+        ],
+        [
+            "Rollout",
+            7
+        ],
+        [
+            "Snatch",
+            10
+        ],
+        [
+            "Hidden-power",
+            14
+        ],
+        [
+            "Light-screen",
+            16
+        ],
+        [
+            "Charm",
+            19
+        ],
+        [
+            "Recover",
+            24
+        ],
+        [
+            "Psyshock",
+            25
+        ],
+        [
+            "Endeavor",
+            28
+        ],
+        [
+            "Future-sight",
+            31
+        ],
+        [
+            "Pain-split",
+            34
+        ],
+        [
+            "Psychic",
+            39
+        ],
+        [
+            "Dizzy-punch",
+            41
+        ],
+        [
+            "Skill-swap",
+            45
+        ],
+        [
+            "Heal-block",
+            54
+        ],
+        [
+            "Wonder-room",
+            59
+        ]
     ]
 }

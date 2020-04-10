@@ -1,125 +1,440 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37",
-        "Final-gambit learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ],
+        [
+            "Final-gambit",
+            41
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37",
-        "Final-gambit learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ],
+        [
+            "Final-gambit",
+            41
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37",
-        "Final-gambit learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ],
+        [
+            "Final-gambit",
+            41
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37",
-        "Final-gambit learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ],
+        [
+            "Final-gambit",
+            41
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37",
-        "Final-gambit learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ],
+        [
+            "Final-gambit",
+            41
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37",
-        "Final-gambit learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ],
+        [
+            "Final-gambit",
+            41
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Quick-attack learnt at level 5",
-        "Wing-attack learnt at level 9",
-        "Double-team learnt at level 13",
-        "Endeavor learnt at level 17",
-        "Whirlwind learnt at level 21",
-        "Aerial-ace learnt at level 25",
-        "Take-down learnt at level 29",
-        "Agility learnt at level 33",
-        "Brave-bird learnt at level 37"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Quick-attack",
+            5
+        ],
+        [
+            "Wing-attack",
+            9
+        ],
+        [
+            "Double-team",
+            13
+        ],
+        [
+            "Endeavor",
+            17
+        ],
+        [
+            "Whirlwind",
+            21
+        ],
+        [
+            "Aerial-ace",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Agility",
+            33
+        ],
+        [
+            "Brave-bird",
+            37
+        ]
     ]
 }

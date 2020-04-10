@@ -1,262 +1,934 @@
 {
     "red-blue": [
-        "Karate-chop learnt at level 1",
-        "Low-kick learnt at level 20",
-        "Leer learnt at level 25",
-        "Focus-energy learnt at level 32",
-        "Seismic-toss learnt at level 39",
-        "Submission learnt at level 46"
+        [
+            "Karate-chop",
+            1
+        ],
+        [
+            "Low-kick",
+            20
+        ],
+        [
+            "Leer",
+            25
+        ],
+        [
+            "Focus-energy",
+            32
+        ],
+        [
+            "Seismic-toss",
+            39
+        ],
+        [
+            "Submission",
+            46
+        ]
     ],
     "yellow": [
-        "Karate-chop learnt at level 1",
-        "Low-kick learnt at level 20",
-        "Leer learnt at level 25",
-        "Focus-energy learnt at level 32",
-        "Seismic-toss learnt at level 39",
-        "Submission learnt at level 46"
+        [
+            "Karate-chop",
+            1
+        ],
+        [
+            "Low-kick",
+            20
+        ],
+        [
+            "Leer",
+            25
+        ],
+        [
+            "Focus-energy",
+            32
+        ],
+        [
+            "Seismic-toss",
+            39
+        ],
+        [
+            "Submission",
+            46
+        ]
     ],
     "gold-silver": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Foresight learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Cross-chop learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Submission learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Foresight",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Cross-chop",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Submission",
+            49
+        ]
     ],
     "crystal": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Foresight learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Cross-chop learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Submission learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Foresight",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Cross-chop",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Submission",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Foresight learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 37",
-        "Cross-chop learnt at level 40",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Foresight",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            37
+        ],
+        [
+            "Cross-chop",
+            40
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "emerald": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Foresight learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 37",
-        "Cross-chop learnt at level 40",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Foresight",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            37
+        ],
+        [
+            "Cross-chop",
+            40
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Foresight learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 37",
-        "Cross-chop learnt at level 40",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Foresight",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            37
+        ],
+        [
+            "Cross-chop",
+            40
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 10",
-        "Foresight learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Revenge learnt at level 22",
-        "Vital-throw learnt at level 25",
-        "Submission learnt at level 31",
-        "Wake-up-slap learnt at level 34",
-        "Cross-chop learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            10
+        ],
+        [
+            "Foresight",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Revenge",
+            22
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "Submission",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            34
+        ],
+        [
+            "Cross-chop",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            46
+        ]
     ],
     "platinum": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 10",
-        "Foresight learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Revenge learnt at level 22",
-        "Vital-throw learnt at level 25",
-        "Submission learnt at level 31",
-        "Wake-up-slap learnt at level 34",
-        "Cross-chop learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            10
+        ],
+        [
+            "Foresight",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Revenge",
+            22
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "Submission",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            34
+        ],
+        [
+            "Cross-chop",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            46
+        ]
     ],
     "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 10",
-        "Foresight learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Revenge learnt at level 22",
-        "Vital-throw learnt at level 25",
-        "Submission learnt at level 31",
-        "Wake-up-slap learnt at level 34",
-        "Cross-chop learnt at level 37",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 46"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            10
+        ],
+        [
+            "Foresight",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Revenge",
+            22
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "Submission",
+            31
+        ],
+        [
+            "Wake-up-slap",
+            34
+        ],
+        [
+            "Cross-chop",
+            37
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            46
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 10",
-        "Low-sweep learnt at level 13",
-        "Foresight learnt at level 19",
-        "Seismic-toss learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 34",
-        "Wake-up-slap learnt at level 37",
-        "Cross-chop learnt at level 43",
-        "Scary-face learnt at level 46",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            10
+        ],
+        [
+            "Low-sweep",
+            13
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Seismic-toss",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            34
+        ],
+        [
+            "Wake-up-slap",
+            37
+        ],
+        [
+            "Cross-chop",
+            43
+        ],
+        [
+            "Scary-face",
+            46
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "colosseum": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Foresight learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 37",
-        "Cross-chop learnt at level 40",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Foresight",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            37
+        ],
+        [
+            "Cross-chop",
+            40
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "xd": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 19",
-        "Foresight learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 37",
-        "Cross-chop learnt at level 40",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            19
+        ],
+        [
+            "Foresight",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            37
+        ],
+        [
+            "Cross-chop",
+            40
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 10",
-        "Low-sweep learnt at level 13",
-        "Foresight learnt at level 19",
-        "Seismic-toss learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 34",
-        "Wake-up-slap learnt at level 37",
-        "Cross-chop learnt at level 43",
-        "Scary-face learnt at level 46",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            10
+        ],
+        [
+            "Low-sweep",
+            13
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Seismic-toss",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            34
+        ],
+        [
+            "Wake-up-slap",
+            37
+        ],
+        [
+            "Cross-chop",
+            43
+        ],
+        [
+            "Scary-face",
+            46
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 7",
-        "Karate-chop learnt at level 10",
-        "Low-sweep learnt at level 13",
-        "Foresight learnt at level 19",
-        "Seismic-toss learnt at level 22",
-        "Revenge learnt at level 25",
-        "Vital-throw learnt at level 31",
-        "Submission learnt at level 34",
-        "Wake-up-slap learnt at level 37",
-        "Cross-chop learnt at level 43",
-        "Scary-face learnt at level 46",
-        "Dynamic-punch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Karate-chop",
+            10
+        ],
+        [
+            "Low-sweep",
+            13
+        ],
+        [
+            "Foresight",
+            19
+        ],
+        [
+            "Seismic-toss",
+            22
+        ],
+        [
+            "Revenge",
+            25
+        ],
+        [
+            "Vital-throw",
+            31
+        ],
+        [
+            "Submission",
+            34
+        ],
+        [
+            "Wake-up-slap",
+            37
+        ],
+        [
+            "Cross-chop",
+            43
+        ],
+        [
+            "Scary-face",
+            46
+        ],
+        [
+            "Dynamic-punch",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 3",
-        "Karate-chop learnt at level 7",
-        "Foresight learnt at level 9",
-        "Low-sweep learnt at level 13",
-        "Seismic-toss learnt at level 15",
-        "Revenge learnt at level 19",
-        "Knock-off learnt at level 21",
-        "Vital-throw learnt at level 25",
-        "Wake-up-slap learnt at level 27",
-        "Dual-chop learnt at level 31",
-        "Submission learnt at level 33",
-        "Bulk-up learnt at level 37",
-        "Cross-chop learnt at level 39",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 45"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            3
+        ],
+        [
+            "Karate-chop",
+            7
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Low-sweep",
+            13
+        ],
+        [
+            "Seismic-toss",
+            15
+        ],
+        [
+            "Revenge",
+            19
+        ],
+        [
+            "Knock-off",
+            21
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "Wake-up-slap",
+            27
+        ],
+        [
+            "Dual-chop",
+            31
+        ],
+        [
+            "Submission",
+            33
+        ],
+        [
+            "Bulk-up",
+            37
+        ],
+        [
+            "Cross-chop",
+            39
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 3",
-        "Karate-chop learnt at level 7",
-        "Foresight learnt at level 9",
-        "Low-sweep learnt at level 13",
-        "Seismic-toss learnt at level 15",
-        "Revenge learnt at level 19",
-        "Knock-off learnt at level 21",
-        "Vital-throw learnt at level 25",
-        "Wake-up-slap learnt at level 27",
-        "Dual-chop learnt at level 31",
-        "Submission learnt at level 33",
-        "Bulk-up learnt at level 37",
-        "Cross-chop learnt at level 39",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 45"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            3
+        ],
+        [
+            "Karate-chop",
+            7
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Low-sweep",
+            13
+        ],
+        [
+            "Seismic-toss",
+            15
+        ],
+        [
+            "Revenge",
+            19
+        ],
+        [
+            "Knock-off",
+            21
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "Wake-up-slap",
+            27
+        ],
+        [
+            "Dual-chop",
+            31
+        ],
+        [
+            "Submission",
+            33
+        ],
+        [
+            "Bulk-up",
+            37
+        ],
+        [
+            "Cross-chop",
+            39
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 3",
-        "Karate-chop learnt at level 7",
-        "Foresight learnt at level 9",
-        "Low-sweep learnt at level 13",
-        "Seismic-toss learnt at level 15",
-        "Revenge learnt at level 19",
-        "Knock-off learnt at level 21",
-        "Vital-throw learnt at level 25",
-        "Wake-up-slap learnt at level 27",
-        "Dual-chop learnt at level 31",
-        "Submission learnt at level 33",
-        "Bulk-up learnt at level 37",
-        "Cross-chop learnt at level 39",
-        "Scary-face learnt at level 43",
-        "Dynamic-punch learnt at level 45"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            3
+        ],
+        [
+            "Karate-chop",
+            7
+        ],
+        [
+            "Foresight",
+            9
+        ],
+        [
+            "Low-sweep",
+            13
+        ],
+        [
+            "Seismic-toss",
+            15
+        ],
+        [
+            "Revenge",
+            19
+        ],
+        [
+            "Knock-off",
+            21
+        ],
+        [
+            "Vital-throw",
+            25
+        ],
+        [
+            "Wake-up-slap",
+            27
+        ],
+        [
+            "Dual-chop",
+            31
+        ],
+        [
+            "Submission",
+            33
+        ],
+        [
+            "Bulk-up",
+            37
+        ],
+        [
+            "Cross-chop",
+            39
+        ],
+        [
+            "Scary-face",
+            43
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
     ]
 }

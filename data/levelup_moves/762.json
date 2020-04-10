@@ -1,38 +1,142 @@
 {
     "ultra-sun-ultra-moon": [
-        "Double-slap learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Splash learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Play-nice learnt at level 5",
-        "Rapid-spin learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Sweet-scent learnt at level 17",
-        "Magical-leaf learnt at level 21",
-        "Teeter-dance learnt at level 25",
-        "Stomp learnt at level 29",
-        "Aromatic-mist learnt at level 33",
-        "Captivate learnt at level 37",
-        "Aromatherapy learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Double-slap",
+            0
+        ],
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Play-nice",
+            5
+        ],
+        [
+            "Rapid-spin",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Magical-leaf",
+            21
+        ],
+        [
+            "Teeter-dance",
+            25
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Aromatic-mist",
+            33
+        ],
+        [
+            "Captivate",
+            37
+        ],
+        [
+            "Aromatherapy",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ],
     "sun-moon": [
-        "Double-slap learnt at level 1",
-        "Razor-leaf learnt at level 1",
-        "Splash learnt at level 1",
-        "Rapid-spin learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Play-nice learnt at level 5",
-        "Rapid-spin learnt at level 9",
-        "Razor-leaf learnt at level 13",
-        "Sweet-scent learnt at level 17",
-        "Magical-leaf learnt at level 21",
-        "Teeter-dance learnt at level 25",
-        "Stomp learnt at level 29",
-        "Aromatic-mist learnt at level 33",
-        "Captivate learnt at level 37",
-        "Aromatherapy learnt at level 41",
-        "Leaf-storm learnt at level 45"
+        [
+            "Double-slap",
+            0
+        ],
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Razor-leaf",
+            1
+        ],
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Rapid-spin",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Play-nice",
+            5
+        ],
+        [
+            "Rapid-spin",
+            9
+        ],
+        [
+            "Razor-leaf",
+            13
+        ],
+        [
+            "Sweet-scent",
+            17
+        ],
+        [
+            "Magical-leaf",
+            21
+        ],
+        [
+            "Teeter-dance",
+            25
+        ],
+        [
+            "Stomp",
+            29
+        ],
+        [
+            "Aromatic-mist",
+            33
+        ],
+        [
+            "Captivate",
+            37
+        ],
+        [
+            "Aromatherapy",
+            41
+        ],
+        [
+            "Leaf-storm",
+            45
+        ]
     ]
 }

@@ -1,16 +1,52 @@
 {
     "ultra-sun-ultra-moon": [
-        "Ember learnt at level 1",
-        "Astonish learnt at level 1",
-        "Magic-coat learnt at level 7",
-        "Stored-power learnt at level 13",
-        "Flame-burst learnt at level 17",
-        "Night-shade learnt at level 23",
-        "Light-screen learnt at level 29",
-        "Calm-mind learnt at level 31",
-        "Fire-blast learnt at level 37",
-        "Shadow-ball learnt at level 41",
-        "Trick learnt at level 47",
-        "Mind-blown learnt at level 59"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Magic-coat",
+            7
+        ],
+        [
+            "Stored-power",
+            13
+        ],
+        [
+            "Flame-burst",
+            17
+        ],
+        [
+            "Night-shade",
+            23
+        ],
+        [
+            "Light-screen",
+            29
+        ],
+        [
+            "Calm-mind",
+            31
+        ],
+        [
+            "Fire-blast",
+            37
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Trick",
+            47
+        ],
+        [
+            "Mind-blown",
+            59
+        ]
     ]
 }

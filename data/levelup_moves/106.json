@@ -1,307 +1,1122 @@
 {
-    "emerald": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 6",
-        "Rolling-kick learnt at level 11",
-        "Jump-kick learnt at level 16",
-        "Brick-break learnt at level 20",
-        "Focus-energy learnt at level 21",
-        "High-jump-kick learnt at level 26",
-        "Mind-reader learnt at level 31",
-        "Foresight learnt at level 36",
-        "Endure learnt at level 41",
-        "Mega-kick learnt at level 46",
-        "Reversal learnt at level 51"
-    ],
-    "firered-leafgreen": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 6",
-        "Rolling-kick learnt at level 11",
-        "Jump-kick learnt at level 16",
-        "Brick-break learnt at level 20",
-        "Focus-energy learnt at level 21",
-        "High-jump-kick learnt at level 26",
-        "Mind-reader learnt at level 31",
-        "Foresight learnt at level 36",
-        "Endure learnt at level 41",
-        "Mega-kick learnt at level 46",
-        "Reversal learnt at level 51"
-    ],
-    "yellow": [
-        "Double-kick learnt at level 1",
-        "Meditate learnt at level 1",
-        "Rolling-kick learnt at level 33",
-        "Jump-kick learnt at level 38",
-        "Focus-energy learnt at level 43",
-        "High-jump-kick learnt at level 48",
-        "Mega-kick learnt at level 53"
-    ],
-    "red-blue": [
-        "Double-kick learnt at level 1",
-        "Meditate learnt at level 1",
-        "Rolling-kick learnt at level 33",
-        "Jump-kick learnt at level 38",
-        "Focus-energy learnt at level 43",
-        "High-jump-kick learnt at level 48",
-        "Mega-kick learnt at level 53"
-    ],
     "ultra-sun-ultra-moon": [
-        "Double-kick learnt at level 1",
-        "Mega-kick learnt at level 1",
-        "Jump-kick learnt at level 1",
-        "Rolling-kick learnt at level 1",
-        "Meditate learnt at level 1",
-        "Reversal learnt at level 1",
-        "Revenge learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Wide-guard learnt at level 41",
-        "Blaze-kick learnt at level 45",
-        "Endure learnt at level 49",
-        "Mega-kick learnt at level 53",
-        "Close-combat learnt at level 57",
-        "Reversal learnt at level 61"
+        [
+            "Double-kick",
+            0
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Mega-kick",
+            1
+        ],
+        [
+            "Jump-kick",
+            1
+        ],
+        [
+            "Rolling-kick",
+            1
+        ],
+        [
+            "Meditate",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Wide-guard",
+            41
+        ],
+        [
+            "Blaze-kick",
+            45
+        ],
+        [
+            "Endure",
+            49
+        ],
+        [
+            "Mega-kick",
+            53
+        ],
+        [
+            "Close-combat",
+            57
+        ],
+        [
+            "Reversal",
+            61
+        ]
     ],
     "sun-moon": [
-        "Double-kick learnt at level 1",
-        "Mega-kick learnt at level 1",
-        "Jump-kick learnt at level 1",
-        "Rolling-kick learnt at level 1",
-        "Meditate learnt at level 1",
-        "Reversal learnt at level 1",
-        "Revenge learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Wide-guard learnt at level 41",
-        "Blaze-kick learnt at level 45",
-        "Endure learnt at level 49",
-        "Mega-kick learnt at level 53",
-        "Close-combat learnt at level 57",
-        "Reversal learnt at level 61"
+        [
+            "Double-kick",
+            0
+        ],
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Mega-kick",
+            1
+        ],
+        [
+            "Jump-kick",
+            1
+        ],
+        [
+            "Rolling-kick",
+            1
+        ],
+        [
+            "Meditate",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Wide-guard",
+            41
+        ],
+        [
+            "Blaze-kick",
+            45
+        ],
+        [
+            "Endure",
+            49
+        ],
+        [
+            "Mega-kick",
+            53
+        ],
+        [
+            "Close-combat",
+            57
+        ],
+        [
+            "Reversal",
+            61
+        ]
     ],
     "black-white": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Wide-guard learnt at level 41",
-        "Blaze-kick learnt at level 45",
-        "Endure learnt at level 49",
-        "Mega-kick learnt at level 53",
-        "Close-combat learnt at level 57",
-        "Reversal learnt at level 61"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Wide-guard",
+            41
+        ],
+        [
+            "Blaze-kick",
+            45
+        ],
+        [
+            "Endure",
+            49
+        ],
+        [
+            "Mega-kick",
+            53
+        ],
+        [
+            "Close-combat",
+            57
+        ],
+        [
+            "Reversal",
+            61
+        ]
     ],
     "heartgold-soulsilver": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Blaze-kick learnt at level 41",
-        "Endure learnt at level 45",
-        "Mega-kick learnt at level 49",
-        "Close-combat learnt at level 53",
-        "Reversal learnt at level 57"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Blaze-kick",
+            41
+        ],
+        [
+            "Endure",
+            45
+        ],
+        [
+            "Mega-kick",
+            49
+        ],
+        [
+            "Close-combat",
+            53
+        ],
+        [
+            "Reversal",
+            57
+        ]
     ],
     "platinum": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Blaze-kick learnt at level 41",
-        "Endure learnt at level 45",
-        "Mega-kick learnt at level 49",
-        "Close-combat learnt at level 53",
-        "Reversal learnt at level 57"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Blaze-kick",
+            41
+        ],
+        [
+            "Endure",
+            45
+        ],
+        [
+            "Mega-kick",
+            49
+        ],
+        [
+            "Close-combat",
+            53
+        ],
+        [
+            "Reversal",
+            57
+        ]
+    ],
+    "emerald": [
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            6
+        ],
+        [
+            "Rolling-kick",
+            11
+        ],
+        [
+            "Jump-kick",
+            16
+        ],
+        [
+            "Brick-break",
+            20
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "High-jump-kick",
+            26
+        ],
+        [
+            "Mind-reader",
+            31
+        ],
+        [
+            "Foresight",
+            36
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Mega-kick",
+            46
+        ],
+        [
+            "Reversal",
+            51
+        ]
     ],
     "ruby-sapphire": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 6",
-        "Rolling-kick learnt at level 11",
-        "Jump-kick learnt at level 16",
-        "Brick-break learnt at level 20",
-        "Focus-energy learnt at level 21",
-        "High-jump-kick learnt at level 26",
-        "Mind-reader learnt at level 31",
-        "Foresight learnt at level 36",
-        "Endure learnt at level 41",
-        "Mega-kick learnt at level 46",
-        "Reversal learnt at level 51"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            6
+        ],
+        [
+            "Rolling-kick",
+            11
+        ],
+        [
+            "Jump-kick",
+            16
+        ],
+        [
+            "Brick-break",
+            20
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "High-jump-kick",
+            26
+        ],
+        [
+            "Mind-reader",
+            31
+        ],
+        [
+            "Foresight",
+            36
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Mega-kick",
+            46
+        ],
+        [
+            "Reversal",
+            51
+        ]
     ],
     "crystal": [
-        "Double-kick learnt at level 1",
-        "Meditate learnt at level 6",
-        "Rolling-kick learnt at level 11",
-        "Jump-kick learnt at level 16",
-        "Focus-energy learnt at level 21",
-        "High-jump-kick learnt at level 26",
-        "Mind-reader learnt at level 31",
-        "Foresight learnt at level 36",
-        "Endure learnt at level 41",
-        "Mega-kick learnt at level 46",
-        "Reversal learnt at level 51"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Meditate",
+            6
+        ],
+        [
+            "Rolling-kick",
+            11
+        ],
+        [
+            "Jump-kick",
+            16
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "High-jump-kick",
+            26
+        ],
+        [
+            "Mind-reader",
+            31
+        ],
+        [
+            "Foresight",
+            36
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Mega-kick",
+            46
+        ],
+        [
+            "Reversal",
+            51
+        ]
     ],
     "gold-silver": [
-        "Double-kick learnt at level 1",
-        "Meditate learnt at level 6",
-        "Rolling-kick learnt at level 11",
-        "Jump-kick learnt at level 16",
-        "Focus-energy learnt at level 21",
-        "High-jump-kick learnt at level 26",
-        "Mind-reader learnt at level 31",
-        "Foresight learnt at level 36",
-        "Endure learnt at level 41",
-        "Mega-kick learnt at level 46",
-        "Reversal learnt at level 51"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Meditate",
+            6
+        ],
+        [
+            "Rolling-kick",
+            11
+        ],
+        [
+            "Jump-kick",
+            16
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "High-jump-kick",
+            26
+        ],
+        [
+            "Mind-reader",
+            31
+        ],
+        [
+            "Foresight",
+            36
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Mega-kick",
+            46
+        ],
+        [
+            "Reversal",
+            51
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Double-kick learnt at level 1",
-        "Mega-kick learnt at level 1",
-        "Reversal learnt at level 1",
-        "Revenge learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Wide-guard learnt at level 41",
-        "Blaze-kick learnt at level 45",
-        "Endure learnt at level 49",
-        "Mega-kick learnt at level 53",
-        "Close-combat learnt at level 57",
-        "Reversal learnt at level 61"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Mega-kick",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Wide-guard",
+            41
+        ],
+        [
+            "Blaze-kick",
+            45
+        ],
+        [
+            "Endure",
+            49
+        ],
+        [
+            "Mega-kick",
+            53
+        ],
+        [
+            "Close-combat",
+            57
+        ],
+        [
+            "Reversal",
+            61
+        ]
     ],
     "x-y": [
-        "Double-kick learnt at level 1",
-        "Mega-kick learnt at level 1",
-        "Reversal learnt at level 1",
-        "Revenge learnt at level 1",
-        "Close-combat learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Wide-guard learnt at level 41",
-        "Blaze-kick learnt at level 45",
-        "Endure learnt at level 49",
-        "Mega-kick learnt at level 53",
-        "Close-combat learnt at level 57",
-        "Reversal learnt at level 61"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Mega-kick",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Close-combat",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Wide-guard",
+            41
+        ],
+        [
+            "Blaze-kick",
+            45
+        ],
+        [
+            "Endure",
+            49
+        ],
+        [
+            "Mega-kick",
+            53
+        ],
+        [
+            "Close-combat",
+            57
+        ],
+        [
+            "Reversal",
+            61
+        ]
     ],
     "black-2-white-2": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Wide-guard learnt at level 41",
-        "Blaze-kick learnt at level 45",
-        "Endure learnt at level 49",
-        "Mega-kick learnt at level 53",
-        "Close-combat learnt at level 57",
-        "Reversal learnt at level 61"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Wide-guard",
+            41
+        ],
+        [
+            "Blaze-kick",
+            45
+        ],
+        [
+            "Endure",
+            49
+        ],
+        [
+            "Mega-kick",
+            53
+        ],
+        [
+            "Close-combat",
+            57
+        ],
+        [
+            "Reversal",
+            61
+        ]
     ],
     "xd": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 6",
-        "Rolling-kick learnt at level 11",
-        "Jump-kick learnt at level 16",
-        "Brick-break learnt at level 20",
-        "Focus-energy learnt at level 21",
-        "High-jump-kick learnt at level 26",
-        "Mind-reader learnt at level 31",
-        "Foresight learnt at level 36",
-        "Endure learnt at level 41",
-        "Mega-kick learnt at level 46",
-        "Reversal learnt at level 51"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            6
+        ],
+        [
+            "Rolling-kick",
+            11
+        ],
+        [
+            "Jump-kick",
+            16
+        ],
+        [
+            "Brick-break",
+            20
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "High-jump-kick",
+            26
+        ],
+        [
+            "Mind-reader",
+            31
+        ],
+        [
+            "Foresight",
+            36
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Mega-kick",
+            46
+        ],
+        [
+            "Reversal",
+            51
+        ]
     ],
     "colosseum": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 6",
-        "Rolling-kick learnt at level 11",
-        "Jump-kick learnt at level 16",
-        "Brick-break learnt at level 20",
-        "Focus-energy learnt at level 21",
-        "High-jump-kick learnt at level 26",
-        "Mind-reader learnt at level 31",
-        "Foresight learnt at level 36",
-        "Endure learnt at level 41",
-        "Mega-kick learnt at level 46",
-        "Reversal learnt at level 51"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            6
+        ],
+        [
+            "Rolling-kick",
+            11
+        ],
+        [
+            "Jump-kick",
+            16
+        ],
+        [
+            "Brick-break",
+            20
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "High-jump-kick",
+            26
+        ],
+        [
+            "Mind-reader",
+            31
+        ],
+        [
+            "Foresight",
+            36
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Mega-kick",
+            46
+        ],
+        [
+            "Reversal",
+            51
+        ]
     ],
     "diamond-pearl": [
-        "Double-kick learnt at level 1",
-        "Revenge learnt at level 1",
-        "Meditate learnt at level 5",
-        "Rolling-kick learnt at level 9",
-        "Jump-kick learnt at level 13",
-        "Brick-break learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Feint learnt at level 25",
-        "High-jump-kick learnt at level 29",
-        "Mind-reader learnt at level 33",
-        "Foresight learnt at level 37",
-        "Blaze-kick learnt at level 41",
-        "Endure learnt at level 45",
-        "Mega-kick learnt at level 49",
-        "Close-combat learnt at level 53",
-        "Reversal learnt at level 57"
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            5
+        ],
+        [
+            "Rolling-kick",
+            9
+        ],
+        [
+            "Jump-kick",
+            13
+        ],
+        [
+            "Brick-break",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Feint",
+            25
+        ],
+        [
+            "High-jump-kick",
+            29
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Foresight",
+            37
+        ],
+        [
+            "Blaze-kick",
+            41
+        ],
+        [
+            "Endure",
+            45
+        ],
+        [
+            "Mega-kick",
+            49
+        ],
+        [
+            "Close-combat",
+            53
+        ],
+        [
+            "Reversal",
+            57
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Revenge",
+            1
+        ],
+        [
+            "Meditate",
+            6
+        ],
+        [
+            "Rolling-kick",
+            11
+        ],
+        [
+            "Jump-kick",
+            16
+        ],
+        [
+            "Brick-break",
+            20
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "High-jump-kick",
+            26
+        ],
+        [
+            "Mind-reader",
+            31
+        ],
+        [
+            "Foresight",
+            36
+        ],
+        [
+            "Endure",
+            41
+        ],
+        [
+            "Mega-kick",
+            46
+        ],
+        [
+            "Reversal",
+            51
+        ]
+    ],
+    "yellow": [
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Meditate",
+            1
+        ],
+        [
+            "Rolling-kick",
+            33
+        ],
+        [
+            "Jump-kick",
+            38
+        ],
+        [
+            "Focus-energy",
+            43
+        ],
+        [
+            "High-jump-kick",
+            48
+        ],
+        [
+            "Mega-kick",
+            53
+        ]
+    ],
+    "red-blue": [
+        [
+            "Double-kick",
+            1
+        ],
+        [
+            "Meditate",
+            1
+        ],
+        [
+            "Rolling-kick",
+            33
+        ],
+        [
+            "Jump-kick",
+            38
+        ],
+        [
+            "Focus-energy",
+            43
+        ],
+        [
+            "High-jump-kick",
+            48
+        ],
+        [
+            "Mega-kick",
+            53
+        ]
     ]
 }

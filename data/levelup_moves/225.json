@@ -1,52 +1,106 @@
 {
-    "firered-leafgreen": [
-        "Present learnt at level 1"
-    ],
-    "emerald": [
-        "Present learnt at level 1"
-    ],
     "ultra-sun-ultra-moon": [
-        "Present learnt at level 1",
-        "Drill-peck learnt at level 25"
+        [
+            "Present",
+            1
+        ],
+        [
+            "Drill-peck",
+            25
+        ]
     ],
     "sun-moon": [
-        "Present learnt at level 1",
-        "Drill-peck learnt at level 25"
+        [
+            "Present",
+            1
+        ],
+        [
+            "Drill-peck",
+            25
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Present learnt at level 1"
+        [
+            "Present",
+            1
+        ]
     ],
     "x-y": [
-        "Present learnt at level 1"
+        [
+            "Present",
+            1
+        ]
     ],
     "black-2-white-2": [
-        "Present learnt at level 1"
-    ],
-    "black-white": [
-        "Present learnt at level 1"
-    ],
-    "heartgold-soulsilver": [
-        "Present learnt at level 1"
-    ],
-    "platinum": [
-        "Present learnt at level 1"
-    ],
-    "diamond-pearl": [
-        "Present learnt at level 1"
-    ],
-    "xd": [
-        "Present learnt at level 1"
+        [
+            "Present",
+            1
+        ]
     ],
     "colosseum": [
-        "Present learnt at level 1"
+        [
+            "Present",
+            1
+        ]
+    ],
+    "black-white": [
+        [
+            "Present",
+            1
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Present",
+            1
+        ]
+    ],
+    "platinum": [
+        [
+            "Present",
+            1
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Present",
+            1
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Present",
+            1
+        ]
+    ],
+    "emerald": [
+        [
+            "Present",
+            1
+        ]
     ],
     "ruby-sapphire": [
-        "Present learnt at level 1"
+        [
+            "Present",
+            1
+        ]
     ],
     "crystal": [
-        "Present learnt at level 1"
+        [
+            "Present",
+            1
+        ]
+    ],
+    "xd": [
+        [
+            "Present",
+            1
+        ]
     ],
     "gold-silver": [
-        "Present learnt at level 1"
+        [
+            "Present",
+            1
+        ]
     ]
 }

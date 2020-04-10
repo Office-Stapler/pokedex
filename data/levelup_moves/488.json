@@ -1,148 +1,532 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Moonlight learnt at level 1",
-        "Psycho-shift learnt at level 1",
-        "Psycho-cut learnt at level 1",
-        "Lunar-dance learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93",
-        "Moonblast learnt at level 99"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Moonlight",
+            1
+        ],
+        [
+            "Psycho-shift",
+            1
+        ],
+        [
+            "Psycho-cut",
+            1
+        ],
+        [
+            "Lunar-dance",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ],
+        [
+            "Moonblast",
+            99
+        ]
     ],
     "x-y": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Moonlight learnt at level 1",
-        "Psycho-shift learnt at level 1",
-        "Psycho-cut learnt at level 1",
-        "Lunar-dance learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93",
-        "Moonblast learnt at level 99"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Moonlight",
+            1
+        ],
+        [
+            "Psycho-shift",
+            1
+        ],
+        [
+            "Psycho-cut",
+            1
+        ],
+        [
+            "Lunar-dance",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ],
+        [
+            "Moonblast",
+            99
+        ]
     ],
     "black-2-white-2": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ]
     ],
     "black-white": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ]
     ],
     "heartgold-soulsilver": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ]
     ],
     "platinum": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Moonlight learnt at level 1",
-        "Psycho-shift learnt at level 1",
-        "Psycho-cut learnt at level 1",
-        "Lunar-dance learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93",
-        "Moonblast learnt at level 99"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Moonlight",
+            1
+        ],
+        [
+            "Psycho-shift",
+            1
+        ],
+        [
+            "Psycho-cut",
+            1
+        ],
+        [
+            "Lunar-dance",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ],
+        [
+            "Moonblast",
+            99
+        ]
     ],
     "sun-moon": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Moonlight learnt at level 1",
-        "Psycho-shift learnt at level 1",
-        "Psycho-cut learnt at level 1",
-        "Lunar-dance learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93",
-        "Moonblast learnt at level 99"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Moonlight",
+            1
+        ],
+        [
+            "Psycho-shift",
+            1
+        ],
+        [
+            "Psycho-cut",
+            1
+        ],
+        [
+            "Lunar-dance",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ],
+        [
+            "Moonblast",
+            99
+        ]
     ],
     "diamond-pearl": [
-        "Confusion learnt at level 1",
-        "Double-team learnt at level 1",
-        "Safeguard learnt at level 11",
-        "Mist learnt at level 20",
-        "Aurora-beam learnt at level 29",
-        "Future-sight learnt at level 38",
-        "Slash learnt at level 47",
-        "Moonlight learnt at level 57",
-        "Psycho-cut learnt at level 66",
-        "Psycho-shift learnt at level 75",
-        "Lunar-dance learnt at level 84",
-        "Psychic learnt at level 93"
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Double-team",
+            1
+        ],
+        [
+            "Safeguard",
+            11
+        ],
+        [
+            "Mist",
+            20
+        ],
+        [
+            "Aurora-beam",
+            29
+        ],
+        [
+            "Future-sight",
+            38
+        ],
+        [
+            "Slash",
+            47
+        ],
+        [
+            "Moonlight",
+            57
+        ],
+        [
+            "Psycho-cut",
+            66
+        ],
+        [
+            "Psycho-shift",
+            75
+        ],
+        [
+            "Lunar-dance",
+            84
+        ],
+        [
+            "Psychic",
+            93
+        ]
     ]
 }

@@ -1,78 +1,282 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Fairy-wind learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Fairy-wind learnt at level 5",
-        "Play-nice learnt at level 8",
-        "Fake-tears learnt at level 10",
-        "Round learnt at level 13",
-        "Cotton-spore learnt at level 17",
-        "Endeavor learnt at level 21",
-        "Aromatherapy learnt at level 26",
-        "Draining-kiss learnt at level 31",
-        "Energy-ball learnt at level 36",
-        "Cotton-guard learnt at level 41",
-        "Wish learnt at level 45",
-        "Play-rough learnt at level 49",
-        "Light-screen learnt at level 58",
-        "Safeguard learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Fairy-wind",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Fairy-wind",
+            5
+        ],
+        [
+            "Play-nice",
+            8
+        ],
+        [
+            "Fake-tears",
+            10
+        ],
+        [
+            "Round",
+            13
+        ],
+        [
+            "Cotton-spore",
+            17
+        ],
+        [
+            "Endeavor",
+            21
+        ],
+        [
+            "Aromatherapy",
+            26
+        ],
+        [
+            "Draining-kiss",
+            31
+        ],
+        [
+            "Energy-ball",
+            36
+        ],
+        [
+            "Cotton-guard",
+            41
+        ],
+        [
+            "Wish",
+            45
+        ],
+        [
+            "Play-rough",
+            49
+        ],
+        [
+            "Light-screen",
+            58
+        ],
+        [
+            "Safeguard",
+            67
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Fairy-wind learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Fairy-wind learnt at level 5",
-        "Play-nice learnt at level 8",
-        "Fake-tears learnt at level 10",
-        "Round learnt at level 13",
-        "Cotton-spore learnt at level 17",
-        "Endeavor learnt at level 21",
-        "Aromatherapy learnt at level 26",
-        "Draining-kiss learnt at level 31",
-        "Energy-ball learnt at level 36",
-        "Cotton-guard learnt at level 41",
-        "Wish learnt at level 45",
-        "Play-rough learnt at level 49",
-        "Light-screen learnt at level 58",
-        "Safeguard learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Fairy-wind",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Fairy-wind",
+            5
+        ],
+        [
+            "Play-nice",
+            8
+        ],
+        [
+            "Fake-tears",
+            10
+        ],
+        [
+            "Round",
+            13
+        ],
+        [
+            "Cotton-spore",
+            17
+        ],
+        [
+            "Endeavor",
+            21
+        ],
+        [
+            "Aromatherapy",
+            26
+        ],
+        [
+            "Draining-kiss",
+            31
+        ],
+        [
+            "Energy-ball",
+            36
+        ],
+        [
+            "Cotton-guard",
+            41
+        ],
+        [
+            "Wish",
+            45
+        ],
+        [
+            "Play-rough",
+            49
+        ],
+        [
+            "Light-screen",
+            58
+        ],
+        [
+            "Safeguard",
+            67
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Fairy-wind learnt at level 5",
-        "Play-nice learnt at level 8",
-        "Fake-tears learnt at level 10",
-        "Round learnt at level 13",
-        "Cotton-spore learnt at level 17",
-        "Endeavor learnt at level 21",
-        "Aromatherapy learnt at level 26",
-        "Draining-kiss learnt at level 31",
-        "Energy-ball learnt at level 36",
-        "Cotton-guard learnt at level 41",
-        "Wish learnt at level 45",
-        "Play-rough learnt at level 49",
-        "Light-screen learnt at level 58",
-        "Safeguard learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Fairy-wind",
+            5
+        ],
+        [
+            "Play-nice",
+            8
+        ],
+        [
+            "Fake-tears",
+            10
+        ],
+        [
+            "Round",
+            13
+        ],
+        [
+            "Cotton-spore",
+            17
+        ],
+        [
+            "Endeavor",
+            21
+        ],
+        [
+            "Aromatherapy",
+            26
+        ],
+        [
+            "Draining-kiss",
+            31
+        ],
+        [
+            "Energy-ball",
+            36
+        ],
+        [
+            "Cotton-guard",
+            41
+        ],
+        [
+            "Wish",
+            45
+        ],
+        [
+            "Play-rough",
+            49
+        ],
+        [
+            "Light-screen",
+            58
+        ],
+        [
+            "Safeguard",
+            67
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Fairy-wind learnt at level 5",
-        "Play-nice learnt at level 8",
-        "Fake-tears learnt at level 10",
-        "Round learnt at level 13",
-        "Cotton-spore learnt at level 17",
-        "Endeavor learnt at level 21",
-        "Aromatherapy learnt at level 26",
-        "Draining-kiss learnt at level 31",
-        "Energy-ball learnt at level 36",
-        "Cotton-guard learnt at level 41",
-        "Wish learnt at level 45",
-        "Play-rough learnt at level 49",
-        "Light-screen learnt at level 58",
-        "Safeguard learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Fairy-wind",
+            5
+        ],
+        [
+            "Play-nice",
+            8
+        ],
+        [
+            "Fake-tears",
+            10
+        ],
+        [
+            "Round",
+            13
+        ],
+        [
+            "Cotton-spore",
+            17
+        ],
+        [
+            "Endeavor",
+            21
+        ],
+        [
+            "Aromatherapy",
+            26
+        ],
+        [
+            "Draining-kiss",
+            31
+        ],
+        [
+            "Energy-ball",
+            36
+        ],
+        [
+            "Cotton-guard",
+            41
+        ],
+        [
+            "Wish",
+            45
+        ],
+        [
+            "Play-rough",
+            49
+        ],
+        [
+            "Light-screen",
+            58
+        ],
+        [
+            "Safeguard",
+            67
+        ]
     ]
 }

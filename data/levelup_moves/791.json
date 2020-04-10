@@ -1,40 +1,150 @@
 {
     "ultra-sun-ultra-moon": [
-        "Teleport learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Cosmic-power learnt at level 1",
-        "Wake-up-slap learnt at level 1",
-        "Sunsteel-strike learnt at level 1",
-        "Iron-head learnt at level 7",
-        "Metal-sound learnt at level 13",
-        "Zen-headbutt learnt at level 19",
-        "Flash-cannon learnt at level 23",
-        "Morning-sun learnt at level 31",
-        "Crunch learnt at level 37",
-        "Metal-burst learnt at level 43",
-        "Solar-beam learnt at level 47",
-        "Noble-roar learnt at level 59",
-        "Flare-blitz learnt at level 61",
-        "Wide-guard learnt at level 67",
-        "Giga-impact learnt at level 73"
+        [
+            "Sunsteel-strike",
+            0
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Cosmic-power",
+            1
+        ],
+        [
+            "Wake-up-slap",
+            1
+        ],
+        [
+            "Sunsteel-strike",
+            1
+        ],
+        [
+            "Iron-head",
+            7
+        ],
+        [
+            "Metal-sound",
+            13
+        ],
+        [
+            "Zen-headbutt",
+            19
+        ],
+        [
+            "Flash-cannon",
+            23
+        ],
+        [
+            "Morning-sun",
+            31
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Metal-burst",
+            43
+        ],
+        [
+            "Solar-beam",
+            47
+        ],
+        [
+            "Noble-roar",
+            59
+        ],
+        [
+            "Flare-blitz",
+            61
+        ],
+        [
+            "Wide-guard",
+            67
+        ],
+        [
+            "Giga-impact",
+            73
+        ]
     ],
     "sun-moon": [
-        "Teleport learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Cosmic-power learnt at level 1",
-        "Wake-up-slap learnt at level 1",
-        "Sunsteel-strike learnt at level 1",
-        "Iron-head learnt at level 7",
-        "Metal-sound learnt at level 13",
-        "Zen-headbutt learnt at level 19",
-        "Flash-cannon learnt at level 23",
-        "Morning-sun learnt at level 31",
-        "Crunch learnt at level 37",
-        "Metal-burst learnt at level 43",
-        "Solar-beam learnt at level 47",
-        "Noble-roar learnt at level 59",
-        "Flare-blitz learnt at level 61",
-        "Wide-guard learnt at level 67",
-        "Giga-impact learnt at level 73"
+        [
+            "Sunsteel-strike",
+            0
+        ],
+        [
+            "Teleport",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Cosmic-power",
+            1
+        ],
+        [
+            "Wake-up-slap",
+            1
+        ],
+        [
+            "Sunsteel-strike",
+            1
+        ],
+        [
+            "Iron-head",
+            7
+        ],
+        [
+            "Metal-sound",
+            13
+        ],
+        [
+            "Zen-headbutt",
+            19
+        ],
+        [
+            "Flash-cannon",
+            23
+        ],
+        [
+            "Morning-sun",
+            31
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Metal-burst",
+            43
+        ],
+        [
+            "Solar-beam",
+            47
+        ],
+        [
+            "Noble-roar",
+            59
+        ],
+        [
+            "Flare-blitz",
+            61
+        ],
+        [
+            "Wide-guard",
+            67
+        ],
+        [
+            "Giga-impact",
+            73
+        ]
     ]
 }

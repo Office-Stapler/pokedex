@@ -1,82 +1,214 @@
 {
     "ultra-sun-ultra-moon": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 9"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            9
+        ]
     ],
     "sun-moon": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 9"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            9
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 15"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "x-y": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 15"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "black-2-white-2": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 15"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "xd": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "colosseum": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "black-white": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 15"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "heartgold-soulsilver": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 15"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "platinum": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1",
-        "Bug-bite learnt at level 15"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            15
+        ]
     ],
     "diamond-pearl": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "firered-leafgreen": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "emerald": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "ruby-sapphire": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "crystal": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "gold-silver": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "yellow": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ],
     "red-blue": [
-        "Poison-sting learnt at level 1",
-        "String-shot learnt at level 1"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ]
     ]
 }

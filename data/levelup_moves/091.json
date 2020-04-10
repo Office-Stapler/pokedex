@@ -1,166 +1,550 @@
 {
-    "yellow": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Clamp learnt at level 1",
-        "Spike-cannon learnt at level 50"
-    ],
-    "red-blue": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Clamp learnt at level 1",
-        "Spike-cannon learnt at level 50"
-    ],
-    "xd": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Spikes learnt at level 33",
-        "Spike-cannon learnt at level 41"
-    ],
-    "firered-leafgreen": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Spikes learnt at level 36",
-        "Spike-cannon learnt at level 43"
-    ],
-    "emerald": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Spikes learnt at level 33",
-        "Spike-cannon learnt at level 41"
-    ],
     "ultra-sun-ultra-moon": [
-        "Supersonic learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Spike-cannon learnt at level 13",
-        "Spikes learnt at level 28",
-        "Icicle-crash learnt at level 50"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Spike-cannon",
+            13
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Icicle-crash",
+            50
+        ]
     ],
     "sun-moon": [
-        "Supersonic learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Spike-cannon learnt at level 13",
-        "Spikes learnt at level 28",
-        "Icicle-crash learnt at level 50"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Spike-cannon",
+            13
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Icicle-crash",
+            50
+        ]
+    ],
+    "xd": [
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Spike-cannon",
+            41
+        ]
     ],
     "colosseum": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Spikes learnt at level 33",
-        "Spike-cannon learnt at level 41"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Spike-cannon",
+            41
+        ]
     ],
     "black-white": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Spike-cannon learnt at level 13",
-        "Spikes learnt at level 28",
-        "Icicle-crash learnt at level 52"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Spike-cannon",
+            13
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Icicle-crash",
+            52
+        ]
     ],
     "heartgold-soulsilver": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Spikes learnt at level 28",
-        "Spike-cannon learnt at level 40"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Spike-cannon",
+            40
+        ]
     ],
     "platinum": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Spikes learnt at level 28",
-        "Spike-cannon learnt at level 40"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Spike-cannon",
+            40
+        ]
     ],
     "diamond-pearl": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Spikes learnt at level 28",
-        "Spike-cannon learnt at level 40"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Spike-cannon",
+            40
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Spikes",
+            36
+        ],
+        [
+            "Spike-cannon",
+            43
+        ]
+    ],
+    "emerald": [
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Spike-cannon",
+            41
+        ]
     ],
     "ruby-sapphire": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Spikes learnt at level 33",
-        "Spike-cannon learnt at level 41"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Spike-cannon",
+            41
+        ]
     ],
     "crystal": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Spikes learnt at level 33",
-        "Spike-cannon learnt at level 41"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Spikes",
+            33
+        ],
+        [
+            "Spike-cannon",
+            41
+        ]
     ],
     "gold-silver": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Spike-cannon learnt at level 41"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Spike-cannon",
+            41
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Supersonic learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Spike-cannon learnt at level 13",
-        "Spikes learnt at level 28",
-        "Icicle-crash learnt at level 50"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Spike-cannon",
+            13
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Icicle-crash",
+            50
+        ]
     ],
     "x-y": [
-        "Supersonic learnt at level 1",
-        "Hydro-pump learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Spike-cannon learnt at level 13",
-        "Spikes learnt at level 28",
-        "Icicle-crash learnt at level 50"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Hydro-pump",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Spike-cannon",
+            13
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Icicle-crash",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Supersonic learnt at level 1",
-        "Aurora-beam learnt at level 1",
-        "Withdraw learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Spike-cannon learnt at level 13",
-        "Spikes learnt at level 28",
-        "Icicle-crash learnt at level 52"
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Spike-cannon",
+            13
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Icicle-crash",
+            52
+        ]
+    ],
+    "yellow": [
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Clamp",
+            1
+        ],
+        [
+            "Spike-cannon",
+            50
+        ]
+    ],
+    "red-blue": [
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Aurora-beam",
+            1
+        ],
+        [
+            "Withdraw",
+            1
+        ],
+        [
+            "Clamp",
+            1
+        ],
+        [
+            "Spike-cannon",
+            50
+        ]
     ]
 }

@@ -1,304 +1,1130 @@
 {
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Self-destruct learnt at level 6",
-        "Bug-bite learnt at level 9",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Mirror-shot learnt at level 31",
-        "Payback learnt at level 33",
-        "Explosion learnt at level 38",
-        "Iron-defense learnt at level 45",
-        "Gyro-ball learnt at level 50",
-        "Double-edge learnt at level 55",
-        "Magnet-rise learnt at level 62",
-        "Zap-cannon learnt at level 67"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Self-destruct learnt at level 8",
-        "Take-down learnt at level 15",
-        "Rapid-spin learnt at level 22",
-        "Bide learnt at level 29",
-        "Explosion learnt at level 39",
-        "Spikes learnt at level 49",
-        "Double-edge learnt at level 59"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Self-destruct learnt at level 8",
-        "Take-down learnt at level 15",
-        "Rapid-spin learnt at level 22",
-        "Bide learnt at level 29",
-        "Explosion learnt at level 39",
-        "Spikes learnt at level 49",
-        "Double-edge learnt at level 59"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Mirror-shot learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Autotomize learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Self-destruct learnt at level 6",
-        "Bug-bite learnt at level 9",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Payback learnt at level 32",
-        "Explosion learnt at level 36",
-        "Iron-defense learnt at level 42",
-        "Gyro-ball learnt at level 46",
-        "Double-edge learnt at level 50",
-        "Magnet-rise learnt at level 56",
-        "Zap-cannon learnt at level 60",
-        "Heavy-slam learnt at level 64"
+        [
+            "Mirror-shot",
+            0
+        ],
+        [
+            "Autotomize",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Mirror-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Autotomize",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Self-destruct",
+            6
+        ],
+        [
+            "Bug-bite",
+            9
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Payback",
+            32
+        ],
+        [
+            "Explosion",
+            36
+        ],
+        [
+            "Iron-defense",
+            42
+        ],
+        [
+            "Gyro-ball",
+            46
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Magnet-rise",
+            56
+        ],
+        [
+            "Zap-cannon",
+            60
+        ],
+        [
+            "Heavy-slam",
+            64
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Mirror-shot learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Autotomize learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Self-destruct learnt at level 6",
-        "Bug-bite learnt at level 9",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Payback learnt at level 32",
-        "Explosion learnt at level 36",
-        "Iron-defense learnt at level 42",
-        "Gyro-ball learnt at level 46",
-        "Double-edge learnt at level 50",
-        "Magnet-rise learnt at level 56",
-        "Zap-cannon learnt at level 60",
-        "Heavy-slam learnt at level 64"
+        [
+            "Mirror-shot",
+            0
+        ],
+        [
+            "Autotomize",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Mirror-shot",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Autotomize",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Self-destruct",
+            6
+        ],
+        [
+            "Bug-bite",
+            9
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Payback",
+            32
+        ],
+        [
+            "Explosion",
+            36
+        ],
+        [
+            "Iron-defense",
+            42
+        ],
+        [
+            "Gyro-ball",
+            46
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Magnet-rise",
+            56
+        ],
+        [
+            "Zap-cannon",
+            60
+        ],
+        [
+            "Heavy-slam",
+            64
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Mirror-shot learnt at level 31",
-        "Autotomize learnt at level 32",
-        "Payback learnt at level 36",
-        "Explosion learnt at level 42",
-        "Iron-defense learnt at level 46",
-        "Gyro-ball learnt at level 50",
-        "Double-edge learnt at level 56",
-        "Magnet-rise learnt at level 60",
-        "Zap-cannon learnt at level 64",
-        "Heavy-slam learnt at level 70"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Mirror-shot",
+            31
+        ],
+        [
+            "Autotomize",
+            32
+        ],
+        [
+            "Payback",
+            36
+        ],
+        [
+            "Explosion",
+            42
+        ],
+        [
+            "Iron-defense",
+            46
+        ],
+        [
+            "Gyro-ball",
+            50
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Magnet-rise",
+            60
+        ],
+        [
+            "Zap-cannon",
+            64
+        ],
+        [
+            "Heavy-slam",
+            70
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Self-destruct learnt at level 6",
-        "Bug-bite learnt at level 9",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Mirror-shot learnt at level 31",
-        "Autotomize learnt at level 32",
-        "Payback learnt at level 36",
-        "Explosion learnt at level 42",
-        "Iron-defense learnt at level 46",
-        "Gyro-ball learnt at level 50",
-        "Double-edge learnt at level 56",
-        "Magnet-rise learnt at level 60",
-        "Zap-cannon learnt at level 64",
-        "Heavy-slam learnt at level 70"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Self-destruct",
+            6
+        ],
+        [
+            "Bug-bite",
+            9
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Mirror-shot",
+            31
+        ],
+        [
+            "Autotomize",
+            32
+        ],
+        [
+            "Payback",
+            36
+        ],
+        [
+            "Explosion",
+            42
+        ],
+        [
+            "Iron-defense",
+            46
+        ],
+        [
+            "Gyro-ball",
+            50
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Magnet-rise",
+            60
+        ],
+        [
+            "Zap-cannon",
+            64
+        ],
+        [
+            "Heavy-slam",
+            70
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Self-destruct learnt at level 8",
-        "Take-down learnt at level 15",
-        "Rapid-spin learnt at level 22",
-        "Bide learnt at level 29",
-        "Explosion learnt at level 39",
-        "Spikes learnt at level 49",
-        "Double-edge learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Self-destruct",
+            8
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Rapid-spin",
+            22
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Spikes",
+            49
+        ],
+        [
+            "Double-edge",
+            59
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Self-destruct learnt at level 8",
-        "Take-down learnt at level 15",
-        "Rapid-spin learnt at level 22",
-        "Bide learnt at level 29",
-        "Explosion learnt at level 39",
-        "Spikes learnt at level 49",
-        "Double-edge learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Self-destruct",
+            8
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Rapid-spin",
+            22
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Spikes",
+            49
+        ],
+        [
+            "Double-edge",
+            59
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Self-destruct learnt at level 6",
-        "Bug-bite learnt at level 9",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Mirror-shot learnt at level 31",
-        "Autotomize learnt at level 32",
-        "Payback learnt at level 36",
-        "Explosion learnt at level 42",
-        "Iron-defense learnt at level 46",
-        "Gyro-ball learnt at level 50",
-        "Double-edge learnt at level 56",
-        "Magnet-rise learnt at level 60",
-        "Zap-cannon learnt at level 64",
-        "Heavy-slam learnt at level 70"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Self-destruct",
+            6
+        ],
+        [
+            "Bug-bite",
+            9
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Mirror-shot",
+            31
+        ],
+        [
+            "Autotomize",
+            32
+        ],
+        [
+            "Payback",
+            36
+        ],
+        [
+            "Explosion",
+            42
+        ],
+        [
+            "Iron-defense",
+            46
+        ],
+        [
+            "Gyro-ball",
+            50
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Magnet-rise",
+            60
+        ],
+        [
+            "Zap-cannon",
+            64
+        ],
+        [
+            "Heavy-slam",
+            70
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Heavy-slam learnt at level 1",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Mirror-shot learnt at level 31",
-        "Autotomize learnt at level 32",
-        "Payback learnt at level 36",
-        "Explosion learnt at level 42",
-        "Iron-defense learnt at level 46",
-        "Gyro-ball learnt at level 50",
-        "Double-edge learnt at level 56",
-        "Magnet-rise learnt at level 60",
-        "Zap-cannon learnt at level 64",
-        "Heavy-slam learnt at level 70"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Heavy-slam",
+            1
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Mirror-shot",
+            31
+        ],
+        [
+            "Autotomize",
+            32
+        ],
+        [
+            "Payback",
+            36
+        ],
+        [
+            "Explosion",
+            42
+        ],
+        [
+            "Iron-defense",
+            46
+        ],
+        [
+            "Gyro-ball",
+            50
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Magnet-rise",
+            60
+        ],
+        [
+            "Zap-cannon",
+            64
+        ],
+        [
+            "Heavy-slam",
+            70
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Self-destruct learnt at level 6",
-        "Bug-bite learnt at level 9",
-        "Take-down learnt at level 12",
-        "Rapid-spin learnt at level 17",
-        "Bide learnt at level 20",
-        "Natural-gift learnt at level 23",
-        "Spikes learnt at level 28",
-        "Mirror-shot learnt at level 31",
-        "Payback learnt at level 33",
-        "Explosion learnt at level 38",
-        "Iron-defense learnt at level 45",
-        "Gyro-ball learnt at level 50",
-        "Double-edge learnt at level 55",
-        "Magnet-rise learnt at level 62",
-        "Zap-cannon learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Self-destruct",
+            6
+        ],
+        [
+            "Bug-bite",
+            9
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Mirror-shot",
+            31
+        ],
+        [
+            "Payback",
+            33
+        ],
+        [
+            "Explosion",
+            38
+        ],
+        [
+            "Iron-defense",
+            45
+        ],
+        [
+            "Gyro-ball",
+            50
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Magnet-rise",
+            62
+        ],
+        [
+            "Zap-cannon",
+            67
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Take-down learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Toxic-spikes learnt at level 1",
-        "Self-destruct learnt at level 6",
-        "Take-down learnt at level 9",
-        "Rapid-spin learnt at level 12",
-        "Bide learnt at level 17",
-        "Natural-gift learnt at level 20",
-        "Spikes learnt at level 23",
-        "Payback learnt at level 28",
-        "Mirror-shot learnt at level 31",
-        "Explosion learnt at level 33",
-        "Iron-defense learnt at level 38",
-        "Gyro-ball learnt at level 45",
-        "Double-edge learnt at level 50",
-        "Magnet-rise learnt at level 57",
-        "Zap-cannon learnt at level 62"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Self-destruct",
+            6
+        ],
+        [
+            "Take-down",
+            9
+        ],
+        [
+            "Rapid-spin",
+            12
+        ],
+        [
+            "Bide",
+            17
+        ],
+        [
+            "Natural-gift",
+            20
+        ],
+        [
+            "Spikes",
+            23
+        ],
+        [
+            "Payback",
+            28
+        ],
+        [
+            "Mirror-shot",
+            31
+        ],
+        [
+            "Explosion",
+            33
+        ],
+        [
+            "Iron-defense",
+            38
+        ],
+        [
+            "Gyro-ball",
+            45
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Magnet-rise",
+            57
+        ],
+        [
+            "Zap-cannon",
+            62
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Self-destruct learnt at level 8",
-        "Take-down learnt at level 15",
-        "Rapid-spin learnt at level 22",
-        "Bide learnt at level 29",
-        "Zap-cannon learnt at level 31",
-        "Explosion learnt at level 39",
-        "Spikes learnt at level 49",
-        "Double-edge learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Self-destruct",
+            8
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Rapid-spin",
+            22
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "Zap-cannon",
+            31
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Spikes",
+            49
+        ],
+        [
+            "Double-edge",
+            59
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Self-destruct learnt at level 8",
-        "Take-down learnt at level 15",
-        "Rapid-spin learnt at level 22",
-        "Bide learnt at level 29",
-        "Explosion learnt at level 39",
-        "Spikes learnt at level 49",
-        "Double-edge learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Self-destruct",
+            8
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Rapid-spin",
+            22
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Spikes",
+            49
+        ],
+        [
+            "Double-edge",
+            59
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Self-destruct learnt at level 1",
-        "Protect learnt at level 1",
-        "Self-destruct learnt at level 8",
-        "Take-down learnt at level 15",
-        "Rapid-spin learnt at level 22",
-        "Bide learnt at level 29",
-        "Explosion learnt at level 39",
-        "Spikes learnt at level 49",
-        "Double-edge learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Self-destruct",
+            8
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Rapid-spin",
+            22
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Spikes",
+            49
+        ],
+        [
+            "Double-edge",
+            59
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Toxic-spikes",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Self-destruct",
+            6
+        ],
+        [
+            "Bug-bite",
+            9
+        ],
+        [
+            "Take-down",
+            12
+        ],
+        [
+            "Rapid-spin",
+            17
+        ],
+        [
+            "Bide",
+            20
+        ],
+        [
+            "Natural-gift",
+            23
+        ],
+        [
+            "Spikes",
+            28
+        ],
+        [
+            "Mirror-shot",
+            31
+        ],
+        [
+            "Payback",
+            33
+        ],
+        [
+            "Explosion",
+            38
+        ],
+        [
+            "Iron-defense",
+            45
+        ],
+        [
+            "Gyro-ball",
+            50
+        ],
+        [
+            "Double-edge",
+            55
+        ],
+        [
+            "Magnet-rise",
+            62
+        ],
+        [
+            "Zap-cannon",
+            67
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Self-destruct",
+            8
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Rapid-spin",
+            22
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Spikes",
+            49
+        ],
+        [
+            "Double-edge",
+            59
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Self-destruct",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Self-destruct",
+            8
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Rapid-spin",
+            22
+        ],
+        [
+            "Bide",
+            29
+        ],
+        [
+            "Explosion",
+            39
+        ],
+        [
+            "Spikes",
+            49
+        ],
+        [
+            "Double-edge",
+            59
+        ]
     ]
 }

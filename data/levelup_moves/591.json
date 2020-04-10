@@ -1,122 +1,446 @@
 {
     "ultra-sun-ultra-moon": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Bide learnt at level 1",
-        "Astonish learnt at level 1",
-        "Growth learnt at level 6",
-        "Astonish learnt at level 8",
-        "Bide learnt at level 12",
-        "Mega-drain learnt at level 15",
-        "Ingrain learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Sweet-scent learnt at level 24",
-        "Giga-drain learnt at level 28",
-        "Toxic learnt at level 32",
-        "Synthesis learnt at level 35",
-        "Clear-smog learnt at level 43",
-        "Solar-beam learnt at level 49",
-        "Rage-powder learnt at level 54",
-        "Spore learnt at level 62"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Growth",
+            6
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Bide",
+            12
+        ],
+        [
+            "Mega-drain",
+            15
+        ],
+        [
+            "Ingrain",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Sweet-scent",
+            24
+        ],
+        [
+            "Giga-drain",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Synthesis",
+            35
+        ],
+        [
+            "Clear-smog",
+            43
+        ],
+        [
+            "Solar-beam",
+            49
+        ],
+        [
+            "Rage-powder",
+            54
+        ],
+        [
+            "Spore",
+            62
+        ]
     ],
     "sun-moon": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Bide learnt at level 1",
-        "Astonish learnt at level 1",
-        "Growth learnt at level 6",
-        "Astonish learnt at level 8",
-        "Bide learnt at level 12",
-        "Mega-drain learnt at level 15",
-        "Ingrain learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Sweet-scent learnt at level 24",
-        "Giga-drain learnt at level 28",
-        "Toxic learnt at level 32",
-        "Synthesis learnt at level 35",
-        "Clear-smog learnt at level 43",
-        "Solar-beam learnt at level 49",
-        "Rage-powder learnt at level 54",
-        "Spore learnt at level 62"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Growth",
+            6
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Bide",
+            12
+        ],
+        [
+            "Mega-drain",
+            15
+        ],
+        [
+            "Ingrain",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Sweet-scent",
+            24
+        ],
+        [
+            "Giga-drain",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Synthesis",
+            35
+        ],
+        [
+            "Clear-smog",
+            43
+        ],
+        [
+            "Solar-beam",
+            49
+        ],
+        [
+            "Rage-powder",
+            54
+        ],
+        [
+            "Spore",
+            62
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Bide learnt at level 1",
-        "Astonish learnt at level 1",
-        "Growth learnt at level 6",
-        "Astonish learnt at level 8",
-        "Bide learnt at level 12",
-        "Mega-drain learnt at level 15",
-        "Ingrain learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Sweet-scent learnt at level 24",
-        "Giga-drain learnt at level 28",
-        "Toxic learnt at level 32",
-        "Synthesis learnt at level 35",
-        "Clear-smog learnt at level 43",
-        "Solar-beam learnt at level 49",
-        "Rage-powder learnt at level 54",
-        "Spore learnt at level 62"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Growth",
+            6
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Bide",
+            12
+        ],
+        [
+            "Mega-drain",
+            15
+        ],
+        [
+            "Ingrain",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Sweet-scent",
+            24
+        ],
+        [
+            "Giga-drain",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Synthesis",
+            35
+        ],
+        [
+            "Clear-smog",
+            43
+        ],
+        [
+            "Solar-beam",
+            49
+        ],
+        [
+            "Rage-powder",
+            54
+        ],
+        [
+            "Spore",
+            62
+        ]
     ],
     "x-y": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Bide learnt at level 1",
-        "Astonish learnt at level 1",
-        "Growth learnt at level 6",
-        "Astonish learnt at level 8",
-        "Bide learnt at level 12",
-        "Mega-drain learnt at level 15",
-        "Ingrain learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Sweet-scent learnt at level 24",
-        "Giga-drain learnt at level 28",
-        "Toxic learnt at level 32",
-        "Synthesis learnt at level 35",
-        "Clear-smog learnt at level 43",
-        "Solar-beam learnt at level 49",
-        "Rage-powder learnt at level 54",
-        "Spore learnt at level 62"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Growth",
+            6
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Bide",
+            12
+        ],
+        [
+            "Mega-drain",
+            15
+        ],
+        [
+            "Ingrain",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Sweet-scent",
+            24
+        ],
+        [
+            "Giga-drain",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Synthesis",
+            35
+        ],
+        [
+            "Clear-smog",
+            43
+        ],
+        [
+            "Solar-beam",
+            49
+        ],
+        [
+            "Rage-powder",
+            54
+        ],
+        [
+            "Spore",
+            62
+        ]
     ],
     "black-2-white-2": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Bide learnt at level 1",
-        "Astonish learnt at level 1",
-        "Growth learnt at level 6",
-        "Astonish learnt at level 8",
-        "Bide learnt at level 12",
-        "Mega-drain learnt at level 15",
-        "Ingrain learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Sweet-scent learnt at level 24",
-        "Giga-drain learnt at level 28",
-        "Toxic learnt at level 32",
-        "Synthesis learnt at level 35",
-        "Clear-smog learnt at level 43",
-        "Solar-beam learnt at level 49",
-        "Rage-powder learnt at level 54",
-        "Spore learnt at level 62"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Growth",
+            6
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Bide",
+            12
+        ],
+        [
+            "Mega-drain",
+            15
+        ],
+        [
+            "Ingrain",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Sweet-scent",
+            24
+        ],
+        [
+            "Giga-drain",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Synthesis",
+            35
+        ],
+        [
+            "Clear-smog",
+            43
+        ],
+        [
+            "Solar-beam",
+            49
+        ],
+        [
+            "Rage-powder",
+            54
+        ],
+        [
+            "Spore",
+            62
+        ]
     ],
     "black-white": [
-        "Absorb learnt at level 1",
-        "Growth learnt at level 1",
-        "Bide learnt at level 1",
-        "Astonish learnt at level 1",
-        "Growth learnt at level 6",
-        "Astonish learnt at level 8",
-        "Bide learnt at level 12",
-        "Mega-drain learnt at level 15",
-        "Ingrain learnt at level 18",
-        "Feint-attack learnt at level 20",
-        "Sweet-scent learnt at level 24",
-        "Giga-drain learnt at level 28",
-        "Toxic learnt at level 32",
-        "Synthesis learnt at level 35",
-        "Clear-smog learnt at level 43",
-        "Solar-beam learnt at level 49",
-        "Rage-powder learnt at level 54",
-        "Spore learnt at level 62"
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Bide",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Growth",
+            6
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Bide",
+            12
+        ],
+        [
+            "Mega-drain",
+            15
+        ],
+        [
+            "Ingrain",
+            18
+        ],
+        [
+            "Feint-attack",
+            20
+        ],
+        [
+            "Sweet-scent",
+            24
+        ],
+        [
+            "Giga-drain",
+            28
+        ],
+        [
+            "Toxic",
+            32
+        ],
+        [
+            "Synthesis",
+            35
+        ],
+        [
+            "Clear-smog",
+            43
+        ],
+        [
+            "Solar-beam",
+            49
+        ],
+        [
+            "Rage-powder",
+            54
+        ],
+        [
+            "Spore",
+            62
+        ]
     ]
 }

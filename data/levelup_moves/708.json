@@ -1,66 +1,234 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Astonish learnt at level 5",
-        "Growth learnt at level 8",
-        "Ingrain learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Leech-seed learnt at level 23",
-        "Curse learnt at level 28",
-        "Will-o-wisp learnt at level 31",
-        "Forests-curse learnt at level 35",
-        "Destiny-bond learnt at level 39",
-        "Phantom-force learnt at level 45",
-        "Wood-hammer learnt at level 49",
-        "Horn-leech learnt at level 54"
-    ],
-    "x-y": [
-        "Tackle learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Astonish learnt at level 5",
-        "Growth learnt at level 8",
-        "Ingrain learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Leech-seed learnt at level 23",
-        "Curse learnt at level 28",
-        "Will-o-wisp learnt at level 31",
-        "Forests-curse learnt at level 35",
-        "Destiny-bond learnt at level 39",
-        "Phantom-force learnt at level 45",
-        "Wood-hammer learnt at level 49",
-        "Horn-leech learnt at level 54"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Astonish learnt at level 5",
-        "Growth learnt at level 8",
-        "Ingrain learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Leech-seed learnt at level 23",
-        "Curse learnt at level 28",
-        "Will-o-wisp learnt at level 31",
-        "Forests-curse learnt at level 35",
-        "Destiny-bond learnt at level 39",
-        "Phantom-force learnt at level 45",
-        "Wood-hammer learnt at level 49",
-        "Horn-leech learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Growth",
+            8
+        ],
+        [
+            "Ingrain",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Leech-seed",
+            23
+        ],
+        [
+            "Curse",
+            28
+        ],
+        [
+            "Will-o-wisp",
+            31
+        ],
+        [
+            "Forests-curse",
+            35
+        ],
+        [
+            "Destiny-bond",
+            39
+        ],
+        [
+            "Phantom-force",
+            45
+        ],
+        [
+            "Wood-hammer",
+            49
+        ],
+        [
+            "Horn-leech",
+            54
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Astonish learnt at level 5",
-        "Growth learnt at level 8",
-        "Ingrain learnt at level 13",
-        "Feint-attack learnt at level 19",
-        "Leech-seed learnt at level 23",
-        "Curse learnt at level 28",
-        "Will-o-wisp learnt at level 31",
-        "Forests-curse learnt at level 35",
-        "Destiny-bond learnt at level 39",
-        "Phantom-force learnt at level 45",
-        "Wood-hammer learnt at level 49",
-        "Horn-leech learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Growth",
+            8
+        ],
+        [
+            "Ingrain",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Leech-seed",
+            23
+        ],
+        [
+            "Curse",
+            28
+        ],
+        [
+            "Will-o-wisp",
+            31
+        ],
+        [
+            "Forests-curse",
+            35
+        ],
+        [
+            "Destiny-bond",
+            39
+        ],
+        [
+            "Phantom-force",
+            45
+        ],
+        [
+            "Wood-hammer",
+            49
+        ],
+        [
+            "Horn-leech",
+            54
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Growth",
+            8
+        ],
+        [
+            "Ingrain",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Leech-seed",
+            23
+        ],
+        [
+            "Curse",
+            28
+        ],
+        [
+            "Will-o-wisp",
+            31
+        ],
+        [
+            "Forests-curse",
+            35
+        ],
+        [
+            "Destiny-bond",
+            39
+        ],
+        [
+            "Phantom-force",
+            45
+        ],
+        [
+            "Wood-hammer",
+            49
+        ],
+        [
+            "Horn-leech",
+            54
+        ]
+    ],
+    "x-y": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Growth",
+            8
+        ],
+        [
+            "Ingrain",
+            13
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Leech-seed",
+            23
+        ],
+        [
+            "Curse",
+            28
+        ],
+        [
+            "Will-o-wisp",
+            31
+        ],
+        [
+            "Forests-curse",
+            35
+        ],
+        [
+            "Destiny-bond",
+            39
+        ],
+        [
+            "Phantom-force",
+            45
+        ],
+        [
+            "Wood-hammer",
+            49
+        ],
+        [
+            "Horn-leech",
+            54
+        ]
     ]
 }

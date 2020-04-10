@@ -1,213 +1,738 @@
 {
     "red-blue": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 13",
-        "Leech-life learnt at level 20",
-        "Spore learnt at level 27",
-        "Slash learnt at level 34",
-        "Growth learnt at level 41"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            13
+        ],
+        [
+            "Leech-life",
+            20
+        ],
+        [
+            "Spore",
+            27
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Growth",
+            41
+        ]
     ],
     "yellow": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 13",
-        "Leech-life learnt at level 20",
-        "Spore learnt at level 27",
-        "Slash learnt at level 34",
-        "Growth learnt at level 41"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            13
+        ],
+        [
+            "Leech-life",
+            20
+        ],
+        [
+            "Spore",
+            27
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Growth",
+            41
+        ]
     ],
     "gold-silver": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 7",
-        "Poison-powder learnt at level 13",
-        "Leech-life learnt at level 19",
-        "Spore learnt at level 25",
-        "Slash learnt at level 31",
-        "Growth learnt at level 37",
-        "Giga-drain learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Leech-life",
+            19
+        ],
+        [
+            "Spore",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Growth",
+            37
+        ],
+        [
+            "Giga-drain",
+            43
+        ]
     ],
     "crystal": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 7",
-        "Poison-powder learnt at level 13",
-        "Leech-life learnt at level 19",
-        "Spore learnt at level 25",
-        "Slash learnt at level 31",
-        "Growth learnt at level 37",
-        "Giga-drain learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Leech-life",
+            19
+        ],
+        [
+            "Spore",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Growth",
+            37
+        ],
+        [
+            "Giga-drain",
+            43
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 7",
-        "Poison-powder learnt at level 13",
-        "Leech-life learnt at level 19",
-        "Spore learnt at level 25",
-        "Slash learnt at level 31",
-        "Growth learnt at level 37",
-        "Giga-drain learnt at level 43",
-        "Aromatherapy learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Leech-life",
+            19
+        ],
+        [
+            "Spore",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Growth",
+            37
+        ],
+        [
+            "Giga-drain",
+            43
+        ],
+        [
+            "Aromatherapy",
+            49
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 7",
-        "Poison-powder learnt at level 13",
-        "Leech-life learnt at level 19",
-        "Spore learnt at level 25",
-        "Slash learnt at level 31",
-        "Growth learnt at level 37",
-        "Giga-drain learnt at level 43",
-        "Aromatherapy learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Leech-life",
+            19
+        ],
+        [
+            "Spore",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Growth",
+            37
+        ],
+        [
+            "Giga-drain",
+            43
+        ],
+        [
+            "Aromatherapy",
+            49
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 7",
-        "Poison-powder learnt at level 13",
-        "Leech-life learnt at level 19",
-        "Spore learnt at level 25",
-        "Slash learnt at level 31",
-        "Growth learnt at level 37",
-        "Giga-drain learnt at level 43",
-        "Aromatherapy learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Leech-life",
+            19
+        ],
+        [
+            "Spore",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Growth",
+            37
+        ],
+        [
+            "Giga-drain",
+            43
+        ],
+        [
+            "Aromatherapy",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Leech-life learnt at level 11",
-        "Spore learnt at level 17",
-        "Slash learnt at level 22",
-        "Growth learnt at level 27",
-        "Giga-drain learnt at level 33",
-        "Aromatherapy learnt at level 38",
-        "X-scissor learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Leech-life",
+            11
+        ],
+        [
+            "Spore",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Growth",
+            27
+        ],
+        [
+            "Giga-drain",
+            33
+        ],
+        [
+            "Aromatherapy",
+            38
+        ],
+        [
+            "X-scissor",
+            43
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Leech-life learnt at level 11",
-        "Spore learnt at level 17",
-        "Slash learnt at level 22",
-        "Growth learnt at level 27",
-        "Giga-drain learnt at level 33",
-        "Aromatherapy learnt at level 38",
-        "X-scissor learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Leech-life",
+            11
+        ],
+        [
+            "Spore",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Growth",
+            27
+        ],
+        [
+            "Giga-drain",
+            33
+        ],
+        [
+            "Aromatherapy",
+            38
+        ],
+        [
+            "X-scissor",
+            43
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Leech-life learnt at level 11",
-        "Spore learnt at level 17",
-        "Slash learnt at level 22",
-        "Growth learnt at level 27",
-        "Giga-drain learnt at level 33",
-        "Aromatherapy learnt at level 38",
-        "X-scissor learnt at level 43"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Leech-life",
+            11
+        ],
+        [
+            "Spore",
+            17
+        ],
+        [
+            "Slash",
+            22
+        ],
+        [
+            "Growth",
+            27
+        ],
+        [
+            "Giga-drain",
+            33
+        ],
+        [
+            "Aromatherapy",
+            38
+        ],
+        [
+            "X-scissor",
+            43
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Leech-life learnt at level 11",
-        "Fury-cutter learnt at level 17",
-        "Spore learnt at level 22",
-        "Slash learnt at level 27",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 38",
-        "Aromatherapy learnt at level 43",
-        "Rage-powder learnt at level 49",
-        "X-scissor learnt at level 54"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Leech-life",
+            11
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Spore",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Rage-powder",
+            49
+        ],
+        [
+            "X-scissor",
+            54
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 7",
-        "Poison-powder learnt at level 13",
-        "Leech-life learnt at level 19",
-        "Spore learnt at level 25",
-        "Slash learnt at level 31",
-        "Growth learnt at level 37",
-        "Giga-drain learnt at level 43",
-        "Aromatherapy learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Leech-life",
+            19
+        ],
+        [
+            "Spore",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Growth",
+            37
+        ],
+        [
+            "Giga-drain",
+            43
+        ],
+        [
+            "Aromatherapy",
+            49
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Stun-spore learnt at level 7",
-        "Poison-powder learnt at level 13",
-        "Leech-life learnt at level 19",
-        "Spore learnt at level 25",
-        "Slash learnt at level 31",
-        "Growth learnt at level 37",
-        "Giga-drain learnt at level 43",
-        "Aromatherapy learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Poison-powder",
+            13
+        ],
+        [
+            "Leech-life",
+            19
+        ],
+        [
+            "Spore",
+            25
+        ],
+        [
+            "Slash",
+            31
+        ],
+        [
+            "Growth",
+            37
+        ],
+        [
+            "Giga-drain",
+            43
+        ],
+        [
+            "Aromatherapy",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Leech-life learnt at level 11",
-        "Fury-cutter learnt at level 17",
-        "Spore learnt at level 22",
-        "Slash learnt at level 27",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 38",
-        "Aromatherapy learnt at level 43",
-        "Rage-powder learnt at level 49",
-        "X-scissor learnt at level 54"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Leech-life",
+            11
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Spore",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Rage-powder",
+            49
+        ],
+        [
+            "X-scissor",
+            54
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Leech-life learnt at level 11",
-        "Fury-cutter learnt at level 17",
-        "Spore learnt at level 22",
-        "Slash learnt at level 27",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 38",
-        "Aromatherapy learnt at level 43",
-        "Rage-powder learnt at level 49",
-        "X-scissor learnt at level 54"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Leech-life",
+            11
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Spore",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Rage-powder",
+            49
+        ],
+        [
+            "X-scissor",
+            54
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Leech-life learnt at level 11",
-        "Fury-cutter learnt at level 17",
-        "Spore learnt at level 22",
-        "Slash learnt at level 27",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 38",
-        "Aromatherapy learnt at level 43",
-        "Rage-powder learnt at level 49",
-        "X-scissor learnt at level 54"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Leech-life",
+            11
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Spore",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Rage-powder",
+            49
+        ],
+        [
+            "X-scissor",
+            54
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Absorb learnt at level 11",
-        "Fury-cutter learnt at level 17",
-        "Spore learnt at level 22",
-        "Slash learnt at level 27",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 38",
-        "Aromatherapy learnt at level 43",
-        "Rage-powder learnt at level 49",
-        "X-scissor learnt at level 54"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Absorb",
+            11
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Spore",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Rage-powder",
+            49
+        ],
+        [
+            "X-scissor",
+            54
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Poison-powder learnt at level 6",
-        "Stun-spore learnt at level 6",
-        "Absorb learnt at level 11",
-        "Fury-cutter learnt at level 17",
-        "Spore learnt at level 22",
-        "Slash learnt at level 27",
-        "Growth learnt at level 33",
-        "Giga-drain learnt at level 38",
-        "Aromatherapy learnt at level 43",
-        "Rage-powder learnt at level 49",
-        "X-scissor learnt at level 54"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Poison-powder",
+            6
+        ],
+        [
+            "Stun-spore",
+            6
+        ],
+        [
+            "Absorb",
+            11
+        ],
+        [
+            "Fury-cutter",
+            17
+        ],
+        [
+            "Spore",
+            22
+        ],
+        [
+            "Slash",
+            27
+        ],
+        [
+            "Growth",
+            33
+        ],
+        [
+            "Giga-drain",
+            38
+        ],
+        [
+            "Aromatherapy",
+            43
+        ],
+        [
+            "Rage-powder",
+            49
+        ],
+        [
+            "X-scissor",
+            54
+        ]
     ]
 }

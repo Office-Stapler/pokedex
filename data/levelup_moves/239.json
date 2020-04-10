@@ -1,209 +1,734 @@
 {
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Swift learnt at level 12",
-        "Shock-wave learnt at level 15",
-        "Thunder-wave learnt at level 19",
-        "Electro-ball learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Thunder-punch learnt at level 29",
-        "Discharge learnt at level 33",
-        "Screech learnt at level 36",
-        "Thunderbolt learnt at level 40",
-        "Thunder learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Swift",
+            12
+        ],
+        [
+            "Shock-wave",
+            15
+        ],
+        [
+            "Thunder-wave",
+            19
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Thunder-punch",
+            29
+        ],
+        [
+            "Discharge",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Thunderbolt",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Swift learnt at level 12",
-        "Shock-wave learnt at level 15",
-        "Thunder-wave learnt at level 19",
-        "Electro-ball learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Thunder-punch learnt at level 29",
-        "Discharge learnt at level 33",
-        "Screech learnt at level 36",
-        "Thunderbolt learnt at level 40",
-        "Thunder learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Swift",
+            12
+        ],
+        [
+            "Shock-wave",
+            15
+        ],
+        [
+            "Thunder-wave",
+            19
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Thunder-punch",
+            29
+        ],
+        [
+            "Discharge",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Thunderbolt",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Swift learnt at level 12",
-        "Shock-wave learnt at level 15",
-        "Thunder-wave learnt at level 19",
-        "Electro-ball learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Thunder-punch learnt at level 29",
-        "Discharge learnt at level 33",
-        "Screech learnt at level 36",
-        "Thunderbolt learnt at level 40",
-        "Thunder learnt at level 43"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Swift",
+            12
+        ],
+        [
+            "Shock-wave",
+            15
+        ],
+        [
+            "Thunder-wave",
+            19
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Thunder-punch",
+            29
+        ],
+        [
+            "Discharge",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Thunderbolt",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Swift learnt at level 12",
-        "Shock-wave learnt at level 15",
-        "Thunder-wave learnt at level 19",
-        "Electro-ball learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Thunder-punch learnt at level 29",
-        "Discharge learnt at level 33",
-        "Screech learnt at level 36",
-        "Thunderbolt learnt at level 40",
-        "Thunder learnt at level 43"
-    ],
-    "black-white": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 6",
-        "Low-kick learnt at level 11",
-        "Swift learnt at level 16",
-        "Shock-wave learnt at level 21",
-        "Light-screen learnt at level 26",
-        "Electro-ball learnt at level 31",
-        "Thunder-punch learnt at level 36",
-        "Discharge learnt at level 41",
-        "Thunderbolt learnt at level 46",
-        "Screech learnt at level 51",
-        "Thunder learnt at level 56"
-    ],
-    "platinum": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 7",
-        "Low-kick learnt at level 10",
-        "Swift learnt at level 16",
-        "Shock-wave learnt at level 19",
-        "Light-screen learnt at level 25",
-        "Thunder-punch learnt at level 28",
-        "Discharge learnt at level 34",
-        "Thunderbolt learnt at level 37",
-        "Screech learnt at level 43",
-        "Thunder learnt at level 46"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Swift learnt at level 12",
-        "Shock-wave learnt at level 15",
-        "Thunder-wave learnt at level 19",
-        "Electro-ball learnt at level 22",
-        "Light-screen learnt at level 26",
-        "Thunder-punch learnt at level 29",
-        "Discharge learnt at level 33",
-        "Screech learnt at level 36",
-        "Thunderbolt learnt at level 40",
-        "Thunder learnt at level 43"
-    ],
-    "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 7",
-        "Low-kick learnt at level 10",
-        "Swift learnt at level 16",
-        "Shock-wave learnt at level 19",
-        "Light-screen learnt at level 25",
-        "Thunder-punch learnt at level 28",
-        "Discharge learnt at level 34",
-        "Thunderbolt learnt at level 37",
-        "Screech learnt at level 43",
-        "Thunder learnt at level 46"
-    ],
-    "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-punch learnt at level 9",
-        "Light-screen learnt at level 17",
-        "Swift learnt at level 25",
-        "Screech learnt at level 33",
-        "Thunderbolt learnt at level 41",
-        "Thunder learnt at level 49"
-    ],
-    "emerald": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-punch learnt at level 9",
-        "Light-screen learnt at level 17",
-        "Swift learnt at level 25",
-        "Screech learnt at level 33",
-        "Thunderbolt learnt at level 41",
-        "Thunder learnt at level 49"
-    ],
-    "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-punch learnt at level 9",
-        "Light-screen learnt at level 17",
-        "Swift learnt at level 25",
-        "Screech learnt at level 33",
-        "Thunderbolt learnt at level 41",
-        "Thunder learnt at level 49"
-    ],
-    "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-shock learnt at level 7",
-        "Low-kick learnt at level 10",
-        "Swift learnt at level 16",
-        "Shock-wave learnt at level 19",
-        "Light-screen learnt at level 25",
-        "Thunder-punch learnt at level 28",
-        "Discharge learnt at level 34",
-        "Thunderbolt learnt at level 37",
-        "Screech learnt at level 43",
-        "Thunder learnt at level 46"
-    ],
-    "crystal": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-punch learnt at level 9",
-        "Light-screen learnt at level 17",
-        "Swift learnt at level 25",
-        "Screech learnt at level 33",
-        "Thunderbolt learnt at level 41",
-        "Thunder learnt at level 49"
-    ],
-    "gold-silver": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-punch learnt at level 9",
-        "Light-screen learnt at level 17",
-        "Swift learnt at level 25",
-        "Screech learnt at level 33",
-        "Thunderbolt learnt at level 41",
-        "Thunder learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Swift",
+            12
+        ],
+        [
+            "Shock-wave",
+            15
+        ],
+        [
+            "Thunder-wave",
+            19
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Thunder-punch",
+            29
+        ],
+        [
+            "Discharge",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Thunderbolt",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ]
     ],
     "xd": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-punch learnt at level 9",
-        "Light-screen learnt at level 17",
-        "Swift learnt at level 25",
-        "Screech learnt at level 33",
-        "Thunderbolt learnt at level 41",
-        "Thunder learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            17
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Thunderbolt",
+            41
+        ],
+        [
+            "Thunder",
+            49
+        ]
     ],
     "colosseum": [
-        "Leer learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Thunder-punch learnt at level 9",
-        "Light-screen learnt at level 17",
-        "Swift learnt at level 25",
-        "Screech learnt at level 33",
-        "Thunderbolt learnt at level 41",
-        "Thunder learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            17
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Thunderbolt",
+            41
+        ],
+        [
+            "Thunder",
+            49
+        ]
+    ],
+    "black-white": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            6
+        ],
+        [
+            "Low-kick",
+            11
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Shock-wave",
+            21
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Electro-ball",
+            31
+        ],
+        [
+            "Thunder-punch",
+            36
+        ],
+        [
+            "Discharge",
+            41
+        ],
+        [
+            "Thunderbolt",
+            46
+        ],
+        [
+            "Screech",
+            51
+        ],
+        [
+            "Thunder",
+            56
+        ]
+    ],
+    "platinum": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Low-kick",
+            10
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Shock-wave",
+            19
+        ],
+        [
+            "Light-screen",
+            25
+        ],
+        [
+            "Thunder-punch",
+            28
+        ],
+        [
+            "Discharge",
+            34
+        ],
+        [
+            "Thunderbolt",
+            37
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Swift",
+            12
+        ],
+        [
+            "Shock-wave",
+            15
+        ],
+        [
+            "Thunder-wave",
+            19
+        ],
+        [
+            "Electro-ball",
+            22
+        ],
+        [
+            "Light-screen",
+            26
+        ],
+        [
+            "Thunder-punch",
+            29
+        ],
+        [
+            "Discharge",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Thunderbolt",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Low-kick",
+            10
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Shock-wave",
+            19
+        ],
+        [
+            "Light-screen",
+            25
+        ],
+        [
+            "Thunder-punch",
+            28
+        ],
+        [
+            "Discharge",
+            34
+        ],
+        [
+            "Thunderbolt",
+            37
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            17
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Thunderbolt",
+            41
+        ],
+        [
+            "Thunder",
+            49
+        ]
+    ],
+    "emerald": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            17
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Thunderbolt",
+            41
+        ],
+        [
+            "Thunder",
+            49
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            17
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Thunderbolt",
+            41
+        ],
+        [
+            "Thunder",
+            49
+        ]
+    ],
+    "crystal": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            17
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Thunderbolt",
+            41
+        ],
+        [
+            "Thunder",
+            49
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-shock",
+            7
+        ],
+        [
+            "Low-kick",
+            10
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Shock-wave",
+            19
+        ],
+        [
+            "Light-screen",
+            25
+        ],
+        [
+            "Thunder-punch",
+            28
+        ],
+        [
+            "Discharge",
+            34
+        ],
+        [
+            "Thunderbolt",
+            37
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Thunder",
+            46
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Thunder-punch",
+            9
+        ],
+        [
+            "Light-screen",
+            17
+        ],
+        [
+            "Swift",
+            25
+        ],
+        [
+            "Screech",
+            33
+        ],
+        [
+            "Thunderbolt",
+            41
+        ],
+        [
+            "Thunder",
+            49
+        ]
     ]
 }

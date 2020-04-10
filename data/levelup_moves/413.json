@@ -1,146 +1,532 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Sucker-punch learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47",
-        "Bug-buzz learnt at level 50"
+        [
+            "Quiver-dance",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Sucker-punch",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ],
+        [
+            "Bug-buzz",
+            50
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 1",
-        "Sucker-punch learnt at level 1",
-        "Bug-bite learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47",
-        "Bug-buzz learnt at level 50"
+        [
+            "Quiver-dance",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            1
+        ],
+        [
+            "Sucker-punch",
+            1
+        ],
+        [
+            "Bug-bite",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ],
+        [
+            "Bug-buzz",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 10",
-        "Bug-bite learnt at level 15",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Bug-bite",
+            15
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Protect learnt at level 10",
-        "Hidden-power learnt at level 20",
-        "Confusion learnt at level 23",
-        "Razor-leaf learnt at level 26",
-        "Growth learnt at level 29",
-        "Psybeam learnt at level 32",
-        "Captivate learnt at level 35",
-        "Flail learnt at level 38",
-        "Attract learnt at level 41",
-        "Psychic learnt at level 44",
-        "Leaf-storm learnt at level 47"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Protect",
+            10
+        ],
+        [
+            "Hidden-power",
+            20
+        ],
+        [
+            "Confusion",
+            23
+        ],
+        [
+            "Razor-leaf",
+            26
+        ],
+        [
+            "Growth",
+            29
+        ],
+        [
+            "Psybeam",
+            32
+        ],
+        [
+            "Captivate",
+            35
+        ],
+        [
+            "Flail",
+            38
+        ],
+        [
+            "Attract",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Leaf-storm",
+            47
+        ]
     ]
 }

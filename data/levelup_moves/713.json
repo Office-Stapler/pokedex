@@ -1,95 +1,358 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Body-slam learnt at level 1",
-        "Bite learnt at level 1",
-        "Harden learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Crunch learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Wide-guard learnt at level 1",
-        "Powder-snow learnt at level 5",
-        "Icy-wind learnt at level 10",
-        "Take-down learnt at level 15",
-        "Sharpen learnt at level 20",
-        "Curse learnt at level 22",
-        "Ice-fang learnt at level 26",
-        "Ice-ball learnt at level 30",
-        "Rapid-spin learnt at level 35",
-        "Avalanche learnt at level 42",
-        "Blizzard learnt at level 46",
-        "Recover learnt at level 51",
-        "Double-edge learnt at level 56",
-        "Skull-bash learnt at level 60",
-        "Crunch learnt at level 65"
+        [
+            "Body-slam",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Body-slam",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Wide-guard",
+            1
+        ],
+        [
+            "Powder-snow",
+            5
+        ],
+        [
+            "Icy-wind",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Sharpen",
+            20
+        ],
+        [
+            "Curse",
+            22
+        ],
+        [
+            "Ice-fang",
+            26
+        ],
+        [
+            "Ice-ball",
+            30
+        ],
+        [
+            "Rapid-spin",
+            35
+        ],
+        [
+            "Avalanche",
+            42
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Recover",
+            51
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Skull-bash",
+            60
+        ],
+        [
+            "Crunch",
+            65
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Body-slam learnt at level 1",
-        "Bite learnt at level 1",
-        "Harden learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Crunch learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Powder-snow learnt at level 5",
-        "Icy-wind learnt at level 10",
-        "Take-down learnt at level 15",
-        "Sharpen learnt at level 20",
-        "Curse learnt at level 22",
-        "Ice-fang learnt at level 26",
-        "Ice-ball learnt at level 30",
-        "Rapid-spin learnt at level 35",
-        "Avalanche learnt at level 42",
-        "Blizzard learnt at level 46",
-        "Recover learnt at level 51",
-        "Double-edge learnt at level 56",
-        "Skull-bash learnt at level 60",
-        "Crunch learnt at level 65"
+        [
+            "Body-slam",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Body-slam",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Powder-snow",
+            5
+        ],
+        [
+            "Icy-wind",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Sharpen",
+            20
+        ],
+        [
+            "Curse",
+            22
+        ],
+        [
+            "Ice-fang",
+            26
+        ],
+        [
+            "Ice-ball",
+            30
+        ],
+        [
+            "Rapid-spin",
+            35
+        ],
+        [
+            "Avalanche",
+            42
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Recover",
+            51
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Skull-bash",
+            60
+        ],
+        [
+            "Crunch",
+            65
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Harden learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Crunch learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Powder-snow learnt at level 5",
-        "Icy-wind learnt at level 10",
-        "Take-down learnt at level 15",
-        "Sharpen learnt at level 20",
-        "Curse learnt at level 22",
-        "Ice-fang learnt at level 26",
-        "Ice-ball learnt at level 30",
-        "Rapid-spin learnt at level 35",
-        "Avalanche learnt at level 42",
-        "Blizzard learnt at level 46",
-        "Recover learnt at level 51",
-        "Double-edge learnt at level 56",
-        "Skull-bash learnt at level 60",
-        "Crunch learnt at level 65"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Powder-snow",
+            5
+        ],
+        [
+            "Icy-wind",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Sharpen",
+            20
+        ],
+        [
+            "Curse",
+            22
+        ],
+        [
+            "Ice-fang",
+            26
+        ],
+        [
+            "Ice-ball",
+            30
+        ],
+        [
+            "Rapid-spin",
+            35
+        ],
+        [
+            "Avalanche",
+            42
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Recover",
+            51
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Skull-bash",
+            60
+        ],
+        [
+            "Crunch",
+            65
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Harden learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Crunch learnt at level 1",
-        "Iron-defense learnt at level 1",
-        "Powder-snow learnt at level 5",
-        "Icy-wind learnt at level 10",
-        "Take-down learnt at level 15",
-        "Sharpen learnt at level 20",
-        "Curse learnt at level 22",
-        "Ice-fang learnt at level 26",
-        "Ice-ball learnt at level 30",
-        "Rapid-spin learnt at level 35",
-        "Avalanche learnt at level 42",
-        "Blizzard learnt at level 46",
-        "Recover learnt at level 51",
-        "Double-edge learnt at level 56",
-        "Skull-bash learnt at level 60",
-        "Crunch learnt at level 65"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Iron-defense",
+            1
+        ],
+        [
+            "Powder-snow",
+            5
+        ],
+        [
+            "Icy-wind",
+            10
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Sharpen",
+            20
+        ],
+        [
+            "Curse",
+            22
+        ],
+        [
+            "Ice-fang",
+            26
+        ],
+        [
+            "Ice-ball",
+            30
+        ],
+        [
+            "Rapid-spin",
+            35
+        ],
+        [
+            "Avalanche",
+            42
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Recover",
+            51
+        ],
+        [
+            "Double-edge",
+            56
+        ],
+        [
+            "Skull-bash",
+            60
+        ],
+        [
+            "Crunch",
+            65
+        ]
     ]
 }

@@ -1,90 +1,246 @@
 {
     "ultra-sun-ultra-moon": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "sun-moon": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "x-y": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "black-2-white-2": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "xd": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "colosseum": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "black-white": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "heartgold-soulsilver": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "platinum": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "diamond-pearl": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "firered-leafgreen": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "emerald": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "ruby-sapphire": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "crystal": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "gold-silver": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15",
-        "Flail learnt at level 30"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ],
+        [
+            "Flail",
+            30
+        ]
     ],
     "yellow": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ]
     ],
     "red-blue": [
-        "Splash learnt at level 1",
-        "Tackle learnt at level 15"
+        [
+            "Splash",
+            1
+        ],
+        [
+            "Tackle",
+            15
+        ]
     ]
 }

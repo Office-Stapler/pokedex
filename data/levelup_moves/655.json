@@ -1,104 +1,394 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Shadow-ball learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Role-play learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Ember learnt at level 5",
-        "Howl learnt at level 11",
-        "Flame-charge learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Fire-spin learnt at level 22",
-        "Lucky-chant learnt at level 27",
-        "Light-screen learnt at level 30",
-        "Psyshock learnt at level 34",
-        "Mystical-fire learnt at level 36",
-        "Flamethrower learnt at level 42",
-        "Will-o-wisp learnt at level 47",
-        "Psychic learnt at level 51",
-        "Sunny-day learnt at level 55",
-        "Magic-room learnt at level 58",
-        "Fire-blast learnt at level 61",
-        "Future-sight learnt at level 69",
-        "Mystical-fire learnt at level 75"
-    ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Ember learnt at level 1",
-        "Shadow-ball learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Role-play learnt at level 1",
-        "Howl learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Mystical-fire learnt at level 1",
-        "Ember learnt at level 5",
-        "Howl learnt at level 11",
-        "Flame-charge learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Fire-spin learnt at level 22",
-        "Lucky-chant learnt at level 28",
-        "Light-screen learnt at level 31",
-        "Psyshock learnt at level 38",
-        "Flamethrower learnt at level 45",
-        "Will-o-wisp learnt at level 51",
-        "Psychic learnt at level 57",
-        "Sunny-day learnt at level 62",
-        "Magic-room learnt at level 68",
-        "Fire-blast learnt at level 74",
-        "Future-sight learnt at level 80"
+        [
+            "Mystical-fire",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Shadow-ball",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Role-play",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Mystical-fire",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Howl",
+            11
+        ],
+        [
+            "Flame-charge",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Fire-spin",
+            22
+        ],
+        [
+            "Lucky-chant",
+            28
+        ],
+        [
+            "Light-screen",
+            31
+        ],
+        [
+            "Psyshock",
+            38
+        ],
+        [
+            "Flamethrower",
+            45
+        ],
+        [
+            "Will-o-wisp",
+            51
+        ],
+        [
+            "Psychic",
+            57
+        ],
+        [
+            "Sunny-day",
+            62
+        ],
+        [
+            "Magic-room",
+            68
+        ],
+        [
+            "Fire-blast",
+            74
+        ],
+        [
+            "Future-sight",
+            80
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Ember learnt at level 1",
-        "Shadow-ball learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Role-play learnt at level 1",
-        "Howl learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Mystical-fire learnt at level 1",
-        "Ember learnt at level 5",
-        "Howl learnt at level 11",
-        "Flame-charge learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Fire-spin learnt at level 22",
-        "Lucky-chant learnt at level 28",
-        "Light-screen learnt at level 31",
-        "Psyshock learnt at level 38",
-        "Flamethrower learnt at level 45",
-        "Will-o-wisp learnt at level 51",
-        "Psychic learnt at level 57",
-        "Sunny-day learnt at level 62",
-        "Magic-room learnt at level 68",
-        "Fire-blast learnt at level 74",
-        "Future-sight learnt at level 80"
+        [
+            "Mystical-fire",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Shadow-ball",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Role-play",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Mystical-fire",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Howl",
+            11
+        ],
+        [
+            "Flame-charge",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Fire-spin",
+            22
+        ],
+        [
+            "Lucky-chant",
+            28
+        ],
+        [
+            "Light-screen",
+            31
+        ],
+        [
+            "Psyshock",
+            38
+        ],
+        [
+            "Flamethrower",
+            45
+        ],
+        [
+            "Will-o-wisp",
+            51
+        ],
+        [
+            "Psychic",
+            57
+        ],
+        [
+            "Sunny-day",
+            62
+        ],
+        [
+            "Magic-room",
+            68
+        ],
+        [
+            "Fire-blast",
+            74
+        ],
+        [
+            "Future-sight",
+            80
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Shadow-ball",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Role-play",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Howl",
+            11
+        ],
+        [
+            "Flame-charge",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Fire-spin",
+            22
+        ],
+        [
+            "Lucky-chant",
+            27
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Psyshock",
+            34
+        ],
+        [
+            "Mystical-fire",
+            36
+        ],
+        [
+            "Flamethrower",
+            42
+        ],
+        [
+            "Will-o-wisp",
+            47
+        ],
+        [
+            "Psychic",
+            51
+        ],
+        [
+            "Sunny-day",
+            55
+        ],
+        [
+            "Magic-room",
+            58
+        ],
+        [
+            "Fire-blast",
+            61
+        ],
+        [
+            "Future-sight",
+            69
+        ],
+        [
+            "Mystical-fire",
+            75
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Shadow-ball learnt at level 1",
-        "Future-sight learnt at level 1",
-        "Role-play learnt at level 1",
-        "Switcheroo learnt at level 1",
-        "Ember learnt at level 5",
-        "Howl learnt at level 11",
-        "Flame-charge learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Fire-spin learnt at level 22",
-        "Lucky-chant learnt at level 27",
-        "Light-screen learnt at level 30",
-        "Psyshock learnt at level 34",
-        "Mystical-fire learnt at level 36",
-        "Flamethrower learnt at level 42",
-        "Will-o-wisp learnt at level 47",
-        "Psychic learnt at level 51",
-        "Sunny-day learnt at level 55",
-        "Magic-room learnt at level 58",
-        "Fire-blast learnt at level 61",
-        "Future-sight learnt at level 69",
-        "Mystical-fire learnt at level 75"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Shadow-ball",
+            1
+        ],
+        [
+            "Future-sight",
+            1
+        ],
+        [
+            "Role-play",
+            1
+        ],
+        [
+            "Switcheroo",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Howl",
+            11
+        ],
+        [
+            "Flame-charge",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Fire-spin",
+            22
+        ],
+        [
+            "Lucky-chant",
+            27
+        ],
+        [
+            "Light-screen",
+            30
+        ],
+        [
+            "Psyshock",
+            34
+        ],
+        [
+            "Mystical-fire",
+            36
+        ],
+        [
+            "Flamethrower",
+            42
+        ],
+        [
+            "Will-o-wisp",
+            47
+        ],
+        [
+            "Psychic",
+            51
+        ],
+        [
+            "Sunny-day",
+            55
+        ],
+        [
+            "Magic-room",
+            58
+        ],
+        [
+            "Fire-blast",
+            61
+        ],
+        [
+            "Future-sight",
+            69
+        ],
+        [
+            "Mystical-fire",
+            75
+        ]
     ]
 }

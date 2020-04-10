@@ -1,252 +1,894 @@
 {
     "red-blue": [
-        "Comet-punch learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 26",
-        "Tail-whip learnt at level 31",
-        "Mega-punch learnt at level 36",
-        "Leer learnt at level 41",
-        "Dizzy-punch learnt at level 46"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            26
+        ],
+        [
+            "Tail-whip",
+            31
+        ],
+        [
+            "Mega-punch",
+            36
+        ],
+        [
+            "Leer",
+            41
+        ],
+        [
+            "Dizzy-punch",
+            46
+        ]
     ],
     "yellow": [
-        "Comet-punch learnt at level 1",
-        "Rage learnt at level 1",
-        "Bite learnt at level 26",
-        "Tail-whip learnt at level 31",
-        "Mega-punch learnt at level 36",
-        "Leer learnt at level 41",
-        "Dizzy-punch learnt at level 46"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Bite",
+            26
+        ],
+        [
+            "Tail-whip",
+            31
+        ],
+        [
+            "Mega-punch",
+            36
+        ],
+        [
+            "Leer",
+            41
+        ],
+        [
+            "Dizzy-punch",
+            46
+        ]
     ],
     "gold-silver": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 7",
-        "Bite learnt at level 13",
-        "Tail-whip learnt at level 19",
-        "Mega-punch learnt at level 25",
-        "Rage learnt at level 31",
-        "Endure learnt at level 37",
-        "Dizzy-punch learnt at level 43",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Tail-whip",
+            19
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Rage",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Dizzy-punch",
+            43
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "crystal": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 7",
-        "Bite learnt at level 13",
-        "Tail-whip learnt at level 19",
-        "Mega-punch learnt at level 25",
-        "Rage learnt at level 31",
-        "Endure learnt at level 37",
-        "Dizzy-punch learnt at level 43",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            7
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Tail-whip",
+            19
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Rage",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Dizzy-punch",
+            43
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 7",
-        "Tail-whip learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Mega-punch learnt at level 25",
-        "Rage learnt at level 31",
-        "Endure learnt at level 37",
-        "Dizzy-punch learnt at level 43",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Tail-whip",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Rage",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Dizzy-punch",
+            43
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "emerald": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 7",
-        "Tail-whip learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Mega-punch learnt at level 25",
-        "Rage learnt at level 31",
-        "Endure learnt at level 37",
-        "Dizzy-punch learnt at level 43",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Tail-whip",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Rage",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Dizzy-punch",
+            43
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "firered-leafgreen": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 7",
-        "Tail-whip learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Mega-punch learnt at level 25",
-        "Rage learnt at level 31",
-        "Endure learnt at level 37",
-        "Dizzy-punch learnt at level 43",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Tail-whip",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Rage",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Dizzy-punch",
+            43
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Mega-punch learnt at level 19",
-        "Rage learnt at level 22",
-        "Dizzy-punch learnt at level 25",
-        "Crunch learnt at level 31",
-        "Endure learnt at level 34",
-        "Outrage learnt at level 37",
-        "Double-hit learnt at level 43",
-        "Sucker-punch learnt at level 46",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Mega-punch",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Dizzy-punch",
+            25
+        ],
+        [
+            "Crunch",
+            31
+        ],
+        [
+            "Endure",
+            34
+        ],
+        [
+            "Outrage",
+            37
+        ],
+        [
+            "Double-hit",
+            43
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "platinum": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Mega-punch learnt at level 19",
-        "Rage learnt at level 22",
-        "Dizzy-punch learnt at level 25",
-        "Crunch learnt at level 31",
-        "Endure learnt at level 34",
-        "Outrage learnt at level 37",
-        "Double-hit learnt at level 43",
-        "Sucker-punch learnt at level 46",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Mega-punch",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Dizzy-punch",
+            25
+        ],
+        [
+            "Crunch",
+            31
+        ],
+        [
+            "Endure",
+            34
+        ],
+        [
+            "Outrage",
+            37
+        ],
+        [
+            "Double-hit",
+            43
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "heartgold-soulsilver": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Mega-punch learnt at level 19",
-        "Rage learnt at level 22",
-        "Dizzy-punch learnt at level 25",
-        "Crunch learnt at level 31",
-        "Endure learnt at level 34",
-        "Outrage learnt at level 37",
-        "Double-hit learnt at level 43",
-        "Sucker-punch learnt at level 46",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Mega-punch",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Dizzy-punch",
+            25
+        ],
+        [
+            "Crunch",
+            31
+        ],
+        [
+            "Endure",
+            34
+        ],
+        [
+            "Outrage",
+            37
+        ],
+        [
+            "Double-hit",
+            43
+        ],
+        [
+            "Sucker-punch",
+            46
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "black-white": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Double-hit learnt at level 19",
-        "Rage learnt at level 22",
-        "Mega-punch learnt at level 25",
-        "Chip-away learnt at level 31",
-        "Dizzy-punch learnt at level 34",
-        "Crunch learnt at level 37",
-        "Endure learnt at level 43",
-        "Outrage learnt at level 46",
-        "Sucker-punch learnt at level 49",
-        "Reversal learnt at level 55"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Double-hit",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Dizzy-punch",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Endure",
+            43
+        ],
+        [
+            "Outrage",
+            46
+        ],
+        [
+            "Sucker-punch",
+            49
+        ],
+        [
+            "Reversal",
+            55
+        ]
     ],
     "colosseum": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 7",
-        "Tail-whip learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Mega-punch learnt at level 25",
-        "Rage learnt at level 31",
-        "Endure learnt at level 37",
-        "Dizzy-punch learnt at level 43",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Tail-whip",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Rage",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Dizzy-punch",
+            43
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "xd": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Bite learnt at level 7",
-        "Tail-whip learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Mega-punch learnt at level 25",
-        "Rage learnt at level 31",
-        "Endure learnt at level 37",
-        "Dizzy-punch learnt at level 43",
-        "Reversal learnt at level 49"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Tail-whip",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Rage",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Dizzy-punch",
+            43
+        ],
+        [
+            "Reversal",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Double-hit learnt at level 19",
-        "Rage learnt at level 22",
-        "Mega-punch learnt at level 25",
-        "Chip-away learnt at level 31",
-        "Dizzy-punch learnt at level 34",
-        "Crunch learnt at level 37",
-        "Endure learnt at level 43",
-        "Outrage learnt at level 46",
-        "Sucker-punch learnt at level 49",
-        "Reversal learnt at level 55"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Double-hit",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Dizzy-punch",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Endure",
+            43
+        ],
+        [
+            "Outrage",
+            46
+        ],
+        [
+            "Sucker-punch",
+            49
+        ],
+        [
+            "Reversal",
+            55
+        ]
     ],
     "x-y": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Double-hit learnt at level 19",
-        "Rage learnt at level 22",
-        "Mega-punch learnt at level 25",
-        "Chip-away learnt at level 31",
-        "Dizzy-punch learnt at level 34",
-        "Crunch learnt at level 37",
-        "Endure learnt at level 43",
-        "Outrage learnt at level 46",
-        "Sucker-punch learnt at level 49",
-        "Reversal learnt at level 50"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Double-hit",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Dizzy-punch",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Endure",
+            43
+        ],
+        [
+            "Outrage",
+            46
+        ],
+        [
+            "Sucker-punch",
+            49
+        ],
+        [
+            "Reversal",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Double-hit learnt at level 19",
-        "Rage learnt at level 22",
-        "Mega-punch learnt at level 25",
-        "Chip-away learnt at level 31",
-        "Dizzy-punch learnt at level 34",
-        "Crunch learnt at level 37",
-        "Endure learnt at level 43",
-        "Outrage learnt at level 46",
-        "Sucker-punch learnt at level 49",
-        "Reversal learnt at level 50"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Double-hit",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Dizzy-punch",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Endure",
+            43
+        ],
+        [
+            "Outrage",
+            46
+        ],
+        [
+            "Sucker-punch",
+            49
+        ],
+        [
+            "Reversal",
+            50
+        ]
     ],
     "sun-moon": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Double-hit learnt at level 19",
-        "Rage learnt at level 22",
-        "Mega-punch learnt at level 25",
-        "Chip-away learnt at level 31",
-        "Dizzy-punch learnt at level 34",
-        "Crunch learnt at level 37",
-        "Endure learnt at level 43",
-        "Outrage learnt at level 46",
-        "Sucker-punch learnt at level 49",
-        "Reversal learnt at level 50"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Double-hit",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Dizzy-punch",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Endure",
+            43
+        ],
+        [
+            "Outrage",
+            46
+        ],
+        [
+            "Sucker-punch",
+            49
+        ],
+        [
+            "Reversal",
+            50
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Comet-punch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fake-out learnt at level 7",
-        "Tail-whip learnt at level 10",
-        "Bite learnt at level 13",
-        "Double-hit learnt at level 19",
-        "Rage learnt at level 22",
-        "Mega-punch learnt at level 25",
-        "Chip-away learnt at level 31",
-        "Dizzy-punch learnt at level 34",
-        "Crunch learnt at level 37",
-        "Endure learnt at level 43",
-        "Outrage learnt at level 46",
-        "Sucker-punch learnt at level 49",
-        "Reversal learnt at level 50"
+        [
+            "Comet-punch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fake-out",
+            7
+        ],
+        [
+            "Tail-whip",
+            10
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Double-hit",
+            19
+        ],
+        [
+            "Rage",
+            22
+        ],
+        [
+            "Mega-punch",
+            25
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Dizzy-punch",
+            34
+        ],
+        [
+            "Crunch",
+            37
+        ],
+        [
+            "Endure",
+            43
+        ],
+        [
+            "Outrage",
+            46
+        ],
+        [
+            "Sucker-punch",
+            49
+        ],
+        [
+            "Reversal",
+            50
+        ]
     ]
 }

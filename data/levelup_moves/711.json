@@ -1,94 +1,346 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Confuse-ray learnt at level 1",
-        "Explosion learnt at level 1",
-        "Trick learnt at level 1",
-        "Astonish learnt at level 1",
-        "Phantom-force learnt at level 1",
-        "Scary-face learnt at level 4",
-        "Trick-or-treat learnt at level 6",
-        "Worry-seed learnt at level 11",
-        "Razor-leaf learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Trick-or-treat learnt at level 23",
-        "Bullet-seed learnt at level 26",
-        "Shadow-sneak learnt at level 30",
-        "Shadow-ball learnt at level 36",
-        "Trick-or-treat learnt at level 40",
-        "Pain-split learnt at level 42",
-        "Seed-bomb learnt at level 48",
-        "Phantom-force learnt at level 57",
-        "Trick-or-treat learnt at level 63",
-        "Shadow-ball learnt at level 70",
-        "Explosion learnt at level 75"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Trick",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Phantom-force",
+            1
+        ],
+        [
+            "Scary-face",
+            4
+        ],
+        [
+            "Trick-or-treat",
+            6
+        ],
+        [
+            "Worry-seed",
+            11
+        ],
+        [
+            "Razor-leaf",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Trick-or-treat",
+            23
+        ],
+        [
+            "Bullet-seed",
+            26
+        ],
+        [
+            "Shadow-sneak",
+            30
+        ],
+        [
+            "Shadow-ball",
+            36
+        ],
+        [
+            "Trick-or-treat",
+            40
+        ],
+        [
+            "Pain-split",
+            42
+        ],
+        [
+            "Seed-bomb",
+            48
+        ],
+        [
+            "Phantom-force",
+            57
+        ],
+        [
+            "Trick-or-treat",
+            63
+        ],
+        [
+            "Shadow-ball",
+            70
+        ],
+        [
+            "Explosion",
+            75
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Confuse-ray learnt at level 1",
-        "Explosion learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Trick learnt at level 1",
-        "Astonish learnt at level 1",
-        "Phantom-force learnt at level 1",
-        "Scary-face learnt at level 4",
-        "Trick-or-treat learnt at level 6",
-        "Worry-seed learnt at level 11",
-        "Razor-leaf learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Trick-or-treat learnt at level 23",
-        "Bullet-seed learnt at level 26",
-        "Shadow-sneak learnt at level 30",
-        "Shadow-ball learnt at level 36",
-        "Trick-or-treat learnt at level 40",
-        "Pain-split learnt at level 42",
-        "Seed-bomb learnt at level 48",
-        "Phantom-force learnt at level 57",
-        "Trick-or-treat learnt at level 63",
-        "Explosion learnt at level 70"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Trick",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Phantom-force",
+            1
+        ],
+        [
+            "Scary-face",
+            4
+        ],
+        [
+            "Trick-or-treat",
+            6
+        ],
+        [
+            "Worry-seed",
+            11
+        ],
+        [
+            "Razor-leaf",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Trick-or-treat",
+            23
+        ],
+        [
+            "Bullet-seed",
+            26
+        ],
+        [
+            "Shadow-sneak",
+            30
+        ],
+        [
+            "Shadow-ball",
+            36
+        ],
+        [
+            "Trick-or-treat",
+            40
+        ],
+        [
+            "Pain-split",
+            42
+        ],
+        [
+            "Seed-bomb",
+            48
+        ],
+        [
+            "Phantom-force",
+            57
+        ],
+        [
+            "Trick-or-treat",
+            63
+        ],
+        [
+            "Explosion",
+            70
+        ]
     ],
     "sun-moon": [
-        "Confuse-ray learnt at level 1",
-        "Explosion learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Trick learnt at level 1",
-        "Astonish learnt at level 1",
-        "Phantom-force learnt at level 1",
-        "Scary-face learnt at level 4",
-        "Trick-or-treat learnt at level 6",
-        "Worry-seed learnt at level 11",
-        "Razor-leaf learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Trick-or-treat learnt at level 23",
-        "Bullet-seed learnt at level 26",
-        "Shadow-sneak learnt at level 30",
-        "Shadow-ball learnt at level 36",
-        "Trick-or-treat learnt at level 40",
-        "Pain-split learnt at level 42",
-        "Seed-bomb learnt at level 48",
-        "Phantom-force learnt at level 57",
-        "Trick-or-treat learnt at level 63",
-        "Explosion learnt at level 70"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Trick",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Phantom-force",
+            1
+        ],
+        [
+            "Scary-face",
+            4
+        ],
+        [
+            "Trick-or-treat",
+            6
+        ],
+        [
+            "Worry-seed",
+            11
+        ],
+        [
+            "Razor-leaf",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Trick-or-treat",
+            23
+        ],
+        [
+            "Bullet-seed",
+            26
+        ],
+        [
+            "Shadow-sneak",
+            30
+        ],
+        [
+            "Shadow-ball",
+            36
+        ],
+        [
+            "Trick-or-treat",
+            40
+        ],
+        [
+            "Pain-split",
+            42
+        ],
+        [
+            "Seed-bomb",
+            48
+        ],
+        [
+            "Phantom-force",
+            57
+        ],
+        [
+            "Trick-or-treat",
+            63
+        ],
+        [
+            "Explosion",
+            70
+        ]
     ],
     "x-y": [
-        "Confuse-ray learnt at level 1",
-        "Explosion learnt at level 1",
-        "Trick learnt at level 1",
-        "Astonish learnt at level 1",
-        "Phantom-force learnt at level 1",
-        "Scary-face learnt at level 4",
-        "Trick-or-treat learnt at level 6",
-        "Worry-seed learnt at level 11",
-        "Razor-leaf learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Trick-or-treat learnt at level 23",
-        "Bullet-seed learnt at level 26",
-        "Shadow-sneak learnt at level 30",
-        "Shadow-ball learnt at level 36",
-        "Trick-or-treat learnt at level 40",
-        "Pain-split learnt at level 42",
-        "Seed-bomb learnt at level 48",
-        "Phantom-force learnt at level 57",
-        "Trick-or-treat learnt at level 63",
-        "Shadow-ball learnt at level 70",
-        "Explosion learnt at level 75"
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Trick",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Phantom-force",
+            1
+        ],
+        [
+            "Scary-face",
+            4
+        ],
+        [
+            "Trick-or-treat",
+            6
+        ],
+        [
+            "Worry-seed",
+            11
+        ],
+        [
+            "Razor-leaf",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Trick-or-treat",
+            23
+        ],
+        [
+            "Bullet-seed",
+            26
+        ],
+        [
+            "Shadow-sneak",
+            30
+        ],
+        [
+            "Shadow-ball",
+            36
+        ],
+        [
+            "Trick-or-treat",
+            40
+        ],
+        [
+            "Pain-split",
+            42
+        ],
+        [
+            "Seed-bomb",
+            48
+        ],
+        [
+            "Phantom-force",
+            57
+        ],
+        [
+            "Trick-or-treat",
+            63
+        ],
+        [
+            "Shadow-ball",
+            70
+        ],
+        [
+            "Explosion",
+            75
+        ]
     ]
 }

@@ -1,116 +1,422 @@
 {
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Confusion learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Assurance learnt at level 1",
-        "Odor-sleuth learnt at level 4",
-        "Gust learnt at level 8",
-        "Assurance learnt at level 12",
-        "Heart-stamp learnt at level 15",
-        "Imprison learnt at level 19",
-        "Air-cutter learnt at level 21",
-        "Attract learnt at level 25",
-        "Amnesia learnt at level 29",
-        "Calm-mind learnt at level 29",
-        "Air-slash learnt at level 32",
-        "Future-sight learnt at level 36",
-        "Psychic learnt at level 41",
-        "Endeavor learnt at level 47"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            4
+        ],
+        [
+            "Gust",
+            8
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Heart-stamp",
+            15
+        ],
+        [
+            "Imprison",
+            19
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Attract",
+            25
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Calm-mind",
+            29
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Endeavor",
+            47
+        ]
     ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Confusion learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Assurance learnt at level 1",
-        "Odor-sleuth learnt at level 4",
-        "Gust learnt at level 8",
-        "Assurance learnt at level 12",
-        "Heart-stamp learnt at level 15",
-        "Imprison learnt at level 19",
-        "Air-cutter learnt at level 21",
-        "Attract learnt at level 25",
-        "Amnesia learnt at level 29",
-        "Calm-mind learnt at level 29",
-        "Air-slash learnt at level 32",
-        "Future-sight learnt at level 36",
-        "Psychic learnt at level 41",
-        "Endeavor learnt at level 47"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            4
+        ],
+        [
+            "Gust",
+            8
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Heart-stamp",
+            15
+        ],
+        [
+            "Imprison",
+            19
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Attract",
+            25
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Calm-mind",
+            29
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Endeavor",
+            47
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Confusion learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Assurance learnt at level 1",
-        "Odor-sleuth learnt at level 4",
-        "Gust learnt at level 8",
-        "Assurance learnt at level 12",
-        "Heart-stamp learnt at level 15",
-        "Imprison learnt at level 19",
-        "Air-cutter learnt at level 21",
-        "Attract learnt at level 25",
-        "Amnesia learnt at level 29",
-        "Calm-mind learnt at level 29",
-        "Air-slash learnt at level 32",
-        "Future-sight learnt at level 36",
-        "Psychic learnt at level 41",
-        "Endeavor learnt at level 47"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            4
+        ],
+        [
+            "Gust",
+            8
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Heart-stamp",
+            15
+        ],
+        [
+            "Imprison",
+            19
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Attract",
+            25
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Calm-mind",
+            29
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Endeavor",
+            47
+        ]
     ],
     "x-y": [
-        "Gust learnt at level 1",
-        "Confusion learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Assurance learnt at level 1",
-        "Odor-sleuth learnt at level 4",
-        "Gust learnt at level 8",
-        "Assurance learnt at level 12",
-        "Heart-stamp learnt at level 15",
-        "Imprison learnt at level 19",
-        "Air-cutter learnt at level 21",
-        "Attract learnt at level 25",
-        "Amnesia learnt at level 29",
-        "Calm-mind learnt at level 29",
-        "Air-slash learnt at level 32",
-        "Future-sight learnt at level 36",
-        "Psychic learnt at level 41",
-        "Endeavor learnt at level 47"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            4
+        ],
+        [
+            "Gust",
+            8
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Heart-stamp",
+            15
+        ],
+        [
+            "Imprison",
+            19
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Attract",
+            25
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Calm-mind",
+            29
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Endeavor",
+            47
+        ]
     ],
     "black-2-white-2": [
-        "Gust learnt at level 1",
-        "Confusion learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Assurance learnt at level 1",
-        "Odor-sleuth learnt at level 4",
-        "Gust learnt at level 8",
-        "Assurance learnt at level 12",
-        "Heart-stamp learnt at level 15",
-        "Imprison learnt at level 19",
-        "Air-cutter learnt at level 21",
-        "Attract learnt at level 25",
-        "Amnesia learnt at level 29",
-        "Calm-mind learnt at level 29",
-        "Air-slash learnt at level 32",
-        "Future-sight learnt at level 36",
-        "Psychic learnt at level 41",
-        "Endeavor learnt at level 47"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            4
+        ],
+        [
+            "Gust",
+            8
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Heart-stamp",
+            15
+        ],
+        [
+            "Imprison",
+            19
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Attract",
+            25
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Calm-mind",
+            29
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Endeavor",
+            47
+        ]
     ],
     "black-white": [
-        "Gust learnt at level 1",
-        "Confusion learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Assurance learnt at level 1",
-        "Odor-sleuth learnt at level 4",
-        "Gust learnt at level 8",
-        "Assurance learnt at level 12",
-        "Heart-stamp learnt at level 15",
-        "Imprison learnt at level 19",
-        "Air-cutter learnt at level 21",
-        "Attract learnt at level 25",
-        "Amnesia learnt at level 29",
-        "Calm-mind learnt at level 29",
-        "Air-slash learnt at level 32",
-        "Future-sight learnt at level 36",
-        "Psychic learnt at level 41",
-        "Endeavor learnt at level 47"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Assurance",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            4
+        ],
+        [
+            "Gust",
+            8
+        ],
+        [
+            "Assurance",
+            12
+        ],
+        [
+            "Heart-stamp",
+            15
+        ],
+        [
+            "Imprison",
+            19
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Attract",
+            25
+        ],
+        [
+            "Amnesia",
+            29
+        ],
+        [
+            "Calm-mind",
+            29
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Endeavor",
+            47
+        ]
     ]
 }

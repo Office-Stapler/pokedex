@@ -1,311 +1,1138 @@
 {
     "red-blue": [
-        "Karate-chop learnt at level 1",
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Fury-swipes learnt at level 1",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Seismic-toss learnt at level 37",
-        "Thrash learnt at level 46"
+        [
+            "Karate-chop",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fury-swipes",
+            1
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Thrash",
+            46
+        ]
     ],
     "yellow": [
-        "Karate-chop learnt at level 1",
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Low-kick learnt at level 9",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Rage learnt at level 28",
-        "Seismic-toss learnt at level 37",
-        "Screech learnt at level 45",
-        "Thrash learnt at level 46"
+        [
+            "Karate-chop",
+            1
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Screech",
+            45
+        ],
+        [
+            "Thrash",
+            46
+        ]
     ],
     "gold-silver": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Low-kick learnt at level 9",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Rage learnt at level 28",
-        "Seismic-toss learnt at level 36",
-        "Cross-chop learnt at level 45",
-        "Screech learnt at level 54",
-        "Thrash learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Seismic-toss",
+            36
+        ],
+        [
+            "Cross-chop",
+            45
+        ],
+        [
+            "Screech",
+            54
+        ],
+        [
+            "Thrash",
+            63
+        ]
     ],
     "crystal": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Low-kick learnt at level 9",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Rage learnt at level 28",
-        "Seismic-toss learnt at level 36",
-        "Cross-chop learnt at level 45",
-        "Screech learnt at level 54",
-        "Thrash learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Seismic-toss",
+            36
+        ],
+        [
+            "Cross-chop",
+            45
+        ],
+        [
+            "Screech",
+            54
+        ],
+        [
+            "Thrash",
+            63
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Low-kick learnt at level 9",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Rage learnt at level 28",
-        "Seismic-toss learnt at level 36",
-        "Cross-chop learnt at level 45",
-        "Screech learnt at level 54",
-        "Thrash learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Seismic-toss",
+            36
+        ],
+        [
+            "Cross-chop",
+            45
+        ],
+        [
+            "Screech",
+            54
+        ],
+        [
+            "Thrash",
+            63
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Low-kick learnt at level 9",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Rage learnt at level 28",
-        "Seismic-toss learnt at level 36",
-        "Cross-chop learnt at level 45",
-        "Screech learnt at level 54",
-        "Thrash learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Seismic-toss",
+            36
+        ],
+        [
+            "Cross-chop",
+            45
+        ],
+        [
+            "Screech",
+            54
+        ],
+        [
+            "Thrash",
+            63
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Low-kick learnt at level 6",
-        "Karate-chop learnt at level 11",
-        "Fury-swipes learnt at level 16",
-        "Focus-energy learnt at level 21",
-        "Seismic-toss learnt at level 26",
-        "Rage learnt at level 28",
-        "Cross-chop learnt at level 35",
-        "Swagger learnt at level 44",
-        "Screech learnt at level 53",
-        "Thrash learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Low-kick",
+            6
+        ],
+        [
+            "Karate-chop",
+            11
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Seismic-toss",
+            26
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Cross-chop",
+            35
+        ],
+        [
+            "Swagger",
+            44
+        ],
+        [
+            "Screech",
+            53
+        ],
+        [
+            "Thrash",
+            62
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Fury-swipes learnt at level 9",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 17",
-        "Screech learnt at level 21",
-        "Assurance learnt at level 25",
-        "Rage learnt at level 28",
-        "Swagger learnt at level 35",
-        "Cross-chop learnt at level 41",
-        "Thrash learnt at level 47",
-        "Punishment learnt at level 53",
-        "Close-combat learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            17
+        ],
+        [
+            "Screech",
+            21
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Swagger",
+            35
+        ],
+        [
+            "Cross-chop",
+            41
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Fury-swipes learnt at level 9",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 17",
-        "Screech learnt at level 21",
-        "Assurance learnt at level 25",
-        "Rage learnt at level 28",
-        "Swagger learnt at level 35",
-        "Cross-chop learnt at level 41",
-        "Thrash learnt at level 47",
-        "Punishment learnt at level 53",
-        "Close-combat learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            17
+        ],
+        [
+            "Screech",
+            21
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Swagger",
+            35
+        ],
+        [
+            "Cross-chop",
+            41
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Fury-swipes learnt at level 9",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 17",
-        "Screech learnt at level 21",
-        "Assurance learnt at level 25",
-        "Rage learnt at level 28",
-        "Swagger learnt at level 35",
-        "Cross-chop learnt at level 41",
-        "Thrash learnt at level 47",
-        "Punishment learnt at level 53",
-        "Close-combat learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            17
+        ],
+        [
+            "Screech",
+            21
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Swagger",
+            35
+        ],
+        [
+            "Cross-chop",
+            41
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Fury-swipes learnt at level 9",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 17",
-        "Screech learnt at level 21",
-        "Assurance learnt at level 25",
-        "Rage learnt at level 28",
-        "Swagger learnt at level 35",
-        "Cross-chop learnt at level 41",
-        "Thrash learnt at level 47",
-        "Punishment learnt at level 53",
-        "Close-combat learnt at level 59",
-        "Final-gambit learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            17
+        ],
+        [
+            "Screech",
+            21
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Swagger",
+            35
+        ],
+        [
+            "Cross-chop",
+            41
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ],
+        [
+            "Final-gambit",
+            63
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Low-kick learnt at level 9",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Rage learnt at level 28",
-        "Seismic-toss learnt at level 36",
-        "Cross-chop learnt at level 45",
-        "Screech learnt at level 54",
-        "Thrash learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Seismic-toss",
+            36
+        ],
+        [
+            "Cross-chop",
+            45
+        ],
+        [
+            "Screech",
+            54
+        ],
+        [
+            "Thrash",
+            63
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Low-kick learnt at level 9",
-        "Karate-chop learnt at level 15",
-        "Fury-swipes learnt at level 21",
-        "Focus-energy learnt at level 27",
-        "Rage learnt at level 28",
-        "Seismic-toss learnt at level 36",
-        "Cross-chop learnt at level 45",
-        "Screech learnt at level 54",
-        "Thrash learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Karate-chop",
+            15
+        ],
+        [
+            "Fury-swipes",
+            21
+        ],
+        [
+            "Focus-energy",
+            27
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Seismic-toss",
+            36
+        ],
+        [
+            "Cross-chop",
+            45
+        ],
+        [
+            "Screech",
+            54
+        ],
+        [
+            "Thrash",
+            63
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Fury-swipes learnt at level 9",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 17",
-        "Screech learnt at level 21",
-        "Assurance learnt at level 25",
-        "Rage learnt at level 28",
-        "Swagger learnt at level 35",
-        "Cross-chop learnt at level 41",
-        "Thrash learnt at level 47",
-        "Punishment learnt at level 53",
-        "Close-combat learnt at level 59",
-        "Final-gambit learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            17
+        ],
+        [
+            "Screech",
+            21
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Swagger",
+            35
+        ],
+        [
+            "Cross-chop",
+            41
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ],
+        [
+            "Final-gambit",
+            63
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Final-gambit learnt at level 1",
-        "Fury-swipes learnt at level 9",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 17",
-        "Screech learnt at level 21",
-        "Assurance learnt at level 25",
-        "Rage learnt at level 28",
-        "Swagger learnt at level 35",
-        "Cross-chop learnt at level 41",
-        "Thrash learnt at level 47",
-        "Punishment learnt at level 53",
-        "Close-combat learnt at level 59",
-        "Final-gambit learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Final-gambit",
+            1
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            17
+        ],
+        [
+            "Screech",
+            21
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Swagger",
+            35
+        ],
+        [
+            "Cross-chop",
+            41
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ],
+        [
+            "Final-gambit",
+            63
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Final-gambit learnt at level 1",
-        "Fury-swipes learnt at level 9",
-        "Karate-chop learnt at level 13",
-        "Seismic-toss learnt at level 17",
-        "Screech learnt at level 21",
-        "Assurance learnt at level 25",
-        "Rage learnt at level 28",
-        "Swagger learnt at level 35",
-        "Cross-chop learnt at level 41",
-        "Thrash learnt at level 47",
-        "Punishment learnt at level 53",
-        "Close-combat learnt at level 59",
-        "Final-gambit learnt at level 63"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Final-gambit",
+            1
+        ],
+        [
+            "Fury-swipes",
+            9
+        ],
+        [
+            "Karate-chop",
+            13
+        ],
+        [
+            "Seismic-toss",
+            17
+        ],
+        [
+            "Screech",
+            21
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Rage",
+            28
+        ],
+        [
+            "Swagger",
+            35
+        ],
+        [
+            "Cross-chop",
+            41
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Punishment",
+            53
+        ],
+        [
+            "Close-combat",
+            59
+        ],
+        [
+            "Final-gambit",
+            63
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Final-gambit learnt at level 1",
-        "Fury-swipes learnt at level 5",
-        "Karate-chop learnt at level 8",
-        "Pursuit learnt at level 12",
-        "Seismic-toss learnt at level 15",
-        "Swagger learnt at level 19",
-        "Cross-chop learnt at level 22",
-        "Assurance learnt at level 26",
-        "Punishment learnt at level 30",
-        "Thrash learnt at level 35",
-        "Close-combat learnt at level 39",
-        "Screech learnt at level 44",
-        "Stomping-tantrum learnt at level 48",
-        "Outrage learnt at level 53",
-        "Final-gambit learnt at level 57"
+        [
+            "Rage",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Final-gambit",
+            1
+        ],
+        [
+            "Fury-swipes",
+            5
+        ],
+        [
+            "Karate-chop",
+            8
+        ],
+        [
+            "Pursuit",
+            12
+        ],
+        [
+            "Seismic-toss",
+            15
+        ],
+        [
+            "Swagger",
+            19
+        ],
+        [
+            "Cross-chop",
+            22
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Punishment",
+            30
+        ],
+        [
+            "Thrash",
+            35
+        ],
+        [
+            "Close-combat",
+            39
+        ],
+        [
+            "Screech",
+            44
+        ],
+        [
+            "Stomping-tantrum",
+            48
+        ],
+        [
+            "Outrage",
+            53
+        ],
+        [
+            "Final-gambit",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Low-kick learnt at level 1",
-        "Rage learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Fling learnt at level 1",
-        "Final-gambit learnt at level 1",
-        "Fury-swipes learnt at level 5",
-        "Karate-chop learnt at level 8",
-        "Pursuit learnt at level 12",
-        "Seismic-toss learnt at level 15",
-        "Swagger learnt at level 19",
-        "Cross-chop learnt at level 22",
-        "Assurance learnt at level 26",
-        "Punishment learnt at level 30",
-        "Thrash learnt at level 35",
-        "Close-combat learnt at level 39",
-        "Screech learnt at level 44",
-        "Stomping-tantrum learnt at level 48",
-        "Outrage learnt at level 53",
-        "Final-gambit learnt at level 57"
+        [
+            "Rage",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Low-kick",
+            1
+        ],
+        [
+            "Rage",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Fling",
+            1
+        ],
+        [
+            "Final-gambit",
+            1
+        ],
+        [
+            "Fury-swipes",
+            5
+        ],
+        [
+            "Karate-chop",
+            8
+        ],
+        [
+            "Pursuit",
+            12
+        ],
+        [
+            "Seismic-toss",
+            15
+        ],
+        [
+            "Swagger",
+            19
+        ],
+        [
+            "Cross-chop",
+            22
+        ],
+        [
+            "Assurance",
+            26
+        ],
+        [
+            "Punishment",
+            30
+        ],
+        [
+            "Thrash",
+            35
+        ],
+        [
+            "Close-combat",
+            39
+        ],
+        [
+            "Screech",
+            44
+        ],
+        [
+            "Stomping-tantrum",
+            48
+        ],
+        [
+            "Outrage",
+            53
+        ],
+        [
+            "Final-gambit",
+            57
+        ]
     ]
 }

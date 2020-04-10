@@ -1,128 +1,452 @@
 {
     "ultra-sun-ultra-moon": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "sun-moon": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "black-2-white-2": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "black-white": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "heartgold-soulsilver": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "platinum": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "x-y": [
-        "Disable learnt at level 1",
-        "Ominous-wind learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Feint-attack learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Nasty-plot learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ominous-wind",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Feint-attack",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Nasty-plot",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ],
     "diamond-pearl": [
-        "Disable learnt at level 1",
-        "Night-shade learnt at level 1",
-        "Quick-attack learnt at level 11",
-        "Hypnosis learnt at level 20",
-        "Pursuit learnt at level 29",
-        "Nightmare learnt at level 38",
-        "Double-team learnt at level 47",
-        "Haze learnt at level 57",
-        "Dark-void learnt at level 66",
-        "Embargo learnt at level 75",
-        "Dream-eater learnt at level 84",
-        "Dark-pulse learnt at level 93"
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Night-shade",
+            1
+        ],
+        [
+            "Quick-attack",
+            11
+        ],
+        [
+            "Hypnosis",
+            20
+        ],
+        [
+            "Pursuit",
+            29
+        ],
+        [
+            "Nightmare",
+            38
+        ],
+        [
+            "Double-team",
+            47
+        ],
+        [
+            "Haze",
+            57
+        ],
+        [
+            "Dark-void",
+            66
+        ],
+        [
+            "Embargo",
+            75
+        ],
+        [
+            "Dream-eater",
+            84
+        ],
+        [
+            "Dark-pulse",
+            93
+        ]
     ]
 }

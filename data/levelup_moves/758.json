@@ -1,48 +1,182 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Ember learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Swagger learnt at level 1",
-        "Encore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Torment learnt at level 1",
-        "Captivate learnt at level 1",
-        "Ember learnt at level 5",
-        "Sweet-scent learnt at level 8",
-        "Dragon-rage learnt at level 13",
-        "Smog learnt at level 16",
-        "Double-slap learnt at level 21",
-        "Flame-burst learnt at level 24",
-        "Toxic learnt at level 29",
-        "Nasty-plot learnt at level 32",
-        "Venoshock learnt at level 39",
-        "Flamethrower learnt at level 44",
-        "Venom-drench learnt at level 51",
-        "Dragon-pulse learnt at level 56"
+        [
+            "Captivate",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Swagger",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Torment",
+            1
+        ],
+        [
+            "Captivate",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sweet-scent",
+            8
+        ],
+        [
+            "Dragon-rage",
+            13
+        ],
+        [
+            "Smog",
+            16
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Flame-burst",
+            24
+        ],
+        [
+            "Toxic",
+            29
+        ],
+        [
+            "Nasty-plot",
+            32
+        ],
+        [
+            "Venoshock",
+            39
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Venom-drench",
+            51
+        ],
+        [
+            "Dragon-pulse",
+            56
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Disable learnt at level 1",
-        "Ember learnt at level 1",
-        "Poison-gas learnt at level 1",
-        "Swagger learnt at level 1",
-        "Encore learnt at level 1",
-        "Sweet-scent learnt at level 1",
-        "Torment learnt at level 1",
-        "Captivate learnt at level 1",
-        "Ember learnt at level 5",
-        "Sweet-scent learnt at level 8",
-        "Dragon-rage learnt at level 13",
-        "Smog learnt at level 16",
-        "Double-slap learnt at level 21",
-        "Flame-burst learnt at level 24",
-        "Toxic learnt at level 29",
-        "Nasty-plot learnt at level 32",
-        "Venoshock learnt at level 39",
-        "Flamethrower learnt at level 44",
-        "Venom-drench learnt at level 51",
-        "Dragon-pulse learnt at level 56"
+        [
+            "Captivate",
+            0
+        ],
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Poison-gas",
+            1
+        ],
+        [
+            "Swagger",
+            1
+        ],
+        [
+            "Encore",
+            1
+        ],
+        [
+            "Sweet-scent",
+            1
+        ],
+        [
+            "Torment",
+            1
+        ],
+        [
+            "Captivate",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Sweet-scent",
+            8
+        ],
+        [
+            "Dragon-rage",
+            13
+        ],
+        [
+            "Smog",
+            16
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Flame-burst",
+            24
+        ],
+        [
+            "Toxic",
+            29
+        ],
+        [
+            "Nasty-plot",
+            32
+        ],
+        [
+            "Venoshock",
+            39
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Venom-drench",
+            51
+        ],
+        [
+            "Dragon-pulse",
+            56
+        ]
     ]
 }

@@ -1,244 +1,894 @@
 {
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 28",
-        "Sky-uppercut learnt at level 36",
-        "Mind-reader learnt at level 45",
-        "Dynamic-punch learnt at level 54"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 28",
-        "Sky-uppercut learnt at level 36",
-        "Mind-reader learnt at level 45",
-        "Dynamic-punch learnt at level 54"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 25",
-        "Force-palm learnt at level 29",
-        "Sky-uppercut learnt at level 33",
-        "Mind-reader learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Dynamic-punch learnt at level 45"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 25",
-        "Force-palm learnt at level 29",
-        "Sky-uppercut learnt at level 33",
-        "Mind-reader learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Dynamic-punch learnt at level 45"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Stun-spore learnt at level 5",
-        "Leech-seed learnt at level 8",
-        "Mega-drain learnt at level 12",
-        "Headbutt learnt at level 15",
-        "Feint learnt at level 19",
-        "Counter learnt at level 22",
-        "Mach-punch learnt at level 23",
-        "Force-palm learnt at level 28",
-        "Mind-reader learnt at level 33",
-        "Sky-uppercut learnt at level 39",
-        "Seed-bomb learnt at level 44",
-        "Dynamic-punch learnt at level 50"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 25",
-        "Force-palm learnt at level 29",
-        "Sky-uppercut learnt at level 33",
-        "Mind-reader learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Dynamic-punch learnt at level 45"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Mach-punch learnt at level 1",
-        "Stun-spore learnt at level 5",
-        "Leech-seed learnt at level 8",
-        "Mega-drain learnt at level 12",
-        "Headbutt learnt at level 15",
-        "Feint learnt at level 19",
-        "Counter learnt at level 22",
-        "Force-palm learnt at level 28",
-        "Mind-reader learnt at level 33",
-        "Sky-uppercut learnt at level 39",
-        "Seed-bomb learnt at level 44",
-        "Dynamic-punch learnt at level 50"
+        [
+            "Mach-punch",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Mach-punch",
+            1
+        ],
+        [
+            "Stun-spore",
+            5
+        ],
+        [
+            "Leech-seed",
+            8
+        ],
+        [
+            "Mega-drain",
+            12
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Feint",
+            19
+        ],
+        [
+            "Counter",
+            22
+        ],
+        [
+            "Force-palm",
+            28
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Sky-uppercut",
+            39
+        ],
+        [
+            "Seed-bomb",
+            44
+        ],
+        [
+            "Dynamic-punch",
+            50
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 25",
-        "Force-palm learnt at level 29",
-        "Sky-uppercut learnt at level 33",
-        "Mind-reader learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Dynamic-punch learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "Sky-uppercut",
+            33
+        ],
+        [
+            "Mind-reader",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
     ],
-    "sun-moon": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Mach-punch learnt at level 1",
-        "Stun-spore learnt at level 5",
-        "Leech-seed learnt at level 8",
-        "Mega-drain learnt at level 12",
-        "Headbutt learnt at level 15",
-        "Feint learnt at level 19",
-        "Counter learnt at level 22",
-        "Force-palm learnt at level 28",
-        "Mind-reader learnt at level 33",
-        "Sky-uppercut learnt at level 39",
-        "Seed-bomb learnt at level 44",
-        "Dynamic-punch learnt at level 50"
-    ],
-    "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 25",
-        "Force-palm learnt at level 29",
-        "Sky-uppercut learnt at level 33",
-        "Mind-reader learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Dynamic-punch learnt at level 45"
-    ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 5",
-        "Stun-spore learnt at level 9",
-        "Leech-seed learnt at level 13",
-        "Mega-drain learnt at level 17",
-        "Headbutt learnt at level 21",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 25",
-        "Force-palm learnt at level 29",
-        "Sky-uppercut learnt at level 33",
-        "Mind-reader learnt at level 37",
-        "Seed-bomb learnt at level 41",
-        "Dynamic-punch learnt at level 45"
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "Sky-uppercut",
+            33
+        ],
+        [
+            "Mind-reader",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 28",
-        "Sky-uppercut learnt at level 36",
-        "Mind-reader learnt at level 45",
-        "Dynamic-punch learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            28
+        ],
+        [
+            "Sky-uppercut",
+            36
+        ],
+        [
+            "Mind-reader",
+            45
+        ],
+        [
+            "Dynamic-punch",
+            54
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 28",
-        "Sky-uppercut learnt at level 36",
-        "Mind-reader learnt at level 45",
-        "Dynamic-punch learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            28
+        ],
+        [
+            "Sky-uppercut",
+            36
+        ],
+        [
+            "Mind-reader",
+            45
+        ],
+        [
+            "Dynamic-punch",
+            54
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "Sky-uppercut",
+            33
+        ],
+        [
+            "Mind-reader",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Mach-punch",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Mach-punch",
+            1
+        ],
+        [
+            "Stun-spore",
+            5
+        ],
+        [
+            "Leech-seed",
+            8
+        ],
+        [
+            "Mega-drain",
+            12
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Feint",
+            19
+        ],
+        [
+            "Counter",
+            22
+        ],
+        [
+            "Force-palm",
+            28
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Sky-uppercut",
+            39
+        ],
+        [
+            "Seed-bomb",
+            44
+        ],
+        [
+            "Dynamic-punch",
+            50
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Stun-spore",
+            5
+        ],
+        [
+            "Leech-seed",
+            8
+        ],
+        [
+            "Mega-drain",
+            12
+        ],
+        [
+            "Headbutt",
+            15
+        ],
+        [
+            "Feint",
+            19
+        ],
+        [
+            "Counter",
+            22
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Force-palm",
+            28
+        ],
+        [
+            "Mind-reader",
+            33
+        ],
+        [
+            "Sky-uppercut",
+            39
+        ],
+        [
+            "Seed-bomb",
+            44
+        ],
+        [
+            "Dynamic-punch",
+            50
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "Sky-uppercut",
+            33
+        ],
+        [
+            "Mind-reader",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "Sky-uppercut",
+            33
+        ],
+        [
+            "Mind-reader",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            28
+        ],
+        [
+            "Sky-uppercut",
+            36
+        ],
+        [
+            "Mind-reader",
+            45
+        ],
+        [
+            "Dynamic-punch",
+            54
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            28
+        ],
+        [
+            "Sky-uppercut",
+            36
+        ],
+        [
+            "Mind-reader",
+            45
+        ],
+        [
+            "Dynamic-punch",
+            54
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            5
+        ],
+        [
+            "Stun-spore",
+            9
+        ],
+        [
+            "Leech-seed",
+            13
+        ],
+        [
+            "Mega-drain",
+            17
+        ],
+        [
+            "Headbutt",
+            21
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            25
+        ],
+        [
+            "Force-palm",
+            29
+        ],
+        [
+            "Sky-uppercut",
+            33
+        ],
+        [
+            "Mind-reader",
+            37
+        ],
+        [
+            "Seed-bomb",
+            41
+        ],
+        [
+            "Dynamic-punch",
+            45
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Absorb learnt at level 1",
-        "Leech-seed learnt at level 1",
-        "Stun-spore learnt at level 1",
-        "Tackle learnt at level 4",
-        "Stun-spore learnt at level 7",
-        "Leech-seed learnt at level 10",
-        "Mega-drain learnt at level 16",
-        "Headbutt learnt at level 22",
-        "Mach-punch learnt at level 23",
-        "Counter learnt at level 28",
-        "Sky-uppercut learnt at level 36",
-        "Mind-reader learnt at level 45",
-        "Dynamic-punch learnt at level 54"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Leech-seed",
+            1
+        ],
+        [
+            "Stun-spore",
+            1
+        ],
+        [
+            "Tackle",
+            4
+        ],
+        [
+            "Stun-spore",
+            7
+        ],
+        [
+            "Leech-seed",
+            10
+        ],
+        [
+            "Mega-drain",
+            16
+        ],
+        [
+            "Headbutt",
+            22
+        ],
+        [
+            "Mach-punch",
+            23
+        ],
+        [
+            "Counter",
+            28
+        ],
+        [
+            "Sky-uppercut",
+            36
+        ],
+        [
+            "Mind-reader",
+            45
+        ],
+        [
+            "Dynamic-punch",
+            54
+        ]
     ]
 }

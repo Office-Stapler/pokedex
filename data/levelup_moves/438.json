@@ -1,139 +1,496 @@
 {
     "black-2-white-2": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Rock-throw learnt at level 12",
-        "Slam learnt at level 15",
-        "Feint-attack learnt at level 19",
-        "Rock-tomb learnt at level 22",
-        "Block learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Mimic learnt at level 33",
-        "Sucker-punch learnt at level 36",
-        "Double-edge learnt at level 40"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Rock-throw",
+            12
+        ],
+        [
+            "Slam",
+            15
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Rock-tomb",
+            22
+        ],
+        [
+            "Block",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Mimic",
+            33
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Double-edge",
+            40
+        ]
     ],
     "black-white": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 6",
-        "Low-kick learnt at level 9",
-        "Rock-throw learnt at level 14",
-        "Mimic learnt at level 17",
-        "Block learnt at level 22",
-        "Feint-attack learnt at level 25",
-        "Rock-tomb learnt at level 30",
-        "Rock-slide learnt at level 33",
-        "Slam learnt at level 38",
-        "Sucker-punch learnt at level 41",
-        "Double-edge learnt at level 46"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            6
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Rock-throw",
+            14
+        ],
+        [
+            "Mimic",
+            17
+        ],
+        [
+            "Block",
+            22
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rock-tomb",
+            30
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Slam",
+            38
+        ],
+        [
+            "Sucker-punch",
+            41
+        ],
+        [
+            "Double-edge",
+            46
+        ]
     ],
     "heartgold-soulsilver": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 6",
-        "Low-kick learnt at level 9",
-        "Rock-throw learnt at level 14",
-        "Mimic learnt at level 17",
-        "Block learnt at level 22",
-        "Feint-attack learnt at level 25",
-        "Rock-tomb learnt at level 30",
-        "Rock-slide learnt at level 33",
-        "Slam learnt at level 38",
-        "Sucker-punch learnt at level 41",
-        "Double-edge learnt at level 46"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            6
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Rock-throw",
+            14
+        ],
+        [
+            "Mimic",
+            17
+        ],
+        [
+            "Block",
+            22
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rock-tomb",
+            30
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Slam",
+            38
+        ],
+        [
+            "Sucker-punch",
+            41
+        ],
+        [
+            "Double-edge",
+            46
+        ]
     ],
     "platinum": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 6",
-        "Low-kick learnt at level 9",
-        "Rock-throw learnt at level 14",
-        "Mimic learnt at level 17",
-        "Block learnt at level 22",
-        "Feint-attack learnt at level 25",
-        "Rock-tomb learnt at level 30",
-        "Rock-slide learnt at level 33",
-        "Slam learnt at level 38",
-        "Sucker-punch learnt at level 41",
-        "Double-edge learnt at level 46"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            6
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Rock-throw",
+            14
+        ],
+        [
+            "Mimic",
+            17
+        ],
+        [
+            "Block",
+            22
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rock-tomb",
+            30
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Slam",
+            38
+        ],
+        [
+            "Sucker-punch",
+            41
+        ],
+        [
+            "Double-edge",
+            46
+        ]
     ],
     "diamond-pearl": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 6",
-        "Low-kick learnt at level 9",
-        "Rock-throw learnt at level 14",
-        "Mimic learnt at level 17",
-        "Block learnt at level 22",
-        "Feint-attack learnt at level 25",
-        "Rock-tomb learnt at level 30",
-        "Rock-slide learnt at level 33",
-        "Slam learnt at level 38",
-        "Sucker-punch learnt at level 41",
-        "Double-edge learnt at level 46"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            6
+        ],
+        [
+            "Low-kick",
+            9
+        ],
+        [
+            "Rock-throw",
+            14
+        ],
+        [
+            "Mimic",
+            17
+        ],
+        [
+            "Block",
+            22
+        ],
+        [
+            "Feint-attack",
+            25
+        ],
+        [
+            "Rock-tomb",
+            30
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Slam",
+            38
+        ],
+        [
+            "Sucker-punch",
+            41
+        ],
+        [
+            "Double-edge",
+            46
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Rock-throw learnt at level 12",
-        "Mimic learnt at level 15",
-        "Feint-attack learnt at level 19",
-        "Tearful-look learnt at level 22",
-        "Rock-tomb learnt at level 26",
-        "Block learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Counter learnt at level 36",
-        "Sucker-punch learnt at level 40",
-        "Double-edge learnt at level 43"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Rock-throw",
+            12
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Tearful-look",
+            22
+        ],
+        [
+            "Rock-tomb",
+            26
+        ],
+        [
+            "Block",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Counter",
+            36
+        ],
+        [
+            "Sucker-punch",
+            40
+        ],
+        [
+            "Double-edge",
+            43
+        ]
     ],
     "sun-moon": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Rock-throw learnt at level 12",
-        "Mimic learnt at level 15",
-        "Feint-attack learnt at level 19",
-        "Tearful-look learnt at level 22",
-        "Rock-tomb learnt at level 26",
-        "Block learnt at level 29",
-        "Rock-slide learnt at level 33",
-        "Counter learnt at level 36",
-        "Sucker-punch learnt at level 40",
-        "Double-edge learnt at level 43"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Rock-throw",
+            12
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Tearful-look",
+            22
+        ],
+        [
+            "Rock-tomb",
+            26
+        ],
+        [
+            "Block",
+            29
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Counter",
+            36
+        ],
+        [
+            "Sucker-punch",
+            40
+        ],
+        [
+            "Double-edge",
+            43
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Rock-throw learnt at level 12",
-        "Mimic learnt at level 15",
-        "Feint-attack learnt at level 19",
-        "Rock-tomb learnt at level 22",
-        "Block learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Counter learnt at level 33",
-        "Sucker-punch learnt at level 36",
-        "Double-edge learnt at level 40"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Rock-throw",
+            12
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Rock-tomb",
+            22
+        ],
+        [
+            "Block",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Counter",
+            33
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Double-edge",
+            40
+        ]
     ],
     "x-y": [
-        "Fake-tears learnt at level 1",
-        "Copycat learnt at level 1",
-        "Flail learnt at level 5",
-        "Low-kick learnt at level 8",
-        "Rock-throw learnt at level 12",
-        "Mimic learnt at level 15",
-        "Feint-attack learnt at level 19",
-        "Rock-tomb learnt at level 22",
-        "Block learnt at level 26",
-        "Rock-slide learnt at level 29",
-        "Counter learnt at level 33",
-        "Sucker-punch learnt at level 36",
-        "Double-edge learnt at level 40"
+        [
+            "Fake-tears",
+            1
+        ],
+        [
+            "Copycat",
+            1
+        ],
+        [
+            "Flail",
+            5
+        ],
+        [
+            "Low-kick",
+            8
+        ],
+        [
+            "Rock-throw",
+            12
+        ],
+        [
+            "Mimic",
+            15
+        ],
+        [
+            "Feint-attack",
+            19
+        ],
+        [
+            "Rock-tomb",
+            22
+        ],
+        [
+            "Block",
+            26
+        ],
+        [
+            "Rock-slide",
+            29
+        ],
+        [
+            "Counter",
+            33
+        ],
+        [
+            "Sucker-punch",
+            36
+        ],
+        [
+            "Double-edge",
+            40
+        ]
     ]
 }

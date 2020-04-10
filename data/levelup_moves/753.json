@@ -1,28 +1,94 @@
 {
     "ultra-sun-ultra-moon": [
-        "Fury-cutter learnt at level 1",
-        "Leafage learnt at level 5",
-        "Razor-leaf learnt at level 10",
-        "Growth learnt at level 14",
-        "Ingrain learnt at level 19",
-        "Leaf-blade learnt at level 23",
-        "Synthesis learnt at level 28",
-        "Slash learnt at level 32",
-        "Sweet-scent learnt at level 37",
-        "Solar-beam learnt at level 41",
-        "Sunny-day learnt at level 46"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Leafage",
+            5
+        ],
+        [
+            "Razor-leaf",
+            10
+        ],
+        [
+            "Growth",
+            14
+        ],
+        [
+            "Ingrain",
+            19
+        ],
+        [
+            "Leaf-blade",
+            23
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Slash",
+            32
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Solar-beam",
+            41
+        ],
+        [
+            "Sunny-day",
+            46
+        ]
     ],
     "sun-moon": [
-        "Fury-cutter learnt at level 1",
-        "Leafage learnt at level 5",
-        "Razor-leaf learnt at level 10",
-        "Growth learnt at level 14",
-        "Ingrain learnt at level 19",
-        "Leaf-blade learnt at level 23",
-        "Synthesis learnt at level 28",
-        "Slash learnt at level 32",
-        "Sweet-scent learnt at level 37",
-        "Solar-beam learnt at level 41",
-        "Sunny-day learnt at level 46"
+        [
+            "Fury-cutter",
+            1
+        ],
+        [
+            "Leafage",
+            5
+        ],
+        [
+            "Razor-leaf",
+            10
+        ],
+        [
+            "Growth",
+            14
+        ],
+        [
+            "Ingrain",
+            19
+        ],
+        [
+            "Leaf-blade",
+            23
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Slash",
+            32
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Solar-beam",
+            41
+        ],
+        [
+            "Sunny-day",
+            46
+        ]
     ]
 }

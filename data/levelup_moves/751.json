@@ -1,34 +1,118 @@
 {
     "ultra-sun-ultra-moon": [
-        "Bubble learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Infestation learnt at level 5",
-        "Spider-web learnt at level 8",
-        "Bug-bite learnt at level 13",
-        "Bubble-beam learnt at level 16",
-        "Bite learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Leech-life learnt at level 29",
-        "Crunch learnt at level 32",
-        "Lunge learnt at level 37",
-        "Mirror-coat learnt at level 40",
-        "Liquidation learnt at level 45",
-        "Entrainment learnt at level 48"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Infestation",
+            5
+        ],
+        [
+            "Spider-web",
+            8
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Bubble-beam",
+            16
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Leech-life",
+            29
+        ],
+        [
+            "Crunch",
+            32
+        ],
+        [
+            "Lunge",
+            37
+        ],
+        [
+            "Mirror-coat",
+            40
+        ],
+        [
+            "Liquidation",
+            45
+        ],
+        [
+            "Entrainment",
+            48
+        ]
     ],
     "sun-moon": [
-        "Bubble learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Infestation learnt at level 5",
-        "Spider-web learnt at level 8",
-        "Bug-bite learnt at level 13",
-        "Bubble-beam learnt at level 16",
-        "Bite learnt at level 21",
-        "Aqua-ring learnt at level 24",
-        "Leech-life learnt at level 29",
-        "Crunch learnt at level 32",
-        "Lunge learnt at level 37",
-        "Mirror-coat learnt at level 40",
-        "Liquidation learnt at level 45",
-        "Entrainment learnt at level 48"
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Infestation",
+            5
+        ],
+        [
+            "Spider-web",
+            8
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Bubble-beam",
+            16
+        ],
+        [
+            "Bite",
+            21
+        ],
+        [
+            "Aqua-ring",
+            24
+        ],
+        [
+            "Leech-life",
+            29
+        ],
+        [
+            "Crunch",
+            32
+        ],
+        [
+            "Lunge",
+            37
+        ],
+        [
+            "Mirror-coat",
+            40
+        ],
+        [
+            "Liquidation",
+            45
+        ],
+        [
+            "Entrainment",
+            48
+        ]
     ]
 }

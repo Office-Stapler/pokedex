@@ -1,128 +1,452 @@
 {
     "ultra-sun-ultra-moon": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "sun-moon": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "x-y": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "black-2-white-2": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "black-white": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "heartgold-soulsilver": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "platinum": [
-        "Growth learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Sweet-kiss learnt at level 82",
-        "Healing-wish learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Growth",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Sweet-kiss",
+            82
+        ],
+        [
+            "Healing-wish",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ],
     "diamond-pearl": [
-        "Defense-curl learnt at level 1",
-        "Magical-leaf learnt at level 10",
-        "Leech-seed learnt at level 19",
-        "Synthesis learnt at level 28",
-        "Sweet-scent learnt at level 37",
-        "Natural-gift learnt at level 46",
-        "Worry-seed learnt at level 55",
-        "Aromatherapy learnt at level 64",
-        "Energy-ball learnt at level 73",
-        "Grass-whistle learnt at level 82",
-        "Lucky-chant learnt at level 91",
-        "Seed-flare learnt at level 100"
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Magical-leaf",
+            10
+        ],
+        [
+            "Leech-seed",
+            19
+        ],
+        [
+            "Synthesis",
+            28
+        ],
+        [
+            "Sweet-scent",
+            37
+        ],
+        [
+            "Natural-gift",
+            46
+        ],
+        [
+            "Worry-seed",
+            55
+        ],
+        [
+            "Aromatherapy",
+            64
+        ],
+        [
+            "Energy-ball",
+            73
+        ],
+        [
+            "Grass-whistle",
+            82
+        ],
+        [
+            "Lucky-chant",
+            91
+        ],
+        [
+            "Seed-flare",
+            100
+        ]
     ]
 }

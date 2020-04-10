@@ -1,110 +1,398 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Hone-claws learnt at level 5",
-        "Bite learnt at level 9",
-        "Scary-face learnt at level 13",
-        "Dragon-rage learnt at level 18",
-        "Slash learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 27",
-        "Chip-away learnt at level 31",
-        "Revenge learnt at level 35",
-        "Night-slash learnt at level 40",
-        "Dragon-tail learnt at level 45",
-        "Rock-climb learnt at level 49",
-        "Superpower learnt at level 55",
-        "Outrage learnt at level 62"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Hone-claws learnt at level 5",
-        "Bite learnt at level 9",
-        "Scary-face learnt at level 13",
-        "Dragon-rage learnt at level 18",
-        "Slash learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 27",
-        "Chip-away learnt at level 31",
-        "Revenge learnt at level 35",
-        "Night-slash learnt at level 40",
-        "Dragon-tail learnt at level 45",
-        "Rock-climb learnt at level 49",
-        "Superpower learnt at level 55",
-        "Outrage learnt at level 62"
-    ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Hone-claws learnt at level 5",
-        "Bite learnt at level 9",
-        "Scary-face learnt at level 13",
-        "Dragon-rage learnt at level 18",
-        "Slash learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 27",
-        "Chip-away learnt at level 31",
-        "Revenge learnt at level 35",
-        "Night-slash learnt at level 40",
-        "Dragon-tail learnt at level 45",
-        "Rock-climb learnt at level 49",
-        "Superpower learnt at level 55",
-        "Outrage learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hone-claws",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Scary-face",
+            13
+        ],
+        [
+            "Dragon-rage",
+            18
+        ],
+        [
+            "Slash",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            27
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Revenge",
+            35
+        ],
+        [
+            "Night-slash",
+            40
+        ],
+        [
+            "Dragon-tail",
+            45
+        ],
+        [
+            "Rock-climb",
+            49
+        ],
+        [
+            "Superpower",
+            55
+        ],
+        [
+            "Outrage",
+            62
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Hone-claws learnt at level 5",
-        "Bite learnt at level 9",
-        "Scary-face learnt at level 13",
-        "Dragon-rage learnt at level 18",
-        "Slash learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 27",
-        "Chip-away learnt at level 31",
-        "Revenge learnt at level 35",
-        "Night-slash learnt at level 40",
-        "Dragon-tail learnt at level 45",
-        "Rock-climb learnt at level 49",
-        "Superpower learnt at level 55",
-        "Outrage learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hone-claws",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Scary-face",
+            13
+        ],
+        [
+            "Dragon-rage",
+            18
+        ],
+        [
+            "Slash",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            27
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Revenge",
+            35
+        ],
+        [
+            "Night-slash",
+            40
+        ],
+        [
+            "Dragon-tail",
+            45
+        ],
+        [
+            "Rock-climb",
+            49
+        ],
+        [
+            "Superpower",
+            55
+        ],
+        [
+            "Outrage",
+            62
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hone-claws",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Scary-face",
+            13
+        ],
+        [
+            "Dragon-rage",
+            18
+        ],
+        [
+            "Slash",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            27
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Revenge",
+            35
+        ],
+        [
+            "Night-slash",
+            40
+        ],
+        [
+            "Dragon-tail",
+            45
+        ],
+        [
+            "Rock-climb",
+            49
+        ],
+        [
+            "Superpower",
+            55
+        ],
+        [
+            "Outrage",
+            62
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Hone-claws learnt at level 5",
-        "Bite learnt at level 9",
-        "Scary-face learnt at level 13",
-        "Dragon-rage learnt at level 18",
-        "Slash learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 27",
-        "Chip-away learnt at level 31",
-        "Revenge learnt at level 35",
-        "Night-slash learnt at level 40",
-        "Dragon-tail learnt at level 45",
-        "Rock-climb learnt at level 49",
-        "Superpower learnt at level 55",
-        "Outrage learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hone-claws",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Scary-face",
+            13
+        ],
+        [
+            "Dragon-rage",
+            18
+        ],
+        [
+            "Slash",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            27
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Revenge",
+            35
+        ],
+        [
+            "Night-slash",
+            40
+        ],
+        [
+            "Dragon-tail",
+            45
+        ],
+        [
+            "Rock-climb",
+            49
+        ],
+        [
+            "Superpower",
+            55
+        ],
+        [
+            "Outrage",
+            62
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hone-claws",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Scary-face",
+            13
+        ],
+        [
+            "Dragon-rage",
+            18
+        ],
+        [
+            "Slash",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            27
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Revenge",
+            35
+        ],
+        [
+            "Night-slash",
+            40
+        ],
+        [
+            "Dragon-tail",
+            45
+        ],
+        [
+            "Rock-climb",
+            49
+        ],
+        [
+            "Superpower",
+            55
+        ],
+        [
+            "Outrage",
+            62
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Hone-claws learnt at level 5",
-        "Bite learnt at level 9",
-        "Scary-face learnt at level 13",
-        "Dragon-rage learnt at level 18",
-        "Slash learnt at level 21",
-        "Crunch learnt at level 25",
-        "Dragon-claw learnt at level 27",
-        "Chip-away learnt at level 31",
-        "Revenge learnt at level 35",
-        "Night-slash learnt at level 40",
-        "Dragon-tail learnt at level 45",
-        "Rock-climb learnt at level 49",
-        "Superpower learnt at level 55",
-        "Outrage learnt at level 62"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Hone-claws",
+            5
+        ],
+        [
+            "Bite",
+            9
+        ],
+        [
+            "Scary-face",
+            13
+        ],
+        [
+            "Dragon-rage",
+            18
+        ],
+        [
+            "Slash",
+            21
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "Dragon-claw",
+            27
+        ],
+        [
+            "Chip-away",
+            31
+        ],
+        [
+            "Revenge",
+            35
+        ],
+        [
+            "Night-slash",
+            40
+        ],
+        [
+            "Dragon-tail",
+            45
+        ],
+        [
+            "Rock-climb",
+            49
+        ],
+        [
+            "Superpower",
+            55
+        ],
+        [
+            "Outrage",
+            62
+        ]
     ]
 }

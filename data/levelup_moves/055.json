@@ -1,293 +1,1058 @@
 {
     "red-blue": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Tail-whip learnt at level 28",
-        "Disable learnt at level 31",
-        "Confusion learnt at level 39",
-        "Fury-swipes learnt at level 48",
-        "Hydro-pump learnt at level 59"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Tail-whip",
+            28
+        ],
+        [
+            "Disable",
+            31
+        ],
+        [
+            "Confusion",
+            39
+        ],
+        [
+            "Fury-swipes",
+            48
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "yellow": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Tail-whip learnt at level 28",
-        "Disable learnt at level 31",
-        "Confusion learnt at level 39",
-        "Fury-swipes learnt at level 48",
-        "Hydro-pump learnt at level 59"
-    ],
-    "emerald": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 16",
-        "Screech learnt at level 23",
-        "Psych-up learnt at level 31",
-        "Fury-swipes learnt at level 44",
-        "Hydro-pump learnt at level 58"
-    ],
-    "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 16",
-        "Screech learnt at level 23",
-        "Psych-up learnt at level 31",
-        "Fury-swipes learnt at level 44",
-        "Hydro-pump learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Tail-whip",
+            28
+        ],
+        [
+            "Disable",
+            31
+        ],
+        [
+            "Confusion",
+            39
+        ],
+        [
+            "Fury-swipes",
+            48
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "gold-silver": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 16",
-        "Screech learnt at level 23",
-        "Psych-up learnt at level 31",
-        "Fury-swipes learnt at level 44",
-        "Hydro-pump learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            16
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Fury-swipes",
+            44
+        ],
+        [
+            "Hydro-pump",
+            58
+        ]
     ],
     "crystal": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Confusion learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 16",
-        "Screech learnt at level 23",
-        "Psych-up learnt at level 31",
-        "Fury-swipes learnt at level 44",
-        "Hydro-pump learnt at level 58"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Disable learnt at level 14",
-        "Confusion learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Fury-swipes learnt at level 27",
-        "Screech learnt at level 31",
-        "Psych-up learnt at level 37",
-        "Zen-headbutt learnt at level 44",
-        "Amnesia learnt at level 50",
-        "Hydro-pump learnt at level 56"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Disable learnt at level 14",
-        "Confusion learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Fury-swipes learnt at level 27",
-        "Screech learnt at level 31",
-        "Psych-up learnt at level 37",
-        "Zen-headbutt learnt at level 44",
-        "Amnesia learnt at level 50",
-        "Hydro-pump learnt at level 56"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 8",
-        "Disable learnt at level 11",
-        "Confusion learnt at level 15",
-        "Water-pulse learnt at level 18",
-        "Fury-swipes learnt at level 22",
-        "Screech learnt at level 25",
-        "Zen-headbutt learnt at level 29",
-        "Aqua-tail learnt at level 32",
-        "Soak learnt at level 38",
-        "Psych-up learnt at level 43",
-        "Amnesia learnt at level 49",
-        "Hydro-pump learnt at level 54",
-        "Wonder-room learnt at level 60"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 8",
-        "Confusion learnt at level 11",
-        "Fury-swipes learnt at level 15",
-        "Water-pulse learnt at level 18",
-        "Disable learnt at level 22",
-        "Zen-headbutt learnt at level 25",
-        "Screech learnt at level 29",
-        "Aqua-tail learnt at level 32",
-        "Soak learnt at level 38",
-        "Psych-up learnt at level 43",
-        "Amnesia learnt at level 49",
-        "Hydro-pump learnt at level 54",
-        "Wonder-room learnt at level 60"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            16
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Fury-swipes",
+            44
+        ],
+        [
+            "Hydro-pump",
+            58
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 16",
-        "Screech learnt at level 23",
-        "Psych-up learnt at level 31",
-        "Fury-swipes learnt at level 44",
-        "Hydro-pump learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            16
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Fury-swipes",
+            44
+        ],
+        [
+            "Hydro-pump",
+            58
+        ]
+    ],
+    "emerald": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            16
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Fury-swipes",
+            44
+        ],
+        [
+            "Hydro-pump",
+            58
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            16
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Fury-swipes",
+            44
+        ],
+        [
+            "Hydro-pump",
+            58
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Disable learnt at level 14",
-        "Confusion learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Fury-swipes learnt at level 27",
-        "Screech learnt at level 31",
-        "Psych-up learnt at level 37",
-        "Zen-headbutt learnt at level 44",
-        "Amnesia learnt at level 50",
-        "Hydro-pump learnt at level 56"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Disable",
+            14
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Fury-swipes",
+            27
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Psych-up",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            44
+        ],
+        [
+            "Amnesia",
+            50
+        ],
+        [
+            "Hydro-pump",
+            56
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Disable",
+            14
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Fury-swipes",
+            27
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Psych-up",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            44
+        ],
+        [
+            "Amnesia",
+            50
+        ],
+        [
+            "Hydro-pump",
+            56
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Disable",
+            14
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Fury-swipes",
+            27
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Psych-up",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            44
+        ],
+        [
+            "Amnesia",
+            50
+        ],
+        [
+            "Hydro-pump",
+            56
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Water-gun learnt at level 9",
-        "Disable learnt at level 14",
-        "Confusion learnt at level 18",
-        "Water-pulse learnt at level 22",
-        "Fury-swipes learnt at level 27",
-        "Screech learnt at level 31",
-        "Soak learnt at level 37",
-        "Psych-up learnt at level 44",
-        "Zen-headbutt learnt at level 50",
-        "Amnesia learnt at level 56",
-        "Hydro-pump learnt at level 63",
-        "Wonder-room learnt at level 69"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Water-gun",
+            9
+        ],
+        [
+            "Disable",
+            14
+        ],
+        [
+            "Confusion",
+            18
+        ],
+        [
+            "Water-pulse",
+            22
+        ],
+        [
+            "Fury-swipes",
+            27
+        ],
+        [
+            "Screech",
+            31
+        ],
+        [
+            "Soak",
+            37
+        ],
+        [
+            "Psych-up",
+            44
+        ],
+        [
+            "Zen-headbutt",
+            50
+        ],
+        [
+            "Amnesia",
+            56
+        ],
+        [
+            "Hydro-pump",
+            63
+        ],
+        [
+            "Wonder-room",
+            69
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 16",
-        "Screech learnt at level 23",
-        "Psych-up learnt at level 31",
-        "Fury-swipes learnt at level 44",
-        "Hydro-pump learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            16
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Fury-swipes",
+            44
+        ],
+        [
+            "Hydro-pump",
+            58
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Disable learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Disable learnt at level 10",
-        "Confusion learnt at level 16",
-        "Screech learnt at level 23",
-        "Psych-up learnt at level 31",
-        "Fury-swipes learnt at level 44",
-        "Hydro-pump learnt at level 58"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Disable",
+            10
+        ],
+        [
+            "Confusion",
+            16
+        ],
+        [
+            "Screech",
+            23
+        ],
+        [
+            "Psych-up",
+            31
+        ],
+        [
+            "Fury-swipes",
+            44
+        ],
+        [
+            "Hydro-pump",
+            58
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            8
+        ],
+        [
+            "Disable",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Water-pulse",
+            18
+        ],
+        [
+            "Fury-swipes",
+            22
+        ],
+        [
+            "Screech",
+            25
+        ],
+        [
+            "Zen-headbutt",
+            29
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Soak",
+            38
+        ],
+        [
+            "Psych-up",
+            43
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Hydro-pump",
+            54
+        ],
+        [
+            "Wonder-room",
+            60
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 8",
-        "Disable learnt at level 11",
-        "Confusion learnt at level 15",
-        "Water-pulse learnt at level 18",
-        "Fury-swipes learnt at level 22",
-        "Screech learnt at level 25",
-        "Zen-headbutt learnt at level 29",
-        "Aqua-tail learnt at level 32",
-        "Soak learnt at level 38",
-        "Psych-up learnt at level 43",
-        "Amnesia learnt at level 49",
-        "Hydro-pump learnt at level 54",
-        "Wonder-room learnt at level 60"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            8
+        ],
+        [
+            "Disable",
+            11
+        ],
+        [
+            "Confusion",
+            15
+        ],
+        [
+            "Water-pulse",
+            18
+        ],
+        [
+            "Fury-swipes",
+            22
+        ],
+        [
+            "Screech",
+            25
+        ],
+        [
+            "Zen-headbutt",
+            29
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Soak",
+            38
+        ],
+        [
+            "Psych-up",
+            43
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Hydro-pump",
+            54
+        ],
+        [
+            "Wonder-room",
+            60
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            8
+        ],
+        [
+            "Confusion",
+            11
+        ],
+        [
+            "Fury-swipes",
+            15
+        ],
+        [
+            "Water-pulse",
+            18
+        ],
+        [
+            "Disable",
+            22
+        ],
+        [
+            "Zen-headbutt",
+            25
+        ],
+        [
+            "Screech",
+            29
+        ],
+        [
+            "Aqua-tail",
+            32
+        ],
+        [
+            "Soak",
+            38
+        ],
+        [
+            "Psych-up",
+            43
+        ],
+        [
+            "Amnesia",
+            49
+        ],
+        [
+            "Hydro-pump",
+            54
+        ],
+        [
+            "Wonder-room",
+            60
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Me-first learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Confusion learnt at level 10",
-        "Fury-swipes learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Disable learnt at level 19",
-        "Screech learnt at level 22",
-        "Zen-headbutt learnt at level 25",
-        "Aqua-tail learnt at level 28",
-        "Soak learnt at level 31",
-        "Psych-up learnt at level 36",
-        "Amnesia learnt at level 41",
-        "Hydro-pump learnt at level 46",
-        "Wonder-room learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Me-first",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Confusion",
+            10
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Screech",
+            22
+        ],
+        [
+            "Zen-headbutt",
+            25
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Soak",
+            31
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Wonder-room",
+            51
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Me-first learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Confusion learnt at level 10",
-        "Fury-swipes learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Disable learnt at level 19",
-        "Screech learnt at level 22",
-        "Zen-headbutt learnt at level 25",
-        "Aqua-tail learnt at level 28",
-        "Soak learnt at level 31",
-        "Psych-up learnt at level 36",
-        "Amnesia learnt at level 41",
-        "Hydro-pump learnt at level 46",
-        "Wonder-room learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Me-first",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Confusion",
+            10
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Disable",
+            19
+        ],
+        [
+            "Screech",
+            22
+        ],
+        [
+            "Zen-headbutt",
+            25
+        ],
+        [
+            "Aqua-tail",
+            28
+        ],
+        [
+            "Soak",
+            31
+        ],
+        [
+            "Psych-up",
+            36
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Wonder-room",
+            51
+        ]
     ]
 }

@@ -1,197 +1,698 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Fury-cutter learnt at level 10",
-        "Smack-down learnt at level 13",
-        "Metal-claw learnt at level 17",
-        "Ancient-power learnt at level 21",
-        "Bug-bite learnt at level 25",
-        "Brine learnt at level 29",
-        "Slash learnt at level 34",
-        "Crush-claw learnt at level 39",
-        "X-scissor learnt at level 44",
-        "Protect learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Smack-down",
+            13
+        ],
+        [
+            "Metal-claw",
+            17
+        ],
+        [
+            "Ancient-power",
+            21
+        ],
+        [
+            "Bug-bite",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Crush-claw",
+            39
+        ],
+        [
+            "X-scissor",
+            44
+        ],
+        [
+            "Protect",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Fury-cutter learnt at level 10",
-        "Smack-down learnt at level 13",
-        "Metal-claw learnt at level 17",
-        "Ancient-power learnt at level 21",
-        "Bug-bite learnt at level 25",
-        "Brine learnt at level 29",
-        "Slash learnt at level 34",
-        "Crush-claw learnt at level 39",
-        "X-scissor learnt at level 44",
-        "Protect learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Smack-down",
+            13
+        ],
+        [
+            "Metal-claw",
+            17
+        ],
+        [
+            "Ancient-power",
+            21
+        ],
+        [
+            "Bug-bite",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Crush-claw",
+            39
+        ],
+        [
+            "X-scissor",
+            44
+        ],
+        [
+            "Protect",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Metal-claw learnt at level 19",
-        "Protect learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Fury-cutter learnt at level 37",
-        "Slash learnt at level 43",
-        "Rock-blast learnt at level 49",
-        "Crush-claw learnt at level 55",
-        "X-scissor learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Metal-claw",
+            19
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Rock-blast",
+            49
+        ],
+        [
+            "Crush-claw",
+            55
+        ],
+        [
+            "X-scissor",
+            61
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Metal-claw learnt at level 19",
-        "Protect learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Fury-cutter learnt at level 37",
-        "Slash learnt at level 43",
-        "Rock-blast learnt at level 49",
-        "Crush-claw learnt at level 55",
-        "X-scissor learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Metal-claw",
+            19
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Rock-blast",
+            49
+        ],
+        [
+            "Crush-claw",
+            55
+        ],
+        [
+            "X-scissor",
+            61
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 7",
-        "Mud-sport learnt at level 13",
-        "Water-gun learnt at level 19",
-        "Metal-claw learnt at level 25",
-        "Protect learnt at level 31",
-        "Ancient-power learnt at level 37",
-        "Fury-cutter learnt at level 43",
-        "Slash learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Mud-sport",
+            13
+        ],
+        [
+            "Water-gun",
+            19
+        ],
+        [
+            "Metal-claw",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Ancient-power",
+            37
+        ],
+        [
+            "Fury-cutter",
+            43
+        ],
+        [
+            "Slash",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 7",
-        "Mud-sport learnt at level 13",
-        "Water-gun learnt at level 19",
-        "Metal-claw learnt at level 25",
-        "Protect learnt at level 31",
-        "Ancient-power learnt at level 37",
-        "Fury-cutter learnt at level 43",
-        "Slash learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Mud-sport",
+            13
+        ],
+        [
+            "Water-gun",
+            19
+        ],
+        [
+            "Metal-claw",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Ancient-power",
+            37
+        ],
+        [
+            "Fury-cutter",
+            43
+        ],
+        [
+            "Slash",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Metal-claw learnt at level 19",
-        "Protect learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Fury-cutter learnt at level 37",
-        "Slash learnt at level 43",
-        "Rock-blast learnt at level 49",
-        "Crush-claw learnt at level 55",
-        "X-scissor learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Metal-claw",
+            19
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Rock-blast",
+            49
+        ],
+        [
+            "Crush-claw",
+            55
+        ],
+        [
+            "X-scissor",
+            61
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Metal-claw learnt at level 19",
-        "Protect learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Fury-cutter learnt at level 37",
-        "Slash learnt at level 43",
-        "Rock-blast learnt at level 49",
-        "Crush-claw learnt at level 55",
-        "X-scissor learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Metal-claw",
+            19
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Rock-blast",
+            49
+        ],
+        [
+            "Crush-claw",
+            55
+        ],
+        [
+            "X-scissor",
+            61
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 7",
-        "Mud-sport learnt at level 13",
-        "Water-gun learnt at level 19",
-        "Metal-claw learnt at level 25",
-        "Protect learnt at level 31",
-        "Ancient-power learnt at level 37",
-        "Fury-cutter learnt at level 43",
-        "Slash learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Mud-sport",
+            13
+        ],
+        [
+            "Water-gun",
+            19
+        ],
+        [
+            "Metal-claw",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Ancient-power",
+            37
+        ],
+        [
+            "Fury-cutter",
+            43
+        ],
+        [
+            "Slash",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Water-gun learnt at level 7",
-        "Fury-cutter learnt at level 10",
-        "Smack-down learnt at level 13",
-        "Metal-claw learnt at level 17",
-        "Ancient-power learnt at level 21",
-        "Bug-bite learnt at level 25",
-        "Brine learnt at level 29",
-        "Slash learnt at level 34",
-        "Crush-claw learnt at level 39",
-        "X-scissor learnt at level 44",
-        "Protect learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Water-gun",
+            7
+        ],
+        [
+            "Fury-cutter",
+            10
+        ],
+        [
+            "Smack-down",
+            13
+        ],
+        [
+            "Metal-claw",
+            17
+        ],
+        [
+            "Ancient-power",
+            21
+        ],
+        [
+            "Bug-bite",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Slash",
+            34
+        ],
+        [
+            "Crush-claw",
+            39
+        ],
+        [
+            "X-scissor",
+            44
+        ],
+        [
+            "Protect",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Metal-claw learnt at level 19",
-        "Protect learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Fury-cutter learnt at level 37",
-        "Slash learnt at level 43",
-        "Rock-blast learnt at level 49",
-        "Crush-claw learnt at level 55",
-        "X-scissor learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Metal-claw",
+            19
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Rock-blast",
+            49
+        ],
+        [
+            "Crush-claw",
+            55
+        ],
+        [
+            "X-scissor",
+            61
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Mud-sport learnt at level 7",
-        "Water-gun learnt at level 13",
-        "Metal-claw learnt at level 19",
-        "Protect learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Fury-cutter learnt at level 37",
-        "Slash learnt at level 43",
-        "Rock-blast learnt at level 49",
-        "Crush-claw learnt at level 55",
-        "X-scissor learnt at level 61"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-sport",
+            7
+        ],
+        [
+            "Water-gun",
+            13
+        ],
+        [
+            "Metal-claw",
+            19
+        ],
+        [
+            "Protect",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Rock-blast",
+            49
+        ],
+        [
+            "Crush-claw",
+            55
+        ],
+        [
+            "X-scissor",
+            61
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 7",
-        "Mud-sport learnt at level 13",
-        "Water-gun learnt at level 19",
-        "Metal-claw learnt at level 25",
-        "Protect learnt at level 31",
-        "Ancient-power learnt at level 37",
-        "Fury-cutter learnt at level 43",
-        "Slash learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Mud-sport",
+            13
+        ],
+        [
+            "Water-gun",
+            19
+        ],
+        [
+            "Metal-claw",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Ancient-power",
+            37
+        ],
+        [
+            "Fury-cutter",
+            43
+        ],
+        [
+            "Slash",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 7",
-        "Mud-sport learnt at level 13",
-        "Water-gun learnt at level 19",
-        "Metal-claw learnt at level 25",
-        "Protect learnt at level 31",
-        "Ancient-power learnt at level 37",
-        "Fury-cutter learnt at level 43",
-        "Slash learnt at level 49",
-        "Rock-blast learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            7
+        ],
+        [
+            "Mud-sport",
+            13
+        ],
+        [
+            "Water-gun",
+            19
+        ],
+        [
+            "Metal-claw",
+            25
+        ],
+        [
+            "Protect",
+            31
+        ],
+        [
+            "Ancient-power",
+            37
+        ],
+        [
+            "Fury-cutter",
+            43
+        ],
+        [
+            "Slash",
+            49
+        ],
+        [
+            "Rock-blast",
+            55
+        ]
     ]
 }

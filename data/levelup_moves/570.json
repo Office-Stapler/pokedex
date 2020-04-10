@@ -1,110 +1,398 @@
 {
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 5",
-        "Fake-tears learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Taunt learnt at level 25",
-        "Foul-play learnt at level 29",
-        "Torment learnt at level 33",
-        "Agility learnt at level 37",
-        "Embargo learnt at level 41",
-        "Punishment learnt at level 45",
-        "Nasty-plot learnt at level 49",
-        "Imprison learnt at level 53",
-        "Night-daze learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            5
+        ],
+        [
+            "Fake-tears",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Taunt",
+            25
+        ],
+        [
+            "Foul-play",
+            29
+        ],
+        [
+            "Torment",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Embargo",
+            41
+        ],
+        [
+            "Punishment",
+            45
+        ],
+        [
+            "Nasty-plot",
+            49
+        ],
+        [
+            "Imprison",
+            53
+        ],
+        [
+            "Night-daze",
+            57
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 5",
-        "Fake-tears learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Taunt learnt at level 25",
-        "Foul-play learnt at level 29",
-        "Torment learnt at level 33",
-        "Agility learnt at level 37",
-        "Embargo learnt at level 41",
-        "Punishment learnt at level 45",
-        "Nasty-plot learnt at level 49",
-        "Imprison learnt at level 53",
-        "Night-daze learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            5
+        ],
+        [
+            "Fake-tears",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Taunt",
+            25
+        ],
+        [
+            "Foul-play",
+            29
+        ],
+        [
+            "Torment",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Embargo",
+            41
+        ],
+        [
+            "Punishment",
+            45
+        ],
+        [
+            "Nasty-plot",
+            49
+        ],
+        [
+            "Imprison",
+            53
+        ],
+        [
+            "Night-daze",
+            57
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 5",
-        "Fake-tears learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Taunt learnt at level 25",
-        "Foul-play learnt at level 29",
-        "Torment learnt at level 33",
-        "Agility learnt at level 37",
-        "Embargo learnt at level 41",
-        "Punishment learnt at level 45",
-        "Nasty-plot learnt at level 49",
-        "Imprison learnt at level 53",
-        "Night-daze learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            5
+        ],
+        [
+            "Fake-tears",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Taunt",
+            25
+        ],
+        [
+            "Foul-play",
+            29
+        ],
+        [
+            "Torment",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Embargo",
+            41
+        ],
+        [
+            "Punishment",
+            45
+        ],
+        [
+            "Nasty-plot",
+            49
+        ],
+        [
+            "Imprison",
+            53
+        ],
+        [
+            "Night-daze",
+            57
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 5",
-        "Fake-tears learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Taunt learnt at level 25",
-        "Foul-play learnt at level 29",
-        "Torment learnt at level 33",
-        "Agility learnt at level 37",
-        "Embargo learnt at level 41",
-        "Punishment learnt at level 45",
-        "Nasty-plot learnt at level 49",
-        "Imprison learnt at level 53",
-        "Night-daze learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            5
+        ],
+        [
+            "Fake-tears",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Taunt",
+            25
+        ],
+        [
+            "Foul-play",
+            29
+        ],
+        [
+            "Torment",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Embargo",
+            41
+        ],
+        [
+            "Punishment",
+            45
+        ],
+        [
+            "Nasty-plot",
+            49
+        ],
+        [
+            "Imprison",
+            53
+        ],
+        [
+            "Night-daze",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 5",
-        "Fake-tears learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Taunt learnt at level 25",
-        "Foul-play learnt at level 29",
-        "Torment learnt at level 33",
-        "Agility learnt at level 37",
-        "Embargo learnt at level 41",
-        "Punishment learnt at level 45",
-        "Nasty-plot learnt at level 49",
-        "Imprison learnt at level 53",
-        "Night-daze learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            5
+        ],
+        [
+            "Fake-tears",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Taunt",
+            25
+        ],
+        [
+            "Foul-play",
+            29
+        ],
+        [
+            "Torment",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Embargo",
+            41
+        ],
+        [
+            "Punishment",
+            45
+        ],
+        [
+            "Nasty-plot",
+            49
+        ],
+        [
+            "Imprison",
+            53
+        ],
+        [
+            "Night-daze",
+            57
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Pursuit learnt at level 5",
-        "Fake-tears learnt at level 9",
-        "Fury-swipes learnt at level 13",
-        "Feint-attack learnt at level 17",
-        "Scary-face learnt at level 21",
-        "Taunt learnt at level 25",
-        "Foul-play learnt at level 29",
-        "Torment learnt at level 33",
-        "Agility learnt at level 37",
-        "Embargo learnt at level 41",
-        "Punishment learnt at level 45",
-        "Nasty-plot learnt at level 49",
-        "Imprison learnt at level 53",
-        "Night-daze learnt at level 57"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Pursuit",
+            5
+        ],
+        [
+            "Fake-tears",
+            9
+        ],
+        [
+            "Fury-swipes",
+            13
+        ],
+        [
+            "Feint-attack",
+            17
+        ],
+        [
+            "Scary-face",
+            21
+        ],
+        [
+            "Taunt",
+            25
+        ],
+        [
+            "Foul-play",
+            29
+        ],
+        [
+            "Torment",
+            33
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Embargo",
+            41
+        ],
+        [
+            "Punishment",
+            45
+        ],
+        [
+            "Nasty-plot",
+            49
+        ],
+        [
+            "Imprison",
+            53
+        ],
+        [
+            "Night-daze",
+            57
+        ]
     ]
 }

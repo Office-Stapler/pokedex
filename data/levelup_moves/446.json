@@ -1,179 +1,656 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Lick learnt at level 1",
-        "Recycle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Chip-away learnt at level 17",
-        "Screech learnt at level 20",
-        "Body-slam learnt at level 25",
-        "Stockpile learnt at level 28",
-        "Swallow learnt at level 33",
-        "Rollout learnt at level 36",
-        "Fling learnt at level 41",
-        "Belly-drum learnt at level 44",
-        "Natural-gift learnt at level 49",
-        "Snatch learnt at level 50",
-        "Last-resort learnt at level 57"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Recycle learnt at level 17",
-        "Screech learnt at level 20",
-        "Chip-away learnt at level 25",
-        "Stockpile learnt at level 28",
-        "Swallow learnt at level 33",
-        "Body-slam learnt at level 36",
-        "Fling learnt at level 41",
-        "Rollout learnt at level 44",
-        "Natural-gift learnt at level 49",
-        "Snatch learnt at level 52",
-        "Last-resort learnt at level 57"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Recycle learnt at level 17",
-        "Screech learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Swallow learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Fling learnt at level 36",
-        "Rollout learnt at level 41",
-        "Natural-gift learnt at level 44",
-        "Last-resort learnt at level 49"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Recycle learnt at level 17",
-        "Screech learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Swallow learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Fling learnt at level 36",
-        "Rollout learnt at level 41",
-        "Natural-gift learnt at level 44",
-        "Last-resort learnt at level 49"
-    ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Lick learnt at level 1",
-        "Recycle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Chip-away learnt at level 17",
-        "Screech learnt at level 20",
-        "Body-slam learnt at level 25",
-        "Stockpile learnt at level 28",
-        "Swallow learnt at level 33",
-        "Rollout learnt at level 36",
-        "Fling learnt at level 41",
-        "Belly-drum learnt at level 44",
-        "Natural-gift learnt at level 49",
-        "Snatch learnt at level 50",
-        "Last-resort learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Chip-away",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Stockpile",
+            28
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Rollout",
+            36
+        ],
+        [
+            "Fling",
+            41
+        ],
+        [
+            "Belly-drum",
+            44
+        ],
+        [
+            "Natural-gift",
+            49
+        ],
+        [
+            "Snatch",
+            50
+        ],
+        [
+            "Last-resort",
+            57
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Chip-away",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Stockpile",
+            28
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Rollout",
+            36
+        ],
+        [
+            "Fling",
+            41
+        ],
+        [
+            "Belly-drum",
+            44
+        ],
+        [
+            "Natural-gift",
+            49
+        ],
+        [
+            "Snatch",
+            50
+        ],
+        [
+            "Last-resort",
+            57
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Lick learnt at level 1",
-        "Snatch learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Chip-away learnt at level 17",
-        "Screech learnt at level 20",
-        "Body-slam learnt at level 25",
-        "Stockpile learnt at level 28",
-        "Swallow learnt at level 33",
-        "Rollout learnt at level 36",
-        "Fling learnt at level 41",
-        "Belly-drum learnt at level 44",
-        "Natural-gift learnt at level 49",
-        "Snatch learnt at level 52",
-        "Last-resort learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Snatch",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Chip-away",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Stockpile",
+            28
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Rollout",
+            36
+        ],
+        [
+            "Fling",
+            41
+        ],
+        [
+            "Belly-drum",
+            44
+        ],
+        [
+            "Natural-gift",
+            49
+        ],
+        [
+            "Snatch",
+            52
+        ],
+        [
+            "Last-resort",
+            57
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Recycle",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Chip-away",
+            25
+        ],
+        [
+            "Stockpile",
+            28
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Body-slam",
+            36
+        ],
+        [
+            "Fling",
+            41
+        ],
+        [
+            "Rollout",
+            44
+        ],
+        [
+            "Natural-gift",
+            49
+        ],
+        [
+            "Snatch",
+            52
+        ],
+        [
+            "Last-resort",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Lick learnt at level 1",
-        "Recycle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Last-resort learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Chip-away learnt at level 17",
-        "Screech learnt at level 20",
-        "Body-slam learnt at level 25",
-        "Stockpile learnt at level 28",
-        "Swallow learnt at level 33",
-        "Rollout learnt at level 36",
-        "Fling learnt at level 41",
-        "Belly-drum learnt at level 44",
-        "Natural-gift learnt at level 49",
-        "Snatch learnt at level 50",
-        "Last-resort learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Recycle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Last-resort",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Chip-away",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Body-slam",
+            25
+        ],
+        [
+            "Stockpile",
+            28
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Rollout",
+            36
+        ],
+        [
+            "Fling",
+            41
+        ],
+        [
+            "Belly-drum",
+            44
+        ],
+        [
+            "Natural-gift",
+            49
+        ],
+        [
+            "Snatch",
+            50
+        ],
+        [
+            "Last-resort",
+            57
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Recycle learnt at level 17",
-        "Screech learnt at level 20",
-        "Chip-away learnt at level 25",
-        "Stockpile learnt at level 28",
-        "Swallow learnt at level 33",
-        "Body-slam learnt at level 36",
-        "Fling learnt at level 41",
-        "Rollout learnt at level 44",
-        "Natural-gift learnt at level 49",
-        "Snatch learnt at level 52",
-        "Last-resort learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Recycle",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Chip-away",
+            25
+        ],
+        [
+            "Stockpile",
+            28
+        ],
+        [
+            "Swallow",
+            33
+        ],
+        [
+            "Body-slam",
+            36
+        ],
+        [
+            "Fling",
+            41
+        ],
+        [
+            "Rollout",
+            44
+        ],
+        [
+            "Natural-gift",
+            49
+        ],
+        [
+            "Snatch",
+            52
+        ],
+        [
+            "Last-resort",
+            57
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Recycle",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Swallow",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Fling",
+            36
+        ],
+        [
+            "Rollout",
+            41
+        ],
+        [
+            "Natural-gift",
+            44
+        ],
+        [
+            "Last-resort",
+            49
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Recycle",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Swallow",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Fling",
+            36
+        ],
+        [
+            "Rollout",
+            41
+        ],
+        [
+            "Natural-gift",
+            44
+        ],
+        [
+            "Last-resort",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Metronome learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Defense-curl learnt at level 4",
-        "Amnesia learnt at level 9",
-        "Lick learnt at level 12",
-        "Recycle learnt at level 17",
-        "Screech learnt at level 20",
-        "Stockpile learnt at level 25",
-        "Swallow learnt at level 28",
-        "Body-slam learnt at level 33",
-        "Fling learnt at level 36",
-        "Rollout learnt at level 41",
-        "Natural-gift learnt at level 44",
-        "Last-resort learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Defense-curl",
+            4
+        ],
+        [
+            "Amnesia",
+            9
+        ],
+        [
+            "Lick",
+            12
+        ],
+        [
+            "Recycle",
+            17
+        ],
+        [
+            "Screech",
+            20
+        ],
+        [
+            "Stockpile",
+            25
+        ],
+        [
+            "Swallow",
+            28
+        ],
+        [
+            "Body-slam",
+            33
+        ],
+        [
+            "Fling",
+            36
+        ],
+        [
+            "Rollout",
+            41
+        ],
+        [
+            "Natural-gift",
+            44
+        ],
+        [
+            "Last-resort",
+            49
+        ]
     ]
 }

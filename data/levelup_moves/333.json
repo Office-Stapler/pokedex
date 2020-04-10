@@ -1,220 +1,790 @@
 {
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 3",
-        "Sing learnt at level 5",
-        "Fury-attack learnt at level 7",
-        "Safeguard learnt at level 9",
-        "Disarming-voice learnt at level 11",
-        "Mist learnt at level 14",
-        "Round learnt at level 17",
-        "Natural-gift learnt at level 20",
-        "Take-down learnt at level 23",
-        "Refresh learnt at level 26",
-        "Mirror-move learnt at level 30",
-        "Cotton-guard learnt at level 34",
-        "Dragon-pulse learnt at level 38",
-        "Perish-song learnt at level 42",
-        "Moonblast learnt at level 46"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            3
+        ],
+        [
+            "Sing",
+            5
+        ],
+        [
+            "Fury-attack",
+            7
+        ],
+        [
+            "Safeguard",
+            9
+        ],
+        [
+            "Disarming-voice",
+            11
+        ],
+        [
+            "Mist",
+            14
+        ],
+        [
+            "Round",
+            17
+        ],
+        [
+            "Natural-gift",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Refresh",
+            26
+        ],
+        [
+            "Mirror-move",
+            30
+        ],
+        [
+            "Cotton-guard",
+            34
+        ],
+        [
+            "Dragon-pulse",
+            38
+        ],
+        [
+            "Perish-song",
+            42
+        ],
+        [
+            "Moonblast",
+            46
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 3",
-        "Sing learnt at level 5",
-        "Fury-attack learnt at level 7",
-        "Safeguard learnt at level 9",
-        "Disarming-voice learnt at level 11",
-        "Mist learnt at level 14",
-        "Round learnt at level 17",
-        "Natural-gift learnt at level 20",
-        "Take-down learnt at level 23",
-        "Refresh learnt at level 26",
-        "Mirror-move learnt at level 30",
-        "Cotton-guard learnt at level 34",
-        "Dragon-pulse learnt at level 38",
-        "Perish-song learnt at level 42",
-        "Moonblast learnt at level 46"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            3
+        ],
+        [
+            "Sing",
+            5
+        ],
+        [
+            "Fury-attack",
+            7
+        ],
+        [
+            "Safeguard",
+            9
+        ],
+        [
+            "Disarming-voice",
+            11
+        ],
+        [
+            "Mist",
+            14
+        ],
+        [
+            "Round",
+            17
+        ],
+        [
+            "Natural-gift",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Refresh",
+            26
+        ],
+        [
+            "Mirror-move",
+            30
+        ],
+        [
+            "Cotton-guard",
+            34
+        ],
+        [
+            "Dragon-pulse",
+            38
+        ],
+        [
+            "Perish-song",
+            42
+        ],
+        [
+            "Moonblast",
+            46
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 3",
-        "Sing learnt at level 5",
-        "Fury-attack learnt at level 7",
-        "Safeguard learnt at level 9",
-        "Disarming-voice learnt at level 11",
-        "Mist learnt at level 14",
-        "Round learnt at level 17",
-        "Natural-gift learnt at level 20",
-        "Take-down learnt at level 23",
-        "Refresh learnt at level 26",
-        "Mirror-move learnt at level 30",
-        "Cotton-guard learnt at level 34",
-        "Dragon-pulse learnt at level 38",
-        "Perish-song learnt at level 42",
-        "Moonblast learnt at level 46"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 4",
-        "Sing learnt at level 8",
-        "Fury-attack learnt at level 10",
-        "Safeguard learnt at level 13",
-        "Mist learnt at level 15",
-        "Round learnt at level 18",
-        "Natural-gift learnt at level 21",
-        "Take-down learnt at level 25",
-        "Refresh learnt at level 29",
-        "Mirror-move learnt at level 34",
-        "Cotton-guard learnt at level 39",
-        "Dragon-pulse learnt at level 42",
-        "Perish-song learnt at level 48"
-    ],
-    "xd": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 8",
-        "Sing learnt at level 11",
-        "Fury-attack learnt at level 18",
-        "Safeguard learnt at level 21",
-        "Mist learnt at level 28",
-        "Take-down learnt at level 31",
-        "Mirror-move learnt at level 38",
-        "Refresh learnt at level 41",
-        "Perish-song learnt at level 48"
-    ],
-    "colosseum": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 8",
-        "Sing learnt at level 11",
-        "Fury-attack learnt at level 18",
-        "Safeguard learnt at level 21",
-        "Mist learnt at level 28",
-        "Take-down learnt at level 31",
-        "Mirror-move learnt at level 38",
-        "Refresh learnt at level 41",
-        "Perish-song learnt at level 48"
-    ],
-    "black-white": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 5",
-        "Sing learnt at level 9",
-        "Fury-attack learnt at level 13",
-        "Safeguard learnt at level 18",
-        "Mist learnt at level 23",
-        "Take-down learnt at level 28",
-        "Natural-gift learnt at level 32",
-        "Mirror-move learnt at level 36",
-        "Cotton-guard learnt at level 40",
-        "Refresh learnt at level 45",
-        "Dragon-pulse learnt at level 50",
-        "Perish-song learnt at level 55"
-    ],
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 5",
-        "Sing learnt at level 9",
-        "Fury-attack learnt at level 13",
-        "Safeguard learnt at level 18",
-        "Mist learnt at level 23",
-        "Take-down learnt at level 28",
-        "Natural-gift learnt at level 32",
-        "Mirror-move learnt at level 36",
-        "Refresh learnt at level 40",
-        "Dragon-pulse learnt at level 45",
-        "Perish-song learnt at level 50"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 5",
-        "Sing learnt at level 9",
-        "Fury-attack learnt at level 13",
-        "Safeguard learnt at level 18",
-        "Mist learnt at level 23",
-        "Take-down learnt at level 28",
-        "Natural-gift learnt at level 32",
-        "Mirror-move learnt at level 36",
-        "Refresh learnt at level 40",
-        "Dragon-pulse learnt at level 45",
-        "Perish-song learnt at level 50"
-    ],
-    "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 5",
-        "Sing learnt at level 9",
-        "Fury-attack learnt at level 13",
-        "Safeguard learnt at level 18",
-        "Mist learnt at level 23",
-        "Take-down learnt at level 28",
-        "Natural-gift learnt at level 32",
-        "Mirror-move learnt at level 36",
-        "Refresh learnt at level 40",
-        "Dragon-pulse learnt at level 45",
-        "Perish-song learnt at level 50"
-    ],
-    "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 8",
-        "Sing learnt at level 11",
-        "Fury-attack learnt at level 18",
-        "Safeguard learnt at level 21",
-        "Mist learnt at level 28",
-        "Take-down learnt at level 31",
-        "Mirror-move learnt at level 38",
-        "Refresh learnt at level 41",
-        "Perish-song learnt at level 48"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            3
+        ],
+        [
+            "Sing",
+            5
+        ],
+        [
+            "Fury-attack",
+            7
+        ],
+        [
+            "Safeguard",
+            9
+        ],
+        [
+            "Disarming-voice",
+            11
+        ],
+        [
+            "Mist",
+            14
+        ],
+        [
+            "Round",
+            17
+        ],
+        [
+            "Natural-gift",
+            20
+        ],
+        [
+            "Take-down",
+            23
+        ],
+        [
+            "Refresh",
+            26
+        ],
+        [
+            "Mirror-move",
+            30
+        ],
+        [
+            "Cotton-guard",
+            34
+        ],
+        [
+            "Dragon-pulse",
+            38
+        ],
+        [
+            "Perish-song",
+            42
+        ],
+        [
+            "Moonblast",
+            46
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 4",
-        "Sing learnt at level 8",
-        "Fury-attack learnt at level 10",
-        "Safeguard learnt at level 13",
-        "Mist learnt at level 15",
-        "Round learnt at level 18",
-        "Natural-gift learnt at level 21",
-        "Take-down learnt at level 25",
-        "Refresh learnt at level 29",
-        "Mirror-move learnt at level 34",
-        "Cotton-guard learnt at level 39",
-        "Dragon-pulse learnt at level 42",
-        "Perish-song learnt at level 48",
-        "Moonblast learnt at level 50"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Safeguard",
+            13
+        ],
+        [
+            "Mist",
+            15
+        ],
+        [
+            "Round",
+            18
+        ],
+        [
+            "Natural-gift",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Refresh",
+            29
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Cotton-guard",
+            39
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Perish-song",
+            48
+        ],
+        [
+            "Moonblast",
+            50
+        ]
+    ],
+    "xd": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Sing",
+            11
+        ],
+        [
+            "Fury-attack",
+            18
+        ],
+        [
+            "Safeguard",
+            21
+        ],
+        [
+            "Mist",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Mirror-move",
+            38
+        ],
+        [
+            "Refresh",
+            41
+        ],
+        [
+            "Perish-song",
+            48
+        ]
+    ],
+    "colosseum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Sing",
+            11
+        ],
+        [
+            "Fury-attack",
+            18
+        ],
+        [
+            "Safeguard",
+            21
+        ],
+        [
+            "Mist",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Mirror-move",
+            38
+        ],
+        [
+            "Refresh",
+            41
+        ],
+        [
+            "Perish-song",
+            48
+        ]
+    ],
+    "black-white": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Sing",
+            9
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Safeguard",
+            18
+        ],
+        [
+            "Mist",
+            23
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Natural-gift",
+            32
+        ],
+        [
+            "Mirror-move",
+            36
+        ],
+        [
+            "Cotton-guard",
+            40
+        ],
+        [
+            "Refresh",
+            45
+        ],
+        [
+            "Dragon-pulse",
+            50
+        ],
+        [
+            "Perish-song",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Sing",
+            9
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Safeguard",
+            18
+        ],
+        [
+            "Mist",
+            23
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Natural-gift",
+            32
+        ],
+        [
+            "Mirror-move",
+            36
+        ],
+        [
+            "Refresh",
+            40
+        ],
+        [
+            "Dragon-pulse",
+            45
+        ],
+        [
+            "Perish-song",
+            50
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Sing",
+            9
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Safeguard",
+            18
+        ],
+        [
+            "Mist",
+            23
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Natural-gift",
+            32
+        ],
+        [
+            "Mirror-move",
+            36
+        ],
+        [
+            "Refresh",
+            40
+        ],
+        [
+            "Dragon-pulse",
+            45
+        ],
+        [
+            "Perish-song",
+            50
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Sing",
+            9
+        ],
+        [
+            "Fury-attack",
+            13
+        ],
+        [
+            "Safeguard",
+            18
+        ],
+        [
+            "Mist",
+            23
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Natural-gift",
+            32
+        ],
+        [
+            "Mirror-move",
+            36
+        ],
+        [
+            "Refresh",
+            40
+        ],
+        [
+            "Dragon-pulse",
+            45
+        ],
+        [
+            "Perish-song",
+            50
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Sing",
+            11
+        ],
+        [
+            "Fury-attack",
+            18
+        ],
+        [
+            "Safeguard",
+            21
+        ],
+        [
+            "Mist",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Mirror-move",
+            38
+        ],
+        [
+            "Refresh",
+            41
+        ],
+        [
+            "Perish-song",
+            48
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            4
+        ],
+        [
+            "Sing",
+            8
+        ],
+        [
+            "Fury-attack",
+            10
+        ],
+        [
+            "Safeguard",
+            13
+        ],
+        [
+            "Mist",
+            15
+        ],
+        [
+            "Round",
+            18
+        ],
+        [
+            "Natural-gift",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Refresh",
+            29
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Cotton-guard",
+            39
+        ],
+        [
+            "Dragon-pulse",
+            42
+        ],
+        [
+            "Perish-song",
+            48
+        ]
     ],
     "emerald": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 8",
-        "Sing learnt at level 11",
-        "Fury-attack learnt at level 18",
-        "Safeguard learnt at level 21",
-        "Mist learnt at level 28",
-        "Take-down learnt at level 31",
-        "Mirror-move learnt at level 38",
-        "Refresh learnt at level 41",
-        "Perish-song learnt at level 48"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Sing",
+            11
+        ],
+        [
+            "Fury-attack",
+            18
+        ],
+        [
+            "Safeguard",
+            21
+        ],
+        [
+            "Mist",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Mirror-move",
+            38
+        ],
+        [
+            "Refresh",
+            41
+        ],
+        [
+            "Perish-song",
+            48
+        ]
     ],
     "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Astonish learnt at level 8",
-        "Sing learnt at level 11",
-        "Fury-attack learnt at level 18",
-        "Safeguard learnt at level 21",
-        "Mist learnt at level 28",
-        "Take-down learnt at level 31",
-        "Mirror-move learnt at level 38",
-        "Refresh learnt at level 41",
-        "Perish-song learnt at level 48"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Astonish",
+            8
+        ],
+        [
+            "Sing",
+            11
+        ],
+        [
+            "Fury-attack",
+            18
+        ],
+        [
+            "Safeguard",
+            21
+        ],
+        [
+            "Mist",
+            28
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Mirror-move",
+            38
+        ],
+        [
+            "Refresh",
+            41
+        ],
+        [
+            "Perish-song",
+            48
+        ]
     ]
 }

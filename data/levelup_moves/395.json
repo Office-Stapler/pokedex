@@ -1,173 +1,640 @@
 {
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Metal-claw learnt at level 16",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Aqua-jet learnt at level 36",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Metal-claw",
+            16
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Aqua-jet",
+            36
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Metal-claw learnt at level 16",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Aqua-jet learnt at level 36",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Metal-claw",
+            16
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Aqua-jet",
+            36
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Metal-claw learnt at level 16",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Aqua-jet learnt at level 36",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Metal-claw",
+            16
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Aqua-jet",
+            36
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Metal-claw learnt at level 16",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Aqua-jet learnt at level 36",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Metal-claw",
+            16
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Aqua-jet",
+            36
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Metal-claw learnt at level 16",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Aqua-jet learnt at level 36",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Metal-claw",
+            16
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Aqua-jet",
+            36
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Aqua-jet",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Aqua-jet learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Aqua-jet",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Aqua-jet",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Metal-claw learnt at level 16",
-        "Bubble-beam learnt at level 19",
-        "Swagger learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Aqua-jet learnt at level 36",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Metal-claw",
+            16
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Swagger",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Aqua-jet",
+            36
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Bubble learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Swords-dance learnt at level 11",
-        "Peck learnt at level 15",
-        "Metal-claw learnt at level 16",
-        "Swagger learnt at level 19",
-        "Bubble-beam learnt at level 24",
-        "Fury-attack learnt at level 28",
-        "Brine learnt at level 33",
-        "Aqua-jet learnt at level 36",
-        "Whirlpool learnt at level 39",
-        "Mist learnt at level 46",
-        "Drill-peck learnt at level 52",
-        "Hydro-pump learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bubble",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Swords-dance",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Metal-claw",
+            16
+        ],
+        [
+            "Swagger",
+            19
+        ],
+        [
+            "Bubble-beam",
+            24
+        ],
+        [
+            "Fury-attack",
+            28
+        ],
+        [
+            "Brine",
+            33
+        ],
+        [
+            "Aqua-jet",
+            36
+        ],
+        [
+            "Whirlpool",
+            39
+        ],
+        [
+            "Mist",
+            46
+        ],
+        [
+            "Drill-peck",
+            52
+        ],
+        [
+            "Hydro-pump",
+            59
+        ]
     ]
 }

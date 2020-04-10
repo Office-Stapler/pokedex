@@ -1,100 +1,358 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Odor-sleuth learnt at level 5",
-        "Bite learnt at level 8",
-        "Baby-doll-eyes learnt at level 10",
-        "Helping-hand learnt at level 12",
-        "Take-down learnt at level 15",
-        "Work-up learnt at level 19",
-        "Crunch learnt at level 22",
-        "Roar learnt at level 26",
-        "Retaliate learnt at level 29",
-        "Reversal learnt at level 33",
-        "Last-resort learnt at level 36",
-        "Giga-impact learnt at level 40",
-        "Play-rough learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            5
+        ],
+        [
+            "Bite",
+            8
+        ],
+        [
+            "Baby-doll-eyes",
+            10
+        ],
+        [
+            "Helping-hand",
+            12
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Work-up",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Roar",
+            26
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Last-resort",
+            36
+        ],
+        [
+            "Giga-impact",
+            40
+        ],
+        [
+            "Play-rough",
+            45
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Odor-sleuth learnt at level 5",
-        "Bite learnt at level 8",
-        "Baby-doll-eyes learnt at level 10",
-        "Helping-hand learnt at level 12",
-        "Take-down learnt at level 15",
-        "Work-up learnt at level 19",
-        "Crunch learnt at level 22",
-        "Roar learnt at level 26",
-        "Retaliate learnt at level 29",
-        "Reversal learnt at level 33",
-        "Last-resort learnt at level 36",
-        "Giga-impact learnt at level 40",
-        "Play-rough learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            5
+        ],
+        [
+            "Bite",
+            8
+        ],
+        [
+            "Baby-doll-eyes",
+            10
+        ],
+        [
+            "Helping-hand",
+            12
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Work-up",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Roar",
+            26
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Last-resort",
+            36
+        ],
+        [
+            "Giga-impact",
+            40
+        ],
+        [
+            "Play-rough",
+            45
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Odor-sleuth learnt at level 5",
-        "Bite learnt at level 8",
-        "Baby-doll-eyes learnt at level 10",
-        "Helping-hand learnt at level 12",
-        "Take-down learnt at level 15",
-        "Work-up learnt at level 19",
-        "Crunch learnt at level 22",
-        "Roar learnt at level 26",
-        "Retaliate learnt at level 29",
-        "Reversal learnt at level 33",
-        "Last-resort learnt at level 36",
-        "Giga-impact learnt at level 40",
-        "Play-rough learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            5
+        ],
+        [
+            "Bite",
+            8
+        ],
+        [
+            "Baby-doll-eyes",
+            10
+        ],
+        [
+            "Helping-hand",
+            12
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Work-up",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Roar",
+            26
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Last-resort",
+            36
+        ],
+        [
+            "Giga-impact",
+            40
+        ],
+        [
+            "Play-rough",
+            45
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Odor-sleuth learnt at level 5",
-        "Bite learnt at level 8",
-        "Baby-doll-eyes learnt at level 10",
-        "Helping-hand learnt at level 12",
-        "Take-down learnt at level 15",
-        "Work-up learnt at level 19",
-        "Crunch learnt at level 22",
-        "Roar learnt at level 26",
-        "Retaliate learnt at level 29",
-        "Reversal learnt at level 33",
-        "Last-resort learnt at level 36",
-        "Giga-impact learnt at level 40",
-        "Play-rough learnt at level 45"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            5
+        ],
+        [
+            "Bite",
+            8
+        ],
+        [
+            "Baby-doll-eyes",
+            10
+        ],
+        [
+            "Helping-hand",
+            12
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Work-up",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Roar",
+            26
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Last-resort",
+            36
+        ],
+        [
+            "Giga-impact",
+            40
+        ],
+        [
+            "Play-rough",
+            45
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Odor-sleuth learnt at level 5",
-        "Bite learnt at level 8",
-        "Helping-hand learnt at level 12",
-        "Take-down learnt at level 15",
-        "Work-up learnt at level 19",
-        "Crunch learnt at level 22",
-        "Roar learnt at level 26",
-        "Retaliate learnt at level 29",
-        "Reversal learnt at level 33",
-        "Last-resort learnt at level 36",
-        "Giga-impact learnt at level 40"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            5
+        ],
+        [
+            "Bite",
+            8
+        ],
+        [
+            "Helping-hand",
+            12
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Work-up",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Roar",
+            26
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Last-resort",
+            36
+        ],
+        [
+            "Giga-impact",
+            40
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Odor-sleuth learnt at level 5",
-        "Bite learnt at level 8",
-        "Helping-hand learnt at level 12",
-        "Take-down learnt at level 15",
-        "Work-up learnt at level 19",
-        "Crunch learnt at level 22",
-        "Roar learnt at level 26",
-        "Retaliate learnt at level 29",
-        "Reversal learnt at level 33",
-        "Last-resort learnt at level 36",
-        "Giga-impact learnt at level 40"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            5
+        ],
+        [
+            "Bite",
+            8
+        ],
+        [
+            "Helping-hand",
+            12
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Work-up",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Roar",
+            26
+        ],
+        [
+            "Retaliate",
+            29
+        ],
+        [
+            "Reversal",
+            33
+        ],
+        [
+            "Last-resort",
+            36
+        ],
+        [
+            "Giga-impact",
+            40
+        ]
     ]
 }

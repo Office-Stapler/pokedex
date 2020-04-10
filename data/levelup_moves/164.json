@@ -1,282 +1,1026 @@
 {
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Dream-eater learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Peck learnt at level 7",
-        "Confusion learnt at level 10",
-        "Echoed-voice learnt at level 13",
-        "Zen-headbutt learnt at level 16",
-        "Psycho-shift learnt at level 19",
-        "Extrasensory learnt at level 23",
-        "Take-down learnt at level 27",
-        "Reflect learnt at level 31",
-        "Air-slash learnt at level 35",
-        "Uproar learnt at level 39",
-        "Roost learnt at level 43",
-        "Moonblast learnt at level 47",
-        "Synchronoise learnt at level 51",
-        "Dream-eater learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Dream-eater",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Peck",
+            7
+        ],
+        [
+            "Confusion",
+            10
+        ],
+        [
+            "Echoed-voice",
+            13
+        ],
+        [
+            "Zen-headbutt",
+            16
+        ],
+        [
+            "Psycho-shift",
+            19
+        ],
+        [
+            "Extrasensory",
+            23
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Reflect",
+            31
+        ],
+        [
+            "Air-slash",
+            35
+        ],
+        [
+            "Uproar",
+            39
+        ],
+        [
+            "Roost",
+            43
+        ],
+        [
+            "Moonblast",
+            47
+        ],
+        [
+            "Synchronoise",
+            51
+        ],
+        [
+            "Dream-eater",
+            55
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Dream-eater learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Peck learnt at level 9",
-        "Uproar learnt at level 13",
-        "Reflect learnt at level 17",
-        "Confusion learnt at level 22",
-        "Echoed-voice learnt at level 27",
-        "Take-down learnt at level 32",
-        "Air-slash learnt at level 37",
-        "Zen-headbutt learnt at level 42",
-        "Synchronoise learnt at level 47",
-        "Extrasensory learnt at level 52",
-        "Psycho-shift learnt at level 57",
-        "Roost learnt at level 62",
-        "Dream-eater learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Dream-eater",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Peck",
+            9
+        ],
+        [
+            "Uproar",
+            13
+        ],
+        [
+            "Reflect",
+            17
+        ],
+        [
+            "Confusion",
+            22
+        ],
+        [
+            "Echoed-voice",
+            27
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Air-slash",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            42
+        ],
+        [
+            "Synchronoise",
+            47
+        ],
+        [
+            "Extrasensory",
+            52
+        ],
+        [
+            "Psycho-shift",
+            57
+        ],
+        [
+            "Roost",
+            62
+        ],
+        [
+            "Dream-eater",
+            67
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Dream-eater learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Peck learnt at level 9",
-        "Uproar learnt at level 13",
-        "Reflect learnt at level 17",
-        "Confusion learnt at level 22",
-        "Echoed-voice learnt at level 27",
-        "Take-down learnt at level 32",
-        "Air-slash learnt at level 37",
-        "Zen-headbutt learnt at level 42",
-        "Synchronoise learnt at level 47",
-        "Extrasensory learnt at level 52",
-        "Psycho-shift learnt at level 57",
-        "Roost learnt at level 62",
-        "Dream-eater learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Dream-eater",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Peck",
+            9
+        ],
+        [
+            "Uproar",
+            13
+        ],
+        [
+            "Reflect",
+            17
+        ],
+        [
+            "Confusion",
+            22
+        ],
+        [
+            "Echoed-voice",
+            27
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Air-slash",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            42
+        ],
+        [
+            "Synchronoise",
+            47
+        ],
+        [
+            "Extrasensory",
+            52
+        ],
+        [
+            "Psycho-shift",
+            57
+        ],
+        [
+            "Roost",
+            62
+        ],
+        [
+            "Dream-eater",
+            67
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Peck learnt at level 9",
-        "Uproar learnt at level 13",
-        "Reflect learnt at level 17",
-        "Confusion learnt at level 22",
-        "Echoed-voice learnt at level 27",
-        "Take-down learnt at level 32",
-        "Air-slash learnt at level 37",
-        "Zen-headbutt learnt at level 42",
-        "Synchronoise learnt at level 47",
-        "Extrasensory learnt at level 52",
-        "Psycho-shift learnt at level 57",
-        "Roost learnt at level 62",
-        "Dream-eater learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Peck",
+            9
+        ],
+        [
+            "Uproar",
+            13
+        ],
+        [
+            "Reflect",
+            17
+        ],
+        [
+            "Confusion",
+            22
+        ],
+        [
+            "Echoed-voice",
+            27
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Air-slash",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            42
+        ],
+        [
+            "Synchronoise",
+            47
+        ],
+        [
+            "Extrasensory",
+            52
+        ],
+        [
+            "Psycho-shift",
+            57
+        ],
+        [
+            "Roost",
+            62
+        ],
+        [
+            "Dream-eater",
+            67
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 6",
-        "Peck learnt at level 11",
-        "Hypnosis learnt at level 16",
-        "Reflect learnt at level 25",
-        "Take-down learnt at level 33",
-        "Confusion learnt at level 41",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            6
+        ],
+        [
+            "Peck",
+            11
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Confusion",
+            41
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Peck learnt at level 9",
-        "Uproar learnt at level 13",
-        "Reflect learnt at level 17",
-        "Confusion learnt at level 22",
-        "Echoed-voice learnt at level 27",
-        "Take-down learnt at level 32",
-        "Air-slash learnt at level 37",
-        "Zen-headbutt learnt at level 42",
-        "Synchronoise learnt at level 47",
-        "Extrasensory learnt at level 52",
-        "Psycho-shift learnt at level 57",
-        "Roost learnt at level 62",
-        "Dream-eater learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Peck",
+            9
+        ],
+        [
+            "Uproar",
+            13
+        ],
+        [
+            "Reflect",
+            17
+        ],
+        [
+            "Confusion",
+            22
+        ],
+        [
+            "Echoed-voice",
+            27
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Air-slash",
+            37
+        ],
+        [
+            "Zen-headbutt",
+            42
+        ],
+        [
+            "Synchronoise",
+            47
+        ],
+        [
+            "Extrasensory",
+            52
+        ],
+        [
+            "Psycho-shift",
+            57
+        ],
+        [
+            "Roost",
+            62
+        ],
+        [
+            "Dream-eater",
+            67
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Peck learnt at level 9",
-        "Uproar learnt at level 13",
-        "Reflect learnt at level 17",
-        "Confusion learnt at level 22",
-        "Take-down learnt at level 27",
-        "Air-slash learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Extrasensory learnt at level 42",
-        "Psycho-shift learnt at level 47",
-        "Roost learnt at level 52",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Peck",
+            9
+        ],
+        [
+            "Uproar",
+            13
+        ],
+        [
+            "Reflect",
+            17
+        ],
+        [
+            "Confusion",
+            22
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Psycho-shift",
+            47
+        ],
+        [
+            "Roost",
+            52
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Dream-eater learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Peck learnt at level 7",
-        "Confusion learnt at level 10",
-        "Echoed-voice learnt at level 13",
-        "Zen-headbutt learnt at level 16",
-        "Psycho-shift learnt at level 19",
-        "Extrasensory learnt at level 23",
-        "Take-down learnt at level 27",
-        "Reflect learnt at level 31",
-        "Air-slash learnt at level 35",
-        "Uproar learnt at level 39",
-        "Roost learnt at level 43",
-        "Moonblast learnt at level 47",
-        "Synchronoise learnt at level 51",
-        "Dream-eater learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Dream-eater",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Peck",
+            7
+        ],
+        [
+            "Confusion",
+            10
+        ],
+        [
+            "Echoed-voice",
+            13
+        ],
+        [
+            "Zen-headbutt",
+            16
+        ],
+        [
+            "Psycho-shift",
+            19
+        ],
+        [
+            "Extrasensory",
+            23
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Reflect",
+            31
+        ],
+        [
+            "Air-slash",
+            35
+        ],
+        [
+            "Uproar",
+            39
+        ],
+        [
+            "Roost",
+            43
+        ],
+        [
+            "Moonblast",
+            47
+        ],
+        [
+            "Synchronoise",
+            51
+        ],
+        [
+            "Dream-eater",
+            55
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Peck learnt at level 9",
-        "Uproar learnt at level 13",
-        "Reflect learnt at level 17",
-        "Confusion learnt at level 22",
-        "Take-down learnt at level 27",
-        "Air-slash learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Extrasensory learnt at level 42",
-        "Psycho-shift learnt at level 47",
-        "Roost learnt at level 52",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Peck",
+            9
+        ],
+        [
+            "Uproar",
+            13
+        ],
+        [
+            "Reflect",
+            17
+        ],
+        [
+            "Confusion",
+            22
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Psycho-shift",
+            47
+        ],
+        [
+            "Roost",
+            52
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Hypnosis learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 5",
-        "Hypnosis learnt at level 9",
-        "Peck learnt at level 13",
-        "Reflect learnt at level 17",
-        "Confusion learnt at level 22",
-        "Take-down learnt at level 27",
-        "Air-slash learnt at level 32",
-        "Zen-headbutt learnt at level 37",
-        "Extrasensory learnt at level 42",
-        "Psycho-shift learnt at level 47",
-        "Roost learnt at level 52",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Hypnosis",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            5
+        ],
+        [
+            "Hypnosis",
+            9
+        ],
+        [
+            "Peck",
+            13
+        ],
+        [
+            "Reflect",
+            17
+        ],
+        [
+            "Confusion",
+            22
+        ],
+        [
+            "Take-down",
+            27
+        ],
+        [
+            "Air-slash",
+            32
+        ],
+        [
+            "Zen-headbutt",
+            37
+        ],
+        [
+            "Extrasensory",
+            42
+        ],
+        [
+            "Psycho-shift",
+            47
+        ],
+        [
+            "Roost",
+            52
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 6",
-        "Peck learnt at level 11",
-        "Hypnosis learnt at level 16",
-        "Reflect learnt at level 25",
-        "Take-down learnt at level 33",
-        "Confusion learnt at level 41",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            6
+        ],
+        [
+            "Peck",
+            11
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Confusion",
+            41
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 6",
-        "Peck learnt at level 11",
-        "Hypnosis learnt at level 16",
-        "Reflect learnt at level 25",
-        "Take-down learnt at level 33",
-        "Confusion learnt at level 41",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            6
+        ],
+        [
+            "Peck",
+            11
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Confusion",
+            41
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 6",
-        "Peck learnt at level 11",
-        "Hypnosis learnt at level 16",
-        "Reflect learnt at level 25",
-        "Take-down learnt at level 33",
-        "Confusion learnt at level 41",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            6
+        ],
+        [
+            "Peck",
+            11
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Confusion",
+            41
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 6",
-        "Peck learnt at level 11",
-        "Hypnosis learnt at level 16",
-        "Reflect learnt at level 25",
-        "Take-down learnt at level 33",
-        "Confusion learnt at level 41",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            6
+        ],
+        [
+            "Peck",
+            11
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Confusion",
+            41
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "crystal": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 6",
-        "Peck learnt at level 11",
-        "Hypnosis learnt at level 16",
-        "Reflect learnt at level 25",
-        "Take-down learnt at level 33",
-        "Confusion learnt at level 41",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            6
+        ],
+        [
+            "Peck",
+            11
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Confusion",
+            41
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ],
     "gold-silver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Peck learnt at level 1",
-        "Foresight learnt at level 1",
-        "Foresight learnt at level 6",
-        "Peck learnt at level 11",
-        "Hypnosis learnt at level 16",
-        "Reflect learnt at level 25",
-        "Take-down learnt at level 33",
-        "Confusion learnt at level 41",
-        "Dream-eater learnt at level 57"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Foresight",
+            1
+        ],
+        [
+            "Foresight",
+            6
+        ],
+        [
+            "Peck",
+            11
+        ],
+        [
+            "Hypnosis",
+            16
+        ],
+        [
+            "Reflect",
+            25
+        ],
+        [
+            "Take-down",
+            33
+        ],
+        [
+            "Confusion",
+            41
+        ],
+        [
+            "Dream-eater",
+            57
+        ]
     ]
 }

@@ -1,74 +1,266 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Agility learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-slap learnt at level 10",
-        "Mud-slap learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mud-shot learnt at level 18",
-        "Double-kick learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Flail learnt at level 29",
-        "Dig learnt at level 33",
-        "Bounce learnt at level 38",
-        "Super-fang learnt at level 42",
-        "Facade learnt at level 47",
-        "Earthquake learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-slap",
+            10
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mud-shot",
+            18
+        ],
+        [
+            "Double-kick",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Flail",
+            29
+        ],
+        [
+            "Dig",
+            33
+        ],
+        [
+            "Bounce",
+            38
+        ],
+        [
+            "Super-fang",
+            42
+        ],
+        [
+            "Facade",
+            47
+        ],
+        [
+            "Earthquake",
+            49
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Agility learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-slap learnt at level 10",
-        "Mud-slap learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mud-shot learnt at level 18",
-        "Double-kick learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Flail learnt at level 29",
-        "Dig learnt at level 33",
-        "Bounce learnt at level 38",
-        "Super-fang learnt at level 42",
-        "Facade learnt at level 47",
-        "Earthquake learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-slap",
+            10
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mud-shot",
+            18
+        ],
+        [
+            "Double-kick",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Flail",
+            29
+        ],
+        [
+            "Dig",
+            33
+        ],
+        [
+            "Bounce",
+            38
+        ],
+        [
+            "Super-fang",
+            42
+        ],
+        [
+            "Facade",
+            47
+        ],
+        [
+            "Earthquake",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Agility learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-slap learnt at level 10",
-        "Mud-slap learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mud-shot learnt at level 18",
-        "Double-kick learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Flail learnt at level 29",
-        "Dig learnt at level 33",
-        "Bounce learnt at level 38",
-        "Super-fang learnt at level 42",
-        "Facade learnt at level 47",
-        "Earthquake learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-slap",
+            10
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mud-shot",
+            18
+        ],
+        [
+            "Double-kick",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Flail",
+            29
+        ],
+        [
+            "Dig",
+            33
+        ],
+        [
+            "Bounce",
+            38
+        ],
+        [
+            "Super-fang",
+            42
+        ],
+        [
+            "Facade",
+            47
+        ],
+        [
+            "Earthquake",
+            49
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 1",
-        "Agility learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Double-slap learnt at level 10",
-        "Mud-slap learnt at level 13",
-        "Take-down learnt at level 15",
-        "Mud-shot learnt at level 18",
-        "Double-kick learnt at level 20",
-        "Odor-sleuth learnt at level 25",
-        "Flail learnt at level 29",
-        "Dig learnt at level 33",
-        "Bounce learnt at level 38",
-        "Super-fang learnt at level 42",
-        "Facade learnt at level 47",
-        "Earthquake learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Agility",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Double-slap",
+            10
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Take-down",
+            15
+        ],
+        [
+            "Mud-shot",
+            18
+        ],
+        [
+            "Double-kick",
+            20
+        ],
+        [
+            "Odor-sleuth",
+            25
+        ],
+        [
+            "Flail",
+            29
+        ],
+        [
+            "Dig",
+            33
+        ],
+        [
+            "Bounce",
+            38
+        ],
+        [
+            "Super-fang",
+            42
+        ],
+        [
+            "Facade",
+            47
+        ],
+        [
+            "Earthquake",
+            49
+        ]
     ]
 }

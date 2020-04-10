@@ -1,247 +1,886 @@
 {
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Charm learnt at level 8",
-        "Bite learnt at level 13",
-        "Lick learnt at level 19",
-        "Roar learnt at level 28",
-        "Rage learnt at level 38",
-        "Take-down learnt at level 49",
-        "Crunch learnt at level 61"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Charm learnt at level 8",
-        "Bite learnt at level 13",
-        "Lick learnt at level 19",
-        "Roar learnt at level 28",
-        "Rage learnt at level 38",
-        "Take-down learnt at level 49",
-        "Crunch learnt at level 61"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Charm learnt at level 8",
-        "Bite learnt at level 13",
-        "Lick learnt at level 19",
-        "Roar learnt at level 28",
-        "Rage learnt at level 38",
-        "Take-down learnt at level 51"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Charm learnt at level 8",
-        "Bite learnt at level 13",
-        "Lick learnt at level 19",
-        "Roar learnt at level 28",
-        "Rage learnt at level 38",
-        "Take-down learnt at level 51"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Take-down learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Take-down learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Take-down learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59",
-        "Outrage learnt at level 67"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Outrage learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Play-rough learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59",
-        "Outrage learnt at level 67"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Outrage learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Play-rough learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59",
-        "Outrage learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Play-rough",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Outrage learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Play-rough learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59",
-        "Outrage learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Play-rough",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Play-rough",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Outrage learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Play-rough learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59",
-        "Outrage learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Outrage",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Play-rough",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Take-down learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59",
-        "Outrage learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ],
+        [
+            "Outrage",
+            67
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Charm learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Bite learnt at level 7",
-        "Lick learnt at level 13",
-        "Headbutt learnt at level 19",
-        "Roar learnt at level 27",
-        "Rage learnt at level 35",
-        "Take-down learnt at level 43",
-        "Payback learnt at level 51",
-        "Crunch learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Charm",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Lick",
+            13
+        ],
+        [
+            "Headbutt",
+            19
+        ],
+        [
+            "Roar",
+            27
+        ],
+        [
+            "Rage",
+            35
+        ],
+        [
+            "Take-down",
+            43
+        ],
+        [
+            "Payback",
+            51
+        ],
+        [
+            "Crunch",
+            59
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Charm learnt at level 8",
-        "Bite learnt at level 13",
-        "Lick learnt at level 19",
-        "Roar learnt at level 28",
-        "Rage learnt at level 38",
-        "Take-down learnt at level 49",
-        "Crunch learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Charm",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Lick",
+            19
+        ],
+        [
+            "Roar",
+            28
+        ],
+        [
+            "Rage",
+            38
+        ],
+        [
+            "Take-down",
+            49
+        ],
+        [
+            "Crunch",
+            61
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Charm learnt at level 8",
-        "Bite learnt at level 13",
-        "Lick learnt at level 19",
-        "Roar learnt at level 28",
-        "Rage learnt at level 38",
-        "Take-down learnt at level 49",
-        "Crunch learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Charm",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Lick",
+            19
+        ],
+        [
+            "Roar",
+            28
+        ],
+        [
+            "Rage",
+            38
+        ],
+        [
+            "Take-down",
+            49
+        ],
+        [
+            "Crunch",
+            61
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Charm",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Lick",
+            19
+        ],
+        [
+            "Roar",
+            28
+        ],
+        [
+            "Rage",
+            38
+        ],
+        [
+            "Take-down",
+            49
+        ],
+        [
+            "Crunch",
+            61
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Charm",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Lick",
+            19
+        ],
+        [
+            "Roar",
+            28
+        ],
+        [
+            "Rage",
+            38
+        ],
+        [
+            "Take-down",
+            49
+        ],
+        [
+            "Crunch",
+            61
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Tail-whip learnt at level 4",
-        "Charm learnt at level 8",
-        "Bite learnt at level 13",
-        "Lick learnt at level 19",
-        "Roar learnt at level 28",
-        "Rage learnt at level 38",
-        "Take-down learnt at level 49",
-        "Crunch learnt at level 61"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Charm",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Lick",
+            19
+        ],
+        [
+            "Roar",
+            28
+        ],
+        [
+            "Rage",
+            38
+        ],
+        [
+            "Take-down",
+            49
+        ],
+        [
+            "Crunch",
+            61
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Charm",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Lick",
+            19
+        ],
+        [
+            "Roar",
+            28
+        ],
+        [
+            "Rage",
+            38
+        ],
+        [
+            "Take-down",
+            51
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Tail-whip",
+            4
+        ],
+        [
+            "Charm",
+            8
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Lick",
+            19
+        ],
+        [
+            "Roar",
+            28
+        ],
+        [
+            "Rage",
+            38
+        ],
+        [
+            "Take-down",
+            51
+        ]
     ]
 }

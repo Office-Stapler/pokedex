@@ -1,254 +1,926 @@
 {
-    "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Quick-attack learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Spark learnt at level 19",
-        "Encore learnt at level 22",
-        "Fake-tears learnt at level 28",
-        "Charge learnt at level 31",
-        "Thunder learnt at level 37",
-        "Baton-pass learnt at level 40",
-        "Agility learnt at level 47"
-    ],
-    "emerald": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Quick-attack learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Spark learnt at level 19",
-        "Encore learnt at level 22",
-        "Fake-tears learnt at level 28",
-        "Charge learnt at level 31",
-        "Thunder learnt at level 37",
-        "Baton-pass learnt at level 40",
-        "Agility learnt at level 47"
-    ],
     "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Nuzzle learnt at level 1",
-        "Helping-hand learnt at level 4",
-        "Spark learnt at level 7",
-        "Encore learnt at level 10",
-        "Bestow learnt at level 13",
-        "Swift learnt at level 16",
-        "Electro-ball learnt at level 19",
-        "Copycat learnt at level 22",
-        "Charm learnt at level 25",
-        "Charge learnt at level 28",
-        "Discharge learnt at level 31",
-        "Baton-pass learnt at level 34",
-        "Agility learnt at level 37",
-        "Last-resort learnt at level 40",
-        "Thunder learnt at level 43",
-        "Nasty-plot learnt at level 46",
-        "Entrainment learnt at level 49"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 3",
-        "Quick-attack learnt at level 7",
-        "Helping-hand learnt at level 10",
-        "Spark learnt at level 15",
-        "Encore learnt at level 17",
-        "Fake-tears learnt at level 21",
-        "Copycat learnt at level 24",
-        "Electro-ball learnt at level 29",
-        "Swift learnt at level 31",
-        "Fake-tears learnt at level 35",
-        "Charge learnt at level 38",
-        "Thunder learnt at level 42",
-        "Baton-pass learnt at level 44",
-        "Agility learnt at level 48",
-        "Last-resort learnt at level 51",
-        "Nasty-plot learnt at level 56",
-        "Entrainment learnt at level 63"
-    ],
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 3",
-        "Quick-attack learnt at level 7",
-        "Helping-hand learnt at level 10",
-        "Spark learnt at level 15",
-        "Encore learnt at level 17",
-        "Fake-tears learnt at level 21",
-        "Copycat learnt at level 24",
-        "Swift learnt at level 29",
-        "Fake-tears learnt at level 31",
-        "Charge learnt at level 35",
-        "Thunder learnt at level 38",
-        "Baton-pass learnt at level 42",
-        "Agility learnt at level 44",
-        "Last-resort learnt at level 48",
-        "Nasty-plot learnt at level 51"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 3",
-        "Quick-attack learnt at level 7",
-        "Helping-hand learnt at level 10",
-        "Spark learnt at level 15",
-        "Encore learnt at level 17",
-        "Fake-tears learnt at level 21",
-        "Copycat learnt at level 24",
-        "Swift learnt at level 29",
-        "Fake-tears learnt at level 31",
-        "Charge learnt at level 35",
-        "Thunder learnt at level 38",
-        "Baton-pass learnt at level 42",
-        "Agility learnt at level 44",
-        "Last-resort learnt at level 48",
-        "Nasty-plot learnt at level 51"
-    ],
-    "xd": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Quick-attack learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Spark learnt at level 19",
-        "Encore learnt at level 22",
-        "Fake-tears learnt at level 28",
-        "Charge learnt at level 31",
-        "Thunder learnt at level 37",
-        "Baton-pass learnt at level 40",
-        "Agility learnt at level 47"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Nuzzle",
+            1
+        ],
+        [
+            "Helping-hand",
+            4
+        ],
+        [
+            "Spark",
+            7
+        ],
+        [
+            "Encore",
+            10
+        ],
+        [
+            "Bestow",
+            13
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Electro-ball",
+            19
+        ],
+        [
+            "Copycat",
+            22
+        ],
+        [
+            "Charm",
+            25
+        ],
+        [
+            "Charge",
+            28
+        ],
+        [
+            "Discharge",
+            31
+        ],
+        [
+            "Baton-pass",
+            34
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Last-resort",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Entrainment",
+            49
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Entrainment learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Nuzzle learnt at level 1",
-        "Thunder-wave learnt at level 3",
-        "Quick-attack learnt at level 7",
-        "Helping-hand learnt at level 10",
-        "Spark learnt at level 15",
-        "Encore learnt at level 17",
-        "Play-nice learnt at level 21",
-        "Copycat learnt at level 24",
-        "Electro-ball learnt at level 29",
-        "Swift learnt at level 31",
-        "Fake-tears learnt at level 35",
-        "Charge learnt at level 38",
-        "Thunder learnt at level 42",
-        "Baton-pass learnt at level 44",
-        "Agility learnt at level 48",
-        "Last-resort learnt at level 50",
-        "Nasty-plot learnt at level 56",
-        "Entrainment learnt at level 63"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Entrainment",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Nuzzle",
+            1
+        ],
+        [
+            "Thunder-wave",
+            3
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Spark",
+            15
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Play-nice",
+            21
+        ],
+        [
+            "Copycat",
+            24
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Fake-tears",
+            35
+        ],
+        [
+            "Charge",
+            38
+        ],
+        [
+            "Thunder",
+            42
+        ],
+        [
+            "Baton-pass",
+            44
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Last-resort",
+            50
+        ],
+        [
+            "Nasty-plot",
+            56
+        ],
+        [
+            "Entrainment",
+            63
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            3
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Spark",
+            15
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Fake-tears",
+            21
+        ],
+        [
+            "Copycat",
+            24
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Fake-tears",
+            35
+        ],
+        [
+            "Charge",
+            38
+        ],
+        [
+            "Thunder",
+            42
+        ],
+        [
+            "Baton-pass",
+            44
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Last-resort",
+            51
+        ],
+        [
+            "Nasty-plot",
+            56
+        ],
+        [
+            "Entrainment",
+            63
+        ]
+    ],
+    "xd": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Encore",
+            22
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Charge",
+            31
+        ],
+        [
+            "Thunder",
+            37
+        ],
+        [
+            "Baton-pass",
+            40
+        ],
+        [
+            "Agility",
+            47
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Quick-attack learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Spark learnt at level 19",
-        "Encore learnt at level 22",
-        "Fake-tears learnt at level 28",
-        "Charge learnt at level 31",
-        "Thunder learnt at level 37",
-        "Baton-pass learnt at level 40",
-        "Agility learnt at level 47"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Encore",
+            22
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Charge",
+            31
+        ],
+        [
+            "Thunder",
+            37
+        ],
+        [
+            "Baton-pass",
+            40
+        ],
+        [
+            "Agility",
+            47
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Nuzzle learnt at level 1",
-        "Helping-hand learnt at level 4",
-        "Spark learnt at level 7",
-        "Encore learnt at level 10",
-        "Bestow learnt at level 13",
-        "Swift learnt at level 16",
-        "Electro-ball learnt at level 19",
-        "Copycat learnt at level 22",
-        "Charm learnt at level 25",
-        "Charge learnt at level 28",
-        "Discharge learnt at level 31",
-        "Baton-pass learnt at level 34",
-        "Agility learnt at level 37",
-        "Last-resort learnt at level 40",
-        "Thunder learnt at level 43",
-        "Nasty-plot learnt at level 46",
-        "Entrainment learnt at level 49"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Nuzzle",
+            1
+        ],
+        [
+            "Helping-hand",
+            4
+        ],
+        [
+            "Spark",
+            7
+        ],
+        [
+            "Encore",
+            10
+        ],
+        [
+            "Bestow",
+            13
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Electro-ball",
+            19
+        ],
+        [
+            "Copycat",
+            22
+        ],
+        [
+            "Charm",
+            25
+        ],
+        [
+            "Charge",
+            28
+        ],
+        [
+            "Discharge",
+            31
+        ],
+        [
+            "Baton-pass",
+            34
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Last-resort",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Entrainment",
+            49
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Play-nice learnt at level 1",
-        "Nuzzle learnt at level 1",
-        "Helping-hand learnt at level 4",
-        "Spark learnt at level 7",
-        "Encore learnt at level 10",
-        "Bestow learnt at level 13",
-        "Swift learnt at level 16",
-        "Electro-ball learnt at level 19",
-        "Copycat learnt at level 22",
-        "Charm learnt at level 25",
-        "Charge learnt at level 28",
-        "Discharge learnt at level 31",
-        "Baton-pass learnt at level 34",
-        "Agility learnt at level 37",
-        "Last-resort learnt at level 40",
-        "Thunder learnt at level 43",
-        "Nasty-plot learnt at level 46",
-        "Entrainment learnt at level 49"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Play-nice",
+            1
+        ],
+        [
+            "Nuzzle",
+            1
+        ],
+        [
+            "Helping-hand",
+            4
+        ],
+        [
+            "Spark",
+            7
+        ],
+        [
+            "Encore",
+            10
+        ],
+        [
+            "Bestow",
+            13
+        ],
+        [
+            "Swift",
+            16
+        ],
+        [
+            "Electro-ball",
+            19
+        ],
+        [
+            "Copycat",
+            22
+        ],
+        [
+            "Charm",
+            25
+        ],
+        [
+            "Charge",
+            28
+        ],
+        [
+            "Discharge",
+            31
+        ],
+        [
+            "Baton-pass",
+            34
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Last-resort",
+            40
+        ],
+        [
+            "Thunder",
+            43
+        ],
+        [
+            "Nasty-plot",
+            46
+        ],
+        [
+            "Entrainment",
+            49
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            3
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Spark",
+            15
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Fake-tears",
+            21
+        ],
+        [
+            "Copycat",
+            24
+        ],
+        [
+            "Swift",
+            29
+        ],
+        [
+            "Fake-tears",
+            31
+        ],
+        [
+            "Charge",
+            35
+        ],
+        [
+            "Thunder",
+            38
+        ],
+        [
+            "Baton-pass",
+            42
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Last-resort",
+            48
+        ],
+        [
+            "Nasty-plot",
+            51
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            3
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Spark",
+            15
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Fake-tears",
+            21
+        ],
+        [
+            "Copycat",
+            24
+        ],
+        [
+            "Swift",
+            29
+        ],
+        [
+            "Fake-tears",
+            31
+        ],
+        [
+            "Charge",
+            35
+        ],
+        [
+            "Thunder",
+            38
+        ],
+        [
+            "Baton-pass",
+            42
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Last-resort",
+            48
+        ],
+        [
+            "Nasty-plot",
+            51
+        ]
     ],
     "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 3",
-        "Quick-attack learnt at level 7",
-        "Helping-hand learnt at level 10",
-        "Spark learnt at level 15",
-        "Encore learnt at level 17",
-        "Fake-tears learnt at level 21",
-        "Copycat learnt at level 24",
-        "Swift learnt at level 29",
-        "Fake-tears learnt at level 31",
-        "Charge learnt at level 35",
-        "Thunder learnt at level 38",
-        "Baton-pass learnt at level 42",
-        "Agility learnt at level 44",
-        "Last-resort learnt at level 48",
-        "Nasty-plot learnt at level 51"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            3
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Spark",
+            15
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Fake-tears",
+            21
+        ],
+        [
+            "Copycat",
+            24
+        ],
+        [
+            "Swift",
+            29
+        ],
+        [
+            "Fake-tears",
+            31
+        ],
+        [
+            "Charge",
+            35
+        ],
+        [
+            "Thunder",
+            38
+        ],
+        [
+            "Baton-pass",
+            42
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Last-resort",
+            48
+        ],
+        [
+            "Nasty-plot",
+            51
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Encore",
+            22
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Charge",
+            31
+        ],
+        [
+            "Thunder",
+            37
+        ],
+        [
+            "Baton-pass",
+            40
+        ],
+        [
+            "Agility",
+            47
+        ]
     ],
     "black-white": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 3",
-        "Quick-attack learnt at level 7",
-        "Helping-hand learnt at level 10",
-        "Spark learnt at level 15",
-        "Encore learnt at level 17",
-        "Fake-tears learnt at level 21",
-        "Copycat learnt at level 24",
-        "Electro-ball learnt at level 29",
-        "Swift learnt at level 31",
-        "Fake-tears learnt at level 35",
-        "Charge learnt at level 38",
-        "Thunder learnt at level 42",
-        "Baton-pass learnt at level 44",
-        "Agility learnt at level 48",
-        "Last-resort learnt at level 51",
-        "Nasty-plot learnt at level 56",
-        "Entrainment learnt at level 63"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            3
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Helping-hand",
+            10
+        ],
+        [
+            "Spark",
+            15
+        ],
+        [
+            "Encore",
+            17
+        ],
+        [
+            "Fake-tears",
+            21
+        ],
+        [
+            "Copycat",
+            24
+        ],
+        [
+            "Electro-ball",
+            29
+        ],
+        [
+            "Swift",
+            31
+        ],
+        [
+            "Fake-tears",
+            35
+        ],
+        [
+            "Charge",
+            38
+        ],
+        [
+            "Thunder",
+            42
+        ],
+        [
+            "Baton-pass",
+            44
+        ],
+        [
+            "Agility",
+            48
+        ],
+        [
+            "Last-resort",
+            51
+        ],
+        [
+            "Nasty-plot",
+            56
+        ],
+        [
+            "Entrainment",
+            63
+        ]
+    ],
+    "emerald": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Encore",
+            22
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Charge",
+            31
+        ],
+        [
+            "Thunder",
+            37
+        ],
+        [
+            "Baton-pass",
+            40
+        ],
+        [
+            "Agility",
+            47
+        ]
     ],
     "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Thunder-wave learnt at level 4",
-        "Quick-attack learnt at level 10",
-        "Helping-hand learnt at level 13",
-        "Spark learnt at level 19",
-        "Encore learnt at level 22",
-        "Fake-tears learnt at level 28",
-        "Charge learnt at level 31",
-        "Thunder learnt at level 37",
-        "Baton-pass learnt at level 40",
-        "Agility learnt at level 47"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Thunder-wave",
+            4
+        ],
+        [
+            "Quick-attack",
+            10
+        ],
+        [
+            "Helping-hand",
+            13
+        ],
+        [
+            "Spark",
+            19
+        ],
+        [
+            "Encore",
+            22
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Charge",
+            31
+        ],
+        [
+            "Thunder",
+            37
+        ],
+        [
+            "Baton-pass",
+            40
+        ],
+        [
+            "Agility",
+            47
+        ]
     ]
 }

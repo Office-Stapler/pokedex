@@ -1,223 +1,802 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Power-gem learnt at level 1",
-        "Psyshock learnt at level 1",
-        "Moonblast learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Rock-polish learnt at level 9",
-        "Psywave learnt at level 13",
-        "Embargo learnt at level 17",
-        "Rock-slide learnt at level 21",
-        "Cosmic-power learnt at level 25",
-        "Psychic learnt at level 29",
-        "Heal-block learnt at level 33",
-        "Stone-edge learnt at level 37",
-        "Future-sight learnt at level 41",
-        "Explosion learnt at level 45",
-        "Magic-room learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Power-gem",
+            1
+        ],
+        [
+            "Psyshock",
+            1
+        ],
+        [
+            "Moonblast",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Rock-polish",
+            9
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Embargo",
+            17
+        ],
+        [
+            "Rock-slide",
+            21
+        ],
+        [
+            "Cosmic-power",
+            25
+        ],
+        [
+            "Psychic",
+            29
+        ],
+        [
+            "Heal-block",
+            33
+        ],
+        [
+            "Stone-edge",
+            37
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Explosion",
+            45
+        ],
+        [
+            "Magic-room",
+            49
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Power-gem learnt at level 1",
-        "Psyshock learnt at level 1",
-        "Moonblast learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Rock-polish learnt at level 9",
-        "Psywave learnt at level 13",
-        "Embargo learnt at level 17",
-        "Rock-slide learnt at level 21",
-        "Cosmic-power learnt at level 25",
-        "Psychic learnt at level 29",
-        "Heal-block learnt at level 33",
-        "Stone-edge learnt at level 37",
-        "Future-sight learnt at level 41",
-        "Explosion learnt at level 45",
-        "Magic-room learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Power-gem",
+            1
+        ],
+        [
+            "Psyshock",
+            1
+        ],
+        [
+            "Moonblast",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Rock-polish",
+            9
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Embargo",
+            17
+        ],
+        [
+            "Rock-slide",
+            21
+        ],
+        [
+            "Cosmic-power",
+            25
+        ],
+        [
+            "Psychic",
+            29
+        ],
+        [
+            "Heal-block",
+            33
+        ],
+        [
+            "Stone-edge",
+            37
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Explosion",
+            45
+        ],
+        [
+            "Magic-room",
+            49
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Moonblast learnt at level 1",
-        "Hypnosis learnt at level 5",
-        "Rock-polish learnt at level 9",
-        "Psywave learnt at level 13",
-        "Embargo learnt at level 17",
-        "Rock-slide learnt at level 21",
-        "Cosmic-power learnt at level 25",
-        "Psychic learnt at level 29",
-        "Heal-block learnt at level 33",
-        "Stone-edge learnt at level 37",
-        "Future-sight learnt at level 41",
-        "Explosion learnt at level 45",
-        "Magic-room learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Moonblast",
+            1
+        ],
+        [
+            "Hypnosis",
+            5
+        ],
+        [
+            "Rock-polish",
+            9
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Embargo",
+            17
+        ],
+        [
+            "Rock-slide",
+            21
+        ],
+        [
+            "Cosmic-power",
+            25
+        ],
+        [
+            "Psychic",
+            29
+        ],
+        [
+            "Heal-block",
+            33
+        ],
+        [
+            "Stone-edge",
+            37
+        ],
+        [
+            "Future-sight",
+            41
+        ],
+        [
+            "Explosion",
+            45
+        ],
+        [
+            "Magic-room",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Hypnosis learnt at level 9",
-        "Rock-polish learnt at level 13",
-        "Psywave learnt at level 17",
-        "Embargo learnt at level 21",
-        "Rock-slide learnt at level 25",
-        "Cosmic-power learnt at level 29",
-        "Psychic learnt at level 33",
-        "Heal-block learnt at level 37",
-        "Stone-edge learnt at level 41",
-        "Future-sight learnt at level 45",
-        "Explosion learnt at level 49",
-        "Magic-room learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Hypnosis",
+            9
+        ],
+        [
+            "Rock-polish",
+            13
+        ],
+        [
+            "Psywave",
+            17
+        ],
+        [
+            "Embargo",
+            21
+        ],
+        [
+            "Rock-slide",
+            25
+        ],
+        [
+            "Cosmic-power",
+            29
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Heal-block",
+            37
+        ],
+        [
+            "Stone-edge",
+            41
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Explosion",
+            49
+        ],
+        [
+            "Magic-room",
+            53
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Confusion learnt at level 7",
-        "Rock-throw learnt at level 13",
-        "Hypnosis learnt at level 19",
-        "Psywave learnt at level 25",
-        "Cosmic-power learnt at level 31",
-        "Psychic learnt at level 37",
-        "Future-sight learnt at level 43",
-        "Explosion learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Hypnosis",
+            19
+        ],
+        [
+            "Psywave",
+            25
+        ],
+        [
+            "Cosmic-power",
+            31
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Explosion",
+            49
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Confusion learnt at level 7",
-        "Rock-throw learnt at level 13",
-        "Hypnosis learnt at level 19",
-        "Psywave learnt at level 25",
-        "Cosmic-power learnt at level 31",
-        "Psychic learnt at level 37",
-        "Future-sight learnt at level 43",
-        "Explosion learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Hypnosis",
+            19
+        ],
+        [
+            "Psywave",
+            25
+        ],
+        [
+            "Cosmic-power",
+            31
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Explosion",
+            49
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Rock-throw learnt at level 9",
-        "Hypnosis learnt at level 12",
-        "Rock-polish learnt at level 20",
-        "Psywave learnt at level 23",
-        "Embargo learnt at level 31",
-        "Cosmic-power learnt at level 34",
-        "Heal-block learnt at level 42",
-        "Psychic learnt at level 45",
-        "Future-sight learnt at level 53",
-        "Explosion learnt at level 56",
-        "Magic-room learnt at level 64"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Hypnosis",
+            12
+        ],
+        [
+            "Rock-polish",
+            20
+        ],
+        [
+            "Psywave",
+            23
+        ],
+        [
+            "Embargo",
+            31
+        ],
+        [
+            "Cosmic-power",
+            34
+        ],
+        [
+            "Heal-block",
+            42
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Explosion",
+            56
+        ],
+        [
+            "Magic-room",
+            64
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Rock-throw learnt at level 9",
-        "Hypnosis learnt at level 12",
-        "Rock-polish learnt at level 20",
-        "Psywave learnt at level 23",
-        "Embargo learnt at level 31",
-        "Cosmic-power learnt at level 34",
-        "Heal-block learnt at level 42",
-        "Psychic learnt at level 45",
-        "Future-sight learnt at level 53",
-        "Explosion learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Hypnosis",
+            12
+        ],
+        [
+            "Rock-polish",
+            20
+        ],
+        [
+            "Psywave",
+            23
+        ],
+        [
+            "Embargo",
+            31
+        ],
+        [
+            "Cosmic-power",
+            34
+        ],
+        [
+            "Heal-block",
+            42
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Explosion",
+            56
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Rock-throw learnt at level 9",
-        "Hypnosis learnt at level 12",
-        "Rock-polish learnt at level 20",
-        "Psywave learnt at level 23",
-        "Embargo learnt at level 31",
-        "Cosmic-power learnt at level 34",
-        "Heal-block learnt at level 42",
-        "Psychic learnt at level 45",
-        "Future-sight learnt at level 53",
-        "Explosion learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Hypnosis",
+            12
+        ],
+        [
+            "Rock-polish",
+            20
+        ],
+        [
+            "Psywave",
+            23
+        ],
+        [
+            "Embargo",
+            31
+        ],
+        [
+            "Cosmic-power",
+            34
+        ],
+        [
+            "Heal-block",
+            42
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Explosion",
+            56
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Rock-throw learnt at level 9",
-        "Hypnosis learnt at level 12",
-        "Rock-polish learnt at level 20",
-        "Psywave learnt at level 23",
-        "Embargo learnt at level 31",
-        "Cosmic-power learnt at level 34",
-        "Heal-block learnt at level 42",
-        "Psychic learnt at level 45",
-        "Future-sight learnt at level 53",
-        "Explosion learnt at level 56"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Rock-throw",
+            9
+        ],
+        [
+            "Hypnosis",
+            12
+        ],
+        [
+            "Rock-polish",
+            20
+        ],
+        [
+            "Psywave",
+            23
+        ],
+        [
+            "Embargo",
+            31
+        ],
+        [
+            "Cosmic-power",
+            34
+        ],
+        [
+            "Heal-block",
+            42
+        ],
+        [
+            "Psychic",
+            45
+        ],
+        [
+            "Future-sight",
+            53
+        ],
+        [
+            "Explosion",
+            56
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Confusion learnt at level 7",
-        "Rock-throw learnt at level 13",
-        "Hypnosis learnt at level 19",
-        "Psywave learnt at level 25",
-        "Cosmic-power learnt at level 31",
-        "Psychic learnt at level 37",
-        "Future-sight learnt at level 43",
-        "Explosion learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Hypnosis",
+            19
+        ],
+        [
+            "Psywave",
+            25
+        ],
+        [
+            "Cosmic-power",
+            31
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Explosion",
+            49
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Rock-throw learnt at level 1",
-        "Confusion learnt at level 1",
-        "Harden learnt at level 1",
-        "Magic-room learnt at level 1",
-        "Rock-throw learnt at level 5",
-        "Hypnosis learnt at level 9",
-        "Rock-polish learnt at level 13",
-        "Psywave learnt at level 17",
-        "Embargo learnt at level 21",
-        "Rock-slide learnt at level 25",
-        "Cosmic-power learnt at level 29",
-        "Psychic learnt at level 33",
-        "Heal-block learnt at level 37",
-        "Stone-edge learnt at level 41",
-        "Future-sight learnt at level 45",
-        "Explosion learnt at level 49",
-        "Moonblast learnt at level 50",
-        "Magic-room learnt at level 53"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Rock-throw",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Magic-room",
+            1
+        ],
+        [
+            "Rock-throw",
+            5
+        ],
+        [
+            "Hypnosis",
+            9
+        ],
+        [
+            "Rock-polish",
+            13
+        ],
+        [
+            "Psywave",
+            17
+        ],
+        [
+            "Embargo",
+            21
+        ],
+        [
+            "Rock-slide",
+            25
+        ],
+        [
+            "Cosmic-power",
+            29
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Heal-block",
+            37
+        ],
+        [
+            "Stone-edge",
+            41
+        ],
+        [
+            "Future-sight",
+            45
+        ],
+        [
+            "Explosion",
+            49
+        ],
+        [
+            "Moonblast",
+            50
+        ],
+        [
+            "Magic-room",
+            53
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Confusion learnt at level 7",
-        "Rock-throw learnt at level 13",
-        "Hypnosis learnt at level 19",
-        "Psywave learnt at level 25",
-        "Cosmic-power learnt at level 31",
-        "Psychic learnt at level 37",
-        "Future-sight learnt at level 43",
-        "Explosion learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Hypnosis",
+            19
+        ],
+        [
+            "Psywave",
+            25
+        ],
+        [
+            "Cosmic-power",
+            31
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Explosion",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Confusion learnt at level 7",
-        "Rock-throw learnt at level 13",
-        "Hypnosis learnt at level 19",
-        "Psywave learnt at level 25",
-        "Cosmic-power learnt at level 31",
-        "Psychic learnt at level 37",
-        "Future-sight learnt at level 43",
-        "Explosion learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Confusion",
+            7
+        ],
+        [
+            "Rock-throw",
+            13
+        ],
+        [
+            "Hypnosis",
+            19
+        ],
+        [
+            "Psywave",
+            25
+        ],
+        [
+            "Cosmic-power",
+            31
+        ],
+        [
+            "Psychic",
+            37
+        ],
+        [
+            "Future-sight",
+            43
+        ],
+        [
+            "Explosion",
+            49
+        ]
     ]
 }

@@ -1,108 +1,390 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 3",
-        "Bite learnt at level 6",
-        "Bide learnt at level 8",
-        "Detect learnt at level 11",
-        "Sand-attack learnt at level 13",
-        "Crunch learnt at level 16",
-        "Hypnosis learnt at level 18",
-        "Super-fang learnt at level 21",
-        "After-you learnt at level 23",
-        "Focus-energy learnt at level 26",
-        "Work-up learnt at level 28",
-        "Hyper-fang learnt at level 31",
-        "Nasty-plot learnt at level 33",
-        "Mean-look learnt at level 36",
-        "Baton-pass learnt at level 38",
-        "Slam learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Bite",
+            6
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Crunch",
+            16
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Super-fang",
+            21
+        ],
+        [
+            "After-you",
+            23
+        ],
+        [
+            "Focus-energy",
+            26
+        ],
+        [
+            "Work-up",
+            28
+        ],
+        [
+            "Hyper-fang",
+            31
+        ],
+        [
+            "Nasty-plot",
+            33
+        ],
+        [
+            "Mean-look",
+            36
+        ],
+        [
+            "Baton-pass",
+            38
+        ],
+        [
+            "Slam",
+            41
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 3",
-        "Bite learnt at level 6",
-        "Bide learnt at level 8",
-        "Detect learnt at level 11",
-        "Sand-attack learnt at level 13",
-        "Crunch learnt at level 16",
-        "Hypnosis learnt at level 18",
-        "Super-fang learnt at level 21",
-        "After-you learnt at level 23",
-        "Focus-energy learnt at level 26",
-        "Work-up learnt at level 28",
-        "Hyper-fang learnt at level 31",
-        "Nasty-plot learnt at level 33",
-        "Mean-look learnt at level 36",
-        "Baton-pass learnt at level 38",
-        "Slam learnt at level 41"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Bite",
+            6
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Crunch",
+            16
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Super-fang",
+            21
+        ],
+        [
+            "After-you",
+            23
+        ],
+        [
+            "Focus-energy",
+            26
+        ],
+        [
+            "Work-up",
+            28
+        ],
+        [
+            "Hyper-fang",
+            31
+        ],
+        [
+            "Nasty-plot",
+            33
+        ],
+        [
+            "Mean-look",
+            36
+        ],
+        [
+            "Baton-pass",
+            38
+        ],
+        [
+            "Slam",
+            41
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 3",
-        "Bite learnt at level 6",
-        "Bide learnt at level 8",
-        "Detect learnt at level 11",
-        "Sand-attack learnt at level 13",
-        "Crunch learnt at level 16",
-        "Hypnosis learnt at level 18",
-        "Super-fang learnt at level 21",
-        "After-you learnt at level 23",
-        "Work-up learnt at level 26",
-        "Hyper-fang learnt at level 28",
-        "Mean-look learnt at level 31",
-        "Baton-pass learnt at level 33",
-        "Slam learnt at level 36"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Bite",
+            6
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Crunch",
+            16
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Super-fang",
+            21
+        ],
+        [
+            "After-you",
+            23
+        ],
+        [
+            "Work-up",
+            26
+        ],
+        [
+            "Hyper-fang",
+            28
+        ],
+        [
+            "Mean-look",
+            31
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Slam",
+            36
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 3",
-        "Bite learnt at level 6",
-        "Bide learnt at level 8",
-        "Detect learnt at level 11",
-        "Sand-attack learnt at level 13",
-        "Crunch learnt at level 16",
-        "Hypnosis learnt at level 18",
-        "Super-fang learnt at level 21",
-        "After-you learnt at level 23",
-        "Work-up learnt at level 26",
-        "Hyper-fang learnt at level 28",
-        "Mean-look learnt at level 31",
-        "Baton-pass learnt at level 33",
-        "Slam learnt at level 36"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Bite",
+            6
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Crunch",
+            16
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Super-fang",
+            21
+        ],
+        [
+            "After-you",
+            23
+        ],
+        [
+            "Work-up",
+            26
+        ],
+        [
+            "Hyper-fang",
+            28
+        ],
+        [
+            "Mean-look",
+            31
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Slam",
+            36
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 3",
-        "Bite learnt at level 6",
-        "Bide learnt at level 8",
-        "Detect learnt at level 11",
-        "Sand-attack learnt at level 13",
-        "Crunch learnt at level 16",
-        "Hypnosis learnt at level 18",
-        "Super-fang learnt at level 21",
-        "After-you learnt at level 23",
-        "Work-up learnt at level 26",
-        "Hyper-fang learnt at level 28",
-        "Mean-look learnt at level 31",
-        "Baton-pass learnt at level 33",
-        "Slam learnt at level 36"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Bite",
+            6
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Crunch",
+            16
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Super-fang",
+            21
+        ],
+        [
+            "After-you",
+            23
+        ],
+        [
+            "Work-up",
+            26
+        ],
+        [
+            "Hyper-fang",
+            28
+        ],
+        [
+            "Mean-look",
+            31
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Slam",
+            36
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Leer learnt at level 3",
-        "Bite learnt at level 6",
-        "Bide learnt at level 8",
-        "Detect learnt at level 11",
-        "Sand-attack learnt at level 13",
-        "Crunch learnt at level 16",
-        "Hypnosis learnt at level 18",
-        "Super-fang learnt at level 21",
-        "After-you learnt at level 23",
-        "Work-up learnt at level 26",
-        "Hyper-fang learnt at level 28",
-        "Mean-look learnt at level 31",
-        "Baton-pass learnt at level 33",
-        "Slam learnt at level 36"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Leer",
+            3
+        ],
+        [
+            "Bite",
+            6
+        ],
+        [
+            "Bide",
+            8
+        ],
+        [
+            "Detect",
+            11
+        ],
+        [
+            "Sand-attack",
+            13
+        ],
+        [
+            "Crunch",
+            16
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Super-fang",
+            21
+        ],
+        [
+            "After-you",
+            23
+        ],
+        [
+            "Work-up",
+            26
+        ],
+        [
+            "Hyper-fang",
+            28
+        ],
+        [
+            "Mean-look",
+            31
+        ],
+        [
+            "Baton-pass",
+            33
+        ],
+        [
+            "Slam",
+            36
+        ]
     ]
 }

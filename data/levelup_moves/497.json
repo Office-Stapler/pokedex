@@ -1,122 +1,446 @@
 {
     "black-2-white-2": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Leer learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Wrap learnt at level 10",
-        "Growth learnt at level 13",
-        "Leaf-tornado learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Slam learnt at level 28",
-        "Leaf-blade learnt at level 32",
-        "Coil learnt at level 38",
-        "Giga-drain learnt at level 44",
-        "Wring-out learnt at level 50",
-        "Gastro-acid learnt at level 56",
-        "Leaf-storm learnt at level 62"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Wrap",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Leaf-tornado",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Leaf-blade",
+            32
+        ],
+        [
+            "Coil",
+            38
+        ],
+        [
+            "Giga-drain",
+            44
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Gastro-acid",
+            56
+        ],
+        [
+            "Leaf-storm",
+            62
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Leer learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Wrap learnt at level 10",
-        "Growth learnt at level 13",
-        "Leaf-tornado learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Slam learnt at level 28",
-        "Leaf-blade learnt at level 32",
-        "Coil learnt at level 38",
-        "Giga-drain learnt at level 44",
-        "Wring-out learnt at level 50",
-        "Gastro-acid learnt at level 56",
-        "Leaf-storm learnt at level 62"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Wrap",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Leaf-tornado",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Leaf-blade",
+            32
+        ],
+        [
+            "Coil",
+            38
+        ],
+        [
+            "Giga-drain",
+            44
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Gastro-acid",
+            56
+        ],
+        [
+            "Leaf-storm",
+            62
+        ]
     ],
     "sun-moon": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Leer learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Wrap learnt at level 10",
-        "Growth learnt at level 13",
-        "Leaf-tornado learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Slam learnt at level 28",
-        "Leaf-blade learnt at level 32",
-        "Coil learnt at level 38",
-        "Giga-drain learnt at level 44",
-        "Wring-out learnt at level 50",
-        "Gastro-acid learnt at level 56",
-        "Leaf-storm learnt at level 62"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Wrap",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Leaf-tornado",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Leaf-blade",
+            32
+        ],
+        [
+            "Coil",
+            38
+        ],
+        [
+            "Giga-drain",
+            44
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Gastro-acid",
+            56
+        ],
+        [
+            "Leaf-storm",
+            62
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Leer learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Wrap learnt at level 10",
-        "Growth learnt at level 13",
-        "Leaf-tornado learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Slam learnt at level 28",
-        "Leaf-blade learnt at level 32",
-        "Coil learnt at level 38",
-        "Giga-drain learnt at level 44",
-        "Wring-out learnt at level 50",
-        "Gastro-acid learnt at level 56",
-        "Leaf-storm learnt at level 62"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Wrap",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Leaf-tornado",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Leaf-blade",
+            32
+        ],
+        [
+            "Coil",
+            38
+        ],
+        [
+            "Giga-drain",
+            44
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Gastro-acid",
+            56
+        ],
+        [
+            "Leaf-storm",
+            62
+        ]
     ],
     "x-y": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Leer learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Wrap learnt at level 10",
-        "Growth learnt at level 13",
-        "Leaf-tornado learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Slam learnt at level 28",
-        "Leaf-blade learnt at level 32",
-        "Coil learnt at level 38",
-        "Giga-drain learnt at level 44",
-        "Wring-out learnt at level 50",
-        "Gastro-acid learnt at level 56",
-        "Leaf-storm learnt at level 62"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Wrap",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Leaf-tornado",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Leaf-blade",
+            32
+        ],
+        [
+            "Coil",
+            38
+        ],
+        [
+            "Giga-drain",
+            44
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Gastro-acid",
+            56
+        ],
+        [
+            "Leaf-storm",
+            62
+        ]
     ],
     "black-white": [
-        "Vine-whip learnt at level 1",
-        "Tackle learnt at level 1",
-        "Wrap learnt at level 1",
-        "Leer learnt at level 1",
-        "Leer learnt at level 4",
-        "Vine-whip learnt at level 7",
-        "Wrap learnt at level 10",
-        "Growth learnt at level 13",
-        "Leaf-tornado learnt at level 16",
-        "Leech-seed learnt at level 20",
-        "Mega-drain learnt at level 24",
-        "Slam learnt at level 28",
-        "Leaf-blade learnt at level 32",
-        "Coil learnt at level 38",
-        "Giga-drain learnt at level 44",
-        "Wring-out learnt at level 50",
-        "Gastro-acid learnt at level 56",
-        "Leaf-storm learnt at level 62"
+        [
+            "Vine-whip",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Wrap",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Leer",
+            4
+        ],
+        [
+            "Vine-whip",
+            7
+        ],
+        [
+            "Wrap",
+            10
+        ],
+        [
+            "Growth",
+            13
+        ],
+        [
+            "Leaf-tornado",
+            16
+        ],
+        [
+            "Leech-seed",
+            20
+        ],
+        [
+            "Mega-drain",
+            24
+        ],
+        [
+            "Slam",
+            28
+        ],
+        [
+            "Leaf-blade",
+            32
+        ],
+        [
+            "Coil",
+            38
+        ],
+        [
+            "Giga-drain",
+            44
+        ],
+        [
+            "Wring-out",
+            50
+        ],
+        [
+            "Gastro-acid",
+            56
+        ],
+        [
+            "Leaf-storm",
+            62
+        ]
     ]
 }

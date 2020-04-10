@@ -1,110 +1,398 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Leer learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Pluck learnt at level 10",
-        "Nasty-plot learnt at level 14",
-        "Flatter learnt at level 19",
-        "Feint-attack learnt at level 23",
-        "Punishment learnt at level 28",
-        "Defog learnt at level 32",
-        "Tailwind learnt at level 37",
-        "Air-slash learnt at level 41",
-        "Dark-pulse learnt at level 46",
-        "Embargo learnt at level 50",
-        "Whirlwind learnt at level 55",
-        "Brave-bird learnt at level 59",
-        "Mirror-move learnt at level 64"
-    ],
-    "x-y": [
-        "Gust learnt at level 1",
-        "Leer learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Pluck learnt at level 10",
-        "Nasty-plot learnt at level 14",
-        "Flatter learnt at level 19",
-        "Feint-attack learnt at level 23",
-        "Punishment learnt at level 28",
-        "Defog learnt at level 32",
-        "Tailwind learnt at level 37",
-        "Air-slash learnt at level 41",
-        "Dark-pulse learnt at level 46",
-        "Embargo learnt at level 50",
-        "Whirlwind learnt at level 55",
-        "Brave-bird learnt at level 59",
-        "Mirror-move learnt at level 64"
-    ],
-    "black-2-white-2": [
-        "Gust learnt at level 1",
-        "Leer learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Pluck learnt at level 10",
-        "Nasty-plot learnt at level 14",
-        "Flatter learnt at level 19",
-        "Feint-attack learnt at level 23",
-        "Punishment learnt at level 28",
-        "Defog learnt at level 32",
-        "Tailwind learnt at level 37",
-        "Air-slash learnt at level 41",
-        "Dark-pulse learnt at level 46",
-        "Embargo learnt at level 50",
-        "Whirlwind learnt at level 55",
-        "Brave-bird learnt at level 59",
-        "Mirror-move learnt at level 64"
-    ],
-    "black-white": [
-        "Gust learnt at level 1",
-        "Leer learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Pluck learnt at level 10",
-        "Nasty-plot learnt at level 14",
-        "Flatter learnt at level 19",
-        "Feint-attack learnt at level 23",
-        "Punishment learnt at level 28",
-        "Defog learnt at level 32",
-        "Tailwind learnt at level 37",
-        "Air-slash learnt at level 41",
-        "Dark-pulse learnt at level 46",
-        "Embargo learnt at level 50",
-        "Whirlwind learnt at level 55",
-        "Brave-bird learnt at level 59",
-        "Mirror-move learnt at level 64"
-    ],
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Leer learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Pluck learnt at level 10",
-        "Nasty-plot learnt at level 14",
-        "Flatter learnt at level 19",
-        "Feint-attack learnt at level 23",
-        "Punishment learnt at level 28",
-        "Defog learnt at level 32",
-        "Tailwind learnt at level 37",
-        "Air-slash learnt at level 41",
-        "Dark-pulse learnt at level 46",
-        "Embargo learnt at level 50",
-        "Whirlwind learnt at level 55",
-        "Brave-bird learnt at level 59",
-        "Mirror-move learnt at level 64"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Pluck",
+            10
+        ],
+        [
+            "Nasty-plot",
+            14
+        ],
+        [
+            "Flatter",
+            19
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Punishment",
+            28
+        ],
+        [
+            "Defog",
+            32
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Dark-pulse",
+            46
+        ],
+        [
+            "Embargo",
+            50
+        ],
+        [
+            "Whirlwind",
+            55
+        ],
+        [
+            "Brave-bird",
+            59
+        ],
+        [
+            "Mirror-move",
+            64
+        ]
     ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Leer learnt at level 1",
-        "Fury-attack learnt at level 5",
-        "Pluck learnt at level 10",
-        "Nasty-plot learnt at level 14",
-        "Flatter learnt at level 19",
-        "Feint-attack learnt at level 23",
-        "Punishment learnt at level 28",
-        "Defog learnt at level 32",
-        "Tailwind learnt at level 37",
-        "Air-slash learnt at level 41",
-        "Dark-pulse learnt at level 46",
-        "Embargo learnt at level 50",
-        "Whirlwind learnt at level 55",
-        "Brave-bird learnt at level 59",
-        "Mirror-move learnt at level 64"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Pluck",
+            10
+        ],
+        [
+            "Nasty-plot",
+            14
+        ],
+        [
+            "Flatter",
+            19
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Punishment",
+            28
+        ],
+        [
+            "Defog",
+            32
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Dark-pulse",
+            46
+        ],
+        [
+            "Embargo",
+            50
+        ],
+        [
+            "Whirlwind",
+            55
+        ],
+        [
+            "Brave-bird",
+            59
+        ],
+        [
+            "Mirror-move",
+            64
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Pluck",
+            10
+        ],
+        [
+            "Nasty-plot",
+            14
+        ],
+        [
+            "Flatter",
+            19
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Punishment",
+            28
+        ],
+        [
+            "Defog",
+            32
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Dark-pulse",
+            46
+        ],
+        [
+            "Embargo",
+            50
+        ],
+        [
+            "Whirlwind",
+            55
+        ],
+        [
+            "Brave-bird",
+            59
+        ],
+        [
+            "Mirror-move",
+            64
+        ]
+    ],
+    "x-y": [
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Pluck",
+            10
+        ],
+        [
+            "Nasty-plot",
+            14
+        ],
+        [
+            "Flatter",
+            19
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Punishment",
+            28
+        ],
+        [
+            "Defog",
+            32
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Dark-pulse",
+            46
+        ],
+        [
+            "Embargo",
+            50
+        ],
+        [
+            "Whirlwind",
+            55
+        ],
+        [
+            "Brave-bird",
+            59
+        ],
+        [
+            "Mirror-move",
+            64
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Pluck",
+            10
+        ],
+        [
+            "Nasty-plot",
+            14
+        ],
+        [
+            "Flatter",
+            19
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Punishment",
+            28
+        ],
+        [
+            "Defog",
+            32
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Dark-pulse",
+            46
+        ],
+        [
+            "Embargo",
+            50
+        ],
+        [
+            "Whirlwind",
+            55
+        ],
+        [
+            "Brave-bird",
+            59
+        ],
+        [
+            "Mirror-move",
+            64
+        ]
+    ],
+    "black-white": [
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Fury-attack",
+            5
+        ],
+        [
+            "Pluck",
+            10
+        ],
+        [
+            "Nasty-plot",
+            14
+        ],
+        [
+            "Flatter",
+            19
+        ],
+        [
+            "Feint-attack",
+            23
+        ],
+        [
+            "Punishment",
+            28
+        ],
+        [
+            "Defog",
+            32
+        ],
+        [
+            "Tailwind",
+            37
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Dark-pulse",
+            46
+        ],
+        [
+            "Embargo",
+            50
+        ],
+        [
+            "Whirlwind",
+            55
+        ],
+        [
+            "Brave-bird",
+            59
+        ],
+        [
+            "Mirror-move",
+            64
+        ]
     ]
 }

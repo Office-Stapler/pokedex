@@ -1,116 +1,350 @@
 {
     "ultra-sun-ultra-moon": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1",
-        "Disarming-voice learnt at level 1",
-        "Spotlight learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Disarming-voice",
+            1
+        ],
+        [
+            "Spotlight",
+            1
+        ]
     ],
     "sun-moon": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1",
-        "Disarming-voice learnt at level 1",
-        "Spotlight learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Disarming-voice",
+            1
+        ],
+        [
+            "Spotlight",
+            1
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1",
-        "Disarming-voice learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Disarming-voice",
+            1
+        ]
     ],
     "x-y": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1",
-        "Disarming-voice learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Disarming-voice",
+            1
+        ]
     ],
     "black-2-white-2": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "xd": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "colosseum": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "black-white": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "platinum": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "diamond-pearl": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "firered-leafgreen": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "emerald": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "ruby-sapphire": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "crystal": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Metronome learnt at level 1",
-        "Moonlight learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Moonlight",
+            1
+        ]
     ],
     "gold-silver": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Metronome learnt at level 1",
-        "Moonlight learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ],
+        [
+            "Moonlight",
+            1
+        ]
     ],
     "heartgold-soulsilver": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "yellow": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ],
     "red-blue": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Minimize learnt at level 1",
-        "Metronome learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Minimize",
+            1
+        ],
+        [
+            "Metronome",
+            1
+        ]
     ]
 }

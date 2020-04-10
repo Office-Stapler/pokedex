@@ -1,206 +1,734 @@
 {
-    "firered-leafgreen": [
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Zap-cannon learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Hyper-beam learnt at level 65"
-    ],
-    "emerald": [
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Zap-cannon learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Hyper-beam learnt at level 65"
-    ],
     "omega-ruby-alpha-sapphire": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Charge-beam learnt at level 1",
-        "Bulldoze learnt at level 1",
-        "Icy-wind learnt at level 7",
-        "Charge-beam learnt at level 13",
-        "Bulldoze learnt at level 19",
-        "Curse learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Amnesia learnt at level 37",
-        "Ice-beam learnt at level 43",
-        "Hammer-arm learnt at level 49",
-        "Zap-cannon learnt at level 55",
-        "Lock-on learnt at level 55",
-        "Superpower learnt at level 61",
-        "Hyper-beam learnt at level 67"
-    ],
-    "black-2-white-2": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Charge-beam learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Zap-cannon learnt at level 65",
-        "Ice-beam learnt at level 73",
-        "Hammer-arm learnt at level 81",
-        "Hyper-beam learnt at level 89"
-    ],
-    "heartgold-soulsilver": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Charge-beam learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Zap-cannon learnt at level 65",
-        "Ice-beam learnt at level 73",
-        "Hammer-arm learnt at level 81",
-        "Hyper-beam learnt at level 89"
-    ],
-    "platinum": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Charge-beam learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Zap-cannon learnt at level 65",
-        "Ice-beam learnt at level 73",
-        "Hammer-arm learnt at level 81",
-        "Hyper-beam learnt at level 89"
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Charge-beam",
+            1
+        ],
+        [
+            "Bulldoze",
+            1
+        ],
+        [
+            "Icy-wind",
+            7
+        ],
+        [
+            "Charge-beam",
+            13
+        ],
+        [
+            "Bulldoze",
+            19
+        ],
+        [
+            "Curse",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Amnesia",
+            37
+        ],
+        [
+            "Ice-beam",
+            43
+        ],
+        [
+            "Hammer-arm",
+            49
+        ],
+        [
+            "Zap-cannon",
+            55
+        ],
+        [
+            "Lock-on",
+            55
+        ],
+        [
+            "Superpower",
+            61
+        ],
+        [
+            "Hyper-beam",
+            67
+        ]
     ],
     "x-y": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Zap-cannon learnt at level 1",
-        "Lock-on learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Charge-beam learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Zap-cannon learnt at level 65",
-        "Ice-beam learnt at level 73",
-        "Hammer-arm learnt at level 81",
-        "Hyper-beam learnt at level 89"
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Zap-cannon",
+            1
+        ],
+        [
+            "Lock-on",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Charge-beam",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Zap-cannon",
+            65
+        ],
+        [
+            "Ice-beam",
+            73
+        ],
+        [
+            "Hammer-arm",
+            81
+        ],
+        [
+            "Hyper-beam",
+            89
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Charge-beam",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Zap-cannon",
+            65
+        ],
+        [
+            "Ice-beam",
+            73
+        ],
+        [
+            "Hammer-arm",
+            81
+        ],
+        [
+            "Hyper-beam",
+            89
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Charge-beam learnt at level 1",
-        "Bulldoze learnt at level 1",
-        "Icy-wind learnt at level 7",
-        "Charge-beam learnt at level 13",
-        "Bulldoze learnt at level 19",
-        "Curse learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Amnesia learnt at level 37",
-        "Ice-beam learnt at level 43",
-        "Hammer-arm learnt at level 49",
-        "Zap-cannon learnt at level 55",
-        "Lock-on learnt at level 55",
-        "Superpower learnt at level 61",
-        "Hyper-beam learnt at level 67"
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Charge-beam",
+            1
+        ],
+        [
+            "Bulldoze",
+            1
+        ],
+        [
+            "Icy-wind",
+            7
+        ],
+        [
+            "Charge-beam",
+            13
+        ],
+        [
+            "Bulldoze",
+            19
+        ],
+        [
+            "Curse",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Amnesia",
+            37
+        ],
+        [
+            "Ice-beam",
+            43
+        ],
+        [
+            "Hammer-arm",
+            49
+        ],
+        [
+            "Zap-cannon",
+            55
+        ],
+        [
+            "Lock-on",
+            55
+        ],
+        [
+            "Superpower",
+            61
+        ],
+        [
+            "Hyper-beam",
+            67
+        ]
     ],
     "sun-moon": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 1",
-        "Charge-beam learnt at level 1",
-        "Bulldoze learnt at level 1",
-        "Icy-wind learnt at level 7",
-        "Charge-beam learnt at level 13",
-        "Bulldoze learnt at level 19",
-        "Curse learnt at level 25",
-        "Ancient-power learnt at level 31",
-        "Amnesia learnt at level 37",
-        "Ice-beam learnt at level 43",
-        "Hammer-arm learnt at level 49",
-        "Zap-cannon learnt at level 55",
-        "Lock-on learnt at level 55",
-        "Superpower learnt at level 61",
-        "Hyper-beam learnt at level 67"
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            1
+        ],
+        [
+            "Charge-beam",
+            1
+        ],
+        [
+            "Bulldoze",
+            1
+        ],
+        [
+            "Icy-wind",
+            7
+        ],
+        [
+            "Charge-beam",
+            13
+        ],
+        [
+            "Bulldoze",
+            19
+        ],
+        [
+            "Curse",
+            25
+        ],
+        [
+            "Ancient-power",
+            31
+        ],
+        [
+            "Amnesia",
+            37
+        ],
+        [
+            "Ice-beam",
+            43
+        ],
+        [
+            "Hammer-arm",
+            49
+        ],
+        [
+            "Zap-cannon",
+            55
+        ],
+        [
+            "Lock-on",
+            55
+        ],
+        [
+            "Superpower",
+            61
+        ],
+        [
+            "Hyper-beam",
+            67
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Charge-beam",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Zap-cannon",
+            65
+        ],
+        [
+            "Ice-beam",
+            73
+        ],
+        [
+            "Hammer-arm",
+            81
+        ],
+        [
+            "Hyper-beam",
+            89
+        ]
+    ],
+    "platinum": [
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Charge-beam",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Zap-cannon",
+            65
+        ],
+        [
+            "Ice-beam",
+            73
+        ],
+        [
+            "Hammer-arm",
+            81
+        ],
+        [
+            "Hyper-beam",
+            89
+        ]
     ],
     "black-white": [
-        "Stomp learnt at level 1",
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Charge-beam learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Zap-cannon learnt at level 65",
-        "Ice-beam learnt at level 73",
-        "Hammer-arm learnt at level 81",
-        "Hyper-beam learnt at level 89"
-    ],
-    "xd": [
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Zap-cannon learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Hyper-beam learnt at level 65"
-    ],
-    "colosseum": [
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Zap-cannon learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Hyper-beam learnt at level 65"
+        [
+            "Stomp",
+            1
+        ],
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Charge-beam",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Zap-cannon",
+            65
+        ],
+        [
+            "Ice-beam",
+            73
+        ],
+        [
+            "Hammer-arm",
+            81
+        ],
+        [
+            "Hyper-beam",
+            89
+        ]
     ],
     "diamond-pearl": [
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Charge-beam learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Zap-cannon learnt at level 65",
-        "Ice-beam learnt at level 73",
-        "Hammer-arm learnt at level 81",
-        "Hyper-beam learnt at level 89"
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Charge-beam",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Zap-cannon",
+            65
+        ],
+        [
+            "Ice-beam",
+            73
+        ],
+        [
+            "Hammer-arm",
+            81
+        ],
+        [
+            "Hyper-beam",
+            89
+        ]
+    ],
+    "xd": [
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Zap-cannon",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ]
+    ],
+    "colosseum": [
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Zap-cannon",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Zap-cannon",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ]
+    ],
+    "emerald": [
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Zap-cannon",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ]
     ],
     "ruby-sapphire": [
-        "Explosion learnt at level 1",
-        "Icy-wind learnt at level 9",
-        "Curse learnt at level 17",
-        "Superpower learnt at level 25",
-        "Ancient-power learnt at level 33",
-        "Amnesia learnt at level 41",
-        "Zap-cannon learnt at level 49",
-        "Lock-on learnt at level 57",
-        "Hyper-beam learnt at level 65"
+        [
+            "Explosion",
+            1
+        ],
+        [
+            "Icy-wind",
+            9
+        ],
+        [
+            "Curse",
+            17
+        ],
+        [
+            "Superpower",
+            25
+        ],
+        [
+            "Ancient-power",
+            33
+        ],
+        [
+            "Amnesia",
+            41
+        ],
+        [
+            "Zap-cannon",
+            49
+        ],
+        [
+            "Lock-on",
+            57
+        ],
+        [
+            "Hyper-beam",
+            65
+        ]
     ]
 }

@@ -1,229 +1,814 @@
 {
-    "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 10",
-        "Teleport learnt at level 20",
-        "Future-sight learnt at level 30",
-        "Wish learnt at level 30",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 50"
-    ],
-    "emerald": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 10",
-        "Teleport learnt at level 20",
-        "Future-sight learnt at level 30",
-        "Wish learnt at level 30",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 50"
-    ],
-    "xd": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 10",
-        "Teleport learnt at level 20",
-        "Future-sight learnt at level 30",
-        "Wish learnt at level 30",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 50"
-    ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Stored-power learnt at level 17",
-        "Ominous-wind learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psychic learnt at level 33",
-        "Miracle-eye learnt at level 36",
-        "Psycho-shift learnt at level 39",
-        "Future-sight learnt at level 44",
-        "Power-swap learnt at level 47",
-        "Guard-swap learnt at level 47",
-        "Me-first learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Stored-power",
+            17
+        ],
+        [
+            "Ominous-wind",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Miracle-eye",
+            36
+        ],
+        [
+            "Psycho-shift",
+            39
+        ],
+        [
+            "Future-sight",
+            44
+        ],
+        [
+            "Power-swap",
+            47
+        ],
+        [
+            "Guard-swap",
+            47
+        ],
+        [
+            "Me-first",
+            50
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Stored-power learnt at level 17",
-        "Ominous-wind learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psychic learnt at level 33",
-        "Miracle-eye learnt at level 36",
-        "Psycho-shift learnt at level 39",
-        "Future-sight learnt at level 44",
-        "Power-swap learnt at level 47",
-        "Guard-swap learnt at level 47",
-        "Me-first learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Stored-power",
+            17
+        ],
+        [
+            "Ominous-wind",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Miracle-eye",
+            36
+        ],
+        [
+            "Psycho-shift",
+            39
+        ],
+        [
+            "Future-sight",
+            44
+        ],
+        [
+            "Power-swap",
+            47
+        ],
+        [
+            "Guard-swap",
+            47
+        ],
+        [
+            "Me-first",
+            50
+        ]
     ],
     "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Miracle-eye learnt at level 17",
-        "Me-first learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psycho-shift learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Ominous-wind learnt at level 39",
-        "Power-swap learnt at level 44",
-        "Guard-swap learnt at level 44",
-        "Psychic learnt at level 47"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Miracle-eye",
+            17
+        ],
+        [
+            "Me-first",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psycho-shift",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Ominous-wind",
+            39
+        ],
+        [
+            "Power-swap",
+            44
+        ],
+        [
+            "Guard-swap",
+            44
+        ],
+        [
+            "Psychic",
+            47
+        ]
     ],
     "platinum": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Miracle-eye learnt at level 17",
-        "Me-first learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psycho-shift learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Ominous-wind learnt at level 39",
-        "Power-swap learnt at level 44",
-        "Guard-swap learnt at level 44",
-        "Psychic learnt at level 47"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Miracle-eye",
+            17
+        ],
+        [
+            "Me-first",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psycho-shift",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Ominous-wind",
+            39
+        ],
+        [
+            "Power-swap",
+            44
+        ],
+        [
+            "Guard-swap",
+            44
+        ],
+        [
+            "Psychic",
+            47
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Miracle-eye learnt at level 17",
-        "Me-first learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psycho-shift learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Ominous-wind learnt at level 39",
-        "Power-swap learnt at level 44",
-        "Guard-swap learnt at level 44",
-        "Psychic learnt at level 47"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Miracle-eye",
+            17
+        ],
+        [
+            "Me-first",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psycho-shift",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Ominous-wind",
+            39
+        ],
+        [
+            "Power-swap",
+            44
+        ],
+        [
+            "Guard-swap",
+            44
+        ],
+        [
+            "Psychic",
+            47
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            10
+        ],
+        [
+            "Teleport",
+            20
+        ],
+        [
+            "Future-sight",
+            30
+        ],
+        [
+            "Wish",
+            30
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            50
+        ]
+    ],
+    "emerald": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            10
+        ],
+        [
+            "Teleport",
+            20
+        ],
+        [
+            "Future-sight",
+            30
+        ],
+        [
+            "Wish",
+            30
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ],
     "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 10",
-        "Teleport learnt at level 20",
-        "Future-sight learnt at level 30",
-        "Wish learnt at level 30",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            10
+        ],
+        [
+            "Teleport",
+            20
+        ],
+        [
+            "Future-sight",
+            30
+        ],
+        [
+            "Wish",
+            30
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Stored-power learnt at level 17",
-        "Ominous-wind learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psychic learnt at level 33",
-        "Miracle-eye learnt at level 36",
-        "Psycho-shift learnt at level 39",
-        "Future-sight learnt at level 44",
-        "Power-swap learnt at level 47",
-        "Guard-swap learnt at level 47",
-        "Me-first learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Stored-power",
+            17
+        ],
+        [
+            "Ominous-wind",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psychic",
+            33
+        ],
+        [
+            "Miracle-eye",
+            36
+        ],
+        [
+            "Psycho-shift",
+            39
+        ],
+        [
+            "Future-sight",
+            44
+        ],
+        [
+            "Power-swap",
+            47
+        ],
+        [
+            "Guard-swap",
+            47
+        ],
+        [
+            "Me-first",
+            50
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Miracle-eye learnt at level 17",
-        "Me-first learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psycho-shift learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Stored-power learnt at level 39",
-        "Ominous-wind learnt at level 44",
-        "Power-swap learnt at level 47",
-        "Guard-swap learnt at level 47",
-        "Psychic learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Miracle-eye",
+            17
+        ],
+        [
+            "Me-first",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psycho-shift",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Stored-power",
+            39
+        ],
+        [
+            "Ominous-wind",
+            44
+        ],
+        [
+            "Power-swap",
+            47
+        ],
+        [
+            "Guard-swap",
+            47
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Miracle-eye learnt at level 17",
-        "Me-first learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psycho-shift learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Stored-power learnt at level 39",
-        "Ominous-wind learnt at level 44",
-        "Power-swap learnt at level 47",
-        "Guard-swap learnt at level 47",
-        "Psychic learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Miracle-eye",
+            17
+        ],
+        [
+            "Me-first",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psycho-shift",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Stored-power",
+            39
+        ],
+        [
+            "Ominous-wind",
+            44
+        ],
+        [
+            "Power-swap",
+            47
+        ],
+        [
+            "Guard-swap",
+            47
+        ],
+        [
+            "Psychic",
+            50
+        ]
+    ],
+    "xd": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            10
+        ],
+        [
+            "Teleport",
+            20
+        ],
+        [
+            "Future-sight",
+            30
+        ],
+        [
+            "Wish",
+            30
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ],
     "colosseum": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 10",
-        "Teleport learnt at level 20",
-        "Future-sight learnt at level 30",
-        "Wish learnt at level 30",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            10
+        ],
+        [
+            "Teleport",
+            20
+        ],
+        [
+            "Future-sight",
+            30
+        ],
+        [
+            "Wish",
+            30
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 6",
-        "Teleport learnt at level 9",
-        "Lucky-chant learnt at level 12",
-        "Miracle-eye learnt at level 17",
-        "Me-first learnt at level 20",
-        "Confuse-ray learnt at level 23",
-        "Wish learnt at level 28",
-        "Psycho-shift learnt at level 33",
-        "Future-sight learnt at level 36",
-        "Stored-power learnt at level 39",
-        "Ominous-wind learnt at level 44",
-        "Power-swap learnt at level 47",
-        "Guard-swap learnt at level 47",
-        "Psychic learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            6
+        ],
+        [
+            "Teleport",
+            9
+        ],
+        [
+            "Lucky-chant",
+            12
+        ],
+        [
+            "Miracle-eye",
+            17
+        ],
+        [
+            "Me-first",
+            20
+        ],
+        [
+            "Confuse-ray",
+            23
+        ],
+        [
+            "Wish",
+            28
+        ],
+        [
+            "Psycho-shift",
+            33
+        ],
+        [
+            "Future-sight",
+            36
+        ],
+        [
+            "Stored-power",
+            39
+        ],
+        [
+            "Ominous-wind",
+            44
+        ],
+        [
+            "Power-swap",
+            47
+        ],
+        [
+            "Guard-swap",
+            47
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ],
     "crystal": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 10",
-        "Teleport learnt at level 20",
-        "Future-sight learnt at level 30",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            10
+        ],
+        [
+            "Teleport",
+            20
+        ],
+        [
+            "Future-sight",
+            30
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ],
     "gold-silver": [
-        "Leer learnt at level 1",
-        "Peck learnt at level 1",
-        "Night-shade learnt at level 10",
-        "Teleport learnt at level 20",
-        "Future-sight learnt at level 30",
-        "Confuse-ray learnt at level 40",
-        "Psychic learnt at level 50"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Night-shade",
+            10
+        ],
+        [
+            "Teleport",
+            20
+        ],
+        [
+            "Future-sight",
+            30
+        ],
+        [
+            "Confuse-ray",
+            40
+        ],
+        [
+            "Psychic",
+            50
+        ]
     ]
 }

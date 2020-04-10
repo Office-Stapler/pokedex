@@ -1,130 +1,478 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Thrash learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Uproar learnt at level 1",
-        "Charge learnt at level 1",
-        "Astonish learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Swagger learnt at level 7",
-        "Bite learnt at level 13",
-        "Revenge learnt at level 19",
-        "Shock-wave learnt at level 25",
-        "Heal-block learnt at level 31",
-        "Agility learnt at level 37",
-        "Discharge learnt at level 43",
-        "Crunch learnt at level 49",
-        "Charge learnt at level 55",
-        "Nasty-plot learnt at level 61",
-        "Thunder learnt at level 67",
-        "Dark-pulse learnt at level 73",
-        "Hammer-arm learnt at level 79",
-        "Thrash learnt at level 85"
-    ],
-    "black-2-white-2": [
-        "Thunder-shock learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Swagger learnt at level 7",
-        "Bite learnt at level 13",
-        "Revenge learnt at level 19",
-        "Shock-wave learnt at level 25",
-        "Heal-block learnt at level 31",
-        "Agility learnt at level 37",
-        "Discharge learnt at level 43",
-        "Crunch learnt at level 49",
-        "Charge learnt at level 55",
-        "Nasty-plot learnt at level 61",
-        "Thunder learnt at level 67",
-        "Dark-pulse learnt at level 73",
-        "Hammer-arm learnt at level 79",
-        "Thrash learnt at level 85"
-    ],
     "ultra-sun-ultra-moon": [
-        "Thrash learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Swagger learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Bite learnt at level 7",
-        "Revenge learnt at level 13",
-        "Shock-wave learnt at level 19",
-        "Heal-block learnt at level 25",
-        "Agility learnt at level 31",
-        "Discharge learnt at level 37",
-        "Crunch learnt at level 43",
-        "Charge learnt at level 49",
-        "Nasty-plot learnt at level 55",
-        "Thunder learnt at level 61",
-        "Dark-pulse learnt at level 67",
-        "Hammer-arm learnt at level 73",
-        "Thrash learnt at level 79"
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Swagger",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Revenge",
+            13
+        ],
+        [
+            "Shock-wave",
+            19
+        ],
+        [
+            "Heal-block",
+            25
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Charge",
+            49
+        ],
+        [
+            "Nasty-plot",
+            55
+        ],
+        [
+            "Thunder",
+            61
+        ],
+        [
+            "Dark-pulse",
+            67
+        ],
+        [
+            "Hammer-arm",
+            73
+        ],
+        [
+            "Thrash",
+            79
+        ]
     ],
     "sun-moon": [
-        "Thrash learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Swagger learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Bite learnt at level 7",
-        "Revenge learnt at level 13",
-        "Shock-wave learnt at level 19",
-        "Heal-block learnt at level 25",
-        "Agility learnt at level 31",
-        "Discharge learnt at level 37",
-        "Crunch learnt at level 43",
-        "Charge learnt at level 49",
-        "Nasty-plot learnt at level 55",
-        "Thunder learnt at level 61",
-        "Dark-pulse learnt at level 67",
-        "Hammer-arm learnt at level 73",
-        "Thrash learnt at level 79"
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Swagger",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Bite",
+            7
+        ],
+        [
+            "Revenge",
+            13
+        ],
+        [
+            "Shock-wave",
+            19
+        ],
+        [
+            "Heal-block",
+            25
+        ],
+        [
+            "Agility",
+            31
+        ],
+        [
+            "Discharge",
+            37
+        ],
+        [
+            "Crunch",
+            43
+        ],
+        [
+            "Charge",
+            49
+        ],
+        [
+            "Nasty-plot",
+            55
+        ],
+        [
+            "Thunder",
+            61
+        ],
+        [
+            "Dark-pulse",
+            67
+        ],
+        [
+            "Hammer-arm",
+            73
+        ],
+        [
+            "Thrash",
+            79
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Swagger",
+            7
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Revenge",
+            19
+        ],
+        [
+            "Shock-wave",
+            25
+        ],
+        [
+            "Heal-block",
+            31
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Charge",
+            55
+        ],
+        [
+            "Nasty-plot",
+            61
+        ],
+        [
+            "Thunder",
+            67
+        ],
+        [
+            "Dark-pulse",
+            73
+        ],
+        [
+            "Hammer-arm",
+            79
+        ],
+        [
+            "Thrash",
+            85
+        ]
     ],
     "x-y": [
-        "Thrash learnt at level 1",
-        "Thunder-shock learnt at level 1",
-        "Uproar learnt at level 1",
-        "Charge learnt at level 1",
-        "Astonish learnt at level 1",
-        "Hammer-arm learnt at level 1",
-        "Nasty-plot learnt at level 1",
-        "Swagger learnt at level 7",
-        "Bite learnt at level 13",
-        "Revenge learnt at level 19",
-        "Shock-wave learnt at level 25",
-        "Heal-block learnt at level 31",
-        "Agility learnt at level 37",
-        "Discharge learnt at level 43",
-        "Crunch learnt at level 49",
-        "Charge learnt at level 55",
-        "Nasty-plot learnt at level 61",
-        "Thunder learnt at level 67",
-        "Dark-pulse learnt at level 73",
-        "Hammer-arm learnt at level 79",
-        "Thrash learnt at level 85"
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Hammer-arm",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ],
+        [
+            "Swagger",
+            7
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Revenge",
+            19
+        ],
+        [
+            "Shock-wave",
+            25
+        ],
+        [
+            "Heal-block",
+            31
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Charge",
+            55
+        ],
+        [
+            "Nasty-plot",
+            61
+        ],
+        [
+            "Thunder",
+            67
+        ],
+        [
+            "Dark-pulse",
+            73
+        ],
+        [
+            "Hammer-arm",
+            79
+        ],
+        [
+            "Thrash",
+            85
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Swagger",
+            7
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Revenge",
+            19
+        ],
+        [
+            "Shock-wave",
+            25
+        ],
+        [
+            "Heal-block",
+            31
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Charge",
+            55
+        ],
+        [
+            "Nasty-plot",
+            61
+        ],
+        [
+            "Thunder",
+            67
+        ],
+        [
+            "Dark-pulse",
+            73
+        ],
+        [
+            "Hammer-arm",
+            79
+        ],
+        [
+            "Thrash",
+            85
+        ]
     ],
     "black-white": [
-        "Thunder-shock learnt at level 1",
-        "Uproar learnt at level 1",
-        "Astonish learnt at level 1",
-        "Swagger learnt at level 7",
-        "Bite learnt at level 13",
-        "Revenge learnt at level 19",
-        "Shock-wave learnt at level 25",
-        "Heal-block learnt at level 31",
-        "Agility learnt at level 37",
-        "Discharge learnt at level 43",
-        "Crunch learnt at level 49",
-        "Charge learnt at level 55",
-        "Nasty-plot learnt at level 61",
-        "Thunder learnt at level 67",
-        "Dark-pulse learnt at level 73",
-        "Hammer-arm learnt at level 79",
-        "Thrash learnt at level 85"
+        [
+            "Thunder-shock",
+            1
+        ],
+        [
+            "Uproar",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Swagger",
+            7
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Revenge",
+            19
+        ],
+        [
+            "Shock-wave",
+            25
+        ],
+        [
+            "Heal-block",
+            31
+        ],
+        [
+            "Agility",
+            37
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Charge",
+            55
+        ],
+        [
+            "Nasty-plot",
+            61
+        ],
+        [
+            "Thunder",
+            67
+        ],
+        [
+            "Dark-pulse",
+            73
+        ],
+        [
+            "Hammer-arm",
+            79
+        ],
+        [
+            "Thrash",
+            85
+        ]
     ]
 }

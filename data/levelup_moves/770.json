@@ -1,38 +1,134 @@
 {
     "ultra-sun-ultra-moon": [
-        "Sand-attack learnt at level 1",
-        "Absorb learnt at level 1",
-        "Harden learnt at level 1",
-        "Astonish learnt at level 1",
-        "Astonish learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Sand-tomb learnt at level 14",
-        "Mega-drain learnt at level 18",
-        "Bulldoze learnt at level 23",
-        "Hypnosis learnt at level 27",
-        "Iron-defense learnt at level 32",
-        "Giga-drain learnt at level 36",
-        "Shadow-ball learnt at level 41",
-        "Earth-power learnt at level 47",
-        "Shore-up learnt at level 54",
-        "Sandstorm learnt at level 60"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Sand-tomb",
+            14
+        ],
+        [
+            "Mega-drain",
+            18
+        ],
+        [
+            "Bulldoze",
+            23
+        ],
+        [
+            "Hypnosis",
+            27
+        ],
+        [
+            "Iron-defense",
+            32
+        ],
+        [
+            "Giga-drain",
+            36
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Earth-power",
+            47
+        ],
+        [
+            "Shore-up",
+            54
+        ],
+        [
+            "Sandstorm",
+            60
+        ]
     ],
     "sun-moon": [
-        "Sand-attack learnt at level 1",
-        "Absorb learnt at level 1",
-        "Harden learnt at level 1",
-        "Astonish learnt at level 1",
-        "Astonish learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Sand-tomb learnt at level 14",
-        "Mega-drain learnt at level 18",
-        "Bulldoze learnt at level 23",
-        "Hypnosis learnt at level 27",
-        "Iron-defense learnt at level 32",
-        "Giga-drain learnt at level 36",
-        "Shadow-ball learnt at level 41",
-        "Earth-power learnt at level 47",
-        "Shore-up learnt at level 54",
-        "Sandstorm learnt at level 60"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Astonish",
+            1
+        ],
+        [
+            "Astonish",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Sand-tomb",
+            14
+        ],
+        [
+            "Mega-drain",
+            18
+        ],
+        [
+            "Bulldoze",
+            23
+        ],
+        [
+            "Hypnosis",
+            27
+        ],
+        [
+            "Iron-defense",
+            32
+        ],
+        [
+            "Giga-drain",
+            36
+        ],
+        [
+            "Shadow-ball",
+            41
+        ],
+        [
+            "Earth-power",
+            47
+        ],
+        [
+            "Shore-up",
+            54
+        ],
+        [
+            "Sandstorm",
+            60
+        ]
     ]
 }

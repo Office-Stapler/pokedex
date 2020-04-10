@@ -1,218 +1,770 @@
 {
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Icy-wind learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Take-down learnt at level 32",
-        "Earthquake learnt at level 37",
-        "Mist learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 49"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Powder-snow learnt at level 10",
-        "Endure learnt at level 19",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 37",
-        "Blizzard learnt at level 46",
-        "Amnesia learnt at level 55"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Powder-snow learnt at level 10",
-        "Endure learnt at level 19",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 37",
-        "Blizzard learnt at level 46"
-    ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Icy-wind learnt at level 21",
-        "Ice-shard learnt at level 24",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 35",
-        "Earthquake learnt at level 37",
-        "Flail learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Icy-wind",
+            21
+        ],
+        [
+            "Ice-shard",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            35
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            48
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Icy-wind learnt at level 21",
-        "Ice-shard learnt at level 24",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 35",
-        "Earthquake learnt at level 37",
-        "Flail learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Icy-wind",
+            21
+        ],
+        [
+            "Ice-shard",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            35
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            48
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Icy-wind learnt at level 21",
-        "Ice-shard learnt at level 24",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 35",
-        "Earthquake learnt at level 37",
-        "Flail learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Icy-wind",
+            21
+        ],
+        [
+            "Ice-shard",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            35
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            48
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Powder-snow learnt at level 10",
-        "Endure learnt at level 19",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 37",
-        "Blizzard learnt at level 46",
-        "Amnesia learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Powder-snow",
+            10
+        ],
+        [
+            "Endure",
+            19
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Amnesia",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Icy-wind",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Mist",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Icy-wind learnt at level 21",
-        "Ice-shard learnt at level 24",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 35",
-        "Earthquake learnt at level 37",
-        "Flail learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Icy-wind",
+            21
+        ],
+        [
+            "Ice-shard",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            35
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            48
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Icy-wind learnt at level 21",
-        "Ice-shard learnt at level 24",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 35",
-        "Earthquake learnt at level 37",
-        "Flail learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Icy-wind",
+            21
+        ],
+        [
+            "Ice-shard",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            35
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Flail",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            48
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Icy-wind learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Take-down learnt at level 32",
-        "Earthquake learnt at level 37",
-        "Mist learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Icy-wind",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Mist",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Icy-wind learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Take-down learnt at level 32",
-        "Earthquake learnt at level 37",
-        "Mist learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Icy-wind",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Mist",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Powder-snow learnt at level 10",
-        "Endure learnt at level 19",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 37",
-        "Blizzard learnt at level 46",
-        "Amnesia learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Powder-snow",
+            10
+        ],
+        [
+            "Endure",
+            19
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Amnesia",
+            55
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Powder-snow learnt at level 10",
-        "Endure learnt at level 19",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 37",
-        "Blizzard learnt at level 46",
-        "Amnesia learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Powder-snow",
+            10
+        ],
+        [
+            "Endure",
+            19
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Amnesia",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Powder-snow learnt at level 10",
-        "Endure learnt at level 19",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 37",
-        "Blizzard learnt at level 46",
-        "Amnesia learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Powder-snow",
+            10
+        ],
+        [
+            "Endure",
+            19
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Amnesia",
+            55
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Powder-snow learnt at level 10",
-        "Endure learnt at level 19",
-        "Take-down learnt at level 28",
-        "Mist learnt at level 37",
-        "Blizzard learnt at level 46",
-        "Amnesia learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Powder-snow",
+            10
+        ],
+        [
+            "Endure",
+            19
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Amnesia",
+            55
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Icy-wind learnt at level 25",
-        "Ice-shard learnt at level 28",
-        "Take-down learnt at level 32",
-        "Earthquake learnt at level 37",
-        "Mist learnt at level 40",
-        "Blizzard learnt at level 44",
-        "Amnesia learnt at level 49"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Icy-wind",
+            25
+        ],
+        [
+            "Ice-shard",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Mist",
+            40
+        ],
+        [
+            "Blizzard",
+            44
+        ],
+        [
+            "Amnesia",
+            49
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Powder-snow",
+            10
+        ],
+        [
+            "Endure",
+            19
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Blizzard",
+            46
+        ],
+        [
+            "Amnesia",
+            55
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Powder-snow",
+            10
+        ],
+        [
+            "Endure",
+            19
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Blizzard",
+            46
+        ]
     ]
 }

@@ -1,310 +1,1126 @@
 {
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Wake-up-slap learnt at level 33",
-        "Avalanche learnt at level 39",
-        "Body-slam learnt at level 44",
-        "Wring-out learnt at level 49",
-        "Perish-song learnt at level 55",
-        "Blizzard learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Wake-up-slap",
+            33
+        ],
+        [
+            "Avalanche",
+            39
+        ],
+        [
+            "Body-slam",
+            44
+        ],
+        [
+            "Wring-out",
+            49
+        ],
+        [
+            "Perish-song",
+            55
+        ],
+        [
+            "Blizzard",
+            60
+        ]
     ],
     "xd": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lovely-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Double-slap learnt at level 21",
-        "Ice-punch learnt at level 25",
-        "Mean-look learnt at level 35",
-        "Fake-tears learnt at level 41",
-        "Body-slam learnt at level 51",
-        "Perish-song learnt at level 57",
-        "Blizzard learnt at level 67"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Ice-punch",
+            25
+        ],
+        [
+            "Mean-look",
+            35
+        ],
+        [
+            "Fake-tears",
+            41
+        ],
+        [
+            "Body-slam",
+            51
+        ],
+        [
+            "Perish-song",
+            57
+        ],
+        [
+            "Blizzard",
+            67
+        ]
     ],
     "colosseum": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lovely-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Double-slap learnt at level 21",
-        "Ice-punch learnt at level 25",
-        "Mean-look learnt at level 35",
-        "Fake-tears learnt at level 41",
-        "Body-slam learnt at level 51",
-        "Perish-song learnt at level 57",
-        "Blizzard learnt at level 67"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Ice-punch",
+            25
+        ],
+        [
+            "Mean-look",
+            35
+        ],
+        [
+            "Fake-tears",
+            41
+        ],
+        [
+            "Body-slam",
+            51
+        ],
+        [
+            "Perish-song",
+            57
+        ],
+        [
+            "Blizzard",
+            67
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Wake-up-slap learnt at level 33",
-        "Avalanche learnt at level 39",
-        "Body-slam learnt at level 44",
-        "Wring-out learnt at level 49",
-        "Perish-song learnt at level 55",
-        "Blizzard learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Wake-up-slap",
+            33
+        ],
+        [
+            "Avalanche",
+            39
+        ],
+        [
+            "Body-slam",
+            44
+        ],
+        [
+            "Wring-out",
+            49
+        ],
+        [
+            "Perish-song",
+            55
+        ],
+        [
+            "Blizzard",
+            60
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Mean-look learnt at level 21",
-        "Fake-tears learnt at level 25",
-        "Wake-up-slap learnt at level 28",
-        "Avalanche learnt at level 33",
-        "Body-slam learnt at level 39",
-        "Wring-out learnt at level 44",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 55"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Mean-look",
+            21
+        ],
+        [
+            "Fake-tears",
+            25
+        ],
+        [
+            "Wake-up-slap",
+            28
+        ],
+        [
+            "Avalanche",
+            33
+        ],
+        [
+            "Body-slam",
+            39
+        ],
+        [
+            "Wring-out",
+            44
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            55
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Mean-look learnt at level 21",
-        "Fake-tears learnt at level 25",
-        "Wake-up-slap learnt at level 28",
-        "Avalanche learnt at level 33",
-        "Body-slam learnt at level 39",
-        "Wring-out learnt at level 44",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 55"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Mean-look",
+            21
+        ],
+        [
+            "Fake-tears",
+            25
+        ],
+        [
+            "Wake-up-slap",
+            28
+        ],
+        [
+            "Avalanche",
+            33
+        ],
+        [
+            "Body-slam",
+            39
+        ],
+        [
+            "Wring-out",
+            44
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            55
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Draining-kiss learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Wake-up-slap learnt at level 33",
-        "Avalanche learnt at level 39",
-        "Body-slam learnt at level 44",
-        "Wring-out learnt at level 49",
-        "Perish-song learnt at level 55",
-        "Blizzard learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Draining-kiss",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Wake-up-slap",
+            33
+        ],
+        [
+            "Avalanche",
+            39
+        ],
+        [
+            "Body-slam",
+            44
+        ],
+        [
+            "Wring-out",
+            49
+        ],
+        [
+            "Perish-song",
+            55
+        ],
+        [
+            "Blizzard",
+            60
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Draining-kiss learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Wake-up-slap learnt at level 33",
-        "Avalanche learnt at level 39",
-        "Body-slam learnt at level 44",
-        "Wring-out learnt at level 49",
-        "Perish-song learnt at level 55",
-        "Blizzard learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Draining-kiss",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Wake-up-slap",
+            33
+        ],
+        [
+            "Avalanche",
+            39
+        ],
+        [
+            "Body-slam",
+            44
+        ],
+        [
+            "Wring-out",
+            49
+        ],
+        [
+            "Perish-song",
+            55
+        ],
+        [
+            "Blizzard",
+            60
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Draining-kiss learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Wake-up-slap learnt at level 33",
-        "Avalanche learnt at level 39",
-        "Body-slam learnt at level 44",
-        "Wring-out learnt at level 49",
-        "Perish-song learnt at level 55",
-        "Blizzard learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Draining-kiss",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Wake-up-slap",
+            33
+        ],
+        [
+            "Avalanche",
+            39
+        ],
+        [
+            "Body-slam",
+            44
+        ],
+        [
+            "Wring-out",
+            49
+        ],
+        [
+            "Perish-song",
+            55
+        ],
+        [
+            "Blizzard",
+            60
+        ]
     ],
     "firered-leafgreen": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lovely-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Double-slap learnt at level 21",
-        "Ice-punch learnt at level 25",
-        "Mean-look learnt at level 35",
-        "Fake-tears learnt at level 41",
-        "Body-slam learnt at level 51",
-        "Perish-song learnt at level 57",
-        "Blizzard learnt at level 67"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Ice-punch",
+            25
+        ],
+        [
+            "Mean-look",
+            35
+        ],
+        [
+            "Fake-tears",
+            41
+        ],
+        [
+            "Body-slam",
+            51
+        ],
+        [
+            "Perish-song",
+            57
+        ],
+        [
+            "Blizzard",
+            67
+        ]
     ],
     "emerald": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lovely-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Double-slap learnt at level 21",
-        "Ice-punch learnt at level 25",
-        "Mean-look learnt at level 35",
-        "Fake-tears learnt at level 41",
-        "Body-slam learnt at level 51",
-        "Perish-song learnt at level 57",
-        "Blizzard learnt at level 67"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Ice-punch",
+            25
+        ],
+        [
+            "Mean-look",
+            35
+        ],
+        [
+            "Fake-tears",
+            41
+        ],
+        [
+            "Body-slam",
+            51
+        ],
+        [
+            "Perish-song",
+            57
+        ],
+        [
+            "Blizzard",
+            67
+        ]
     ],
     "ruby-sapphire": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lovely-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Double-slap learnt at level 21",
-        "Ice-punch learnt at level 25",
-        "Mean-look learnt at level 35",
-        "Fake-tears learnt at level 41",
-        "Body-slam learnt at level 51",
-        "Perish-song learnt at level 57",
-        "Blizzard learnt at level 67"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Ice-punch",
+            25
+        ],
+        [
+            "Mean-look",
+            35
+        ],
+        [
+            "Fake-tears",
+            41
+        ],
+        [
+            "Body-slam",
+            51
+        ],
+        [
+            "Perish-song",
+            57
+        ],
+        [
+            "Blizzard",
+            67
+        ]
     ],
     "crystal": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lovely-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Double-slap learnt at level 21",
-        "Ice-punch learnt at level 25",
-        "Mean-look learnt at level 35",
-        "Body-slam learnt at level 41",
-        "Perish-song learnt at level 51",
-        "Blizzard learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Ice-punch",
+            25
+        ],
+        [
+            "Mean-look",
+            35
+        ],
+        [
+            "Body-slam",
+            41
+        ],
+        [
+            "Perish-song",
+            51
+        ],
+        [
+            "Blizzard",
+            57
+        ]
     ],
     "gold-silver": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lovely-kiss learnt at level 9",
-        "Powder-snow learnt at level 13",
-        "Double-slap learnt at level 21",
-        "Ice-punch learnt at level 25",
-        "Mean-look learnt at level 35",
-        "Body-slam learnt at level 41",
-        "Perish-song learnt at level 51",
-        "Blizzard learnt at level 57"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            9
+        ],
+        [
+            "Powder-snow",
+            13
+        ],
+        [
+            "Double-slap",
+            21
+        ],
+        [
+            "Ice-punch",
+            25
+        ],
+        [
+            "Mean-look",
+            35
+        ],
+        [
+            "Body-slam",
+            41
+        ],
+        [
+            "Perish-song",
+            51
+        ],
+        [
+            "Blizzard",
+            57
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Perish-song learnt at level 1",
-        "Draining-kiss learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Heart-stamp learnt at level 21",
-        "Mean-look learnt at level 25",
-        "Fake-tears learnt at level 28",
-        "Wake-up-slap learnt at level 33",
-        "Avalanche learnt at level 39",
-        "Body-slam learnt at level 44",
-        "Wring-out learnt at level 49",
-        "Perish-song learnt at level 55",
-        "Blizzard learnt at level 60"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Perish-song",
+            1
+        ],
+        [
+            "Draining-kiss",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Heart-stamp",
+            21
+        ],
+        [
+            "Mean-look",
+            25
+        ],
+        [
+            "Fake-tears",
+            28
+        ],
+        [
+            "Wake-up-slap",
+            33
+        ],
+        [
+            "Avalanche",
+            39
+        ],
+        [
+            "Body-slam",
+            44
+        ],
+        [
+            "Wring-out",
+            49
+        ],
+        [
+            "Perish-song",
+            55
+        ],
+        [
+            "Blizzard",
+            60
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Lick learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Lick learnt at level 5",
-        "Lovely-kiss learnt at level 8",
-        "Powder-snow learnt at level 11",
-        "Double-slap learnt at level 15",
-        "Ice-punch learnt at level 18",
-        "Mean-look learnt at level 21",
-        "Fake-tears learnt at level 25",
-        "Wake-up-slap learnt at level 28",
-        "Avalanche learnt at level 33",
-        "Body-slam learnt at level 39",
-        "Wring-out learnt at level 44",
-        "Perish-song learnt at level 49",
-        "Blizzard learnt at level 55"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lick",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Lick",
+            5
+        ],
+        [
+            "Lovely-kiss",
+            8
+        ],
+        [
+            "Powder-snow",
+            11
+        ],
+        [
+            "Double-slap",
+            15
+        ],
+        [
+            "Ice-punch",
+            18
+        ],
+        [
+            "Mean-look",
+            21
+        ],
+        [
+            "Fake-tears",
+            25
+        ],
+        [
+            "Wake-up-slap",
+            28
+        ],
+        [
+            "Avalanche",
+            33
+        ],
+        [
+            "Body-slam",
+            39
+        ],
+        [
+            "Wring-out",
+            44
+        ],
+        [
+            "Perish-song",
+            49
+        ],
+        [
+            "Blizzard",
+            55
+        ]
     ],
     "yellow": [
-        "Pound learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Lick learnt at level 18",
-        "Double-slap learnt at level 23",
-        "Ice-punch learnt at level 31",
-        "Body-slam learnt at level 39",
-        "Thrash learnt at level 47",
-        "Blizzard learnt at level 58"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Lick",
+            18
+        ],
+        [
+            "Double-slap",
+            23
+        ],
+        [
+            "Ice-punch",
+            31
+        ],
+        [
+            "Body-slam",
+            39
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Blizzard",
+            58
+        ]
     ],
     "red-blue": [
-        "Pound learnt at level 1",
-        "Lovely-kiss learnt at level 1",
-        "Lick learnt at level 18",
-        "Double-slap learnt at level 23",
-        "Ice-punch learnt at level 31",
-        "Body-slam learnt at level 39",
-        "Thrash learnt at level 47",
-        "Blizzard learnt at level 58"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Lovely-kiss",
+            1
+        ],
+        [
+            "Lick",
+            18
+        ],
+        [
+            "Double-slap",
+            23
+        ],
+        [
+            "Ice-punch",
+            31
+        ],
+        [
+            "Body-slam",
+            39
+        ],
+        [
+            "Thrash",
+            47
+        ],
+        [
+            "Blizzard",
+            58
+        ]
     ]
 }

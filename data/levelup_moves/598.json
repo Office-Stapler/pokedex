@@ -1,128 +1,478 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Curse learnt at level 1",
-        "Rollout learnt at level 1",
-        "Rock-climb learnt at level 1",
-        "Power-whip learnt at level 1",
-        "Rollout learnt at level 6",
-        "Curse learnt at level 9",
-        "Metal-claw learnt at level 14",
-        "Pin-missile learnt at level 18",
-        "Gyro-ball learnt at level 21",
-        "Iron-defense learnt at level 26",
-        "Mirror-shot learnt at level 30",
-        "Ingrain learnt at level 35",
-        "Self-destruct learnt at level 38",
-        "Iron-head learnt at level 46",
-        "Payback learnt at level 53",
-        "Flash-cannon learnt at level 61",
-        "Explosion learnt at level 67"
+        [
+            "Power-whip",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Rock-climb",
+            1
+        ],
+        [
+            "Power-whip",
+            1
+        ],
+        [
+            "Rollout",
+            6
+        ],
+        [
+            "Curse",
+            9
+        ],
+        [
+            "Metal-claw",
+            14
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Gyro-ball",
+            21
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Mirror-shot",
+            30
+        ],
+        [
+            "Ingrain",
+            35
+        ],
+        [
+            "Self-destruct",
+            38
+        ],
+        [
+            "Iron-head",
+            46
+        ],
+        [
+            "Payback",
+            53
+        ],
+        [
+            "Flash-cannon",
+            61
+        ],
+        [
+            "Explosion",
+            67
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Curse learnt at level 1",
-        "Rollout learnt at level 1",
-        "Rock-climb learnt at level 1",
-        "Power-whip learnt at level 1",
-        "Rollout learnt at level 6",
-        "Curse learnt at level 9",
-        "Metal-claw learnt at level 14",
-        "Pin-missile learnt at level 18",
-        "Gyro-ball learnt at level 21",
-        "Iron-defense learnt at level 26",
-        "Mirror-shot learnt at level 30",
-        "Ingrain learnt at level 35",
-        "Self-destruct learnt at level 38",
-        "Iron-head learnt at level 46",
-        "Payback learnt at level 53",
-        "Flash-cannon learnt at level 61",
-        "Explosion learnt at level 67"
+        [
+            "Power-whip",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Rock-climb",
+            1
+        ],
+        [
+            "Power-whip",
+            1
+        ],
+        [
+            "Rollout",
+            6
+        ],
+        [
+            "Curse",
+            9
+        ],
+        [
+            "Metal-claw",
+            14
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Gyro-ball",
+            21
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Mirror-shot",
+            30
+        ],
+        [
+            "Ingrain",
+            35
+        ],
+        [
+            "Self-destruct",
+            38
+        ],
+        [
+            "Iron-head",
+            46
+        ],
+        [
+            "Payback",
+            53
+        ],
+        [
+            "Flash-cannon",
+            61
+        ],
+        [
+            "Explosion",
+            67
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Curse learnt at level 1",
-        "Rollout learnt at level 1",
-        "Rock-climb learnt at level 1",
-        "Rollout learnt at level 6",
-        "Curse learnt at level 9",
-        "Metal-claw learnt at level 14",
-        "Pin-missile learnt at level 18",
-        "Gyro-ball learnt at level 21",
-        "Iron-defense learnt at level 26",
-        "Mirror-shot learnt at level 30",
-        "Ingrain learnt at level 35",
-        "Self-destruct learnt at level 38",
-        "Power-whip learnt at level 40",
-        "Iron-head learnt at level 46",
-        "Payback learnt at level 53",
-        "Flash-cannon learnt at level 61",
-        "Explosion learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Rock-climb",
+            1
+        ],
+        [
+            "Rollout",
+            6
+        ],
+        [
+            "Curse",
+            9
+        ],
+        [
+            "Metal-claw",
+            14
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Gyro-ball",
+            21
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Mirror-shot",
+            30
+        ],
+        [
+            "Ingrain",
+            35
+        ],
+        [
+            "Self-destruct",
+            38
+        ],
+        [
+            "Power-whip",
+            40
+        ],
+        [
+            "Iron-head",
+            46
+        ],
+        [
+            "Payback",
+            53
+        ],
+        [
+            "Flash-cannon",
+            61
+        ],
+        [
+            "Explosion",
+            67
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Curse learnt at level 1",
-        "Rollout learnt at level 1",
-        "Rock-climb learnt at level 1",
-        "Rollout learnt at level 6",
-        "Curse learnt at level 9",
-        "Metal-claw learnt at level 14",
-        "Pin-missile learnt at level 18",
-        "Gyro-ball learnt at level 21",
-        "Iron-defense learnt at level 26",
-        "Mirror-shot learnt at level 30",
-        "Ingrain learnt at level 35",
-        "Self-destruct learnt at level 38",
-        "Power-whip learnt at level 40",
-        "Iron-head learnt at level 46",
-        "Payback learnt at level 53",
-        "Flash-cannon learnt at level 61",
-        "Explosion learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Rock-climb",
+            1
+        ],
+        [
+            "Rollout",
+            6
+        ],
+        [
+            "Curse",
+            9
+        ],
+        [
+            "Metal-claw",
+            14
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Gyro-ball",
+            21
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Mirror-shot",
+            30
+        ],
+        [
+            "Ingrain",
+            35
+        ],
+        [
+            "Self-destruct",
+            38
+        ],
+        [
+            "Power-whip",
+            40
+        ],
+        [
+            "Iron-head",
+            46
+        ],
+        [
+            "Payback",
+            53
+        ],
+        [
+            "Flash-cannon",
+            61
+        ],
+        [
+            "Explosion",
+            67
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Curse learnt at level 1",
-        "Rollout learnt at level 1",
-        "Rock-climb learnt at level 1",
-        "Rollout learnt at level 6",
-        "Curse learnt at level 9",
-        "Metal-claw learnt at level 14",
-        "Pin-missile learnt at level 18",
-        "Gyro-ball learnt at level 21",
-        "Iron-defense learnt at level 26",
-        "Mirror-shot learnt at level 30",
-        "Ingrain learnt at level 35",
-        "Self-destruct learnt at level 38",
-        "Power-whip learnt at level 40",
-        "Iron-head learnt at level 46",
-        "Payback learnt at level 53",
-        "Flash-cannon learnt at level 61",
-        "Explosion learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Rock-climb",
+            1
+        ],
+        [
+            "Rollout",
+            6
+        ],
+        [
+            "Curse",
+            9
+        ],
+        [
+            "Metal-claw",
+            14
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Gyro-ball",
+            21
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Mirror-shot",
+            30
+        ],
+        [
+            "Ingrain",
+            35
+        ],
+        [
+            "Self-destruct",
+            38
+        ],
+        [
+            "Power-whip",
+            40
+        ],
+        [
+            "Iron-head",
+            46
+        ],
+        [
+            "Payback",
+            53
+        ],
+        [
+            "Flash-cannon",
+            61
+        ],
+        [
+            "Explosion",
+            67
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Harden learnt at level 1",
-        "Curse learnt at level 1",
-        "Rollout learnt at level 1",
-        "Rock-climb learnt at level 1",
-        "Rollout learnt at level 6",
-        "Curse learnt at level 9",
-        "Metal-claw learnt at level 14",
-        "Pin-missile learnt at level 18",
-        "Gyro-ball learnt at level 21",
-        "Iron-defense learnt at level 26",
-        "Mirror-shot learnt at level 30",
-        "Ingrain learnt at level 35",
-        "Self-destruct learnt at level 38",
-        "Power-whip learnt at level 40",
-        "Iron-head learnt at level 46",
-        "Payback learnt at level 53",
-        "Flash-cannon learnt at level 61",
-        "Explosion learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Curse",
+            1
+        ],
+        [
+            "Rollout",
+            1
+        ],
+        [
+            "Rock-climb",
+            1
+        ],
+        [
+            "Rollout",
+            6
+        ],
+        [
+            "Curse",
+            9
+        ],
+        [
+            "Metal-claw",
+            14
+        ],
+        [
+            "Pin-missile",
+            18
+        ],
+        [
+            "Gyro-ball",
+            21
+        ],
+        [
+            "Iron-defense",
+            26
+        ],
+        [
+            "Mirror-shot",
+            30
+        ],
+        [
+            "Ingrain",
+            35
+        ],
+        [
+            "Self-destruct",
+            38
+        ],
+        [
+            "Power-whip",
+            40
+        ],
+        [
+            "Iron-head",
+            46
+        ],
+        [
+            "Payback",
+            53
+        ],
+        [
+            "Flash-cannon",
+            61
+        ],
+        [
+            "Explosion",
+            67
+        ]
     ]
 }

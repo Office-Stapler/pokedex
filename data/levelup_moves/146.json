@@ -1,250 +1,886 @@
 {
-    "yellow": [
-        "Peck learnt at level 1",
-        "Fire-spin learnt at level 1",
-        "Leer learnt at level 51",
-        "Agility learnt at level 55",
-        "Sky-attack learnt at level 60"
-    ],
-    "red-blue": [
-        "Peck learnt at level 1",
-        "Fire-spin learnt at level 1",
-        "Leer learnt at level 51",
-        "Agility learnt at level 55",
-        "Sky-attack learnt at level 60"
-    ],
     "ultra-sun-ultra-moon": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Sunny-day learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Roost learnt at level 85",
-        "Hurricane learnt at level 92",
-        "Burn-up learnt at level 99"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Sunny-day",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Roost",
+            85
+        ],
+        [
+            "Hurricane",
+            92
+        ],
+        [
+            "Burn-up",
+            99
+        ]
     ],
     "sun-moon": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Sunny-day learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Roost learnt at level 85",
-        "Hurricane learnt at level 92",
-        "Burn-up learnt at level 99"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Sunny-day",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Roost",
+            85
+        ],
+        [
+            "Hurricane",
+            92
+        ],
+        [
+            "Burn-up",
+            99
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Roost learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Sunny-day learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Roost learnt at level 85",
-        "Hurricane learnt at level 92"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Roost",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Sunny-day",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Roost",
+            85
+        ],
+        [
+            "Hurricane",
+            92
+        ]
     ],
     "x-y": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Sky-attack learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Roost learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Sunny-day learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Roost learnt at level 85",
-        "Hurricane learnt at level 92"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Sky-attack",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Roost",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Sunny-day",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Roost",
+            85
+        ],
+        [
+            "Hurricane",
+            92
+        ]
     ],
     "xd": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 13",
-        "Agility learnt at level 25",
-        "Endure learnt at level 37",
-        "Flamethrower learnt at level 49",
-        "Safeguard learnt at level 61",
-        "Heat-wave learnt at level 73",
-        "Sky-attack learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Safeguard",
+            61
+        ],
+        [
+            "Heat-wave",
+            73
+        ],
+        [
+            "Sky-attack",
+            85
+        ]
     ],
     "colosseum": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 13",
-        "Agility learnt at level 25",
-        "Endure learnt at level 37",
-        "Flamethrower learnt at level 49",
-        "Safeguard learnt at level 61",
-        "Heat-wave learnt at level 73",
-        "Sky-attack learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Safeguard",
+            61
+        ],
+        [
+            "Heat-wave",
+            73
+        ],
+        [
+            "Sky-attack",
+            85
+        ]
     ],
     "black-white": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Roost learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Sunny-day learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Roost",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Sunny-day",
+            85
+        ]
     ],
     "heartgold-soulsilver": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Roost learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Sunny-day learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Roost",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Sunny-day",
+            85
+        ]
     ],
     "emerald": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 13",
-        "Agility learnt at level 25",
-        "Endure learnt at level 37",
-        "Flamethrower learnt at level 49",
-        "Safeguard learnt at level 61",
-        "Heat-wave learnt at level 73",
-        "Sky-attack learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Safeguard",
+            61
+        ],
+        [
+            "Heat-wave",
+            73
+        ],
+        [
+            "Sky-attack",
+            85
+        ]
     ],
     "ruby-sapphire": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 13",
-        "Agility learnt at level 25",
-        "Endure learnt at level 37",
-        "Flamethrower learnt at level 49",
-        "Safeguard learnt at level 61",
-        "Heat-wave learnt at level 73",
-        "Sky-attack learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Safeguard",
+            61
+        ],
+        [
+            "Heat-wave",
+            73
+        ],
+        [
+            "Sky-attack",
+            85
+        ]
     ],
     "crystal": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 13",
-        "Agility learnt at level 25",
-        "Endure learnt at level 37",
-        "Flamethrower learnt at level 49",
-        "Safeguard learnt at level 61",
-        "Sky-attack learnt at level 73"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Safeguard",
+            61
+        ],
+        [
+            "Sky-attack",
+            73
+        ]
     ],
     "gold-silver": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 13",
-        "Agility learnt at level 25",
-        "Endure learnt at level 37",
-        "Flamethrower learnt at level 49",
-        "Safeguard learnt at level 61",
-        "Sky-attack learnt at level 73"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Safeguard",
+            61
+        ],
+        [
+            "Sky-attack",
+            73
+        ]
     ],
     "black-2-white-2": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Roost learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Sunny-day learnt at level 85",
-        "Hurricane learnt at level 92"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Roost",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Sunny-day",
+            85
+        ],
+        [
+            "Hurricane",
+            92
+        ]
     ],
     "platinum": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Roost learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Sunny-day learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Roost",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Sunny-day",
+            85
+        ]
     ],
     "diamond-pearl": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 8",
-        "Agility learnt at level 15",
-        "Endure learnt at level 22",
-        "Ancient-power learnt at level 29",
-        "Flamethrower learnt at level 36",
-        "Safeguard learnt at level 43",
-        "Air-slash learnt at level 50",
-        "Roost learnt at level 57",
-        "Heat-wave learnt at level 64",
-        "Solar-beam learnt at level 71",
-        "Sky-attack learnt at level 78",
-        "Sunny-day learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            8
+        ],
+        [
+            "Agility",
+            15
+        ],
+        [
+            "Endure",
+            22
+        ],
+        [
+            "Ancient-power",
+            29
+        ],
+        [
+            "Flamethrower",
+            36
+        ],
+        [
+            "Safeguard",
+            43
+        ],
+        [
+            "Air-slash",
+            50
+        ],
+        [
+            "Roost",
+            57
+        ],
+        [
+            "Heat-wave",
+            64
+        ],
+        [
+            "Solar-beam",
+            71
+        ],
+        [
+            "Sky-attack",
+            78
+        ],
+        [
+            "Sunny-day",
+            85
+        ]
     ],
     "firered-leafgreen": [
-        "Wing-attack learnt at level 1",
-        "Ember learnt at level 1",
-        "Fire-spin learnt at level 13",
-        "Agility learnt at level 25",
-        "Endure learnt at level 37",
-        "Flamethrower learnt at level 49",
-        "Safeguard learnt at level 61",
-        "Heat-wave learnt at level 73",
-        "Sky-attack learnt at level 85"
+        [
+            "Wing-attack",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fire-spin",
+            13
+        ],
+        [
+            "Agility",
+            25
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Flamethrower",
+            49
+        ],
+        [
+            "Safeguard",
+            61
+        ],
+        [
+            "Heat-wave",
+            73
+        ],
+        [
+            "Sky-attack",
+            85
+        ]
+    ],
+    "yellow": [
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Fire-spin",
+            1
+        ],
+        [
+            "Leer",
+            51
+        ],
+        [
+            "Agility",
+            55
+        ],
+        [
+            "Sky-attack",
+            60
+        ]
+    ],
+    "red-blue": [
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Fire-spin",
+            1
+        ],
+        [
+            "Leer",
+            51
+        ],
+        [
+            "Agility",
+            55
+        ],
+        [
+            "Sky-attack",
+            60
+        ]
     ]
 }

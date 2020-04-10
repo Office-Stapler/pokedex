@@ -1,130 +1,406 @@
 {
-    "heartgold-soulsilver": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Nasty-plot learnt at level 1"
-    ],
-    "crystal": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Fire-spin learnt at level 43"
-    ],
-    "gold-silver": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Fire-spin learnt at level 43"
-    ],
-    "xd": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Fire-spin learnt at level 45"
-    ],
-    "firered-leafgreen": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Fire-spin learnt at level 45"
-    ],
-    "emerald": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Fire-spin learnt at level 45"
-    ],
     "yellow": [
-        "Tail-whip learnt at level 1",
-        "Roar learnt at level 1",
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Roar",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ]
     ],
     "red-blue": [
-        "Tail-whip learnt at level 1",
-        "Roar learnt at level 1",
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1"
-    ],
-    "x-y": [
-        "Flamethrower learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Imprison learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Roar",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ]
     ],
     "black-2-white-2": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
+    ],
+    "xd": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Fire-spin",
+            45
+        ]
     ],
     "colosseum": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Fire-spin learnt at level 45"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Fire-spin",
+            45
+        ]
     ],
     "black-white": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
     ],
     "platinum": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
     ],
     "diamond-pearl": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Fire-spin",
+            45
+        ]
+    ],
+    "emerald": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Fire-spin",
+            45
+        ]
     ],
     "ruby-sapphire": [
-        "Ember learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Fire-spin learnt at level 45"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Fire-spin",
+            45
+        ]
+    ],
+    "crystal": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Fire-spin",
+            43
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Fire-spin",
+            43
+        ]
+    ],
+    "x-y": [
+        [
+            "Flamethrower",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Flamethrower learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Imprison learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Flamethrower",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
     ],
     "sun-moon": [
-        "Flamethrower learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Imprison learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Flamethrower",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Flamethrower learnt at level 1",
-        "Quick-attack learnt at level 1",
-        "Confuse-ray learnt at level 1",
-        "Safeguard learnt at level 1",
-        "Imprison learnt at level 1",
-        "Nasty-plot learnt at level 1"
+        [
+            "Flamethrower",
+            1
+        ],
+        [
+            "Quick-attack",
+            1
+        ],
+        [
+            "Confuse-ray",
+            1
+        ],
+        [
+            "Safeguard",
+            1
+        ],
+        [
+            "Imprison",
+            1
+        ],
+        [
+            "Nasty-plot",
+            1
+        ]
     ]
 }

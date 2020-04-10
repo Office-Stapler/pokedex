@@ -1,275 +1,986 @@
 {
     "ultra-sun-ultra-moon": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Flail learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Aqua-ring learnt at level 21",
-        "Fury-attack learnt at level 24",
-        "Agility learnt at level 29",
-        "Waterfall learnt at level 32",
-        "Horn-drill learnt at level 40",
-        "Soak learnt at level 46",
-        "Megahorn learnt at level 54"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Aqua-ring",
+            21
+        ],
+        [
+            "Fury-attack",
+            24
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Waterfall",
+            32
+        ],
+        [
+            "Horn-drill",
+            40
+        ],
+        [
+            "Soak",
+            46
+        ],
+        [
+            "Megahorn",
+            54
+        ]
     ],
     "sun-moon": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Flail learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Aqua-ring learnt at level 21",
-        "Fury-attack learnt at level 24",
-        "Agility learnt at level 29",
-        "Waterfall learnt at level 32",
-        "Horn-drill learnt at level 40",
-        "Soak learnt at level 46",
-        "Megahorn learnt at level 54"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Aqua-ring",
+            21
+        ],
+        [
+            "Fury-attack",
+            24
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Waterfall",
+            32
+        ],
+        [
+            "Horn-drill",
+            40
+        ],
+        [
+            "Soak",
+            46
+        ],
+        [
+            "Megahorn",
+            54
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Horn-attack learnt at level 8",
-        "Flail learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Aqua-ring learnt at level 21",
-        "Fury-attack learnt at level 24",
-        "Agility learnt at level 29",
-        "Waterfall learnt at level 32",
-        "Horn-drill learnt at level 40",
-        "Soak learnt at level 46",
-        "Megahorn learnt at level 54"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Horn-attack",
+            8
+        ],
+        [
+            "Flail",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Aqua-ring",
+            21
+        ],
+        [
+            "Fury-attack",
+            24
+        ],
+        [
+            "Agility",
+            29
+        ],
+        [
+            "Waterfall",
+            32
+        ],
+        [
+            "Horn-drill",
+            40
+        ],
+        [
+            "Soak",
+            46
+        ],
+        [
+            "Megahorn",
+            54
+        ]
     ],
     "platinum": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Horn-attack learnt at level 11",
-        "Water-pulse learnt at level 17",
-        "Flail learnt at level 21",
-        "Aqua-ring learnt at level 27",
-        "Fury-attack learnt at level 31",
-        "Waterfall learnt at level 40",
-        "Horn-drill learnt at level 47",
-        "Agility learnt at level 56",
-        "Megahorn learnt at level 63"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Horn-attack",
+            11
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Flail",
+            21
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Fury-attack",
+            31
+        ],
+        [
+            "Waterfall",
+            40
+        ],
+        [
+            "Horn-drill",
+            47
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Megahorn",
+            63
+        ]
     ],
     "diamond-pearl": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Horn-attack learnt at level 11",
-        "Water-pulse learnt at level 17",
-        "Flail learnt at level 21",
-        "Aqua-ring learnt at level 27",
-        "Fury-attack learnt at level 31",
-        "Waterfall learnt at level 40",
-        "Horn-drill learnt at level 47",
-        "Agility learnt at level 56",
-        "Megahorn learnt at level 63"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Horn-attack",
+            11
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Flail",
+            21
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Fury-attack",
+            31
+        ],
+        [
+            "Waterfall",
+            40
+        ],
+        [
+            "Horn-drill",
+            47
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Megahorn",
+            63
+        ]
     ],
     "firered-leafgreen": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 10",
-        "Horn-attack learnt at level 15",
-        "Flail learnt at level 24",
-        "Fury-attack learnt at level 29",
-        "Waterfall learnt at level 41",
-        "Horn-drill learnt at level 49",
-        "Agility learnt at level 61",
-        "Megahorn learnt at level 69"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            10
+        ],
+        [
+            "Horn-attack",
+            15
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Fury-attack",
+            29
+        ],
+        [
+            "Waterfall",
+            41
+        ],
+        [
+            "Horn-drill",
+            49
+        ],
+        [
+            "Agility",
+            61
+        ],
+        [
+            "Megahorn",
+            69
+        ]
     ],
     "emerald": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 10",
-        "Horn-attack learnt at level 15",
-        "Flail learnt at level 24",
-        "Fury-attack learnt at level 29",
-        "Waterfall learnt at level 41",
-        "Horn-drill learnt at level 49",
-        "Agility learnt at level 61"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            10
+        ],
+        [
+            "Horn-attack",
+            15
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Fury-attack",
+            29
+        ],
+        [
+            "Waterfall",
+            41
+        ],
+        [
+            "Horn-drill",
+            49
+        ],
+        [
+            "Agility",
+            61
+        ]
     ],
     "ruby-sapphire": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 10",
-        "Horn-attack learnt at level 15",
-        "Flail learnt at level 24",
-        "Fury-attack learnt at level 29",
-        "Waterfall learnt at level 41",
-        "Horn-drill learnt at level 49",
-        "Agility learnt at level 61"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            10
+        ],
+        [
+            "Horn-attack",
+            15
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Fury-attack",
+            29
+        ],
+        [
+            "Waterfall",
+            41
+        ],
+        [
+            "Horn-drill",
+            49
+        ],
+        [
+            "Agility",
+            61
+        ]
     ],
     "crystal": [
-        "Tail-whip learnt at level 1",
-        "Peck learnt at level 1",
-        "Supersonic learnt at level 10",
-        "Horn-attack learnt at level 15",
-        "Flail learnt at level 24",
-        "Fury-attack learnt at level 29",
-        "Waterfall learnt at level 41",
-        "Horn-drill learnt at level 49",
-        "Agility learnt at level 61"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Supersonic",
+            10
+        ],
+        [
+            "Horn-attack",
+            15
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Fury-attack",
+            29
+        ],
+        [
+            "Waterfall",
+            41
+        ],
+        [
+            "Horn-drill",
+            49
+        ],
+        [
+            "Agility",
+            61
+        ]
     ],
     "gold-silver": [
-        "Tail-whip learnt at level 1",
-        "Peck learnt at level 1",
-        "Supersonic learnt at level 10",
-        "Horn-attack learnt at level 15",
-        "Flail learnt at level 24",
-        "Fury-attack learnt at level 29",
-        "Waterfall learnt at level 41",
-        "Horn-drill learnt at level 49",
-        "Agility learnt at level 61"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Supersonic",
+            10
+        ],
+        [
+            "Horn-attack",
+            15
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Fury-attack",
+            29
+        ],
+        [
+            "Waterfall",
+            41
+        ],
+        [
+            "Horn-drill",
+            49
+        ],
+        [
+            "Agility",
+            61
+        ]
     ],
     "x-y": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Megahorn learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Horn-attack learnt at level 11",
-        "Water-pulse learnt at level 17",
-        "Flail learnt at level 21",
-        "Aqua-ring learnt at level 27",
-        "Fury-attack learnt at level 31",
-        "Waterfall learnt at level 40",
-        "Horn-drill learnt at level 47",
-        "Agility learnt at level 56",
-        "Soak learnt at level 63",
-        "Megahorn learnt at level 72"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Megahorn",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Horn-attack",
+            11
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Flail",
+            21
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Fury-attack",
+            31
+        ],
+        [
+            "Waterfall",
+            40
+        ],
+        [
+            "Horn-drill",
+            47
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Soak",
+            63
+        ],
+        [
+            "Megahorn",
+            72
+        ]
     ],
     "black-2-white-2": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Horn-attack learnt at level 11",
-        "Water-pulse learnt at level 17",
-        "Flail learnt at level 21",
-        "Aqua-ring learnt at level 27",
-        "Fury-attack learnt at level 31",
-        "Waterfall learnt at level 40",
-        "Horn-drill learnt at level 47",
-        "Agility learnt at level 56",
-        "Soak learnt at level 63",
-        "Megahorn learnt at level 72"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Horn-attack",
+            11
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Flail",
+            21
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Fury-attack",
+            31
+        ],
+        [
+            "Waterfall",
+            40
+        ],
+        [
+            "Horn-drill",
+            47
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Soak",
+            63
+        ],
+        [
+            "Megahorn",
+            72
+        ]
     ],
     "xd": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 10",
-        "Horn-attack learnt at level 15",
-        "Flail learnt at level 24",
-        "Fury-attack learnt at level 29",
-        "Waterfall learnt at level 41",
-        "Horn-drill learnt at level 49",
-        "Agility learnt at level 61"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            10
+        ],
+        [
+            "Horn-attack",
+            15
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Fury-attack",
+            29
+        ],
+        [
+            "Waterfall",
+            41
+        ],
+        [
+            "Horn-drill",
+            49
+        ],
+        [
+            "Agility",
+            61
+        ]
     ],
     "colosseum": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Supersonic learnt at level 10",
-        "Horn-attack learnt at level 15",
-        "Flail learnt at level 24",
-        "Fury-attack learnt at level 29",
-        "Waterfall learnt at level 41",
-        "Horn-drill learnt at level 49",
-        "Agility learnt at level 61"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Supersonic",
+            10
+        ],
+        [
+            "Horn-attack",
+            15
+        ],
+        [
+            "Flail",
+            24
+        ],
+        [
+            "Fury-attack",
+            29
+        ],
+        [
+            "Waterfall",
+            41
+        ],
+        [
+            "Horn-drill",
+            49
+        ],
+        [
+            "Agility",
+            61
+        ]
     ],
     "black-white": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Horn-attack learnt at level 11",
-        "Water-pulse learnt at level 17",
-        "Flail learnt at level 21",
-        "Aqua-ring learnt at level 27",
-        "Fury-attack learnt at level 31",
-        "Waterfall learnt at level 40",
-        "Horn-drill learnt at level 47",
-        "Agility learnt at level 56",
-        "Soak learnt at level 63",
-        "Megahorn learnt at level 72"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Horn-attack",
+            11
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Flail",
+            21
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Fury-attack",
+            31
+        ],
+        [
+            "Waterfall",
+            40
+        ],
+        [
+            "Horn-drill",
+            47
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Soak",
+            63
+        ],
+        [
+            "Megahorn",
+            72
+        ]
     ],
     "heartgold-soulsilver": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Water-sport learnt at level 1",
-        "Poison-jab learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Horn-attack learnt at level 11",
-        "Water-pulse learnt at level 17",
-        "Flail learnt at level 21",
-        "Aqua-ring learnt at level 27",
-        "Fury-attack learnt at level 31",
-        "Waterfall learnt at level 40",
-        "Horn-drill learnt at level 47",
-        "Agility learnt at level 56",
-        "Megahorn learnt at level 63"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Water-sport",
+            1
+        ],
+        [
+            "Poison-jab",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Horn-attack",
+            11
+        ],
+        [
+            "Water-pulse",
+            17
+        ],
+        [
+            "Flail",
+            21
+        ],
+        [
+            "Aqua-ring",
+            27
+        ],
+        [
+            "Fury-attack",
+            31
+        ],
+        [
+            "Waterfall",
+            40
+        ],
+        [
+            "Horn-drill",
+            47
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Megahorn",
+            63
+        ]
     ],
     "yellow": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Supersonic learnt at level 19",
-        "Horn-attack learnt at level 24",
-        "Fury-attack learnt at level 30",
-        "Waterfall learnt at level 39",
-        "Horn-drill learnt at level 48",
-        "Agility learnt at level 54"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Supersonic",
+            19
+        ],
+        [
+            "Horn-attack",
+            24
+        ],
+        [
+            "Fury-attack",
+            30
+        ],
+        [
+            "Waterfall",
+            39
+        ],
+        [
+            "Horn-drill",
+            48
+        ],
+        [
+            "Agility",
+            54
+        ]
     ],
     "red-blue": [
-        "Tail-whip learnt at level 1",
-        "Supersonic learnt at level 1",
-        "Peck learnt at level 1",
-        "Supersonic learnt at level 19",
-        "Horn-attack learnt at level 24",
-        "Fury-attack learnt at level 30",
-        "Waterfall learnt at level 39",
-        "Horn-drill learnt at level 48",
-        "Agility learnt at level 54"
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Supersonic",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Supersonic",
+            19
+        ],
+        [
+            "Horn-attack",
+            24
+        ],
+        [
+            "Fury-attack",
+            30
+        ],
+        [
+            "Waterfall",
+            39
+        ],
+        [
+            "Horn-drill",
+            48
+        ],
+        [
+            "Agility",
+            54
+        ]
     ]
 }

@@ -1,279 +1,1034 @@
 {
     "omega-ruby-alpha-sapphire": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Thief learnt at level 1",
-        "Crunch learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Bite learnt at level 10",
-        "Odor-sleuth learnt at level 13",
-        "Roar learnt at level 16",
-        "Snarl learnt at level 18",
-        "Swagger learnt at level 20",
-        "Assurance learnt at level 24",
-        "Scary-face learnt at level 28",
-        "Embargo learnt at level 32",
-        "Taunt learnt at level 36",
-        "Take-down learnt at level 40",
-        "Crunch learnt at level 44",
-        "Sucker-punch learnt at level 48"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Odor-sleuth",
+            13
+        ],
+        [
+            "Roar",
+            16
+        ],
+        [
+            "Snarl",
+            18
+        ],
+        [
+            "Swagger",
+            20
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Embargo",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Take-down",
+            40
+        ],
+        [
+            "Crunch",
+            44
+        ],
+        [
+            "Sucker-punch",
+            48
+        ]
     ],
     "x-y": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Crunch learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Assurance learnt at level 32",
-        "Scary-face learnt at level 37",
-        "Taunt learnt at level 42",
-        "Embargo learnt at level 47",
-        "Take-down learnt at level 52",
-        "Thief learnt at level 57",
-        "Sucker-punch learnt at level 62",
-        "Crunch learnt at level 65"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Assurance",
+            32
+        ],
+        [
+            "Scary-face",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Embargo",
+            47
+        ],
+        [
+            "Take-down",
+            52
+        ],
+        [
+            "Thief",
+            57
+        ],
+        [
+            "Sucker-punch",
+            62
+        ],
+        [
+            "Crunch",
+            65
+        ]
     ],
     "black-2-white-2": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Assurance learnt at level 32",
-        "Scary-face learnt at level 37",
-        "Taunt learnt at level 42",
-        "Embargo learnt at level 47",
-        "Take-down learnt at level 52",
-        "Thief learnt at level 57",
-        "Sucker-punch learnt at level 62"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Assurance",
+            32
+        ],
+        [
+            "Scary-face",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Embargo",
+            47
+        ],
+        [
+            "Take-down",
+            52
+        ],
+        [
+            "Thief",
+            57
+        ],
+        [
+            "Sucker-punch",
+            62
+        ]
     ],
     "diamond-pearl": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Assurance learnt at level 32",
-        "Scary-face learnt at level 37",
-        "Taunt learnt at level 42",
-        "Embargo learnt at level 47",
-        "Take-down learnt at level 52",
-        "Thief learnt at level 57",
-        "Sucker-punch learnt at level 62"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Assurance",
+            32
+        ],
+        [
+            "Scary-face",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Embargo",
+            47
+        ],
+        [
+            "Take-down",
+            52
+        ],
+        [
+            "Thief",
+            57
+        ],
+        [
+            "Sucker-punch",
+            62
+        ]
     ],
     "firered-leafgreen": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Scary-face learnt at level 32",
-        "Take-down learnt at level 37",
-        "Taunt learnt at level 42",
-        "Crunch learnt at level 47",
-        "Thief learnt at level 52"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Scary-face",
+            32
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Thief",
+            52
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Thief learnt at level 1",
-        "Crunch learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Snarl learnt at level 1",
-        "Howl learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Bite learnt at level 10",
-        "Odor-sleuth learnt at level 13",
-        "Roar learnt at level 16",
-        "Swagger learnt at level 20",
-        "Assurance learnt at level 24",
-        "Scary-face learnt at level 28",
-        "Embargo learnt at level 32",
-        "Taunt learnt at level 36",
-        "Crunch learnt at level 40",
-        "Yawn learnt at level 44",
-        "Take-down learnt at level 48",
-        "Sucker-punch learnt at level 52",
-        "Play-rough learnt at level 56"
+        [
+            "Snarl",
+            0
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Snarl",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Odor-sleuth",
+            13
+        ],
+        [
+            "Roar",
+            16
+        ],
+        [
+            "Swagger",
+            20
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Embargo",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Yawn",
+            44
+        ],
+        [
+            "Take-down",
+            48
+        ],
+        [
+            "Sucker-punch",
+            52
+        ],
+        [
+            "Play-rough",
+            56
+        ]
     ],
     "sun-moon": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Thief learnt at level 1",
-        "Crunch learnt at level 1",
-        "Howl learnt at level 1",
-        "Thunder-fang learnt at level 1",
-        "Ice-fang learnt at level 1",
-        "Fire-fang learnt at level 1",
-        "Snarl learnt at level 1",
-        "Howl learnt at level 4",
-        "Sand-attack learnt at level 7",
-        "Bite learnt at level 10",
-        "Odor-sleuth learnt at level 13",
-        "Roar learnt at level 16",
-        "Swagger learnt at level 20",
-        "Assurance learnt at level 24",
-        "Scary-face learnt at level 28",
-        "Embargo learnt at level 32",
-        "Taunt learnt at level 36",
-        "Crunch learnt at level 40",
-        "Yawn learnt at level 44",
-        "Take-down learnt at level 48",
-        "Sucker-punch learnt at level 52",
-        "Play-rough learnt at level 56"
+        [
+            "Snarl",
+            0
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Thief",
+            1
+        ],
+        [
+            "Crunch",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Thunder-fang",
+            1
+        ],
+        [
+            "Ice-fang",
+            1
+        ],
+        [
+            "Fire-fang",
+            1
+        ],
+        [
+            "Snarl",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Sand-attack",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Odor-sleuth",
+            13
+        ],
+        [
+            "Roar",
+            16
+        ],
+        [
+            "Swagger",
+            20
+        ],
+        [
+            "Assurance",
+            24
+        ],
+        [
+            "Scary-face",
+            28
+        ],
+        [
+            "Embargo",
+            32
+        ],
+        [
+            "Taunt",
+            36
+        ],
+        [
+            "Crunch",
+            40
+        ],
+        [
+            "Yawn",
+            44
+        ],
+        [
+            "Take-down",
+            48
+        ],
+        [
+            "Sucker-punch",
+            52
+        ],
+        [
+            "Play-rough",
+            56
+        ]
     ],
     "xd": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Scary-face learnt at level 32",
-        "Take-down learnt at level 37",
-        "Taunt learnt at level 42",
-        "Crunch learnt at level 47",
-        "Thief learnt at level 52"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Scary-face",
+            32
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Thief",
+            52
+        ]
     ],
     "colosseum": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Scary-face learnt at level 32",
-        "Take-down learnt at level 37",
-        "Taunt learnt at level 42",
-        "Crunch learnt at level 47",
-        "Thief learnt at level 52"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Scary-face",
+            32
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Thief",
+            52
+        ]
     ],
     "black-white": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Assurance learnt at level 32",
-        "Scary-face learnt at level 37",
-        "Taunt learnt at level 42",
-        "Embargo learnt at level 47",
-        "Take-down learnt at level 52",
-        "Thief learnt at level 57",
-        "Sucker-punch learnt at level 62"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Assurance",
+            32
+        ],
+        [
+            "Scary-face",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Embargo",
+            47
+        ],
+        [
+            "Take-down",
+            52
+        ],
+        [
+            "Thief",
+            57
+        ],
+        [
+            "Sucker-punch",
+            62
+        ]
     ],
     "heartgold-soulsilver": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Assurance learnt at level 32",
-        "Scary-face learnt at level 37",
-        "Taunt learnt at level 42",
-        "Embargo learnt at level 47",
-        "Take-down learnt at level 52",
-        "Thief learnt at level 57",
-        "Sucker-punch learnt at level 62"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Assurance",
+            32
+        ],
+        [
+            "Scary-face",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Embargo",
+            47
+        ],
+        [
+            "Take-down",
+            52
+        ],
+        [
+            "Thief",
+            57
+        ],
+        [
+            "Sucker-punch",
+            62
+        ]
     ],
     "platinum": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Assurance learnt at level 32",
-        "Scary-face learnt at level 37",
-        "Taunt learnt at level 42",
-        "Embargo learnt at level 47",
-        "Take-down learnt at level 52",
-        "Thief learnt at level 57",
-        "Sucker-punch learnt at level 62"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Assurance",
+            32
+        ],
+        [
+            "Scary-face",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Embargo",
+            47
+        ],
+        [
+            "Take-down",
+            52
+        ],
+        [
+            "Thief",
+            57
+        ],
+        [
+            "Sucker-punch",
+            62
+        ]
     ],
     "emerald": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Scary-face learnt at level 32",
-        "Take-down learnt at level 37",
-        "Taunt learnt at level 42",
-        "Crunch learnt at level 47",
-        "Thief learnt at level 52"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Scary-face",
+            32
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Thief",
+            52
+        ]
     ],
     "ruby-sapphire": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Bite learnt at level 1",
-        "Howl learnt at level 1",
-        "Howl learnt at level 5",
-        "Sand-attack learnt at level 9",
-        "Bite learnt at level 13",
-        "Odor-sleuth learnt at level 17",
-        "Roar learnt at level 22",
-        "Swagger learnt at level 27",
-        "Scary-face learnt at level 32",
-        "Take-down learnt at level 37",
-        "Taunt learnt at level 42",
-        "Crunch learnt at level 47",
-        "Thief learnt at level 52"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "Howl",
+            1
+        ],
+        [
+            "Howl",
+            5
+        ],
+        [
+            "Sand-attack",
+            9
+        ],
+        [
+            "Bite",
+            13
+        ],
+        [
+            "Odor-sleuth",
+            17
+        ],
+        [
+            "Roar",
+            22
+        ],
+        [
+            "Swagger",
+            27
+        ],
+        [
+            "Scary-face",
+            32
+        ],
+        [
+            "Take-down",
+            37
+        ],
+        [
+            "Taunt",
+            42
+        ],
+        [
+            "Crunch",
+            47
+        ],
+        [
+            "Thief",
+            52
+        ]
     ]
 }

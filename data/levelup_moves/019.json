@@ -1,221 +1,770 @@
 {
+    "sun-moon": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Assurance",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Sucker-punch",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
+    ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Sucker-punch learnt at level 19",
-        "Crunch learnt at level 22",
-        "Assurance learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Sucker-punch",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Sucker-punch learnt at level 19",
-        "Crunch learnt at level 22",
-        "Assurance learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Sucker-punch",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 13",
-        "Focus-energy learnt at level 20",
-        "Pursuit learnt at level 27",
-        "Super-fang learnt at level 34",
-        "Endeavor learnt at level 41"
-    ],
-    "black-white": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Sucker-punch learnt at level 19",
-        "Crunch learnt at level 22",
-        "Assurance learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
-    ],
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Sucker-punch learnt at level 19",
-        "Crunch learnt at level 22",
-        "Assurance learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
-    ],
-    "platinum": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Sucker-punch learnt at level 19",
-        "Crunch learnt at level 22",
-        "Assurance learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
-    ],
-    "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Sucker-punch learnt at level 19",
-        "Crunch learnt at level 22",
-        "Assurance learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
-    ],
-    "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Sucker-punch learnt at level 19",
-        "Crunch learnt at level 22",
-        "Assurance learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
-    ],
-    "xd": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 13",
-        "Focus-energy learnt at level 20",
-        "Pursuit learnt at level 27",
-        "Super-fang learnt at level 34",
-        "Endeavor learnt at level 41"
-    ],
-    "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 13",
-        "Focus-energy learnt at level 20",
-        "Pursuit learnt at level 27",
-        "Super-fang learnt at level 34",
-        "Endeavor learnt at level 41"
-    ],
-    "emerald": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 13",
-        "Focus-energy learnt at level 20",
-        "Pursuit learnt at level 27",
-        "Super-fang learnt at level 34",
-        "Endeavor learnt at level 41"
-    ],
-    "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 13",
-        "Focus-energy learnt at level 20",
-        "Pursuit learnt at level 27",
-        "Super-fang learnt at level 34",
-        "Endeavor learnt at level 41"
-    ],
-    "crystal": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 13",
-        "Focus-energy learnt at level 20",
-        "Pursuit learnt at level 27",
-        "Super-fang learnt at level 34"
-    ],
-    "gold-silver": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 13",
-        "Focus-energy learnt at level 20",
-        "Pursuit learnt at level 27",
-        "Super-fang learnt at level 34"
-    ],
-    "sun-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Assurance learnt at level 19",
-        "Crunch learnt at level 22",
-        "Sucker-punch learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            13
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Super-fang",
+            34
+        ],
+        [
+            "Endeavor",
+            41
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 4",
-        "Focus-energy learnt at level 7",
-        "Bite learnt at level 10",
-        "Pursuit learnt at level 13",
-        "Hyper-fang learnt at level 16",
-        "Assurance learnt at level 19",
-        "Crunch learnt at level 22",
-        "Sucker-punch learnt at level 25",
-        "Super-fang learnt at level 28",
-        "Double-edge learnt at level 31",
-        "Endeavor learnt at level 34"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Assurance",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Sucker-punch",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
+    ],
+    "black-white": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Sucker-punch",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Sucker-punch",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
+    ],
+    "platinum": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Sucker-punch",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Sucker-punch",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            4
+        ],
+        [
+            "Focus-energy",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Pursuit",
+            13
+        ],
+        [
+            "Hyper-fang",
+            16
+        ],
+        [
+            "Sucker-punch",
+            19
+        ],
+        [
+            "Crunch",
+            22
+        ],
+        [
+            "Assurance",
+            25
+        ],
+        [
+            "Super-fang",
+            28
+        ],
+        [
+            "Double-edge",
+            31
+        ],
+        [
+            "Endeavor",
+            34
+        ]
+    ],
+    "xd": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            13
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Super-fang",
+            34
+        ],
+        [
+            "Endeavor",
+            41
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            13
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Super-fang",
+            34
+        ],
+        [
+            "Endeavor",
+            41
+        ]
+    ],
+    "emerald": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            13
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Super-fang",
+            34
+        ],
+        [
+            "Endeavor",
+            41
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            13
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Super-fang",
+            34
+        ],
+        [
+            "Endeavor",
+            41
+        ]
+    ],
+    "crystal": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            13
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Super-fang",
+            34
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            13
+        ],
+        [
+            "Focus-energy",
+            20
+        ],
+        [
+            "Pursuit",
+            27
+        ],
+        [
+            "Super-fang",
+            34
+        ]
     ],
     "yellow": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 14",
-        "Focus-energy learnt at level 23",
-        "Super-fang learnt at level 34"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            14
+        ],
+        [
+            "Focus-energy",
+            23
+        ],
+        [
+            "Super-fang",
+            34
+        ]
     ],
     "red-blue": [
-        "Tackle learnt at level 1",
-        "Tail-whip learnt at level 1",
-        "Quick-attack learnt at level 7",
-        "Hyper-fang learnt at level 14",
-        "Focus-energy learnt at level 23",
-        "Super-fang learnt at level 34"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Tail-whip",
+            1
+        ],
+        [
+            "Quick-attack",
+            7
+        ],
+        [
+            "Hyper-fang",
+            14
+        ],
+        [
+            "Focus-energy",
+            23
+        ],
+        [
+            "Super-fang",
+            34
+        ]
     ]
 }

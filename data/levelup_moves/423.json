@@ -1,137 +1,488 @@
 {
-    "heartgold-soulsilver": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
-    ],
     "sun-moon": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ],
     "x-y": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ],
     "black-2-white-2": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ],
     "black-white": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ],
     "platinum": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ],
     "diamond-pearl": [
-        "Harden learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Water-pulse learnt at level 1",
-        "Mud-sport learnt at level 2",
-        "Harden learnt at level 4",
-        "Water-pulse learnt at level 7",
-        "Mud-bomb learnt at level 11",
-        "Hidden-power learnt at level 16",
-        "Rain-dance learnt at level 22",
-        "Body-slam learnt at level 29",
-        "Muddy-water learnt at level 41",
-        "Recover learnt at level 54"
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Water-pulse",
+            1
+        ],
+        [
+            "Mud-sport",
+            2
+        ],
+        [
+            "Harden",
+            4
+        ],
+        [
+            "Water-pulse",
+            7
+        ],
+        [
+            "Mud-bomb",
+            11
+        ],
+        [
+            "Hidden-power",
+            16
+        ],
+        [
+            "Rain-dance",
+            22
+        ],
+        [
+            "Body-slam",
+            29
+        ],
+        [
+            "Muddy-water",
+            41
+        ],
+        [
+            "Recover",
+            54
+        ]
     ]
 }

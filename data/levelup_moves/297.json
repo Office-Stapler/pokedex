@@ -1,282 +1,1038 @@
 {
-    "firered-leafgreen": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 10",
-        "Vital-throw learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Whirlwind learnt at level 22",
-        "Knock-off learnt at level 29",
-        "Smelling-salts learnt at level 33",
-        "Belly-drum learnt at level 40",
-        "Endure learnt at level 44",
-        "Seismic-toss learnt at level 51",
-        "Reversal learnt at level 55"
-    ],
-    "emerald": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 10",
-        "Vital-throw learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Whirlwind learnt at level 22",
-        "Knock-off learnt at level 29",
-        "Smelling-salts learnt at level 33",
-        "Belly-drum learnt at level 40",
-        "Endure learnt at level 44",
-        "Seismic-toss learnt at level 51",
-        "Reversal learnt at level 55"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Fake-out learnt at level 10",
-        "Force-palm learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Vital-throw learnt at level 22",
-        "Belly-drum learnt at level 26",
-        "Smelling-salts learnt at level 30",
-        "Seismic-toss learnt at level 34",
-        "Wake-up-slap learnt at level 38",
-        "Endure learnt at level 42",
-        "Close-combat learnt at level 46",
-        "Reversal learnt at level 50",
-        "Heavy-slam learnt at level 54"
-    ],
-    "black-2-white-2": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Vital-throw learnt at level 10",
-        "Fake-out learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Smelling-salts learnt at level 22",
-        "Belly-drum learnt at level 27",
-        "Force-palm learnt at level 32",
-        "Seismic-toss learnt at level 37",
-        "Wake-up-slap learnt at level 42",
-        "Endure learnt at level 47",
-        "Close-combat learnt at level 52",
-        "Reversal learnt at level 57",
-        "Heavy-slam learnt at level 62"
-    ],
-    "heartgold-soulsilver": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Vital-throw learnt at level 10",
-        "Fake-out learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Smelling-salts learnt at level 22",
-        "Belly-drum learnt at level 27",
-        "Force-palm learnt at level 32",
-        "Seismic-toss learnt at level 37",
-        "Wake-up-slap learnt at level 42",
-        "Endure learnt at level 47",
-        "Close-combat learnt at level 52",
-        "Reversal learnt at level 57"
-    ],
-    "platinum": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Vital-throw learnt at level 10",
-        "Fake-out learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Smelling-salts learnt at level 22",
-        "Belly-drum learnt at level 27",
-        "Force-palm learnt at level 32",
-        "Seismic-toss learnt at level 37",
-        "Wake-up-slap learnt at level 42",
-        "Endure learnt at level 47",
-        "Close-combat learnt at level 52",
-        "Reversal learnt at level 57"
-    ],
     "ultra-sun-ultra-moon": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Fake-out learnt at level 10",
-        "Force-palm learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Vital-throw learnt at level 22",
-        "Belly-drum learnt at level 26",
-        "Smelling-salts learnt at level 30",
-        "Seismic-toss learnt at level 34",
-        "Wake-up-slap learnt at level 38",
-        "Endure learnt at level 42",
-        "Close-combat learnt at level 46",
-        "Reversal learnt at level 50",
-        "Heavy-slam learnt at level 54"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Fake-out",
+            10
+        ],
+        [
+            "Force-palm",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Vital-throw",
+            22
+        ],
+        [
+            "Belly-drum",
+            26
+        ],
+        [
+            "Smelling-salts",
+            30
+        ],
+        [
+            "Seismic-toss",
+            34
+        ],
+        [
+            "Wake-up-slap",
+            38
+        ],
+        [
+            "Endure",
+            42
+        ],
+        [
+            "Close-combat",
+            46
+        ],
+        [
+            "Reversal",
+            50
+        ],
+        [
+            "Heavy-slam",
+            54
+        ]
     ],
     "sun-moon": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Fake-out learnt at level 10",
-        "Force-palm learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Vital-throw learnt at level 22",
-        "Belly-drum learnt at level 26",
-        "Smelling-salts learnt at level 30",
-        "Seismic-toss learnt at level 34",
-        "Wake-up-slap learnt at level 38",
-        "Endure learnt at level 42",
-        "Close-combat learnt at level 46",
-        "Reversal learnt at level 50",
-        "Heavy-slam learnt at level 54"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Fake-out",
+            10
+        ],
+        [
+            "Force-palm",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Vital-throw",
+            22
+        ],
+        [
+            "Belly-drum",
+            26
+        ],
+        [
+            "Smelling-salts",
+            30
+        ],
+        [
+            "Seismic-toss",
+            34
+        ],
+        [
+            "Wake-up-slap",
+            38
+        ],
+        [
+            "Endure",
+            42
+        ],
+        [
+            "Close-combat",
+            46
+        ],
+        [
+            "Reversal",
+            50
+        ],
+        [
+            "Heavy-slam",
+            54
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Fake-out",
+            10
+        ],
+        [
+            "Force-palm",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Vital-throw",
+            22
+        ],
+        [
+            "Belly-drum",
+            26
+        ],
+        [
+            "Smelling-salts",
+            30
+        ],
+        [
+            "Seismic-toss",
+            34
+        ],
+        [
+            "Wake-up-slap",
+            38
+        ],
+        [
+            "Endure",
+            42
+        ],
+        [
+            "Close-combat",
+            46
+        ],
+        [
+            "Reversal",
+            50
+        ],
+        [
+            "Heavy-slam",
+            54
+        ]
     ],
     "x-y": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Vital-throw learnt at level 10",
-        "Fake-out learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Smelling-salts learnt at level 22",
-        "Belly-drum learnt at level 27",
-        "Force-palm learnt at level 32",
-        "Seismic-toss learnt at level 37",
-        "Wake-up-slap learnt at level 42",
-        "Endure learnt at level 47",
-        "Close-combat learnt at level 52",
-        "Reversal learnt at level 57",
-        "Heavy-slam learnt at level 62"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Vital-throw",
+            10
+        ],
+        [
+            "Fake-out",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Smelling-salts",
+            22
+        ],
+        [
+            "Belly-drum",
+            27
+        ],
+        [
+            "Force-palm",
+            32
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Wake-up-slap",
+            42
+        ],
+        [
+            "Endure",
+            47
+        ],
+        [
+            "Close-combat",
+            52
+        ],
+        [
+            "Reversal",
+            57
+        ],
+        [
+            "Heavy-slam",
+            62
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Vital-throw",
+            10
+        ],
+        [
+            "Fake-out",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Smelling-salts",
+            22
+        ],
+        [
+            "Belly-drum",
+            27
+        ],
+        [
+            "Force-palm",
+            32
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Wake-up-slap",
+            42
+        ],
+        [
+            "Endure",
+            47
+        ],
+        [
+            "Close-combat",
+            52
+        ],
+        [
+            "Reversal",
+            57
+        ],
+        [
+            "Heavy-slam",
+            62
+        ]
     ],
     "xd": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 10",
-        "Vital-throw learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Whirlwind learnt at level 22",
-        "Knock-off learnt at level 29",
-        "Smelling-salts learnt at level 33",
-        "Belly-drum learnt at level 40",
-        "Endure learnt at level 44",
-        "Seismic-toss learnt at level 51",
-        "Reversal learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            10
+        ],
+        [
+            "Vital-throw",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Whirlwind",
+            22
+        ],
+        [
+            "Knock-off",
+            29
+        ],
+        [
+            "Smelling-salts",
+            33
+        ],
+        [
+            "Belly-drum",
+            40
+        ],
+        [
+            "Endure",
+            44
+        ],
+        [
+            "Seismic-toss",
+            51
+        ],
+        [
+            "Reversal",
+            55
+        ]
     ],
     "colosseum": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 10",
-        "Vital-throw learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Whirlwind learnt at level 22",
-        "Knock-off learnt at level 29",
-        "Smelling-salts learnt at level 33",
-        "Belly-drum learnt at level 40",
-        "Endure learnt at level 44",
-        "Seismic-toss learnt at level 51",
-        "Reversal learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            10
+        ],
+        [
+            "Vital-throw",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Whirlwind",
+            22
+        ],
+        [
+            "Knock-off",
+            29
+        ],
+        [
+            "Smelling-salts",
+            33
+        ],
+        [
+            "Belly-drum",
+            40
+        ],
+        [
+            "Endure",
+            44
+        ],
+        [
+            "Seismic-toss",
+            51
+        ],
+        [
+            "Reversal",
+            55
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Vital-throw",
+            10
+        ],
+        [
+            "Fake-out",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Smelling-salts",
+            22
+        ],
+        [
+            "Belly-drum",
+            27
+        ],
+        [
+            "Force-palm",
+            32
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Wake-up-slap",
+            42
+        ],
+        [
+            "Endure",
+            47
+        ],
+        [
+            "Close-combat",
+            52
+        ],
+        [
+            "Reversal",
+            57
+        ]
+    ],
+    "platinum": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Vital-throw",
+            10
+        ],
+        [
+            "Fake-out",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Smelling-salts",
+            22
+        ],
+        [
+            "Belly-drum",
+            27
+        ],
+        [
+            "Force-palm",
+            32
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Wake-up-slap",
+            42
+        ],
+        [
+            "Endure",
+            47
+        ],
+        [
+            "Close-combat",
+            52
+        ],
+        [
+            "Reversal",
+            57
+        ]
     ],
     "diamond-pearl": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Vital-throw learnt at level 10",
-        "Fake-out learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Smelling-salts learnt at level 22",
-        "Belly-drum learnt at level 27",
-        "Force-palm learnt at level 32",
-        "Seismic-toss learnt at level 37",
-        "Wake-up-slap learnt at level 42",
-        "Endure learnt at level 47",
-        "Close-combat learnt at level 52",
-        "Reversal learnt at level 57"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Vital-throw",
+            10
+        ],
+        [
+            "Fake-out",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Smelling-salts",
+            22
+        ],
+        [
+            "Belly-drum",
+            27
+        ],
+        [
+            "Force-palm",
+            32
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Wake-up-slap",
+            42
+        ],
+        [
+            "Endure",
+            47
+        ],
+        [
+            "Close-combat",
+            52
+        ],
+        [
+            "Reversal",
+            57
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            10
+        ],
+        [
+            "Vital-throw",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Whirlwind",
+            22
+        ],
+        [
+            "Knock-off",
+            29
+        ],
+        [
+            "Smelling-salts",
+            33
+        ],
+        [
+            "Belly-drum",
+            40
+        ],
+        [
+            "Endure",
+            44
+        ],
+        [
+            "Seismic-toss",
+            51
+        ],
+        [
+            "Reversal",
+            55
+        ]
     ],
     "black-white": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Brine learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 7",
-        "Vital-throw learnt at level 10",
-        "Fake-out learnt at level 13",
-        "Whirlwind learnt at level 16",
-        "Knock-off learnt at level 19",
-        "Smelling-salts learnt at level 22",
-        "Belly-drum learnt at level 27",
-        "Force-palm learnt at level 32",
-        "Seismic-toss learnt at level 37",
-        "Wake-up-slap learnt at level 42",
-        "Endure learnt at level 47",
-        "Close-combat learnt at level 52",
-        "Reversal learnt at level 57",
-        "Heavy-slam learnt at level 62"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Brine",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            7
+        ],
+        [
+            "Vital-throw",
+            10
+        ],
+        [
+            "Fake-out",
+            13
+        ],
+        [
+            "Whirlwind",
+            16
+        ],
+        [
+            "Knock-off",
+            19
+        ],
+        [
+            "Smelling-salts",
+            22
+        ],
+        [
+            "Belly-drum",
+            27
+        ],
+        [
+            "Force-palm",
+            32
+        ],
+        [
+            "Seismic-toss",
+            37
+        ],
+        [
+            "Wake-up-slap",
+            42
+        ],
+        [
+            "Endure",
+            47
+        ],
+        [
+            "Close-combat",
+            52
+        ],
+        [
+            "Reversal",
+            57
+        ],
+        [
+            "Heavy-slam",
+            62
+        ]
+    ],
+    "emerald": [
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            10
+        ],
+        [
+            "Vital-throw",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Whirlwind",
+            22
+        ],
+        [
+            "Knock-off",
+            29
+        ],
+        [
+            "Smelling-salts",
+            33
+        ],
+        [
+            "Belly-drum",
+            40
+        ],
+        [
+            "Endure",
+            44
+        ],
+        [
+            "Seismic-toss",
+            51
+        ],
+        [
+            "Reversal",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Sand-attack learnt at level 1",
-        "Tackle learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Arm-thrust learnt at level 1",
-        "Sand-attack learnt at level 4",
-        "Arm-thrust learnt at level 10",
-        "Vital-throw learnt at level 13",
-        "Fake-out learnt at level 19",
-        "Whirlwind learnt at level 22",
-        "Knock-off learnt at level 29",
-        "Smelling-salts learnt at level 33",
-        "Belly-drum learnt at level 40",
-        "Endure learnt at level 44",
-        "Seismic-toss learnt at level 51",
-        "Reversal learnt at level 55"
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Arm-thrust",
+            1
+        ],
+        [
+            "Sand-attack",
+            4
+        ],
+        [
+            "Arm-thrust",
+            10
+        ],
+        [
+            "Vital-throw",
+            13
+        ],
+        [
+            "Fake-out",
+            19
+        ],
+        [
+            "Whirlwind",
+            22
+        ],
+        [
+            "Knock-off",
+            29
+        ],
+        [
+            "Smelling-salts",
+            33
+        ],
+        [
+            "Belly-drum",
+            40
+        ],
+        [
+            "Endure",
+            44
+        ],
+        [
+            "Seismic-toss",
+            51
+        ],
+        [
+            "Reversal",
+            55
+        ]
     ]
 }

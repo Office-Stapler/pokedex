@@ -1,142 +1,534 @@
 {
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Thrash learnt at level 1",
-        "Ember learnt at level 1",
-        "Absorb learnt at level 1",
-        "String-shot learnt at level 1",
-        "Amnesia learnt at level 1",
-        "Flame-wheel learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Bug-buzz learnt at level 1",
-        "Rage-powder learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Fiery-dance learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 20",
-        "Fire-spin learnt at level 30",
-        "Whirlwind learnt at level 40",
-        "Silver-wind learnt at level 50",
-        "Heat-wave learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Rage-powder learnt at level 80",
-        "Hurricane learnt at level 90",
-        "Fiery-dance learnt at level 100"
+        [
+            "Quiver-dance",
+            0
+        ],
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Amnesia",
+            1
+        ],
+        [
+            "Flame-wheel",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Bug-buzz",
+            1
+        ],
+        [
+            "Rage-powder",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Fiery-dance",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            20
+        ],
+        [
+            "Fire-spin",
+            30
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Silver-wind",
+            50
+        ],
+        [
+            "Heat-wave",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Rage-powder",
+            80
+        ],
+        [
+            "Hurricane",
+            90
+        ],
+        [
+            "Fiery-dance",
+            100
+        ]
     ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Thrash learnt at level 1",
-        "Ember learnt at level 1",
-        "Absorb learnt at level 1",
-        "String-shot learnt at level 1",
-        "Amnesia learnt at level 1",
-        "Flame-wheel learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Bug-buzz learnt at level 1",
-        "Rage-powder learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Fiery-dance learnt at level 1",
-        "Absorb learnt at level 10",
-        "Gust learnt at level 20",
-        "Fire-spin learnt at level 30",
-        "Whirlwind learnt at level 40",
-        "Silver-wind learnt at level 50",
-        "Heat-wave learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Rage-powder learnt at level 80",
-        "Hurricane learnt at level 90",
-        "Fiery-dance learnt at level 100"
+        [
+            "Quiver-dance",
+            0
+        ],
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Absorb",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Amnesia",
+            1
+        ],
+        [
+            "Flame-wheel",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Bug-buzz",
+            1
+        ],
+        [
+            "Rage-powder",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Fiery-dance",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Gust",
+            20
+        ],
+        [
+            "Fire-spin",
+            30
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Silver-wind",
+            50
+        ],
+        [
+            "Heat-wave",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Rage-powder",
+            80
+        ],
+        [
+            "Hurricane",
+            90
+        ],
+        [
+            "Fiery-dance",
+            100
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Thrash learnt at level 1",
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Amnesia learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Flame-wheel learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Bug-buzz learnt at level 1",
-        "Rage-powder learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Fiery-dance learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Gust learnt at level 20",
-        "Fire-spin learnt at level 30",
-        "Whirlwind learnt at level 40",
-        "Silver-wind learnt at level 50",
-        "Quiver-dance learnt at level 59",
-        "Heat-wave learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Rage-powder learnt at level 80",
-        "Hurricane learnt at level 90",
-        "Fiery-dance learnt at level 100"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Amnesia",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Flame-wheel",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Bug-buzz",
+            1
+        ],
+        [
+            "Rage-powder",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Fiery-dance",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Gust",
+            20
+        ],
+        [
+            "Fire-spin",
+            30
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Silver-wind",
+            50
+        ],
+        [
+            "Quiver-dance",
+            59
+        ],
+        [
+            "Heat-wave",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Rage-powder",
+            80
+        ],
+        [
+            "Hurricane",
+            90
+        ],
+        [
+            "Fiery-dance",
+            100
+        ]
     ],
     "x-y": [
-        "Gust learnt at level 1",
-        "Thrash learnt at level 1",
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Amnesia learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Flame-wheel learnt at level 1",
-        "Heat-wave learnt at level 1",
-        "Flare-blitz learnt at level 1",
-        "Bug-buzz learnt at level 1",
-        "Rage-powder learnt at level 1",
-        "Quiver-dance learnt at level 1",
-        "Hurricane learnt at level 1",
-        "Fiery-dance learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Gust learnt at level 20",
-        "Fire-spin learnt at level 30",
-        "Whirlwind learnt at level 40",
-        "Silver-wind learnt at level 50",
-        "Quiver-dance learnt at level 59",
-        "Heat-wave learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Rage-powder learnt at level 80",
-        "Hurricane learnt at level 90",
-        "Fiery-dance learnt at level 100"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Thrash",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Amnesia",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Flame-wheel",
+            1
+        ],
+        [
+            "Heat-wave",
+            1
+        ],
+        [
+            "Flare-blitz",
+            1
+        ],
+        [
+            "Bug-buzz",
+            1
+        ],
+        [
+            "Rage-powder",
+            1
+        ],
+        [
+            "Quiver-dance",
+            1
+        ],
+        [
+            "Hurricane",
+            1
+        ],
+        [
+            "Fiery-dance",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Gust",
+            20
+        ],
+        [
+            "Fire-spin",
+            30
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Silver-wind",
+            50
+        ],
+        [
+            "Quiver-dance",
+            59
+        ],
+        [
+            "Heat-wave",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Rage-powder",
+            80
+        ],
+        [
+            "Hurricane",
+            90
+        ],
+        [
+            "Fiery-dance",
+            100
+        ]
     ],
     "black-2-white-2": [
-        "Gust learnt at level 1",
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Gust learnt at level 20",
-        "Fire-spin learnt at level 30",
-        "Whirlwind learnt at level 40",
-        "Silver-wind learnt at level 50",
-        "Quiver-dance learnt at level 59",
-        "Heat-wave learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Rage-powder learnt at level 80",
-        "Hurricane learnt at level 90",
-        "Fiery-dance learnt at level 100"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Gust",
+            20
+        ],
+        [
+            "Fire-spin",
+            30
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Silver-wind",
+            50
+        ],
+        [
+            "Quiver-dance",
+            59
+        ],
+        [
+            "Heat-wave",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Rage-powder",
+            80
+        ],
+        [
+            "Hurricane",
+            90
+        ],
+        [
+            "Fiery-dance",
+            100
+        ]
     ],
     "black-white": [
-        "Gust learnt at level 1",
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Leech-life learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Gust learnt at level 20",
-        "Fire-spin learnt at level 30",
-        "Whirlwind learnt at level 40",
-        "Silver-wind learnt at level 50",
-        "Quiver-dance learnt at level 59",
-        "Heat-wave learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Rage-powder learnt at level 80",
-        "Hurricane learnt at level 90",
-        "Fiery-dance learnt at level 100"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Leech-life",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Gust",
+            20
+        ],
+        [
+            "Fire-spin",
+            30
+        ],
+        [
+            "Whirlwind",
+            40
+        ],
+        [
+            "Silver-wind",
+            50
+        ],
+        [
+            "Quiver-dance",
+            59
+        ],
+        [
+            "Heat-wave",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Rage-powder",
+            80
+        ],
+        [
+            "Hurricane",
+            90
+        ],
+        [
+            "Fiery-dance",
+            100
+        ]
     ]
 }

@@ -1,254 +1,934 @@
 {
-    "heartgold-soulsilver": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Take-down learnt at level 21",
-        "Amnesia learnt at level 25",
-        "Lava-plume learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earth-power learnt at level 39",
-        "Earthquake learnt at level 49",
-        "Eruption learnt at level 57",
-        "Fissure learnt at level 67"
-    ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Fissure learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Rock-slide learnt at level 1",
-        "Eruption learnt at level 1",
-        "Ember learnt at level 8",
-        "Focus-energy learnt at level 8",
-        "Magnitude learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Yawn learnt at level 39",
-        "Earthquake learnt at level 46",
-        "Eruption learnt at level 52",
-        "Fissure learnt at level 59"
+        [
+            "Rock-slide",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fissure",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Rock-slide",
+            1
+        ],
+        [
+            "Eruption",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Yawn",
+            39
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Eruption",
+            52
+        ],
+        [
+            "Fissure",
+            59
+        ]
     ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Fissure learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Rock-slide learnt at level 1",
-        "Eruption learnt at level 1",
-        "Ember learnt at level 8",
-        "Focus-energy learnt at level 8",
-        "Magnitude learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Yawn learnt at level 39",
-        "Earthquake learnt at level 46",
-        "Eruption learnt at level 52",
-        "Fissure learnt at level 59"
+        [
+            "Rock-slide",
+            0
+        ],
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fissure",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Rock-slide",
+            1
+        ],
+        [
+            "Eruption",
+            1
+        ],
+        [
+            "Ember",
+            8
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Yawn",
+            39
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Eruption",
+            52
+        ],
+        [
+            "Fissure",
+            59
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Fissure learnt at level 1",
-        "Focus-energy learnt at level 1",
-        "Eruption learnt at level 1",
-        "Ember learnt at level 5",
-        "Focus-energy learnt at level 8",
-        "Magnitude learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Yawn learnt at level 39",
-        "Earthquake learnt at level 46",
-        "Eruption learnt at level 52",
-        "Fissure learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fissure",
+            1
+        ],
+        [
+            "Focus-energy",
+            1
+        ],
+        [
+            "Eruption",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Focus-energy",
+            8
+        ],
+        [
+            "Magnitude",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Yawn",
+            39
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Eruption",
+            52
+        ],
+        [
+            "Fissure",
+            59
+        ]
     ],
     "xd": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earthquake learnt at level 37",
-        "Eruption learnt at level 45",
-        "Fissure learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Eruption",
+            45
+        ],
+        [
+            "Fissure",
+            55
+        ]
     ],
     "colosseum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earthquake learnt at level 37",
-        "Eruption learnt at level 45",
-        "Fissure learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Eruption",
+            45
+        ],
+        [
+            "Fissure",
+            55
+        ]
     ],
     "black-white": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Flame-burst learnt at level 21",
-        "Take-down learnt at level 25",
-        "Amnesia learnt at level 31",
-        "Lava-plume learnt at level 33",
-        "Rock-slide learnt at level 39",
-        "Earth-power learnt at level 49",
-        "Earthquake learnt at level 57",
-        "Eruption learnt at level 67",
-        "Fissure learnt at level 75"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Flame-burst",
+            21
+        ],
+        [
+            "Take-down",
+            25
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Lava-plume",
+            33
+        ],
+        [
+            "Rock-slide",
+            39
+        ],
+        [
+            "Earth-power",
+            49
+        ],
+        [
+            "Earthquake",
+            57
+        ],
+        [
+            "Eruption",
+            67
+        ],
+        [
+            "Fissure",
+            75
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Take-down",
+            21
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earth-power",
+            39
+        ],
+        [
+            "Earthquake",
+            49
+        ],
+        [
+            "Eruption",
+            57
+        ],
+        [
+            "Fissure",
+            67
+        ]
     ],
     "platinum": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Take-down learnt at level 21",
-        "Amnesia learnt at level 25",
-        "Lava-plume learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earth-power learnt at level 39",
-        "Earthquake learnt at level 49",
-        "Eruption learnt at level 57",
-        "Fissure learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Take-down",
+            21
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earth-power",
+            39
+        ],
+        [
+            "Earthquake",
+            49
+        ],
+        [
+            "Eruption",
+            57
+        ],
+        [
+            "Fissure",
+            67
+        ]
     ],
     "diamond-pearl": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 11",
-        "Focus-energy learnt at level 15",
-        "Take-down learnt at level 21",
-        "Amnesia learnt at level 25",
-        "Lava-plume learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earth-power learnt at level 39",
-        "Earthquake learnt at level 49",
-        "Eruption learnt at level 57",
-        "Fissure learnt at level 67"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            11
+        ],
+        [
+            "Focus-energy",
+            15
+        ],
+        [
+            "Take-down",
+            21
+        ],
+        [
+            "Amnesia",
+            25
+        ],
+        [
+            "Lava-plume",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earth-power",
+            39
+        ],
+        [
+            "Earthquake",
+            49
+        ],
+        [
+            "Eruption",
+            57
+        ],
+        [
+            "Fissure",
+            67
+        ]
     ],
     "firered-leafgreen": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earthquake learnt at level 37",
-        "Eruption learnt at level 45",
-        "Fissure learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Eruption",
+            45
+        ],
+        [
+            "Fissure",
+            55
+        ]
     ],
     "x-y": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Fissure learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Eruption learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 8",
-        "Focus-energy learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Yawn learnt at level 39",
-        "Earthquake learnt at level 46",
-        "Eruption learnt at level 52",
-        "Fissure learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Fissure",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Eruption",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            8
+        ],
+        [
+            "Focus-energy",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Yawn",
+            39
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Eruption",
+            52
+        ],
+        [
+            "Fissure",
+            59
+        ]
     ],
     "black-2-white-2": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 5",
-        "Magnitude learnt at level 8",
-        "Focus-energy learnt at level 12",
-        "Flame-burst learnt at level 15",
-        "Amnesia learnt at level 19",
-        "Lava-plume learnt at level 22",
-        "Earth-power learnt at level 26",
-        "Curse learnt at level 29",
-        "Take-down learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Yawn learnt at level 39",
-        "Earthquake learnt at level 46",
-        "Eruption learnt at level 52",
-        "Fissure learnt at level 59"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            5
+        ],
+        [
+            "Magnitude",
+            8
+        ],
+        [
+            "Focus-energy",
+            12
+        ],
+        [
+            "Flame-burst",
+            15
+        ],
+        [
+            "Amnesia",
+            19
+        ],
+        [
+            "Lava-plume",
+            22
+        ],
+        [
+            "Earth-power",
+            26
+        ],
+        [
+            "Curse",
+            29
+        ],
+        [
+            "Take-down",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Yawn",
+            39
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Eruption",
+            52
+        ],
+        [
+            "Fissure",
+            59
+        ]
     ],
     "emerald": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earthquake learnt at level 37",
-        "Eruption learnt at level 45",
-        "Fissure learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Eruption",
+            45
+        ],
+        [
+            "Fissure",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Tackle learnt at level 1",
-        "Growl learnt at level 1",
-        "Ember learnt at level 1",
-        "Magnitude learnt at level 1",
-        "Ember learnt at level 11",
-        "Magnitude learnt at level 19",
-        "Focus-energy learnt at level 25",
-        "Take-down learnt at level 29",
-        "Amnesia learnt at level 31",
-        "Rock-slide learnt at level 33",
-        "Earthquake learnt at level 37",
-        "Eruption learnt at level 45",
-        "Fissure learnt at level 55"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Magnitude",
+            1
+        ],
+        [
+            "Ember",
+            11
+        ],
+        [
+            "Magnitude",
+            19
+        ],
+        [
+            "Focus-energy",
+            25
+        ],
+        [
+            "Take-down",
+            29
+        ],
+        [
+            "Amnesia",
+            31
+        ],
+        [
+            "Rock-slide",
+            33
+        ],
+        [
+            "Earthquake",
+            37
+        ],
+        [
+            "Eruption",
+            45
+        ],
+        [
+            "Fissure",
+            55
+        ]
     ]
 }

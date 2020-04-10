@@ -1,118 +1,358 @@
 {
     "red-blue": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "yellow": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "gold-silver": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "crystal": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "ruby-sapphire": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "emerald": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "firered-leafgreen": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "diamond-pearl": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "platinum": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "heartgold-soulsilver": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "black-white": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "colosseum": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "xd": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "black-2-white-2": [
-        "Double-slap learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ]
     ],
     "x-y": [
-        "Double-slap learnt at level 1",
-        "Double-edge learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Play-rough learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Double-edge",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Double-slap learnt at level 1",
-        "Double-edge learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Play-rough learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Double-edge",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ]
     ],
     "sun-moon": [
-        "Double-slap learnt at level 1",
-        "Double-edge learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Play-rough learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Double-edge",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Double-slap learnt at level 1",
-        "Double-edge learnt at level 1",
-        "Sing learnt at level 1",
-        "Disable learnt at level 1",
-        "Defense-curl learnt at level 1",
-        "Play-rough learnt at level 1"
+        [
+            "Double-slap",
+            1
+        ],
+        [
+            "Double-edge",
+            1
+        ],
+        [
+            "Sing",
+            1
+        ],
+        [
+            "Disable",
+            1
+        ],
+        [
+            "Defense-curl",
+            1
+        ],
+        [
+            "Play-rough",
+            1
+        ]
     ]
 }

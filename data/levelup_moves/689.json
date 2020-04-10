@@ -1,92 +1,338 @@
 {
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Stone-edge learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Slash learnt at level 13",
-        "Mud-slap learnt at level 18",
-        "Clamp learnt at level 20",
-        "Rock-polish learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Hone-claws learnt at level 32",
-        "Fury-cutter learnt at level 37",
-        "Night-slash learnt at level 44",
-        "Razor-shell learnt at level 48",
-        "Cross-chop learnt at level 55",
-        "Stone-edge learnt at level 60",
-        "Skull-bash learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Stone-edge",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Slash",
+            13
+        ],
+        [
+            "Mud-slap",
+            18
+        ],
+        [
+            "Clamp",
+            20
+        ],
+        [
+            "Rock-polish",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Hone-claws",
+            32
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Night-slash",
+            44
+        ],
+        [
+            "Razor-shell",
+            48
+        ],
+        [
+            "Cross-chop",
+            55
+        ],
+        [
+            "Stone-edge",
+            60
+        ],
+        [
+            "Skull-bash",
+            65
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Water-gun learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Stone-edge learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Slash learnt at level 13",
-        "Mud-slap learnt at level 18",
-        "Clamp learnt at level 20",
-        "Rock-polish learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Hone-claws learnt at level 32",
-        "Fury-cutter learnt at level 37",
-        "Night-slash learnt at level 44",
-        "Razor-shell learnt at level 48",
-        "Cross-chop learnt at level 55",
-        "Stone-edge learnt at level 60",
-        "Skull-bash learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Water-gun",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Stone-edge",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Slash",
+            13
+        ],
+        [
+            "Mud-slap",
+            18
+        ],
+        [
+            "Clamp",
+            20
+        ],
+        [
+            "Rock-polish",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Hone-claws",
+            32
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Night-slash",
+            44
+        ],
+        [
+            "Razor-shell",
+            48
+        ],
+        [
+            "Cross-chop",
+            55
+        ],
+        [
+            "Stone-edge",
+            60
+        ],
+        [
+            "Skull-bash",
+            65
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Stone-edge learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Slash learnt at level 13",
-        "Mud-slap learnt at level 18",
-        "Clamp learnt at level 20",
-        "Rock-polish learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Hone-claws learnt at level 32",
-        "Fury-cutter learnt at level 37",
-        "Night-slash learnt at level 44",
-        "Razor-shell learnt at level 48",
-        "Cross-chop learnt at level 55",
-        "Stone-edge learnt at level 60",
-        "Skull-bash learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Stone-edge",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Slash",
+            13
+        ],
+        [
+            "Mud-slap",
+            18
+        ],
+        [
+            "Clamp",
+            20
+        ],
+        [
+            "Rock-polish",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Hone-claws",
+            32
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Night-slash",
+            44
+        ],
+        [
+            "Razor-shell",
+            48
+        ],
+        [
+            "Cross-chop",
+            55
+        ],
+        [
+            "Stone-edge",
+            60
+        ],
+        [
+            "Skull-bash",
+            65
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Sand-attack learnt at level 1",
-        "Skull-bash learnt at level 1",
-        "Stone-edge learnt at level 1",
-        "Shell-smash learnt at level 1",
-        "Water-gun learnt at level 4",
-        "Withdraw learnt at level 7",
-        "Fury-swipes learnt at level 10",
-        "Slash learnt at level 13",
-        "Mud-slap learnt at level 18",
-        "Clamp learnt at level 20",
-        "Rock-polish learnt at level 24",
-        "Ancient-power learnt at level 28",
-        "Hone-claws learnt at level 32",
-        "Fury-cutter learnt at level 37",
-        "Night-slash learnt at level 44",
-        "Razor-shell learnt at level 48",
-        "Cross-chop learnt at level 55",
-        "Stone-edge learnt at level 60",
-        "Skull-bash learnt at level 65"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Sand-attack",
+            1
+        ],
+        [
+            "Skull-bash",
+            1
+        ],
+        [
+            "Stone-edge",
+            1
+        ],
+        [
+            "Shell-smash",
+            1
+        ],
+        [
+            "Water-gun",
+            4
+        ],
+        [
+            "Withdraw",
+            7
+        ],
+        [
+            "Fury-swipes",
+            10
+        ],
+        [
+            "Slash",
+            13
+        ],
+        [
+            "Mud-slap",
+            18
+        ],
+        [
+            "Clamp",
+            20
+        ],
+        [
+            "Rock-polish",
+            24
+        ],
+        [
+            "Ancient-power",
+            28
+        ],
+        [
+            "Hone-claws",
+            32
+        ],
+        [
+            "Fury-cutter",
+            37
+        ],
+        [
+            "Night-slash",
+            44
+        ],
+        [
+            "Razor-shell",
+            48
+        ],
+        [
+            "Cross-chop",
+            55
+        ],
+        [
+            "Stone-edge",
+            60
+        ],
+        [
+            "Skull-bash",
+            65
+        ]
     ]
 }

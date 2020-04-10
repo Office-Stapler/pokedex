@@ -1,216 +1,790 @@
 {
+    "sun-moon": [
+        [
+            "Confusion",
+            0
+        ],
+        [
+            "Metal-claw",
+            0
+        ],
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Pursuit",
+            23
+        ],
+        [
+            "Bullet-punch",
+            26
+        ],
+        [
+            "Miracle-eye",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Scary-face",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Agility",
+            41
+        ],
+        [
+            "Meteor-mash",
+            44
+        ],
+        [
+            "Iron-defense",
+            47
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
+    ],
     "omega-ruby-alpha-sapphire": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Pursuit learnt at level 23",
-        "Bullet-punch learnt at level 26",
-        "Miracle-eye learnt at level 29",
-        "Zen-headbutt learnt at level 32",
-        "Scary-face learnt at level 35",
-        "Psychic learnt at level 38",
-        "Agility learnt at level 41",
-        "Meteor-mash learnt at level 44",
-        "Iron-defense learnt at level 47",
-        "Hyper-beam learnt at level 50"
-    ],
-    "black-2-white-2": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Pursuit learnt at level 23",
-        "Miracle-eye learnt at level 26",
-        "Zen-headbutt learnt at level 29",
-        "Bullet-punch learnt at level 32",
-        "Scary-face learnt at level 35",
-        "Agility learnt at level 38",
-        "Psychic learnt at level 41",
-        "Meteor-mash learnt at level 44",
-        "Iron-defense learnt at level 47",
-        "Hyper-beam learnt at level 50"
-    ],
-    "heartgold-soulsilver": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 24",
-        "Pursuit learnt at level 28",
-        "Bullet-punch learnt at level 32",
-        "Psychic learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Agility learnt at level 44",
-        "Meteor-mash learnt at level 48",
-        "Zen-headbutt learnt at level 52",
-        "Hyper-beam learnt at level 56"
-    ],
-    "platinum": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 24",
-        "Pursuit learnt at level 28",
-        "Bullet-punch learnt at level 32",
-        "Psychic learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Agility learnt at level 44",
-        "Meteor-mash learnt at level 48",
-        "Zen-headbutt learnt at level 52",
-        "Hyper-beam learnt at level 56"
-    ],
-    "emerald": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 26",
-        "Pursuit learnt at level 32",
-        "Psychic learnt at level 38",
-        "Iron-defense learnt at level 44",
-        "Meteor-mash learnt at level 50",
-        "Agility learnt at level 56",
-        "Hyper-beam learnt at level 62"
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Pursuit",
+            23
+        ],
+        [
+            "Bullet-punch",
+            26
+        ],
+        [
+            "Miracle-eye",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Scary-face",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Agility",
+            41
+        ],
+        [
+            "Meteor-mash",
+            44
+        ],
+        [
+            "Iron-defense",
+            47
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "x-y": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Pursuit learnt at level 23",
-        "Miracle-eye learnt at level 26",
-        "Zen-headbutt learnt at level 29",
-        "Bullet-punch learnt at level 32",
-        "Scary-face learnt at level 35",
-        "Agility learnt at level 38",
-        "Psychic learnt at level 41",
-        "Meteor-mash learnt at level 44",
-        "Iron-defense learnt at level 47",
-        "Hyper-beam learnt at level 50"
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Pursuit",
+            23
+        ],
+        [
+            "Miracle-eye",
+            26
+        ],
+        [
+            "Zen-headbutt",
+            29
+        ],
+        [
+            "Bullet-punch",
+            32
+        ],
+        [
+            "Scary-face",
+            35
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Meteor-mash",
+            44
+        ],
+        [
+            "Iron-defense",
+            47
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Pursuit",
+            23
+        ],
+        [
+            "Miracle-eye",
+            26
+        ],
+        [
+            "Zen-headbutt",
+            29
+        ],
+        [
+            "Bullet-punch",
+            32
+        ],
+        [
+            "Scary-face",
+            35
+        ],
+        [
+            "Agility",
+            38
+        ],
+        [
+            "Psychic",
+            41
+        ],
+        [
+            "Meteor-mash",
+            44
+        ],
+        [
+            "Iron-defense",
+            47
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
     ],
     "colosseum": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 26",
-        "Pursuit learnt at level 32",
-        "Psychic learnt at level 38",
-        "Iron-defense learnt at level 44",
-        "Meteor-mash learnt at level 50",
-        "Agility learnt at level 56",
-        "Hyper-beam learnt at level 62"
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            26
+        ],
+        [
+            "Pursuit",
+            32
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Meteor-mash",
+            50
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Hyper-beam",
+            62
+        ]
     ],
     "black-white": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 24",
-        "Pursuit learnt at level 28",
-        "Bullet-punch learnt at level 32",
-        "Psychic learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Agility learnt at level 44",
-        "Meteor-mash learnt at level 48",
-        "Zen-headbutt learnt at level 52",
-        "Hyper-beam learnt at level 56"
-    ],
-    "diamond-pearl": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 24",
-        "Pursuit learnt at level 28",
-        "Bullet-punch learnt at level 32",
-        "Psychic learnt at level 36",
-        "Iron-defense learnt at level 40",
-        "Agility learnt at level 44",
-        "Meteor-mash learnt at level 48",
-        "Zen-headbutt learnt at level 52",
-        "Hyper-beam learnt at level 56"
-    ],
-    "firered-leafgreen": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 26",
-        "Pursuit learnt at level 32",
-        "Psychic learnt at level 38",
-        "Iron-defense learnt at level 44",
-        "Meteor-mash learnt at level 50",
-        "Agility learnt at level 56",
-        "Hyper-beam learnt at level 62"
-    ],
-    "xd": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 26",
-        "Pursuit learnt at level 32",
-        "Psychic learnt at level 38",
-        "Iron-defense learnt at level 44",
-        "Meteor-mash learnt at level 50",
-        "Agility learnt at level 56",
-        "Hyper-beam learnt at level 62"
-    ],
-    "ruby-sapphire": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 20",
-        "Metal-claw learnt at level 20",
-        "Scary-face learnt at level 26",
-        "Pursuit learnt at level 32",
-        "Psychic learnt at level 38",
-        "Iron-defense learnt at level 44",
-        "Meteor-mash learnt at level 50",
-        "Agility learnt at level 56",
-        "Hyper-beam learnt at level 62"
-    ],
-    "sun-moon": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Pursuit learnt at level 23",
-        "Bullet-punch learnt at level 26",
-        "Miracle-eye learnt at level 29",
-        "Zen-headbutt learnt at level 32",
-        "Scary-face learnt at level 35",
-        "Psychic learnt at level 38",
-        "Agility learnt at level 41",
-        "Meteor-mash learnt at level 44",
-        "Iron-defense learnt at level 47",
-        "Hyper-beam learnt at level 50"
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Pursuit",
+            28
+        ],
+        [
+            "Bullet-punch",
+            32
+        ],
+        [
+            "Psychic",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Meteor-mash",
+            48
+        ],
+        [
+            "Zen-headbutt",
+            52
+        ],
+        [
+            "Hyper-beam",
+            56
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Take-down learnt at level 1",
-        "Confusion learnt at level 1",
-        "Metal-claw learnt at level 1",
-        "Magnet-rise learnt at level 1",
-        "Pursuit learnt at level 23",
-        "Bullet-punch learnt at level 26",
-        "Miracle-eye learnt at level 29",
-        "Zen-headbutt learnt at level 32",
-        "Scary-face learnt at level 35",
-        "Psychic learnt at level 38",
-        "Agility learnt at level 41",
-        "Meteor-mash learnt at level 44",
-        "Iron-defense learnt at level 47",
-        "Hyper-beam learnt at level 50"
+        [
+            "Confusion",
+            0
+        ],
+        [
+            "Metal-claw",
+            0
+        ],
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Pursuit",
+            23
+        ],
+        [
+            "Bullet-punch",
+            26
+        ],
+        [
+            "Miracle-eye",
+            29
+        ],
+        [
+            "Zen-headbutt",
+            32
+        ],
+        [
+            "Scary-face",
+            35
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Agility",
+            41
+        ],
+        [
+            "Meteor-mash",
+            44
+        ],
+        [
+            "Iron-defense",
+            47
+        ],
+        [
+            "Hyper-beam",
+            50
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Pursuit",
+            28
+        ],
+        [
+            "Bullet-punch",
+            32
+        ],
+        [
+            "Psychic",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Meteor-mash",
+            48
+        ],
+        [
+            "Zen-headbutt",
+            52
+        ],
+        [
+            "Hyper-beam",
+            56
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Pursuit",
+            28
+        ],
+        [
+            "Bullet-punch",
+            32
+        ],
+        [
+            "Psychic",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Meteor-mash",
+            48
+        ],
+        [
+            "Zen-headbutt",
+            52
+        ],
+        [
+            "Hyper-beam",
+            56
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            26
+        ],
+        [
+            "Pursuit",
+            32
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Meteor-mash",
+            50
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Hyper-beam",
+            62
+        ]
+    ],
+    "xd": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            26
+        ],
+        [
+            "Pursuit",
+            32
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Meteor-mash",
+            50
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Hyper-beam",
+            62
+        ]
+    ],
+    "platinum": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            1
+        ],
+        [
+            "Metal-claw",
+            1
+        ],
+        [
+            "Magnet-rise",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            24
+        ],
+        [
+            "Pursuit",
+            28
+        ],
+        [
+            "Bullet-punch",
+            32
+        ],
+        [
+            "Psychic",
+            36
+        ],
+        [
+            "Iron-defense",
+            40
+        ],
+        [
+            "Agility",
+            44
+        ],
+        [
+            "Meteor-mash",
+            48
+        ],
+        [
+            "Zen-headbutt",
+            52
+        ],
+        [
+            "Hyper-beam",
+            56
+        ]
+    ],
+    "emerald": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            26
+        ],
+        [
+            "Pursuit",
+            32
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Meteor-mash",
+            50
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Hyper-beam",
+            62
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Take-down",
+            1
+        ],
+        [
+            "Confusion",
+            20
+        ],
+        [
+            "Metal-claw",
+            20
+        ],
+        [
+            "Scary-face",
+            26
+        ],
+        [
+            "Pursuit",
+            32
+        ],
+        [
+            "Psychic",
+            38
+        ],
+        [
+            "Iron-defense",
+            44
+        ],
+        [
+            "Meteor-mash",
+            50
+        ],
+        [
+            "Agility",
+            56
+        ],
+        [
+            "Hyper-beam",
+            62
+        ]
     ]
 }

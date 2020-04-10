@@ -1,224 +1,782 @@
 {
     "red-blue": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 34",
-        "Slash learnt at level 39",
-        "Leer learnt at level 44",
-        "Hydro-pump learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            34
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Leer",
+            44
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
     ],
     "yellow": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 34",
-        "Slash learnt at level 39",
-        "Leer learnt at level 44",
-        "Hydro-pump learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            34
+        ],
+        [
+            "Slash",
+            39
+        ],
+        [
+            "Leer",
+            44
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
     ],
     "gold-silver": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 10",
-        "Leer learnt at level 19",
-        "Sand-attack learnt at level 28",
-        "Endure learnt at level 37",
-        "Mega-drain learnt at level 46",
-        "Ancient-power learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Leer",
+            19
+        ],
+        [
+            "Sand-attack",
+            28
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Mega-drain",
+            46
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "crystal": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 10",
-        "Leer learnt at level 19",
-        "Sand-attack learnt at level 28",
-        "Endure learnt at level 37",
-        "Mega-drain learnt at level 46",
-        "Ancient-power learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Leer",
+            19
+        ],
+        [
+            "Sand-attack",
+            28
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Mega-drain",
+            46
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "ruby-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 13",
-        "Leer learnt at level 19",
-        "Mud-shot learnt at level 25",
-        "Sand-attack learnt at level 31",
-        "Endure learnt at level 37",
-        "Metal-sound learnt at level 43",
-        "Mega-drain learnt at level 49",
-        "Ancient-power learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            13
+        ],
+        [
+            "Leer",
+            19
+        ],
+        [
+            "Mud-shot",
+            25
+        ],
+        [
+            "Sand-attack",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Metal-sound",
+            43
+        ],
+        [
+            "Mega-drain",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "emerald": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 13",
-        "Leer learnt at level 19",
-        "Mud-shot learnt at level 25",
-        "Sand-attack learnt at level 31",
-        "Endure learnt at level 37",
-        "Metal-sound learnt at level 43",
-        "Mega-drain learnt at level 49",
-        "Ancient-power learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            13
+        ],
+        [
+            "Leer",
+            19
+        ],
+        [
+            "Mud-shot",
+            25
+        ],
+        [
+            "Sand-attack",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Metal-sound",
+            43
+        ],
+        [
+            "Mega-drain",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "firered-leafgreen": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 13",
-        "Leer learnt at level 19",
-        "Mud-shot learnt at level 25",
-        "Sand-attack learnt at level 31",
-        "Endure learnt at level 37",
-        "Metal-sound learnt at level 43",
-        "Mega-drain learnt at level 49",
-        "Ancient-power learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            13
+        ],
+        [
+            "Leer",
+            19
+        ],
+        [
+            "Mud-shot",
+            25
+        ],
+        [
+            "Sand-attack",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Metal-sound",
+            43
+        ],
+        [
+            "Mega-drain",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            51
+        ]
     ],
     "platinum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            51
+        ]
     ],
     "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            51
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            51
+        ]
     ],
     "colosseum": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 13",
-        "Leer learnt at level 19",
-        "Mud-shot learnt at level 25",
-        "Sand-attack learnt at level 31",
-        "Endure learnt at level 37",
-        "Metal-sound learnt at level 43",
-        "Mega-drain learnt at level 49",
-        "Ancient-power learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            13
+        ],
+        [
+            "Leer",
+            19
+        ],
+        [
+            "Mud-shot",
+            25
+        ],
+        [
+            "Sand-attack",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Metal-sound",
+            43
+        ],
+        [
+            "Mega-drain",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "xd": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 13",
-        "Leer learnt at level 19",
-        "Mud-shot learnt at level 25",
-        "Sand-attack learnt at level 31",
-        "Endure learnt at level 37",
-        "Metal-sound learnt at level 43",
-        "Mega-drain learnt at level 49",
-        "Ancient-power learnt at level 55"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            13
+        ],
+        [
+            "Leer",
+            19
+        ],
+        [
+            "Mud-shot",
+            25
+        ],
+        [
+            "Sand-attack",
+            31
+        ],
+        [
+            "Endure",
+            37
+        ],
+        [
+            "Metal-sound",
+            43
+        ],
+        [
+            "Mega-drain",
+            49
+        ],
+        [
+            "Ancient-power",
+            55
+        ]
     ],
     "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 51"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            51
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 50"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 50"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            50
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 50"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            50
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Harden learnt at level 1",
-        "Absorb learnt at level 6",
-        "Leer learnt at level 11",
-        "Mud-shot learnt at level 16",
-        "Sand-attack learnt at level 21",
-        "Endure learnt at level 26",
-        "Aqua-jet learnt at level 31",
-        "Mega-drain learnt at level 36",
-        "Metal-sound learnt at level 41",
-        "Ancient-power learnt at level 46",
-        "Wring-out learnt at level 50"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Harden",
+            1
+        ],
+        [
+            "Absorb",
+            6
+        ],
+        [
+            "Leer",
+            11
+        ],
+        [
+            "Mud-shot",
+            16
+        ],
+        [
+            "Sand-attack",
+            21
+        ],
+        [
+            "Endure",
+            26
+        ],
+        [
+            "Aqua-jet",
+            31
+        ],
+        [
+            "Mega-drain",
+            36
+        ],
+        [
+            "Metal-sound",
+            41
+        ],
+        [
+            "Ancient-power",
+            46
+        ],
+        [
+            "Wring-out",
+            50
+        ]
     ]
 }

@@ -1,116 +1,422 @@
 {
     "ultra-sun-ultra-moon": [
-        "Gust learnt at level 1",
-        "Miracle-eye learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Psywave learnt at level 8",
-        "Tailwind learnt at level 11",
-        "Whirlwind learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Air-cutter learnt at level 21",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 28",
-        "Synchronoise learnt at level 31",
-        "Mirror-move learnt at level 34",
-        "Gravity learnt at level 38",
-        "Air-slash learnt at level 41",
-        "Psychic learnt at level 44",
-        "Cosmic-power learnt at level 48",
-        "Sky-attack learnt at level 50"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Miracle-eye",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Tailwind",
+            11
+        ],
+        [
+            "Whirlwind",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            28
+        ],
+        [
+            "Synchronoise",
+            31
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Gravity",
+            38
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Sky-attack",
+            50
+        ]
     ],
     "sun-moon": [
-        "Gust learnt at level 1",
-        "Miracle-eye learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Psywave learnt at level 8",
-        "Tailwind learnt at level 11",
-        "Whirlwind learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Air-cutter learnt at level 21",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 28",
-        "Synchronoise learnt at level 31",
-        "Mirror-move learnt at level 34",
-        "Gravity learnt at level 38",
-        "Air-slash learnt at level 41",
-        "Psychic learnt at level 44",
-        "Cosmic-power learnt at level 48",
-        "Sky-attack learnt at level 50"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Miracle-eye",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Tailwind",
+            11
+        ],
+        [
+            "Whirlwind",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            28
+        ],
+        [
+            "Synchronoise",
+            31
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Gravity",
+            38
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Sky-attack",
+            50
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Gust learnt at level 1",
-        "Miracle-eye learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Psywave learnt at level 8",
-        "Tailwind learnt at level 11",
-        "Whirlwind learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Air-cutter learnt at level 21",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 28",
-        "Synchronoise learnt at level 31",
-        "Mirror-move learnt at level 34",
-        "Gravity learnt at level 38",
-        "Air-slash learnt at level 41",
-        "Psychic learnt at level 44",
-        "Cosmic-power learnt at level 48",
-        "Sky-attack learnt at level 50"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Miracle-eye",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Tailwind",
+            11
+        ],
+        [
+            "Whirlwind",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            28
+        ],
+        [
+            "Synchronoise",
+            31
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Gravity",
+            38
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Sky-attack",
+            50
+        ]
     ],
     "x-y": [
-        "Gust learnt at level 1",
-        "Miracle-eye learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Psywave learnt at level 8",
-        "Tailwind learnt at level 11",
-        "Whirlwind learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Air-cutter learnt at level 21",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 28",
-        "Synchronoise learnt at level 31",
-        "Mirror-move learnt at level 34",
-        "Gravity learnt at level 38",
-        "Air-slash learnt at level 41",
-        "Psychic learnt at level 44",
-        "Cosmic-power learnt at level 48",
-        "Sky-attack learnt at level 50"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Miracle-eye",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Tailwind",
+            11
+        ],
+        [
+            "Whirlwind",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            28
+        ],
+        [
+            "Synchronoise",
+            31
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Gravity",
+            38
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Sky-attack",
+            50
+        ]
     ],
     "black-2-white-2": [
-        "Gust learnt at level 1",
-        "Miracle-eye learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Psywave learnt at level 8",
-        "Tailwind learnt at level 11",
-        "Whirlwind learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Air-cutter learnt at level 21",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 28",
-        "Synchronoise learnt at level 31",
-        "Mirror-move learnt at level 34",
-        "Gravity learnt at level 38",
-        "Air-slash learnt at level 41",
-        "Psychic learnt at level 44",
-        "Cosmic-power learnt at level 48",
-        "Sky-attack learnt at level 51"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Miracle-eye",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Tailwind",
+            11
+        ],
+        [
+            "Whirlwind",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            28
+        ],
+        [
+            "Synchronoise",
+            31
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Gravity",
+            38
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Sky-attack",
+            51
+        ]
     ],
     "black-white": [
-        "Gust learnt at level 1",
-        "Miracle-eye learnt at level 1",
-        "Hypnosis learnt at level 4",
-        "Psywave learnt at level 8",
-        "Tailwind learnt at level 11",
-        "Whirlwind learnt at level 14",
-        "Psybeam learnt at level 18",
-        "Air-cutter learnt at level 21",
-        "Light-screen learnt at level 24",
-        "Reflect learnt at level 28",
-        "Synchronoise learnt at level 31",
-        "Mirror-move learnt at level 34",
-        "Gravity learnt at level 38",
-        "Air-slash learnt at level 41",
-        "Psychic learnt at level 44",
-        "Cosmic-power learnt at level 48",
-        "Sky-attack learnt at level 51"
+        [
+            "Gust",
+            1
+        ],
+        [
+            "Miracle-eye",
+            1
+        ],
+        [
+            "Hypnosis",
+            4
+        ],
+        [
+            "Psywave",
+            8
+        ],
+        [
+            "Tailwind",
+            11
+        ],
+        [
+            "Whirlwind",
+            14
+        ],
+        [
+            "Psybeam",
+            18
+        ],
+        [
+            "Air-cutter",
+            21
+        ],
+        [
+            "Light-screen",
+            24
+        ],
+        [
+            "Reflect",
+            28
+        ],
+        [
+            "Synchronoise",
+            31
+        ],
+        [
+            "Mirror-move",
+            34
+        ],
+        [
+            "Gravity",
+            38
+        ],
+        [
+            "Air-slash",
+            41
+        ],
+        [
+            "Psychic",
+            44
+        ],
+        [
+            "Cosmic-power",
+            48
+        ],
+        [
+            "Sky-attack",
+            51
+        ]
     ]
 }

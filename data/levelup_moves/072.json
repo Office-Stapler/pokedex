@@ -1,257 +1,914 @@
 {
     "ultra-sun-ultra-moon": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 4",
-        "Constrict learnt at level 7",
-        "Acid learnt at level 10",
-        "Toxic-spikes learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Wrap learnt at level 19",
-        "Acid-spray learnt at level 22",
-        "Bubble-beam learnt at level 25",
-        "Barrier learnt at level 28",
-        "Poison-jab learnt at level 31",
-        "Brine learnt at level 34",
-        "Screech learnt at level 37",
-        "Hex learnt at level 40",
-        "Sludge-wave learnt at level 43",
-        "Hydro-pump learnt at level 46",
-        "Wring-out learnt at level 49"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            4
+        ],
+        [
+            "Constrict",
+            7
+        ],
+        [
+            "Acid",
+            10
+        ],
+        [
+            "Toxic-spikes",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Wrap",
+            19
+        ],
+        [
+            "Acid-spray",
+            22
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Barrier",
+            28
+        ],
+        [
+            "Poison-jab",
+            31
+        ],
+        [
+            "Brine",
+            34
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hex",
+            40
+        ],
+        [
+            "Sludge-wave",
+            43
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Wring-out",
+            49
+        ]
     ],
     "black-2-white-2": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Constrict learnt at level 8",
-        "Acid learnt at level 12",
-        "Toxic-spikes learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Wrap learnt at level 22",
-        "Acid-spray learnt at level 26",
-        "Barrier learnt at level 29",
-        "Water-pulse learnt at level 33",
-        "Poison-jab learnt at level 36",
-        "Screech learnt at level 40",
-        "Hex learnt at level 43",
-        "Hydro-pump learnt at level 47",
-        "Sludge-wave learnt at level 50",
-        "Wring-out learnt at level 54"
-    ],
-    "black-white": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Constrict learnt at level 8",
-        "Acid learnt at level 12",
-        "Toxic-spikes learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Wrap learnt at level 22",
-        "Acid-spray learnt at level 26",
-        "Barrier learnt at level 29",
-        "Water-pulse learnt at level 33",
-        "Poison-jab learnt at level 36",
-        "Screech learnt at level 40",
-        "Hex learnt at level 43",
-        "Hydro-pump learnt at level 47",
-        "Sludge-wave learnt at level 50",
-        "Wring-out learnt at level 54"
-    ],
-    "heartgold-soulsilver": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Constrict learnt at level 8",
-        "Acid learnt at level 12",
-        "Toxic-spikes learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Wrap learnt at level 22",
-        "Barrier learnt at level 26",
-        "Water-pulse learnt at level 29",
-        "Poison-jab learnt at level 33",
-        "Screech learnt at level 36",
-        "Hydro-pump learnt at level 40",
-        "Wring-out learnt at level 43"
-    ],
-    "sun-moon": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 4",
-        "Constrict learnt at level 7",
-        "Acid learnt at level 10",
-        "Toxic-spikes learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Wrap learnt at level 19",
-        "Acid-spray learnt at level 22",
-        "Bubble-beam learnt at level 25",
-        "Barrier learnt at level 28",
-        "Poison-jab learnt at level 31",
-        "Brine learnt at level 34",
-        "Screech learnt at level 37",
-        "Hex learnt at level 40",
-        "Sludge-wave learnt at level 43",
-        "Hydro-pump learnt at level 46",
-        "Wring-out learnt at level 49"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 4",
-        "Constrict learnt at level 7",
-        "Acid learnt at level 10",
-        "Toxic-spikes learnt at level 13",
-        "Water-pulse learnt at level 16",
-        "Wrap learnt at level 19",
-        "Acid-spray learnt at level 22",
-        "Bubble-beam learnt at level 25",
-        "Barrier learnt at level 28",
-        "Poison-jab learnt at level 31",
-        "Brine learnt at level 34",
-        "Screech learnt at level 37",
-        "Hex learnt at level 40",
-        "Sludge-wave learnt at level 43",
-        "Hydro-pump learnt at level 46",
-        "Wring-out learnt at level 49"
-    ],
-    "x-y": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Constrict learnt at level 8",
-        "Acid learnt at level 12",
-        "Toxic-spikes learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Wrap learnt at level 22",
-        "Acid-spray learnt at level 26",
-        "Barrier learnt at level 29",
-        "Water-pulse learnt at level 33",
-        "Poison-jab learnt at level 36",
-        "Screech learnt at level 40",
-        "Hex learnt at level 43",
-        "Hydro-pump learnt at level 47",
-        "Sludge-wave learnt at level 50",
-        "Wring-out learnt at level 54"
-    ],
-    "platinum": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Constrict learnt at level 8",
-        "Acid learnt at level 12",
-        "Toxic-spikes learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Wrap learnt at level 22",
-        "Barrier learnt at level 26",
-        "Water-pulse learnt at level 29",
-        "Poison-jab learnt at level 33",
-        "Screech learnt at level 36",
-        "Hydro-pump learnt at level 40",
-        "Wring-out learnt at level 43"
-    ],
-    "diamond-pearl": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 5",
-        "Constrict learnt at level 8",
-        "Acid learnt at level 12",
-        "Toxic-spikes learnt at level 15",
-        "Bubble-beam learnt at level 19",
-        "Wrap learnt at level 22",
-        "Barrier learnt at level 26",
-        "Water-pulse learnt at level 29",
-        "Poison-jab learnt at level 33",
-        "Screech learnt at level 36",
-        "Hydro-pump learnt at level 40",
-        "Wring-out learnt at level 43"
-    ],
-    "firered-leafgreen": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Constrict learnt at level 12",
-        "Acid learnt at level 19",
-        "Bubble-beam learnt at level 25",
-        "Wrap learnt at level 30",
-        "Barrier learnt at level 36",
-        "Screech learnt at level 43",
-        "Hydro-pump learnt at level 49"
-    ],
-    "emerald": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Constrict learnt at level 12",
-        "Acid learnt at level 19",
-        "Bubble-beam learnt at level 25",
-        "Wrap learnt at level 30",
-        "Barrier learnt at level 36",
-        "Screech learnt at level 43",
-        "Hydro-pump learnt at level 49"
-    ],
-    "yellow": [
-        "Acid learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Wrap learnt at level 13",
-        "Poison-sting learnt at level 18",
-        "Water-gun learnt at level 22",
-        "Constrict learnt at level 27",
-        "Barrier learnt at level 33",
-        "Screech learnt at level 40",
-        "Hydro-pump learnt at level 48"
-    ],
-    "red-blue": [
-        "Acid learnt at level 1",
-        "Supersonic learnt at level 7",
-        "Wrap learnt at level 13",
-        "Poison-sting learnt at level 18",
-        "Water-gun learnt at level 22",
-        "Constrict learnt at level 27",
-        "Barrier learnt at level 33",
-        "Screech learnt at level 40",
-        "Hydro-pump learnt at level 48"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Constrict",
+            8
+        ],
+        [
+            "Acid",
+            12
+        ],
+        [
+            "Toxic-spikes",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Acid-spray",
+            26
+        ],
+        [
+            "Barrier",
+            29
+        ],
+        [
+            "Water-pulse",
+            33
+        ],
+        [
+            "Poison-jab",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Hex",
+            43
+        ],
+        [
+            "Hydro-pump",
+            47
+        ],
+        [
+            "Sludge-wave",
+            50
+        ],
+        [
+            "Wring-out",
+            54
+        ]
     ],
     "xd": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Constrict learnt at level 12",
-        "Acid learnt at level 19",
-        "Bubble-beam learnt at level 25",
-        "Wrap learnt at level 30",
-        "Barrier learnt at level 36",
-        "Screech learnt at level 43",
-        "Hydro-pump learnt at level 49"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Constrict",
+            12
+        ],
+        [
+            "Acid",
+            19
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Wrap",
+            30
+        ],
+        [
+            "Barrier",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
     ],
     "colosseum": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Constrict learnt at level 12",
-        "Acid learnt at level 19",
-        "Bubble-beam learnt at level 25",
-        "Wrap learnt at level 30",
-        "Barrier learnt at level 36",
-        "Screech learnt at level 43",
-        "Hydro-pump learnt at level 49"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Constrict",
+            12
+        ],
+        [
+            "Acid",
+            19
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Wrap",
+            30
+        ],
+        [
+            "Barrier",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
+    ],
+    "black-white": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Constrict",
+            8
+        ],
+        [
+            "Acid",
+            12
+        ],
+        [
+            "Toxic-spikes",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Acid-spray",
+            26
+        ],
+        [
+            "Barrier",
+            29
+        ],
+        [
+            "Water-pulse",
+            33
+        ],
+        [
+            "Poison-jab",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Hex",
+            43
+        ],
+        [
+            "Hydro-pump",
+            47
+        ],
+        [
+            "Sludge-wave",
+            50
+        ],
+        [
+            "Wring-out",
+            54
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Constrict",
+            8
+        ],
+        [
+            "Acid",
+            12
+        ],
+        [
+            "Toxic-spikes",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Barrier",
+            26
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Poison-jab",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Hydro-pump",
+            40
+        ],
+        [
+            "Wring-out",
+            43
+        ]
+    ],
+    "sun-moon": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            4
+        ],
+        [
+            "Constrict",
+            7
+        ],
+        [
+            "Acid",
+            10
+        ],
+        [
+            "Toxic-spikes",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Wrap",
+            19
+        ],
+        [
+            "Acid-spray",
+            22
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Barrier",
+            28
+        ],
+        [
+            "Poison-jab",
+            31
+        ],
+        [
+            "Brine",
+            34
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hex",
+            40
+        ],
+        [
+            "Sludge-wave",
+            43
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Wring-out",
+            49
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            4
+        ],
+        [
+            "Constrict",
+            7
+        ],
+        [
+            "Acid",
+            10
+        ],
+        [
+            "Toxic-spikes",
+            13
+        ],
+        [
+            "Water-pulse",
+            16
+        ],
+        [
+            "Wrap",
+            19
+        ],
+        [
+            "Acid-spray",
+            22
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Barrier",
+            28
+        ],
+        [
+            "Poison-jab",
+            31
+        ],
+        [
+            "Brine",
+            34
+        ],
+        [
+            "Screech",
+            37
+        ],
+        [
+            "Hex",
+            40
+        ],
+        [
+            "Sludge-wave",
+            43
+        ],
+        [
+            "Hydro-pump",
+            46
+        ],
+        [
+            "Wring-out",
+            49
+        ]
+    ],
+    "x-y": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Constrict",
+            8
+        ],
+        [
+            "Acid",
+            12
+        ],
+        [
+            "Toxic-spikes",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Acid-spray",
+            26
+        ],
+        [
+            "Barrier",
+            29
+        ],
+        [
+            "Water-pulse",
+            33
+        ],
+        [
+            "Poison-jab",
+            36
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Hex",
+            43
+        ],
+        [
+            "Hydro-pump",
+            47
+        ],
+        [
+            "Sludge-wave",
+            50
+        ],
+        [
+            "Wring-out",
+            54
+        ]
+    ],
+    "platinum": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Constrict",
+            8
+        ],
+        [
+            "Acid",
+            12
+        ],
+        [
+            "Toxic-spikes",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Barrier",
+            26
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Poison-jab",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Hydro-pump",
+            40
+        ],
+        [
+            "Wring-out",
+            43
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            5
+        ],
+        [
+            "Constrict",
+            8
+        ],
+        [
+            "Acid",
+            12
+        ],
+        [
+            "Toxic-spikes",
+            15
+        ],
+        [
+            "Bubble-beam",
+            19
+        ],
+        [
+            "Wrap",
+            22
+        ],
+        [
+            "Barrier",
+            26
+        ],
+        [
+            "Water-pulse",
+            29
+        ],
+        [
+            "Poison-jab",
+            33
+        ],
+        [
+            "Screech",
+            36
+        ],
+        [
+            "Hydro-pump",
+            40
+        ],
+        [
+            "Wring-out",
+            43
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Constrict",
+            12
+        ],
+        [
+            "Acid",
+            19
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Wrap",
+            30
+        ],
+        [
+            "Barrier",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
     ],
     "crystal": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Constrict learnt at level 12",
-        "Acid learnt at level 19",
-        "Bubble-beam learnt at level 25",
-        "Wrap learnt at level 30",
-        "Barrier learnt at level 36",
-        "Screech learnt at level 43",
-        "Hydro-pump learnt at level 49"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Constrict",
+            12
+        ],
+        [
+            "Acid",
+            19
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Wrap",
+            30
+        ],
+        [
+            "Barrier",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
     ],
     "gold-silver": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Constrict learnt at level 12",
-        "Acid learnt at level 19",
-        "Bubble-beam learnt at level 25",
-        "Wrap learnt at level 30",
-        "Barrier learnt at level 36",
-        "Screech learnt at level 43",
-        "Hydro-pump learnt at level 49"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Constrict",
+            12
+        ],
+        [
+            "Acid",
+            19
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Wrap",
+            30
+        ],
+        [
+            "Barrier",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
+    ],
+    "emerald": [
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Constrict",
+            12
+        ],
+        [
+            "Acid",
+            19
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Wrap",
+            30
+        ],
+        [
+            "Barrier",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Poison-sting learnt at level 1",
-        "Supersonic learnt at level 6",
-        "Constrict learnt at level 12",
-        "Acid learnt at level 19",
-        "Bubble-beam learnt at level 25",
-        "Wrap learnt at level 30",
-        "Barrier learnt at level 36",
-        "Screech learnt at level 43",
-        "Hydro-pump learnt at level 49"
+        [
+            "Poison-sting",
+            1
+        ],
+        [
+            "Supersonic",
+            6
+        ],
+        [
+            "Constrict",
+            12
+        ],
+        [
+            "Acid",
+            19
+        ],
+        [
+            "Bubble-beam",
+            25
+        ],
+        [
+            "Wrap",
+            30
+        ],
+        [
+            "Barrier",
+            36
+        ],
+        [
+            "Screech",
+            43
+        ],
+        [
+            "Hydro-pump",
+            49
+        ]
+    ],
+    "yellow": [
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Wrap",
+            13
+        ],
+        [
+            "Poison-sting",
+            18
+        ],
+        [
+            "Water-gun",
+            22
+        ],
+        [
+            "Constrict",
+            27
+        ],
+        [
+            "Barrier",
+            33
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
+    ],
+    "red-blue": [
+        [
+            "Acid",
+            1
+        ],
+        [
+            "Supersonic",
+            7
+        ],
+        [
+            "Wrap",
+            13
+        ],
+        [
+            "Poison-sting",
+            18
+        ],
+        [
+            "Water-gun",
+            22
+        ],
+        [
+            "Constrict",
+            27
+        ],
+        [
+            "Barrier",
+            33
+        ],
+        [
+            "Screech",
+            40
+        ],
+        [
+            "Hydro-pump",
+            48
+        ]
     ]
 }

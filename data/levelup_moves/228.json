@@ -1,238 +1,850 @@
 {
-    "heartgold-soulsilver": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 9",
-        "Roar learnt at level 14",
-        "Bite learnt at level 17",
-        "Odor-sleuth learnt at level 22",
-        "Beat-up learnt at level 27",
-        "Fire-fang learnt at level 30",
-        "Feint-attack learnt at level 35",
-        "Embargo learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 48",
-        "Nasty-plot learnt at level 53"
-    ],
-    "crystal": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Roar learnt at level 7",
-        "Smog learnt at level 13",
-        "Bite learnt at level 20",
-        "Feint-attack learnt at level 27",
-        "Flamethrower learnt at level 35",
-        "Crunch learnt at level 43"
-    ],
-    "gold-silver": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Roar learnt at level 7",
-        "Smog learnt at level 13",
-        "Bite learnt at level 20",
-        "Feint-attack learnt at level 27",
-        "Flamethrower learnt at level 35",
-        "Crunch learnt at level 43"
-    ],
-    "xd": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 7",
-        "Smog learnt at level 13",
-        "Roar learnt at level 19",
-        "Bite learnt at level 25",
-        "Odor-sleuth learnt at level 31",
-        "Feint-attack learnt at level 37",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 49"
-    ],
-    "firered-leafgreen": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 7",
-        "Smog learnt at level 13",
-        "Roar learnt at level 19",
-        "Bite learnt at level 25",
-        "Odor-sleuth learnt at level 31",
-        "Feint-attack learnt at level 37",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 49"
-    ],
-    "emerald": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 7",
-        "Smog learnt at level 13",
-        "Roar learnt at level 19",
-        "Bite learnt at level 25",
-        "Odor-sleuth learnt at level 31",
-        "Feint-attack learnt at level 37",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 49"
-    ],
     "ultra-sun-ultra-moon": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 8",
-        "Roar learnt at level 13",
-        "Bite learnt at level 16",
-        "Odor-sleuth learnt at level 20",
-        "Beat-up learnt at level 25",
-        "Fire-fang learnt at level 28",
-        "Feint-attack learnt at level 32",
-        "Embargo learnt at level 37",
-        "Foul-play learnt at level 40",
-        "Flamethrower learnt at level 44",
-        "Crunch learnt at level 49",
-        "Nasty-plot learnt at level 52",
-        "Inferno learnt at level 56"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            8
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Odor-sleuth",
+            20
+        ],
+        [
+            "Beat-up",
+            25
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Feint-attack",
+            32
+        ],
+        [
+            "Embargo",
+            37
+        ],
+        [
+            "Foul-play",
+            40
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Nasty-plot",
+            52
+        ],
+        [
+            "Inferno",
+            56
+        ]
     ],
     "sun-moon": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 8",
-        "Roar learnt at level 13",
-        "Bite learnt at level 16",
-        "Odor-sleuth learnt at level 20",
-        "Beat-up learnt at level 25",
-        "Fire-fang learnt at level 28",
-        "Feint-attack learnt at level 32",
-        "Embargo learnt at level 37",
-        "Foul-play learnt at level 40",
-        "Flamethrower learnt at level 44",
-        "Crunch learnt at level 49",
-        "Nasty-plot learnt at level 52",
-        "Inferno learnt at level 56"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            8
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Odor-sleuth",
+            20
+        ],
+        [
+            "Beat-up",
+            25
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Feint-attack",
+            32
+        ],
+        [
+            "Embargo",
+            37
+        ],
+        [
+            "Foul-play",
+            40
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Nasty-plot",
+            52
+        ],
+        [
+            "Inferno",
+            56
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 8",
-        "Roar learnt at level 13",
-        "Bite learnt at level 16",
-        "Odor-sleuth learnt at level 20",
-        "Beat-up learnt at level 25",
-        "Fire-fang learnt at level 28",
-        "Feint-attack learnt at level 32",
-        "Embargo learnt at level 37",
-        "Foul-play learnt at level 40",
-        "Flamethrower learnt at level 44",
-        "Crunch learnt at level 49",
-        "Nasty-plot learnt at level 52",
-        "Inferno learnt at level 56"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            8
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Odor-sleuth",
+            20
+        ],
+        [
+            "Beat-up",
+            25
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Feint-attack",
+            32
+        ],
+        [
+            "Embargo",
+            37
+        ],
+        [
+            "Foul-play",
+            40
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Nasty-plot",
+            52
+        ],
+        [
+            "Inferno",
+            56
+        ]
     ],
     "black-2-white-2": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 8",
-        "Roar learnt at level 13",
-        "Bite learnt at level 16",
-        "Odor-sleuth learnt at level 20",
-        "Beat-up learnt at level 25",
-        "Fire-fang learnt at level 28",
-        "Feint-attack learnt at level 32",
-        "Embargo learnt at level 37",
-        "Foul-play learnt at level 40",
-        "Flamethrower learnt at level 44",
-        "Crunch learnt at level 49",
-        "Nasty-plot learnt at level 52",
-        "Inferno learnt at level 56"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            8
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Odor-sleuth",
+            20
+        ],
+        [
+            "Beat-up",
+            25
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Feint-attack",
+            32
+        ],
+        [
+            "Embargo",
+            37
+        ],
+        [
+            "Foul-play",
+            40
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Nasty-plot",
+            52
+        ],
+        [
+            "Inferno",
+            56
+        ]
+    ],
+    "xd": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Roar",
+            19
+        ],
+        [
+            "Bite",
+            25
+        ],
+        [
+            "Odor-sleuth",
+            31
+        ],
+        [
+            "Feint-attack",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ]
     ],
     "colosseum": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 7",
-        "Smog learnt at level 13",
-        "Roar learnt at level 19",
-        "Bite learnt at level 25",
-        "Odor-sleuth learnt at level 31",
-        "Feint-attack learnt at level 37",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Roar",
+            19
+        ],
+        [
+            "Bite",
+            25
+        ],
+        [
+            "Odor-sleuth",
+            31
+        ],
+        [
+            "Feint-attack",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ]
     ],
     "black-white": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 8",
-        "Roar learnt at level 13",
-        "Bite learnt at level 16",
-        "Odor-sleuth learnt at level 20",
-        "Beat-up learnt at level 25",
-        "Fire-fang learnt at level 28",
-        "Feint-attack learnt at level 32",
-        "Embargo learnt at level 37",
-        "Foul-play learnt at level 40",
-        "Flamethrower learnt at level 44",
-        "Crunch learnt at level 49",
-        "Nasty-plot learnt at level 52",
-        "Inferno learnt at level 56"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            8
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Odor-sleuth",
+            20
+        ],
+        [
+            "Beat-up",
+            25
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Feint-attack",
+            32
+        ],
+        [
+            "Embargo",
+            37
+        ],
+        [
+            "Foul-play",
+            40
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Nasty-plot",
+            52
+        ],
+        [
+            "Inferno",
+            56
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Roar",
+            14
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Odor-sleuth",
+            22
+        ],
+        [
+            "Beat-up",
+            27
+        ],
+        [
+            "Fire-fang",
+            30
+        ],
+        [
+            "Feint-attack",
+            35
+        ],
+        [
+            "Embargo",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            48
+        ],
+        [
+            "Nasty-plot",
+            53
+        ]
     ],
     "platinum": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 9",
-        "Roar learnt at level 14",
-        "Bite learnt at level 17",
-        "Odor-sleuth learnt at level 22",
-        "Beat-up learnt at level 27",
-        "Fire-fang learnt at level 30",
-        "Feint-attack learnt at level 35",
-        "Embargo learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 48",
-        "Nasty-plot learnt at level 53"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Roar",
+            14
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Odor-sleuth",
+            22
+        ],
+        [
+            "Beat-up",
+            27
+        ],
+        [
+            "Fire-fang",
+            30
+        ],
+        [
+            "Feint-attack",
+            35
+        ],
+        [
+            "Embargo",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            48
+        ],
+        [
+            "Nasty-plot",
+            53
+        ]
     ],
     "x-y": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 8",
-        "Roar learnt at level 13",
-        "Bite learnt at level 16",
-        "Odor-sleuth learnt at level 20",
-        "Beat-up learnt at level 25",
-        "Fire-fang learnt at level 28",
-        "Feint-attack learnt at level 32",
-        "Embargo learnt at level 37",
-        "Foul-play learnt at level 40",
-        "Flamethrower learnt at level 44",
-        "Crunch learnt at level 49",
-        "Nasty-plot learnt at level 52",
-        "Inferno learnt at level 56"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            8
+        ],
+        [
+            "Roar",
+            13
+        ],
+        [
+            "Bite",
+            16
+        ],
+        [
+            "Odor-sleuth",
+            20
+        ],
+        [
+            "Beat-up",
+            25
+        ],
+        [
+            "Fire-fang",
+            28
+        ],
+        [
+            "Feint-attack",
+            32
+        ],
+        [
+            "Embargo",
+            37
+        ],
+        [
+            "Foul-play",
+            40
+        ],
+        [
+            "Flamethrower",
+            44
+        ],
+        [
+            "Crunch",
+            49
+        ],
+        [
+            "Nasty-plot",
+            52
+        ],
+        [
+            "Inferno",
+            56
+        ]
     ],
     "diamond-pearl": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 4",
-        "Smog learnt at level 9",
-        "Roar learnt at level 14",
-        "Bite learnt at level 17",
-        "Odor-sleuth learnt at level 22",
-        "Beat-up learnt at level 27",
-        "Fire-fang learnt at level 30",
-        "Feint-attack learnt at level 35",
-        "Embargo learnt at level 40",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 48",
-        "Nasty-plot learnt at level 53"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            4
+        ],
+        [
+            "Smog",
+            9
+        ],
+        [
+            "Roar",
+            14
+        ],
+        [
+            "Bite",
+            17
+        ],
+        [
+            "Odor-sleuth",
+            22
+        ],
+        [
+            "Beat-up",
+            27
+        ],
+        [
+            "Fire-fang",
+            30
+        ],
+        [
+            "Feint-attack",
+            35
+        ],
+        [
+            "Embargo",
+            40
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            48
+        ],
+        [
+            "Nasty-plot",
+            53
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Roar",
+            19
+        ],
+        [
+            "Bite",
+            25
+        ],
+        [
+            "Odor-sleuth",
+            31
+        ],
+        [
+            "Feint-attack",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ]
+    ],
+    "emerald": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Roar",
+            19
+        ],
+        [
+            "Bite",
+            25
+        ],
+        [
+            "Odor-sleuth",
+            31
+        ],
+        [
+            "Feint-attack",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ]
     ],
     "ruby-sapphire": [
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Howl learnt at level 7",
-        "Smog learnt at level 13",
-        "Roar learnt at level 19",
-        "Bite learnt at level 25",
-        "Odor-sleuth learnt at level 31",
-        "Feint-attack learnt at level 37",
-        "Flamethrower learnt at level 43",
-        "Crunch learnt at level 49"
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Howl",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Roar",
+            19
+        ],
+        [
+            "Bite",
+            25
+        ],
+        [
+            "Odor-sleuth",
+            31
+        ],
+        [
+            "Feint-attack",
+            37
+        ],
+        [
+            "Flamethrower",
+            43
+        ],
+        [
+            "Crunch",
+            49
+        ]
+    ],
+    "crystal": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Flamethrower",
+            35
+        ],
+        [
+            "Crunch",
+            43
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Roar",
+            7
+        ],
+        [
+            "Smog",
+            13
+        ],
+        [
+            "Bite",
+            20
+        ],
+        [
+            "Feint-attack",
+            27
+        ],
+        [
+            "Flamethrower",
+            35
+        ],
+        [
+            "Crunch",
+            43
+        ]
     ]
 }

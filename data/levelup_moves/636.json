@@ -1,86 +1,302 @@
 {
     "ultra-sun-ultra-moon": [
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Absorb learnt at level 10",
-        "Take-down learnt at level 20",
-        "Flame-charge learnt at level 30",
-        "Bug-bite learnt at level 40",
-        "Double-edge learnt at level 50",
-        "Flame-wheel learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Amnesia learnt at level 80",
-        "Thrash learnt at level 90",
-        "Flare-blitz learnt at level 100"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Flame-charge",
+            30
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Flame-wheel",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Amnesia",
+            80
+        ],
+        [
+            "Thrash",
+            90
+        ],
+        [
+            "Flare-blitz",
+            100
+        ]
     ],
     "sun-moon": [
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Absorb learnt at level 10",
-        "Take-down learnt at level 20",
-        "Flame-charge learnt at level 30",
-        "Bug-bite learnt at level 40",
-        "Double-edge learnt at level 50",
-        "Flame-wheel learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Amnesia learnt at level 80",
-        "Thrash learnt at level 90",
-        "Flare-blitz learnt at level 100"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Absorb",
+            10
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Flame-charge",
+            30
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Flame-wheel",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Amnesia",
+            80
+        ],
+        [
+            "Thrash",
+            90
+        ],
+        [
+            "Flare-blitz",
+            100
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Take-down learnt at level 20",
-        "Flame-charge learnt at level 30",
-        "Bug-bite learnt at level 40",
-        "Double-edge learnt at level 50",
-        "Flame-wheel learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Amnesia learnt at level 80",
-        "Thrash learnt at level 90",
-        "Flare-blitz learnt at level 100"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Flame-charge",
+            30
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Flame-wheel",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Amnesia",
+            80
+        ],
+        [
+            "Thrash",
+            90
+        ],
+        [
+            "Flare-blitz",
+            100
+        ]
     ],
     "x-y": [
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Take-down learnt at level 20",
-        "Flame-charge learnt at level 30",
-        "Bug-bite learnt at level 40",
-        "Double-edge learnt at level 50",
-        "Flame-wheel learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Amnesia learnt at level 80",
-        "Thrash learnt at level 90",
-        "Flare-blitz learnt at level 100"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Flame-charge",
+            30
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Flame-wheel",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Amnesia",
+            80
+        ],
+        [
+            "Thrash",
+            90
+        ],
+        [
+            "Flare-blitz",
+            100
+        ]
     ],
     "black-2-white-2": [
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Take-down learnt at level 20",
-        "Flame-charge learnt at level 30",
-        "Bug-bite learnt at level 40",
-        "Double-edge learnt at level 50",
-        "Flame-wheel learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Amnesia learnt at level 80",
-        "Thrash learnt at level 90",
-        "Flare-blitz learnt at level 100"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Flame-charge",
+            30
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Flame-wheel",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Amnesia",
+            80
+        ],
+        [
+            "Thrash",
+            90
+        ],
+        [
+            "Flare-blitz",
+            100
+        ]
     ],
     "black-white": [
-        "Ember learnt at level 1",
-        "String-shot learnt at level 1",
-        "Leech-life learnt at level 10",
-        "Take-down learnt at level 20",
-        "Flame-charge learnt at level 30",
-        "Bug-bite learnt at level 40",
-        "Double-edge learnt at level 50",
-        "Flame-wheel learnt at level 60",
-        "Bug-buzz learnt at level 70",
-        "Amnesia learnt at level 80",
-        "Thrash learnt at level 90",
-        "Flare-blitz learnt at level 100"
+        [
+            "Ember",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Leech-life",
+            10
+        ],
+        [
+            "Take-down",
+            20
+        ],
+        [
+            "Flame-charge",
+            30
+        ],
+        [
+            "Bug-bite",
+            40
+        ],
+        [
+            "Double-edge",
+            50
+        ],
+        [
+            "Flame-wheel",
+            60
+        ],
+        [
+            "Bug-buzz",
+            70
+        ],
+        [
+            "Amnesia",
+            80
+        ],
+        [
+            "Thrash",
+            90
+        ],
+        [
+            "Flare-blitz",
+            100
+        ]
     ]
 }

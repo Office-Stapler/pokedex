@@ -1,137 +1,488 @@
 {
     "ultra-sun-ultra-moon": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "sun-moon": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "x-y": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "black-2-white-2": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "black-white": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "heartgold-soulsilver": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "platinum": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bubble-beam learnt at level 18",
-        "Bide learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bubble-beam",
+            18
+        ],
+        [
+            "Bide",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ],
     "diamond-pearl": [
-        "Pound learnt at level 1",
-        "Growl learnt at level 4",
-        "Bubble learnt at level 8",
-        "Water-sport learnt at level 11",
-        "Peck learnt at level 15",
-        "Bide learnt at level 18",
-        "Bubble-beam learnt at level 22",
-        "Fury-attack learnt at level 25",
-        "Brine learnt at level 29",
-        "Whirlpool learnt at level 32",
-        "Mist learnt at level 36",
-        "Drill-peck learnt at level 39",
-        "Hydro-pump learnt at level 43"
+        [
+            "Pound",
+            1
+        ],
+        [
+            "Growl",
+            4
+        ],
+        [
+            "Bubble",
+            8
+        ],
+        [
+            "Water-sport",
+            11
+        ],
+        [
+            "Peck",
+            15
+        ],
+        [
+            "Bide",
+            18
+        ],
+        [
+            "Bubble-beam",
+            22
+        ],
+        [
+            "Fury-attack",
+            25
+        ],
+        [
+            "Brine",
+            29
+        ],
+        [
+            "Whirlpool",
+            32
+        ],
+        [
+            "Mist",
+            36
+        ],
+        [
+            "Drill-peck",
+            39
+        ],
+        [
+            "Hydro-pump",
+            43
+        ]
     ]
 }

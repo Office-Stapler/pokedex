@@ -1,270 +1,966 @@
 {
-    "firered-leafgreen": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Bone-club learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Bonemerang learnt at level 25",
-        "Rage learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Thrash learnt at level 37",
-        "Bone-rush learnt at level 41",
-        "Double-edge learnt at level 45"
-    ],
-    "emerald": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Bone-club learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Bonemerang learnt at level 25",
-        "Rage learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Thrash learnt at level 37",
-        "Bone-rush learnt at level 41",
-        "Double-edge learnt at level 45"
-    ],
-    "yellow": [
-        "Growl learnt at level 1",
-        "Bone-club learnt at level 10",
-        "Tail-whip learnt at level 13",
-        "Headbutt learnt at level 18",
-        "Leer learnt at level 25",
-        "Focus-energy learnt at level 31",
-        "Thrash learnt at level 38",
-        "Bonemerang learnt at level 43",
-        "Rage learnt at level 46"
-    ],
-    "red-blue": [
-        "Growl learnt at level 1",
-        "Bone-club learnt at level 1",
-        "Leer learnt at level 25",
-        "Focus-energy learnt at level 31",
-        "Thrash learnt at level 38",
-        "Bonemerang learnt at level 43",
-        "Rage learnt at level 46"
-    ],
-    "omega-ruby-alpha-sapphire": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Bone-rush learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43",
-        "Retaliate learnt at level 47"
-    ],
-    "black-2-white-2": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Bone-rush learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43",
-        "Retaliate learnt at level 47"
-    ],
-    "crystal": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Bone-club learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Bonemerang learnt at level 25",
-        "Rage learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Thrash learnt at level 37",
-        "Bone-rush learnt at level 41"
-    ],
-    "gold-silver": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Bone-club learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Bonemerang learnt at level 25",
-        "Rage learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Thrash learnt at level 37",
-        "Bone-rush learnt at level 41"
-    ],
-    "heartgold-soulsilver": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Bone-rush learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43"
-    ],
-    "platinum": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Bone-rush learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43"
-    ],
     "ultra-sun-ultra-moon": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Stomping-tantrum learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43",
-        "Retaliate learnt at level 47",
-        "Bone-rush learnt at level 51"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Stomping-tantrum",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ],
+        [
+            "Retaliate",
+            47
+        ],
+        [
+            "Bone-rush",
+            51
+        ]
     ],
     "sun-moon": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Stomping-tantrum learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43",
-        "Retaliate learnt at level 47",
-        "Bone-rush learnt at level 51"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Stomping-tantrum",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ],
+        [
+            "Retaliate",
+            47
+        ],
+        [
+            "Bone-rush",
+            51
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Bone-rush",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ],
+        [
+            "Retaliate",
+            47
+        ]
     ],
     "x-y": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Bone-rush learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43",
-        "Retaliate learnt at level 47"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Bone-rush",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ],
+        [
+            "Retaliate",
+            47
+        ]
     ],
-    "ruby-sapphire": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Bone-club learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Bonemerang learnt at level 25",
-        "Rage learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Thrash learnt at level 37",
-        "Bone-rush learnt at level 41",
-        "Double-edge learnt at level 45"
-    ],
-    "black-white": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Bone-rush learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43",
-        "Retaliate learnt at level 47"
-    ],
-    "diamond-pearl": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 3",
-        "Bone-club learnt at level 7",
-        "Headbutt learnt at level 11",
-        "Leer learnt at level 13",
-        "Focus-energy learnt at level 17",
-        "Bonemerang learnt at level 21",
-        "Rage learnt at level 23",
-        "False-swipe learnt at level 27",
-        "Thrash learnt at level 31",
-        "Fling learnt at level 33",
-        "Bone-rush learnt at level 37",
-        "Endeavor learnt at level 41",
-        "Double-edge learnt at level 43"
+    "black-2-white-2": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Bone-rush",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ],
+        [
+            "Retaliate",
+            47
+        ]
     ],
     "xd": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Bone-club learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Bonemerang learnt at level 25",
-        "Rage learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Thrash learnt at level 37",
-        "Bone-rush learnt at level 41",
-        "Double-edge learnt at level 45"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Bone-club",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Bonemerang",
+            25
+        ],
+        [
+            "Rage",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Thrash",
+            37
+        ],
+        [
+            "Bone-rush",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ]
+    ],
+    "firered-leafgreen": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Bone-club",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Bonemerang",
+            25
+        ],
+        [
+            "Rage",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Thrash",
+            37
+        ],
+        [
+            "Bone-rush",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ]
+    ],
+    "emerald": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Bone-club",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Bonemerang",
+            25
+        ],
+        [
+            "Rage",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Thrash",
+            37
+        ],
+        [
+            "Bone-rush",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ]
+    ],
+    "ruby-sapphire": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Bone-club",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Bonemerang",
+            25
+        ],
+        [
+            "Rage",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Thrash",
+            37
+        ],
+        [
+            "Bone-rush",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ]
+    ],
+    "crystal": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Bone-club",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Bonemerang",
+            25
+        ],
+        [
+            "Rage",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Thrash",
+            37
+        ],
+        [
+            "Bone-rush",
+            41
+        ]
+    ],
+    "gold-silver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Bone-club",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Bonemerang",
+            25
+        ],
+        [
+            "Rage",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Thrash",
+            37
+        ],
+        [
+            "Bone-rush",
+            41
+        ]
     ],
     "colosseum": [
-        "Growl learnt at level 1",
-        "Tail-whip learnt at level 5",
-        "Bone-club learnt at level 9",
-        "Headbutt learnt at level 13",
-        "Leer learnt at level 17",
-        "Focus-energy learnt at level 21",
-        "Bonemerang learnt at level 25",
-        "Rage learnt at level 29",
-        "False-swipe learnt at level 33",
-        "Thrash learnt at level 37",
-        "Bone-rush learnt at level 41",
-        "Double-edge learnt at level 45"
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            5
+        ],
+        [
+            "Bone-club",
+            9
+        ],
+        [
+            "Headbutt",
+            13
+        ],
+        [
+            "Leer",
+            17
+        ],
+        [
+            "Focus-energy",
+            21
+        ],
+        [
+            "Bonemerang",
+            25
+        ],
+        [
+            "Rage",
+            29
+        ],
+        [
+            "False-swipe",
+            33
+        ],
+        [
+            "Thrash",
+            37
+        ],
+        [
+            "Bone-rush",
+            41
+        ],
+        [
+            "Double-edge",
+            45
+        ]
+    ],
+    "black-white": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Bone-rush",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ],
+        [
+            "Retaliate",
+            47
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Bone-rush",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ]
+    ],
+    "platinum": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Bone-rush",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ]
+    ],
+    "diamond-pearl": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Tail-whip",
+            3
+        ],
+        [
+            "Bone-club",
+            7
+        ],
+        [
+            "Headbutt",
+            11
+        ],
+        [
+            "Leer",
+            13
+        ],
+        [
+            "Focus-energy",
+            17
+        ],
+        [
+            "Bonemerang",
+            21
+        ],
+        [
+            "Rage",
+            23
+        ],
+        [
+            "False-swipe",
+            27
+        ],
+        [
+            "Thrash",
+            31
+        ],
+        [
+            "Fling",
+            33
+        ],
+        [
+            "Bone-rush",
+            37
+        ],
+        [
+            "Endeavor",
+            41
+        ],
+        [
+            "Double-edge",
+            43
+        ]
+    ],
+    "yellow": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bone-club",
+            10
+        ],
+        [
+            "Tail-whip",
+            13
+        ],
+        [
+            "Headbutt",
+            18
+        ],
+        [
+            "Leer",
+            25
+        ],
+        [
+            "Focus-energy",
+            31
+        ],
+        [
+            "Thrash",
+            38
+        ],
+        [
+            "Bonemerang",
+            43
+        ],
+        [
+            "Rage",
+            46
+        ]
+    ],
+    "red-blue": [
+        [
+            "Growl",
+            1
+        ],
+        [
+            "Bone-club",
+            1
+        ],
+        [
+            "Leer",
+            25
+        ],
+        [
+            "Focus-energy",
+            31
+        ],
+        [
+            "Thrash",
+            38
+        ],
+        [
+            "Bonemerang",
+            43
+        ],
+        [
+            "Rage",
+            46
+        ]
     ]
 }

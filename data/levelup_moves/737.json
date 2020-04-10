@@ -1,38 +1,142 @@
 {
     "ultra-sun-ultra-moon": [
-        "Vice-grip learnt at level 1",
-        "Bite learnt at level 1",
-        "String-shot learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Charge learnt at level 1",
-        "String-shot learnt at level 4",
-        "Mud-slap learnt at level 7",
-        "Bite learnt at level 10",
-        "Bug-bite learnt at level 13",
-        "Spark learnt at level 16",
-        "Acrobatics learnt at level 19",
-        "Crunch learnt at level 25",
-        "X-scissor learnt at level 31",
-        "Dig learnt at level 37",
-        "Discharge learnt at level 43",
-        "Iron-defense learnt at level 49"
+        [
+            "Charge",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "String-shot",
+            4
+        ],
+        [
+            "Mud-slap",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Spark",
+            16
+        ],
+        [
+            "Acrobatics",
+            19
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "X-scissor",
+            31
+        ],
+        [
+            "Dig",
+            37
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Iron-defense",
+            49
+        ]
     ],
     "sun-moon": [
-        "Vice-grip learnt at level 1",
-        "Bite learnt at level 1",
-        "String-shot learnt at level 1",
-        "Mud-slap learnt at level 1",
-        "Charge learnt at level 1",
-        "String-shot learnt at level 4",
-        "Mud-slap learnt at level 7",
-        "Bite learnt at level 10",
-        "Bug-bite learnt at level 13",
-        "Spark learnt at level 16",
-        "Acrobatics learnt at level 19",
-        "Crunch learnt at level 25",
-        "X-scissor learnt at level 31",
-        "Dig learnt at level 37",
-        "Discharge learnt at level 43",
-        "Iron-defense learnt at level 49"
+        [
+            "Charge",
+            0
+        ],
+        [
+            "Vice-grip",
+            1
+        ],
+        [
+            "Bite",
+            1
+        ],
+        [
+            "String-shot",
+            1
+        ],
+        [
+            "Mud-slap",
+            1
+        ],
+        [
+            "Charge",
+            1
+        ],
+        [
+            "String-shot",
+            4
+        ],
+        [
+            "Mud-slap",
+            7
+        ],
+        [
+            "Bite",
+            10
+        ],
+        [
+            "Bug-bite",
+            13
+        ],
+        [
+            "Spark",
+            16
+        ],
+        [
+            "Acrobatics",
+            19
+        ],
+        [
+            "Crunch",
+            25
+        ],
+        [
+            "X-scissor",
+            31
+        ],
+        [
+            "Dig",
+            37
+        ],
+        [
+            "Discharge",
+            43
+        ],
+        [
+            "Iron-defense",
+            49
+        ]
     ]
 }

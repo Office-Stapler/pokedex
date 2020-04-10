@@ -1,193 +1,712 @@
 {
-    "heartgold-soulsilver": [
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Hail learnt at level 25",
-        "Ice-fang learnt at level 28",
-        "Take-down learnt at level 32",
-        "Double-hit learnt at level 33",
-        "Earthquake learnt at level 40",
-        "Mist learnt at level 48",
-        "Blizzard learnt at level 56",
-        "Scary-face learnt at level 65"
-    ],
     "ultra-sun-ultra-moon": [
-        "Fury-attack learnt at level 1",
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Hail learnt at level 21",
-        "Ice-fang learnt at level 24",
-        "Take-down learnt at level 28",
-        "Double-hit learnt at level 33",
-        "Mist learnt at level 37",
-        "Thrash learnt at level 41",
-        "Earthquake learnt at level 46",
-        "Blizzard learnt at level 52",
-        "Scary-face learnt at level 58"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Hail",
+            21
+        ],
+        [
+            "Ice-fang",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Thrash",
+            41
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Blizzard",
+            52
+        ],
+        [
+            "Scary-face",
+            58
+        ]
     ],
     "sun-moon": [
-        "Fury-attack learnt at level 1",
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Hail learnt at level 21",
-        "Ice-fang learnt at level 24",
-        "Take-down learnt at level 28",
-        "Double-hit learnt at level 33",
-        "Mist learnt at level 37",
-        "Thrash learnt at level 41",
-        "Earthquake learnt at level 46",
-        "Blizzard learnt at level 52",
-        "Scary-face learnt at level 58"
+        [
+            "Fury-attack",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Hail",
+            21
+        ],
+        [
+            "Ice-fang",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Thrash",
+            41
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Blizzard",
+            52
+        ],
+        [
+            "Scary-face",
+            58
+        ]
     ],
     "x-y": [
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Hail learnt at level 21",
-        "Ice-fang learnt at level 24",
-        "Take-down learnt at level 28",
-        "Double-hit learnt at level 33",
-        "Mist learnt at level 37",
-        "Thrash learnt at level 41",
-        "Earthquake learnt at level 46",
-        "Blizzard learnt at level 52",
-        "Scary-face learnt at level 58"
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Hail",
+            21
+        ],
+        [
+            "Ice-fang",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Thrash",
+            41
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Blizzard",
+            52
+        ],
+        [
+            "Scary-face",
+            58
+        ]
     ],
     "black-2-white-2": [
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Hail learnt at level 21",
-        "Ice-fang learnt at level 24",
-        "Take-down learnt at level 28",
-        "Double-hit learnt at level 33",
-        "Mist learnt at level 37",
-        "Thrash learnt at level 41",
-        "Earthquake learnt at level 46",
-        "Blizzard learnt at level 52",
-        "Scary-face learnt at level 58"
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Hail",
+            21
+        ],
+        [
+            "Ice-fang",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Thrash",
+            41
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Blizzard",
+            52
+        ],
+        [
+            "Scary-face",
+            58
+        ]
     ],
     "black-white": [
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Hail learnt at level 25",
-        "Ice-fang learnt at level 28",
-        "Take-down learnt at level 32",
-        "Double-hit learnt at level 33",
-        "Earthquake learnt at level 40",
-        "Mist learnt at level 48",
-        "Blizzard learnt at level 56",
-        "Scary-face learnt at level 65"
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Hail",
+            25
+        ],
+        [
+            "Ice-fang",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Mist",
+            48
+        ],
+        [
+            "Blizzard",
+            56
+        ],
+        [
+            "Scary-face",
+            65
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Hail",
+            25
+        ],
+        [
+            "Ice-fang",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Mist",
+            48
+        ],
+        [
+            "Blizzard",
+            56
+        ],
+        [
+            "Scary-face",
+            65
+        ]
     ],
     "platinum": [
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Hail learnt at level 25",
-        "Ice-fang learnt at level 28",
-        "Take-down learnt at level 32",
-        "Double-hit learnt at level 33",
-        "Earthquake learnt at level 40",
-        "Mist learnt at level 48",
-        "Blizzard learnt at level 56",
-        "Scary-face learnt at level 65"
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Hail",
+            25
+        ],
+        [
+            "Ice-fang",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Mist",
+            48
+        ],
+        [
+            "Blizzard",
+            56
+        ],
+        [
+            "Scary-face",
+            65
+        ]
     ],
     "omega-ruby-alpha-sapphire": [
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Scary-face learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 5",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 11",
-        "Endure learnt at level 14",
-        "Mud-bomb learnt at level 18",
-        "Hail learnt at level 21",
-        "Ice-fang learnt at level 24",
-        "Take-down learnt at level 28",
-        "Double-hit learnt at level 33",
-        "Mist learnt at level 37",
-        "Thrash learnt at level 41",
-        "Earthquake learnt at level 46",
-        "Blizzard learnt at level 52",
-        "Scary-face learnt at level 58"
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Scary-face",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            5
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            11
+        ],
+        [
+            "Endure",
+            14
+        ],
+        [
+            "Mud-bomb",
+            18
+        ],
+        [
+            "Hail",
+            21
+        ],
+        [
+            "Ice-fang",
+            24
+        ],
+        [
+            "Take-down",
+            28
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Mist",
+            37
+        ],
+        [
+            "Thrash",
+            41
+        ],
+        [
+            "Earthquake",
+            46
+        ],
+        [
+            "Blizzard",
+            52
+        ],
+        [
+            "Scary-face",
+            58
+        ]
     ],
     "diamond-pearl": [
-        "Peck learnt at level 1",
-        "Powder-snow learnt at level 1",
-        "Ancient-power learnt at level 1",
-        "Mud-sport learnt at level 1",
-        "Odor-sleuth learnt at level 1",
-        "Mud-sport learnt at level 4",
-        "Powder-snow learnt at level 8",
-        "Mud-slap learnt at level 13",
-        "Endure learnt at level 16",
-        "Mud-bomb learnt at level 20",
-        "Hail learnt at level 25",
-        "Ice-fang learnt at level 28",
-        "Take-down learnt at level 32",
-        "Double-hit learnt at level 33",
-        "Earthquake learnt at level 40",
-        "Mist learnt at level 48",
-        "Blizzard learnt at level 56",
-        "Scary-face learnt at level 65"
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Powder-snow",
+            1
+        ],
+        [
+            "Ancient-power",
+            1
+        ],
+        [
+            "Mud-sport",
+            1
+        ],
+        [
+            "Odor-sleuth",
+            1
+        ],
+        [
+            "Mud-sport",
+            4
+        ],
+        [
+            "Powder-snow",
+            8
+        ],
+        [
+            "Mud-slap",
+            13
+        ],
+        [
+            "Endure",
+            16
+        ],
+        [
+            "Mud-bomb",
+            20
+        ],
+        [
+            "Hail",
+            25
+        ],
+        [
+            "Ice-fang",
+            28
+        ],
+        [
+            "Take-down",
+            32
+        ],
+        [
+            "Double-hit",
+            33
+        ],
+        [
+            "Earthquake",
+            40
+        ],
+        [
+            "Mist",
+            48
+        ],
+        [
+            "Blizzard",
+            56
+        ],
+        [
+            "Scary-face",
+            65
+        ]
     ]
 }

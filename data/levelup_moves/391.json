@@ -1,152 +1,556 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Mach-punch learnt at level 14",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Acrobatics learnt at level 46",
-        "Slack-off learnt at level 49",
-        "Flare-blitz learnt at level 56"
-    ],
-    "black-2-white-2": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Mach-punch learnt at level 14",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Acrobatics learnt at level 46",
-        "Slack-off learnt at level 49",
-        "Flare-blitz learnt at level 56"
-    ],
-    "heartgold-soulsilver": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Mach-punch learnt at level 14",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Slack-off learnt at level 46",
-        "Flare-blitz learnt at level 49"
-    ],
-    "platinum": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Mach-punch learnt at level 14",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Slack-off learnt at level 46",
-        "Flare-blitz learnt at level 49"
-    ],
     "ultra-sun-ultra-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Mach-punch learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Acrobatics learnt at level 46",
-        "Slack-off learnt at level 49",
-        "Flare-blitz learnt at level 56"
+        [
+            "Mach-punch",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Mach-punch",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Acrobatics",
+            46
+        ],
+        [
+            "Slack-off",
+            49
+        ],
+        [
+            "Flare-blitz",
+            56
+        ]
     ],
     "sun-moon": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Mach-punch learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Acrobatics learnt at level 46",
-        "Slack-off learnt at level 49",
-        "Flare-blitz learnt at level 56"
+        [
+            "Mach-punch",
+            0
+        ],
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Mach-punch",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Acrobatics",
+            46
+        ],
+        [
+            "Slack-off",
+            49
+        ],
+        [
+            "Flare-blitz",
+            56
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Mach-punch",
+            14
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Acrobatics",
+            46
+        ],
+        [
+            "Slack-off",
+            49
+        ],
+        [
+            "Flare-blitz",
+            56
+        ]
     ],
     "x-y": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Mach-punch learnt at level 14",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Acrobatics learnt at level 46",
-        "Slack-off learnt at level 49",
-        "Flare-blitz learnt at level 56"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Mach-punch",
+            14
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Acrobatics",
+            46
+        ],
+        [
+            "Slack-off",
+            49
+        ],
+        [
+            "Flare-blitz",
+            56
+        ]
+    ],
+    "black-2-white-2": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Mach-punch",
+            14
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Acrobatics",
+            46
+        ],
+        [
+            "Slack-off",
+            49
+        ],
+        [
+            "Flare-blitz",
+            56
+        ]
     ],
     "black-white": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Mach-punch learnt at level 14",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Acrobatics learnt at level 46",
-        "Slack-off learnt at level 49",
-        "Flare-blitz learnt at level 56"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Mach-punch",
+            14
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Acrobatics",
+            46
+        ],
+        [
+            "Slack-off",
+            49
+        ],
+        [
+            "Flare-blitz",
+            56
+        ]
+    ],
+    "heartgold-soulsilver": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Mach-punch",
+            14
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Slack-off",
+            46
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
+    ],
+    "platinum": [
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Mach-punch",
+            14
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Slack-off",
+            46
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ],
     "diamond-pearl": [
-        "Scratch learnt at level 1",
-        "Leer learnt at level 1",
-        "Ember learnt at level 1",
-        "Ember learnt at level 7",
-        "Taunt learnt at level 9",
-        "Mach-punch learnt at level 14",
-        "Fury-swipes learnt at level 16",
-        "Flame-wheel learnt at level 19",
-        "Feint learnt at level 26",
-        "Torment learnt at level 29",
-        "Close-combat learnt at level 36",
-        "Fire-spin learnt at level 39",
-        "Slack-off learnt at level 46",
-        "Flare-blitz learnt at level 49"
+        [
+            "Scratch",
+            1
+        ],
+        [
+            "Leer",
+            1
+        ],
+        [
+            "Ember",
+            1
+        ],
+        [
+            "Ember",
+            7
+        ],
+        [
+            "Taunt",
+            9
+        ],
+        [
+            "Mach-punch",
+            14
+        ],
+        [
+            "Fury-swipes",
+            16
+        ],
+        [
+            "Flame-wheel",
+            19
+        ],
+        [
+            "Feint",
+            26
+        ],
+        [
+            "Torment",
+            29
+        ],
+        [
+            "Close-combat",
+            36
+        ],
+        [
+            "Fire-spin",
+            39
+        ],
+        [
+            "Slack-off",
+            46
+        ],
+        [
+            "Flare-blitz",
+            49
+        ]
     ]
 }

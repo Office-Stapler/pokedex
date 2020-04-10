@@ -1,90 +1,330 @@
 {
-    "omega-ruby-alpha-sapphire": [
-        "Tackle learnt at level 1",
-        "Peck learnt at level 1",
-        "Constrict learnt at level 1",
-        "Reversal learnt at level 1",
-        "Superpower learnt at level 1",
-        "Reflect learnt at level 4",
-        "Foul-play learnt at level 8",
-        "Swagger learnt at level 12",
-        "Psywave learnt at level 13",
-        "Topsy-turvy learnt at level 15",
-        "Hypnosis learnt at level 18",
-        "Psybeam learnt at level 21",
-        "Switcheroo learnt at level 23",
-        "Payback learnt at level 27",
-        "Light-screen learnt at level 31",
-        "Pluck learnt at level 35",
-        "Psycho-cut learnt at level 39",
-        "Slash learnt at level 43",
-        "Night-slash learnt at level 46",
-        "Superpower learnt at level 48"
-    ],
-    "x-y": [
-        "Tackle learnt at level 1",
-        "Peck learnt at level 1",
-        "Constrict learnt at level 1",
-        "Reversal learnt at level 1",
-        "Superpower learnt at level 1",
-        "Reflect learnt at level 4",
-        "Foul-play learnt at level 8",
-        "Swagger learnt at level 12",
-        "Psywave learnt at level 13",
-        "Topsy-turvy learnt at level 15",
-        "Hypnosis learnt at level 18",
-        "Psybeam learnt at level 21",
-        "Switcheroo learnt at level 23",
-        "Payback learnt at level 27",
-        "Light-screen learnt at level 31",
-        "Pluck learnt at level 35",
-        "Psycho-cut learnt at level 39",
-        "Slash learnt at level 43",
-        "Night-slash learnt at level 46",
-        "Superpower learnt at level 48"
-    ],
     "sun-moon": [
-        "Tackle learnt at level 1",
-        "Peck learnt at level 1",
-        "Reflect learnt at level 1",
-        "Constrict learnt at level 1",
-        "Reversal learnt at level 1",
-        "Reflect learnt at level 4",
-        "Foul-play learnt at level 8",
-        "Swagger learnt at level 12",
-        "Psywave learnt at level 13",
-        "Topsy-turvy learnt at level 15",
-        "Hypnosis learnt at level 18",
-        "Psybeam learnt at level 21",
-        "Switcheroo learnt at level 23",
-        "Payback learnt at level 27",
-        "Light-screen learnt at level 31",
-        "Pluck learnt at level 35",
-        "Psycho-cut learnt at level 39",
-        "Slash learnt at level 43",
-        "Night-slash learnt at level 46",
-        "Superpower learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Reflect",
+            4
+        ],
+        [
+            "Foul-play",
+            8
+        ],
+        [
+            "Swagger",
+            12
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Topsy-turvy",
+            15
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Psybeam",
+            21
+        ],
+        [
+            "Switcheroo",
+            23
+        ],
+        [
+            "Payback",
+            27
+        ],
+        [
+            "Light-screen",
+            31
+        ],
+        [
+            "Pluck",
+            35
+        ],
+        [
+            "Psycho-cut",
+            39
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Night-slash",
+            46
+        ],
+        [
+            "Superpower",
+            48
+        ]
+    ],
+    "omega-ruby-alpha-sapphire": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Reflect",
+            4
+        ],
+        [
+            "Foul-play",
+            8
+        ],
+        [
+            "Swagger",
+            12
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Topsy-turvy",
+            15
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Psybeam",
+            21
+        ],
+        [
+            "Switcheroo",
+            23
+        ],
+        [
+            "Payback",
+            27
+        ],
+        [
+            "Light-screen",
+            31
+        ],
+        [
+            "Pluck",
+            35
+        ],
+        [
+            "Psycho-cut",
+            39
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Night-slash",
+            46
+        ],
+        [
+            "Superpower",
+            48
+        ]
     ],
     "ultra-sun-ultra-moon": [
-        "Tackle learnt at level 1",
-        "Peck learnt at level 1",
-        "Reflect learnt at level 1",
-        "Constrict learnt at level 1",
-        "Reversal learnt at level 1",
-        "Reflect learnt at level 4",
-        "Foul-play learnt at level 8",
-        "Swagger learnt at level 12",
-        "Psywave learnt at level 13",
-        "Topsy-turvy learnt at level 15",
-        "Hypnosis learnt at level 18",
-        "Psybeam learnt at level 21",
-        "Switcheroo learnt at level 23",
-        "Payback learnt at level 27",
-        "Light-screen learnt at level 31",
-        "Pluck learnt at level 35",
-        "Psycho-cut learnt at level 39",
-        "Slash learnt at level 43",
-        "Night-slash learnt at level 46",
-        "Superpower learnt at level 48"
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Reflect",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Reflect",
+            4
+        ],
+        [
+            "Foul-play",
+            8
+        ],
+        [
+            "Swagger",
+            12
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Topsy-turvy",
+            15
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Psybeam",
+            21
+        ],
+        [
+            "Switcheroo",
+            23
+        ],
+        [
+            "Payback",
+            27
+        ],
+        [
+            "Light-screen",
+            31
+        ],
+        [
+            "Pluck",
+            35
+        ],
+        [
+            "Psycho-cut",
+            39
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Night-slash",
+            46
+        ],
+        [
+            "Superpower",
+            48
+        ]
+    ],
+    "x-y": [
+        [
+            "Tackle",
+            1
+        ],
+        [
+            "Peck",
+            1
+        ],
+        [
+            "Constrict",
+            1
+        ],
+        [
+            "Reversal",
+            1
+        ],
+        [
+            "Superpower",
+            1
+        ],
+        [
+            "Reflect",
+            4
+        ],
+        [
+            "Foul-play",
+            8
+        ],
+        [
+            "Swagger",
+            12
+        ],
+        [
+            "Psywave",
+            13
+        ],
+        [
+            "Topsy-turvy",
+            15
+        ],
+        [
+            "Hypnosis",
+            18
+        ],
+        [
+            "Psybeam",
+            21
+        ],
+        [
+            "Switcheroo",
+            23
+        ],
+        [
+            "Payback",
+            27
+        ],
+        [
+            "Light-screen",
+            31
+        ],
+        [
+            "Pluck",
+            35
+        ],
+        [
+            "Psycho-cut",
+            39
+        ],
+        [
+            "Slash",
+            43
+        ],
+        [
+            "Night-slash",
+            46
+        ],
+        [
+            "Superpower",
+            48
+        ]
     ]
 }
