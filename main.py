@@ -1,4 +1,5 @@
 import tkinter
+from tkinter.ttk import Progressbar
 import pokedex
 import pokeAPI
 
@@ -32,9 +33,52 @@ lbl.pack()
 lbltype1.pack()
 lbltype2.pack()
 
+lblhp = tkinter.Label(text='HP: 45', font=('Helvetica', 15))
+lblhp.pack()
 
-btnnext = tkinter.Button(tk.bottomFrame, text='>', fg='darkblue', bg='white', command=lambda: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
-btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
+statushp = Progressbar(tk.win, length=255)
+statushp['value'] = (45 / 255) * 100
+statushp.pack()
+
+lblattack = tkinter.Label(text='Attack: 49', font=('Helvetica', 15))
+lblattack.pack()
+
+statusattack = Progressbar(tk.win, length=255)
+statusattack['value'] = 49 / 255 * 100
+statusattack.pack()
+
+lbldef = tkinter.Label(text='Defense: 49', font=('Helvetica', 15))
+lbldef.pack()
+
+statusdef = Progressbar(tk.win, length=255)
+statusdef['value'] = 49 / 255 * 100
+statusdef.pack()
+
+lblspatk = tkinter.Label(text='Special Atack: 65', font=('Helvetica', 15))
+lblspatk.pack()
+
+statusspatk = Progressbar(tk.win, length=255)
+statusspatk['value'] = 65 / 255 * 100
+statusspatk.pack()
+
+lblspdef = tkinter.Label(text='Special Defense: 65', font=('Helvetica', 15))
+lblspdef.pack()
+
+statusspdef = Progressbar(tk.win, length=255)
+statusspdef['value'] = 65 / 255 * 100
+statusspdef.pack()
+
+lblspd = tkinter.Label(text='Speed: 45', font=('Helvetica', 15))
+lblspd.pack()
+
+statusspd = Progressbar(tk.win, length=255)
+statusspd['value'] = 45 / 255 * 100
+statusspd.pack()
+
+stats = [lblhp, statushp, lblattack, statusattack, lbldef, statusdef, lblspatk, statusspatk, lblspdef, statusspdef, lblspd, statusspd]
+
+btnnext = tkinter.Button(tk.bottomFrame, text='>', fg='darkblue', bg='white', command=lambda: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
+btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
 btnnext.grid(row=0, column=1, rowspan = 2)
 btnprev.grid(row=0, column=0, rowspan = 2)
 
@@ -50,6 +94,9 @@ btnmachine.grid(row=1,column=0)
 btntutor.grid(row=2,column=0)
 
 listbox.grid(row=3,column=0)
+
+
+
 btnmoves = tkinter.Button(tk.rightFrame, text='About Move', command= lambda: tk.get_move_info(listbox))
 btnmoves.grid(row=2,column=1)
 tk.list_moves(listbox)
@@ -57,9 +104,9 @@ tk.list_moves(listbox)
 scrollbar = tkinter.Scrollbar(tk.rightFrame, orient='vertical')
 scrollbar.config(command=listbox.yview)
 
-tk.win.bind('<Right>', lambda e: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
-tk.win.bind('<Left>', lambda e: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
-tk.win.bind('<Return>', lambda e: [tk.search_pokemon(lbl, lblname, search, lbltype1, lbltype2), tk.list_moves(listbox)])
+tk.win.bind('<Right>', lambda e: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
+tk.win.bind('<Left>', lambda e: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
+tk.win.bind('<Return>', lambda e: [tk.search_pokemon(lbl, lblname, search, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
 listbox.bind('<Double-1>', lambda e: tk.get_move_info(listbox))
 
 tk.win.mainloop()

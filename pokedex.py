@@ -205,3 +205,21 @@ class Pokedex:
             lbltype2.image = ''
         lbltype1.config(image=lbltype1.image)
         lbltype2.config(image=lbltype2.image)
+
+
+    def label_stats(self, stats):
+        with open('data/pokedex.json') as fread:
+            pokedex = json.load(fread)
+        base = pokedex[self.url['id'] - 1]['base']
+        stats[0].config(text = f'HP: {base["HP"]}')
+        stats[1]['value'] = base['HP'] / 255 * 100
+        stats[2].config(text = f'Attack: {base["Attack"]}')
+        stats[3]['value'] = base['Attack'] / 255 * 100
+        stats[4].config(text = f'Defense: {base["Defense"]}')
+        stats[5]['value'] = base['Defense'] / 255 * 100
+        stats[6].config(text = f'Sp. Attack: {base["Sp. Attack"]}')
+        stats[7]['value'] = base['Sp. Attack'] / 255 * 100
+        stats[8].config(text = f'Sp. Defense: {base["Sp. Defense"]}')
+        stats[9]['value'] = base['Sp. Defense'] / 255 * 100
+        stats[10].config(text = f'Speed: {base["Speed"]}')
+        stats[11]['value'] = base['Speed'] / 255 * 100
