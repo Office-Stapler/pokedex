@@ -94,11 +94,6 @@ btnmachine.grid(row=1,column=0)
 btntutor.grid(row=2,column=0)
 
 listbox.grid(row=3,column=0)
-
-
-
-btnmoves = tkinter.Button(tk.rightFrame, text='About Move', command= lambda: tk.get_move_info(listbox))
-btnmoves.grid(row=2,column=1)
 tk.list_moves(listbox)
 
 scrollbar = tkinter.Scrollbar(tk.rightFrame, orient='vertical')
