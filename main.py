@@ -4,11 +4,13 @@ import pokeAPI
 
 
 tk = pokedex.Pokedex()
+tk.win.title('Pokedex')
+
 
 img = tkinter.PhotoImage(file=tk.url['url'])
 lblname = tkinter.Label(tk.topFrame, text=f'{tk.pokemon[tk.url["id"] - 1]["name"]["english"]}: 1', font=('Helvetica', 40))
 lbl = tkinter.Label(tk.win, image=img)
-listbox = tkinter.Listbox(tk.rightFrame, width=50, height=50, font=('Helvetica', 12))
+listbox = tkinter.Listbox(tk.rightFrame, width=50, height=20, font=('Helvetica', 12))
 
 search = tkinter.Entry(tk.topFrame, width=50, borderwidth=5, font=('Aerial', 20))
 search.pack()
@@ -25,8 +27,6 @@ btnseach.pack()
 lblname.pack()
 
 
-
-
 lbl.pack()
 
 lbltype1.pack()
@@ -39,16 +39,23 @@ btnnext.grid(row=0, column=1, rowspan = 2)
 btnprev.grid(row=0, column=0, rowspan = 2)
 
 
-listbox.pack()
+btnlevelup = tkinter.Button(tk.rightFrame, text='Level up Moves', command = lambda: tk.list_moves(listbox))
 
+btnmachine = tkinter.Button(tk.rightFrame, text='Machine moves', command = lambda: tk.list_machine_moves(listbox))
+btnlevelup.grid(row=0,column=0)
+btnmachine.grid(row=1,column=0)
+
+listbox.grid(row=2,column=0)
+btnmoves = tkinter.Button(tk.rightFrame, text='About Move', command= lambda: tk.get_move_info(listbox))
+btnmoves.grid(row=2,column=1)
 tk.list_moves(listbox)
 
 scrollbar = tkinter.Scrollbar(tk.rightFrame, orient='vertical')
 scrollbar.config(command=listbox.yview)
-scrollbar.pack(side='right', fill='y')
 
 tk.win.bind('<Right>', lambda e: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
 tk.win.bind('<Left>', lambda e: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox)])
 tk.win.bind('<Return>', lambda e: [tk.search_pokemon(lbl, lblname, search, lbltype1, lbltype2), tk.list_moves(listbox)])
+listbox.bind('<Double-1>', lambda e: tk.get_move_info(listbox))
 
 tk.win.mainloop()

@@ -4,6 +4,40 @@ import os
 import random
 import json
 
+
+class Win:
+    def __init__(self, name):
+        self.win = tkinter.Tk()
+        self.win.title(name.replace('-',' '))
+        self.win.geometry('250x250')
+        with open('data/moves.json') as fread:
+            moves = json.load(fread)
+
+        for i in moves:
+            if i['ename'].lower() == name.replace('-', ' ').lower():
+                self.move = i
+                break
+
+        lblname = tkinter.Label(self.win, text=f'About {name.replace("-"," ")}', font=('Arial', 15))
+        lblname.pack()
+        typ = tkinter.PhotoImage(file=f'data/types_images/{self.move["type"].lower()}.png', master=self.win)
+        lbltyp = tkinter.Label(self.win, image=typ)
+        lbltyp.image = typ
+        lbltyp.config(image=typ)
+        lbltyp.pack()
+        
+        lblacc = tkinter.Label(self.win, text=f'Accuracy: {self.move["accuracy"]}', font=('Arial', 15))
+        lblacc.pack()
+
+        lblpower = tkinter.Label(self.win, text=f'Power: {self.move["power"]}', font=('Arial', 15))
+        lblpower.pack()
+
+        lblpp = tkinter.Label(self.win, text=f'PP: {self.move["pp"]}', font=('Arial', 15))
+        lblpp.pack()
+
+    def quit(self):
+        self.win.destroy()
+
 class Pokedex:
     def __init__(self):
         with open('data/pokedex.json', 'r+', encoding='utf-8') as f:
@@ -24,6 +58,8 @@ class Pokedex:
         self.rightFrame = tkinter.Frame(self.win)
         self.rightFrame.pack(side=tkinter.RIGHT)
 
+        self.movewin = None
+
     def next_image(self, lbl, lblname, lbltype1, lbltype2, event=None):
         nxt = self.url['id'] + 1
         new_url = f'data/images/{nxt:03d}.png'
@@ -34,7 +70,7 @@ class Pokedex:
             self.url['id'] += 1
             lblname.config(text = f'{self.pokemon[self.url["id"] - 1]["name"]["english"]}: {self.url["id"]}')
             self.__change_types(lbltype1, lbltype2)
-
+        
     def prev_image(self, lbl, lblname, lbltype1, lbltype2, event=None):
         prev = self.url['id'] - 1
         new_url = f'data/images/{prev:03d}.png'
@@ -94,15 +130,54 @@ class Pokedex:
             return
 
         for i in list(moves.keys())[::-1]:
-            listbox.insert(tkinter.END, f'==={i.upper()}==')
+            listbox.insert(tkinter.END, f'==={i.upper()}===')
             for j in moves[i]:
                 listbox.insert(tkinter.END, j)
+
+    def list_machine_moves(self, listbox):
+        listbox.delete('0', 'end')
+        moves = self.get_machine_moves()
+        if not moves:
+            return
+        for i in list(moves.keys())[::-1]:
+            listbox.insert(tkinter.END, f'==={i.upper()}===')
+            for j in moves[i]:
+                listbox.insert(tkinter.END, j.capitalize())
 
     def get_type(self, pid=None):
         if not pid:
             return [x.lower() for x in self.pokemon[self.url['id'] - 1]['type']]
         else:
             return [x.lower() for x in self.pokemon[pid - 1]['type']]
+
+    def get_machine_moves(self, pid=None):
+        if not pid:
+            with open(f'data/machine_moves/{self.url["id"]:03d}.json', 'r') as fread:
+                moves =json.load(fread)
+        else:
+            with open(f'data/machine_moves/{pid:03d}.json', 'r') as fread:
+                moves =json.load(fread)
+        return moves
+    def get_move_info(self, listbox, event=None):
+        move = listbox.curselection()
+        if move == ():
+            return
+        mvstring = listbox.get(move[0])
+        if '===' in mvstring:
+            return
+        if self.movewin:
+            try:
+                self.movewin.quit()
+            except:
+                self.movewin = None
+        mvstring = mvstring.split(' ')[0]
+        self.movewin = Win(mvstring)
+
+
+
+
+        self.movewin.win.mainloop()
+
 
     def __change_types(self, lbltype1, lbltype2):
         types = self.get_type()
