@@ -1,1 +1,34 @@
-{"ultra-sun-ultra-moon": ["Tackle learnt at level 1", "Leer learnt at level 5", "Bide learnt at level 9", "Protect learnt at level 13", "Dragon-tail learnt at level 17", "Scary-face learnt at level 21", "Headbutt learnt at level 25", "Work-up learnt at level 29", "Screech learnt at level 33", "Iron-defense learnt at level 37", "Dragon-claw learnt at level 41", "Noble-roar learnt at level 45", "Dragon-dance learnt at level 49", "Outrage learnt at level 53"], "sun-moon": ["Tackle learnt at level 1", "Leer learnt at level 5", "Bide learnt at level 9", "Protect learnt at level 13", "Dragon-tail learnt at level 17", "Scary-face learnt at level 21", "Headbutt learnt at level 25", "Work-up learnt at level 29", "Screech learnt at level 33", "Iron-defense learnt at level 37", "Dragon-claw learnt at level 41", "Noble-roar learnt at level 45", "Dragon-dance learnt at level 49", "Outrage learnt at level 53"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Tackle learnt at level 1",
+        "Leer learnt at level 5",
+        "Bide learnt at level 9",
+        "Protect learnt at level 13",
+        "Dragon-tail learnt at level 17",
+        "Scary-face learnt at level 21",
+        "Headbutt learnt at level 25",
+        "Work-up learnt at level 29",
+        "Screech learnt at level 33",
+        "Iron-defense learnt at level 37",
+        "Dragon-claw learnt at level 41",
+        "Noble-roar learnt at level 45",
+        "Dragon-dance learnt at level 49",
+        "Outrage learnt at level 53"
+    ],
+    "sun-moon": [
+        "Tackle learnt at level 1",
+        "Leer learnt at level 5",
+        "Bide learnt at level 9",
+        "Protect learnt at level 13",
+        "Dragon-tail learnt at level 17",
+        "Scary-face learnt at level 21",
+        "Headbutt learnt at level 25",
+        "Work-up learnt at level 29",
+        "Screech learnt at level 33",
+        "Iron-defense learnt at level 37",
+        "Dragon-claw learnt at level 41",
+        "Noble-roar learnt at level 45",
+        "Dragon-dance learnt at level 49",
+        "Outrage learnt at level 53"
+    ]
+}

@@ -1,1 +1,34 @@
-{"ultra-sun-ultra-moon": ["Scratch learnt at level 1", "Poison-gas learnt at level 1", "Ember learnt at level 5", "Sweet-scent learnt at level 8", "Dragon-rage learnt at level 13", "Smog learnt at level 16", "Double-slap learnt at level 21", "Flame-burst learnt at level 24", "Toxic learnt at level 29", "Nasty-plot learnt at level 32", "Venoshock learnt at level 37", "Flamethrower learnt at level 40", "Venom-drench learnt at level 45", "Dragon-pulse learnt at level 48"], "sun-moon": ["Scratch learnt at level 1", "Poison-gas learnt at level 1", "Ember learnt at level 5", "Sweet-scent learnt at level 8", "Dragon-rage learnt at level 13", "Smog learnt at level 16", "Double-slap learnt at level 21", "Flame-burst learnt at level 24", "Toxic learnt at level 29", "Nasty-plot learnt at level 32", "Venoshock learnt at level 37", "Flamethrower learnt at level 40", "Venom-drench learnt at level 45", "Dragon-pulse learnt at level 48"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Scratch learnt at level 1",
+        "Poison-gas learnt at level 1",
+        "Ember learnt at level 5",
+        "Sweet-scent learnt at level 8",
+        "Dragon-rage learnt at level 13",
+        "Smog learnt at level 16",
+        "Double-slap learnt at level 21",
+        "Flame-burst learnt at level 24",
+        "Toxic learnt at level 29",
+        "Nasty-plot learnt at level 32",
+        "Venoshock learnt at level 37",
+        "Flamethrower learnt at level 40",
+        "Venom-drench learnt at level 45",
+        "Dragon-pulse learnt at level 48"
+    ],
+    "sun-moon": [
+        "Scratch learnt at level 1",
+        "Poison-gas learnt at level 1",
+        "Ember learnt at level 5",
+        "Sweet-scent learnt at level 8",
+        "Dragon-rage learnt at level 13",
+        "Smog learnt at level 16",
+        "Double-slap learnt at level 21",
+        "Flame-burst learnt at level 24",
+        "Toxic learnt at level 29",
+        "Nasty-plot learnt at level 32",
+        "Venoshock learnt at level 37",
+        "Flamethrower learnt at level 40",
+        "Venom-drench learnt at level 45",
+        "Dragon-pulse learnt at level 48"
+    ]
+}

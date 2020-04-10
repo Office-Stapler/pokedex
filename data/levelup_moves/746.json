@@ -1,1 +1,36 @@
-{"ultra-sun-ultra-moon": ["Growl learnt at level 1", "Water-gun learnt at level 1", "Helping-hand learnt at level 6", "Feint-attack learnt at level 9", "Brine learnt at level 14", "Aqua-ring learnt at level 17", "Tearful-look learnt at level 22", "Take-down learnt at level 25", "Dive learnt at level 30", "Beat-up learnt at level 33", "Aqua-tail learnt at level 38", "Double-edge learnt at level 41", "Soak learnt at level 46", "Endeavor learnt at level 49", "Hydro-pump learnt at level 54"], "sun-moon": ["Growl learnt at level 1", "Water-gun learnt at level 1", "Helping-hand learnt at level 6", "Feint-attack learnt at level 9", "Brine learnt at level 14", "Aqua-ring learnt at level 17", "Tearful-look learnt at level 22", "Take-down learnt at level 25", "Dive learnt at level 30", "Beat-up learnt at level 33", "Aqua-tail learnt at level 38", "Double-edge learnt at level 41", "Soak learnt at level 46", "Endeavor learnt at level 49", "Hydro-pump learnt at level 54"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Growl learnt at level 1",
+        "Water-gun learnt at level 1",
+        "Helping-hand learnt at level 6",
+        "Feint-attack learnt at level 9",
+        "Brine learnt at level 14",
+        "Aqua-ring learnt at level 17",
+        "Tearful-look learnt at level 22",
+        "Take-down learnt at level 25",
+        "Dive learnt at level 30",
+        "Beat-up learnt at level 33",
+        "Aqua-tail learnt at level 38",
+        "Double-edge learnt at level 41",
+        "Soak learnt at level 46",
+        "Endeavor learnt at level 49",
+        "Hydro-pump learnt at level 54"
+    ],
+    "sun-moon": [
+        "Growl learnt at level 1",
+        "Water-gun learnt at level 1",
+        "Helping-hand learnt at level 6",
+        "Feint-attack learnt at level 9",
+        "Brine learnt at level 14",
+        "Aqua-ring learnt at level 17",
+        "Tearful-look learnt at level 22",
+        "Take-down learnt at level 25",
+        "Dive learnt at level 30",
+        "Beat-up learnt at level 33",
+        "Aqua-tail learnt at level 38",
+        "Double-edge learnt at level 41",
+        "Soak learnt at level 46",
+        "Endeavor learnt at level 49",
+        "Hydro-pump learnt at level 54"
+    ]
+}

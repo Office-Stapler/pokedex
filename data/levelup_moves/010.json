@@ -1,1 +1,82 @@
-{"ultra-sun-ultra-moon": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 9"], "sun-moon": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 9"], "omega-ruby-alpha-sapphire": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 15"], "x-y": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 15"], "black-2-white-2": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 15"], "xd": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "colosseum": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "black-white": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 15"], "heartgold-soulsilver": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 15"], "platinum": ["Tackle learnt at level 1", "String-shot learnt at level 1", "Bug-bite learnt at level 15"], "diamond-pearl": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "firered-leafgreen": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "emerald": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "ruby-sapphire": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "crystal": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "gold-silver": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "yellow": ["Tackle learnt at level 1", "String-shot learnt at level 1"], "red-blue": ["Tackle learnt at level 1", "String-shot learnt at level 1"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 9"
+    ],
+    "sun-moon": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 9"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 15"
+    ],
+    "x-y": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 15"
+    ],
+    "black-2-white-2": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 15"
+    ],
+    "xd": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "colosseum": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "black-white": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 15"
+    ],
+    "heartgold-soulsilver": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 15"
+    ],
+    "platinum": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1",
+        "Bug-bite learnt at level 15"
+    ],
+    "diamond-pearl": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "firered-leafgreen": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "emerald": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "ruby-sapphire": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "crystal": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "gold-silver": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "yellow": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ],
+    "red-blue": [
+        "Tackle learnt at level 1",
+        "String-shot learnt at level 1"
+    ]
+}

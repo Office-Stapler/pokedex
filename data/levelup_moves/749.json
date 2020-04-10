@@ -1,1 +1,34 @@
-{"ultra-sun-ultra-moon": ["Mud-slap learnt at level 1", "Mud-sport learnt at level 3", "Rototiller learnt at level 8", "Bulldoze learnt at level 10", "Double-kick learnt at level 15", "Stomp learnt at level 17", "Bide learnt at level 22", "High-horsepower learnt at level 24", "Iron-defense learnt at level 29", "Heavy-slam learnt at level 31", "Counter learnt at level 36", "Earthquake learnt at level 38", "Mega-kick learnt at level 43", "Superpower learnt at level 45"], "sun-moon": ["Mud-slap learnt at level 1", "Mud-sport learnt at level 3", "Rototiller learnt at level 8", "Bulldoze learnt at level 10", "Double-kick learnt at level 15", "Stomp learnt at level 17", "Bide learnt at level 22", "High-horsepower learnt at level 24", "Iron-defense learnt at level 29", "Heavy-slam learnt at level 31", "Counter learnt at level 36", "Earthquake learnt at level 38", "Mega-kick learnt at level 43", "Superpower learnt at level 45"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Mud-slap learnt at level 1",
+        "Mud-sport learnt at level 3",
+        "Rototiller learnt at level 8",
+        "Bulldoze learnt at level 10",
+        "Double-kick learnt at level 15",
+        "Stomp learnt at level 17",
+        "Bide learnt at level 22",
+        "High-horsepower learnt at level 24",
+        "Iron-defense learnt at level 29",
+        "Heavy-slam learnt at level 31",
+        "Counter learnt at level 36",
+        "Earthquake learnt at level 38",
+        "Mega-kick learnt at level 43",
+        "Superpower learnt at level 45"
+    ],
+    "sun-moon": [
+        "Mud-slap learnt at level 1",
+        "Mud-sport learnt at level 3",
+        "Rototiller learnt at level 8",
+        "Bulldoze learnt at level 10",
+        "Double-kick learnt at level 15",
+        "Stomp learnt at level 17",
+        "Bide learnt at level 22",
+        "High-horsepower learnt at level 24",
+        "Iron-defense learnt at level 29",
+        "Heavy-slam learnt at level 31",
+        "Counter learnt at level 36",
+        "Earthquake learnt at level 38",
+        "Mega-kick learnt at level 43",
+        "Superpower learnt at level 45"
+    ]
+}

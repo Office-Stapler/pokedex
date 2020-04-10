@@ -1,1 +1,128 @@
-{"ultra-sun-ultra-moon": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 9", "Nature-power learnt at level 15", "Synthesis learnt at level 21", "Sunny-day learnt at level 27", "Explosion learnt at level 33"], "sun-moon": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 9", "Nature-power learnt at level 15", "Synthesis learnt at level 21", "Sunny-day learnt at level 27", "Explosion learnt at level 33"], "omega-ruby-alpha-sapphire": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 9", "Nature-power learnt at level 15", "Synthesis learnt at level 21", "Sunny-day learnt at level 27", "Explosion learnt at level 33"], "x-y": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "black-white": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "heartgold-soulsilver": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "platinum": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "diamond-pearl": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "firered-leafgreen": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "black-2-white-2": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "emerald": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "ruby-sapphire": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "xd": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"], "colosseum": ["Bide learnt at level 1", "Harden learnt at level 3", "Growth learnt at level 7", "Nature-power learnt at level 13", "Synthesis learnt at level 21", "Sunny-day learnt at level 31", "Explosion learnt at level 43"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 9",
+        "Nature-power learnt at level 15",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 27",
+        "Explosion learnt at level 33"
+    ],
+    "sun-moon": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 9",
+        "Nature-power learnt at level 15",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 27",
+        "Explosion learnt at level 33"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 9",
+        "Nature-power learnt at level 15",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 27",
+        "Explosion learnt at level 33"
+    ],
+    "x-y": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "black-white": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "heartgold-soulsilver": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "platinum": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "diamond-pearl": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "firered-leafgreen": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "black-2-white-2": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "emerald": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "ruby-sapphire": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "xd": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ],
+    "colosseum": [
+        "Bide learnt at level 1",
+        "Harden learnt at level 3",
+        "Growth learnt at level 7",
+        "Nature-power learnt at level 13",
+        "Synthesis learnt at level 21",
+        "Sunny-day learnt at level 31",
+        "Explosion learnt at level 43"
+    ]
+}

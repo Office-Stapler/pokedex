@@ -1,1 +1,60 @@
-{"ultra-sun-ultra-moon": ["Mega-drain learnt at level 1", "Leech-seed learnt at level 1", "Growth learnt at level 1", "Synthesis learnt at level 1", "Teeter-dance learnt at level 10", "Quiver-dance learnt at level 28", "Petal-dance learnt at level 46", "Petal-blizzard learnt at level 50"], "sun-moon": ["Mega-drain learnt at level 1", "Leech-seed learnt at level 1", "Growth learnt at level 1", "Synthesis learnt at level 1", "Teeter-dance learnt at level 10", "Quiver-dance learnt at level 28", "Petal-dance learnt at level 46", "Petal-blizzard learnt at level 50"], "omega-ruby-alpha-sapphire": ["Mega-drain learnt at level 1", "Leech-seed learnt at level 1", "Growth learnt at level 1", "Synthesis learnt at level 1", "Teeter-dance learnt at level 10", "Quiver-dance learnt at level 28", "Petal-dance learnt at level 46", "Petal-blizzard learnt at level 50"], "x-y": ["Mega-drain learnt at level 1", "Leech-seed learnt at level 1", "Growth learnt at level 1", "Synthesis learnt at level 1", "Teeter-dance learnt at level 10", "Quiver-dance learnt at level 28", "Petal-dance learnt at level 46", "Petal-blizzard learnt at level 50"], "black-2-white-2": ["Mega-drain learnt at level 1", "Leech-seed learnt at level 1", "Growth learnt at level 1", "Synthesis learnt at level 1", "Teeter-dance learnt at level 10", "Quiver-dance learnt at level 28", "Petal-dance learnt at level 46"], "black-white": ["Mega-drain learnt at level 1", "Leech-seed learnt at level 1", "Growth learnt at level 1", "Synthesis learnt at level 1", "Teeter-dance learnt at level 10", "Quiver-dance learnt at level 28", "Petal-dance learnt at level 46"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Mega-drain learnt at level 1",
+        "Leech-seed learnt at level 1",
+        "Growth learnt at level 1",
+        "Synthesis learnt at level 1",
+        "Teeter-dance learnt at level 10",
+        "Quiver-dance learnt at level 28",
+        "Petal-dance learnt at level 46",
+        "Petal-blizzard learnt at level 50"
+    ],
+    "sun-moon": [
+        "Mega-drain learnt at level 1",
+        "Leech-seed learnt at level 1",
+        "Growth learnt at level 1",
+        "Synthesis learnt at level 1",
+        "Teeter-dance learnt at level 10",
+        "Quiver-dance learnt at level 28",
+        "Petal-dance learnt at level 46",
+        "Petal-blizzard learnt at level 50"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Mega-drain learnt at level 1",
+        "Leech-seed learnt at level 1",
+        "Growth learnt at level 1",
+        "Synthesis learnt at level 1",
+        "Teeter-dance learnt at level 10",
+        "Quiver-dance learnt at level 28",
+        "Petal-dance learnt at level 46",
+        "Petal-blizzard learnt at level 50"
+    ],
+    "x-y": [
+        "Mega-drain learnt at level 1",
+        "Leech-seed learnt at level 1",
+        "Growth learnt at level 1",
+        "Synthesis learnt at level 1",
+        "Teeter-dance learnt at level 10",
+        "Quiver-dance learnt at level 28",
+        "Petal-dance learnt at level 46",
+        "Petal-blizzard learnt at level 50"
+    ],
+    "black-2-white-2": [
+        "Mega-drain learnt at level 1",
+        "Leech-seed learnt at level 1",
+        "Growth learnt at level 1",
+        "Synthesis learnt at level 1",
+        "Teeter-dance learnt at level 10",
+        "Quiver-dance learnt at level 28",
+        "Petal-dance learnt at level 46"
+    ],
+    "black-white": [
+        "Mega-drain learnt at level 1",
+        "Leech-seed learnt at level 1",
+        "Growth learnt at level 1",
+        "Synthesis learnt at level 1",
+        "Teeter-dance learnt at level 10",
+        "Quiver-dance learnt at level 28",
+        "Petal-dance learnt at level 46"
+    ]
+}

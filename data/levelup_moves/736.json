@@ -1,1 +1,26 @@
-{"ultra-sun-ultra-moon": ["Vice-grip learnt at level 1", "String-shot learnt at level 4", "Mud-slap learnt at level 7", "Bite learnt at level 10", "Bug-bite learnt at level 13", "Spark learnt at level 16", "Acrobatics learnt at level 19", "Crunch learnt at level 22", "X-scissor learnt at level 25", "Dig learnt at level 28"], "sun-moon": ["Vice-grip learnt at level 1", "String-shot learnt at level 4", "Mud-slap learnt at level 7", "Bite learnt at level 10", "Bug-bite learnt at level 13", "Spark learnt at level 16", "Acrobatics learnt at level 19", "Crunch learnt at level 22", "X-scissor learnt at level 25", "Dig learnt at level 28"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Vice-grip learnt at level 1",
+        "String-shot learnt at level 4",
+        "Mud-slap learnt at level 7",
+        "Bite learnt at level 10",
+        "Bug-bite learnt at level 13",
+        "Spark learnt at level 16",
+        "Acrobatics learnt at level 19",
+        "Crunch learnt at level 22",
+        "X-scissor learnt at level 25",
+        "Dig learnt at level 28"
+    ],
+    "sun-moon": [
+        "Vice-grip learnt at level 1",
+        "String-shot learnt at level 4",
+        "Mud-slap learnt at level 7",
+        "Bite learnt at level 10",
+        "Bug-bite learnt at level 13",
+        "Spark learnt at level 16",
+        "Acrobatics learnt at level 19",
+        "Crunch learnt at level 22",
+        "X-scissor learnt at level 25",
+        "Dig learnt at level 28"
+    ]
+}

@@ -1,1 +1,42 @@
-{"ultra-sun-ultra-moon": ["Vice-grip learnt at level 1", "Bite learnt at level 1", "String-shot learnt at level 1", "Thunderbolt learnt at level 1", "Mud-slap learnt at level 1", "Charge learnt at level 1", "Air-slash learnt at level 1", "String-shot learnt at level 4", "Mud-slap learnt at level 7", "Bite learnt at level 10", "Bug-bite learnt at level 13", "Spark learnt at level 16", "Acrobatics learnt at level 19", "Guillotine learnt at level 25", "Bug-buzz learnt at level 31", "Dig learnt at level 37", "Zap-cannon learnt at level 41", "Agility learnt at level 49"], "sun-moon": ["Vice-grip learnt at level 1", "Bite learnt at level 1", "String-shot learnt at level 1", "Thunderbolt learnt at level 1", "Mud-slap learnt at level 1", "Charge learnt at level 1", "Air-slash learnt at level 1", "String-shot learnt at level 4", "Mud-slap learnt at level 7", "Bite learnt at level 10", "Bug-bite learnt at level 13", "Spark learnt at level 16", "Acrobatics learnt at level 19", "Guillotine learnt at level 25", "Bug-buzz learnt at level 31", "Dig learnt at level 37", "Zap-cannon learnt at level 41", "Agility learnt at level 49"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Vice-grip learnt at level 1",
+        "Bite learnt at level 1",
+        "String-shot learnt at level 1",
+        "Thunderbolt learnt at level 1",
+        "Mud-slap learnt at level 1",
+        "Charge learnt at level 1",
+        "Air-slash learnt at level 1",
+        "String-shot learnt at level 4",
+        "Mud-slap learnt at level 7",
+        "Bite learnt at level 10",
+        "Bug-bite learnt at level 13",
+        "Spark learnt at level 16",
+        "Acrobatics learnt at level 19",
+        "Guillotine learnt at level 25",
+        "Bug-buzz learnt at level 31",
+        "Dig learnt at level 37",
+        "Zap-cannon learnt at level 41",
+        "Agility learnt at level 49"
+    ],
+    "sun-moon": [
+        "Vice-grip learnt at level 1",
+        "Bite learnt at level 1",
+        "String-shot learnt at level 1",
+        "Thunderbolt learnt at level 1",
+        "Mud-slap learnt at level 1",
+        "Charge learnt at level 1",
+        "Air-slash learnt at level 1",
+        "String-shot learnt at level 4",
+        "Mud-slap learnt at level 7",
+        "Bite learnt at level 10",
+        "Bug-bite learnt at level 13",
+        "Spark learnt at level 16",
+        "Acrobatics learnt at level 19",
+        "Guillotine learnt at level 25",
+        "Bug-buzz learnt at level 31",
+        "Dig learnt at level 37",
+        "Zap-cannon learnt at level 41",
+        "Agility learnt at level 49"
+    ]
+}

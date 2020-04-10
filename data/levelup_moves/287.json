@@ -1,1 +1,165 @@
-{"firered-leafgreen": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"], "emerald": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"], "omega-ruby-alpha-sapphire": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 6", "Slack-off learnt at level 9", "Feint-attack learnt at level 14", "Amnesia learnt at level 17", "Covet learnt at level 22", "Chip-away learnt at level 25", "Counter learnt at level 30", "Flail learnt at level 33", "Play-rough learnt at level 38"], "black-2-white-2": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Chip-away learnt at level 37", "Counter learnt at level 43", "Flail learnt at level 49"], "heartgold-soulsilver": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"], "platinum": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"], "ultra-sun-ultra-moon": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 6", "Slack-off learnt at level 9", "Feint-attack learnt at level 14", "Amnesia learnt at level 17", "Covet learnt at level 22", "Chip-away learnt at level 25", "Counter learnt at level 30", "Flail learnt at level 33", "Play-rough learnt at level 38"], "sun-moon": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 6", "Slack-off learnt at level 9", "Feint-attack learnt at level 14", "Amnesia learnt at level 17", "Covet learnt at level 22", "Chip-away learnt at level 25", "Counter learnt at level 30", "Flail learnt at level 33", "Play-rough learnt at level 38"], "x-y": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Chip-away learnt at level 37", "Counter learnt at level 43", "Flail learnt at level 49"], "diamond-pearl": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"], "xd": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"], "colosseum": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"], "black-white": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Chip-away learnt at level 37", "Counter learnt at level 43", "Flail learnt at level 49"], "ruby-sapphire": ["Scratch learnt at level 1", "Yawn learnt at level 1", "Encore learnt at level 7", "Slack-off learnt at level 13", "Feint-attack learnt at level 19", "Amnesia learnt at level 25", "Covet learnt at level 31", "Counter learnt at level 37", "Flail learnt at level 43"]}
+{
+    "firered-leafgreen": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ],
+    "emerald": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 6",
+        "Slack-off learnt at level 9",
+        "Feint-attack learnt at level 14",
+        "Amnesia learnt at level 17",
+        "Covet learnt at level 22",
+        "Chip-away learnt at level 25",
+        "Counter learnt at level 30",
+        "Flail learnt at level 33",
+        "Play-rough learnt at level 38"
+    ],
+    "black-2-white-2": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Chip-away learnt at level 37",
+        "Counter learnt at level 43",
+        "Flail learnt at level 49"
+    ],
+    "heartgold-soulsilver": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ],
+    "platinum": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ],
+    "ultra-sun-ultra-moon": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 6",
+        "Slack-off learnt at level 9",
+        "Feint-attack learnt at level 14",
+        "Amnesia learnt at level 17",
+        "Covet learnt at level 22",
+        "Chip-away learnt at level 25",
+        "Counter learnt at level 30",
+        "Flail learnt at level 33",
+        "Play-rough learnt at level 38"
+    ],
+    "sun-moon": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 6",
+        "Slack-off learnt at level 9",
+        "Feint-attack learnt at level 14",
+        "Amnesia learnt at level 17",
+        "Covet learnt at level 22",
+        "Chip-away learnt at level 25",
+        "Counter learnt at level 30",
+        "Flail learnt at level 33",
+        "Play-rough learnt at level 38"
+    ],
+    "x-y": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Chip-away learnt at level 37",
+        "Counter learnt at level 43",
+        "Flail learnt at level 49"
+    ],
+    "diamond-pearl": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ],
+    "xd": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ],
+    "colosseum": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ],
+    "black-white": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Chip-away learnt at level 37",
+        "Counter learnt at level 43",
+        "Flail learnt at level 49"
+    ],
+    "ruby-sapphire": [
+        "Scratch learnt at level 1",
+        "Yawn learnt at level 1",
+        "Encore learnt at level 7",
+        "Slack-off learnt at level 13",
+        "Feint-attack learnt at level 19",
+        "Amnesia learnt at level 25",
+        "Covet learnt at level 31",
+        "Counter learnt at level 37",
+        "Flail learnt at level 43"
+    ]
+}

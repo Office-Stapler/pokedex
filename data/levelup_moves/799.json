@@ -1,1 +1,44 @@
-{"ultra-sun-ultra-moon": ["Bite learnt at level 1", "Dragon-rage learnt at level 1", "Stockpile learnt at level 1", "Swallow learnt at level 1", "Wide-guard learnt at level 1", "Belch learnt at level 1", "Stomp learnt at level 7", "Brutal-swing learnt at level 13", "Steamroller learnt at level 19", "Dragon-tail learnt at level 23", "Iron-tail learnt at level 29", "Stomping-tantrum learnt at level 31", "Crunch learnt at level 37", "Hammer-arm learnt at level 43", "Thrash learnt at level 47", "Gastro-acid learnt at level 53", "Heavy-slam learnt at level 59", "Wring-out learnt at level 67", "Dragon-rush learnt at level 73"], "sun-moon": ["Bite learnt at level 1", "Dragon-rage learnt at level 1", "Stockpile learnt at level 1", "Swallow learnt at level 1", "Wide-guard learnt at level 1", "Belch learnt at level 1", "Stomp learnt at level 7", "Brutal-swing learnt at level 13", "Steamroller learnt at level 19", "Dragon-tail learnt at level 23", "Iron-tail learnt at level 29", "Stomping-tantrum learnt at level 31", "Crunch learnt at level 37", "Hammer-arm learnt at level 43", "Thrash learnt at level 47", "Gastro-acid learnt at level 53", "Heavy-slam learnt at level 59", "Wring-out learnt at level 67", "Dragon-rush learnt at level 73"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Bite learnt at level 1",
+        "Dragon-rage learnt at level 1",
+        "Stockpile learnt at level 1",
+        "Swallow learnt at level 1",
+        "Wide-guard learnt at level 1",
+        "Belch learnt at level 1",
+        "Stomp learnt at level 7",
+        "Brutal-swing learnt at level 13",
+        "Steamroller learnt at level 19",
+        "Dragon-tail learnt at level 23",
+        "Iron-tail learnt at level 29",
+        "Stomping-tantrum learnt at level 31",
+        "Crunch learnt at level 37",
+        "Hammer-arm learnt at level 43",
+        "Thrash learnt at level 47",
+        "Gastro-acid learnt at level 53",
+        "Heavy-slam learnt at level 59",
+        "Wring-out learnt at level 67",
+        "Dragon-rush learnt at level 73"
+    ],
+    "sun-moon": [
+        "Bite learnt at level 1",
+        "Dragon-rage learnt at level 1",
+        "Stockpile learnt at level 1",
+        "Swallow learnt at level 1",
+        "Wide-guard learnt at level 1",
+        "Belch learnt at level 1",
+        "Stomp learnt at level 7",
+        "Brutal-swing learnt at level 13",
+        "Steamroller learnt at level 19",
+        "Dragon-tail learnt at level 23",
+        "Iron-tail learnt at level 29",
+        "Stomping-tantrum learnt at level 31",
+        "Crunch learnt at level 37",
+        "Hammer-arm learnt at level 43",
+        "Thrash learnt at level 47",
+        "Gastro-acid learnt at level 53",
+        "Heavy-slam learnt at level 59",
+        "Wring-out learnt at level 67",
+        "Dragon-rush learnt at level 73"
+    ]
+}

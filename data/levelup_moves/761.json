@@ -1,1 +1,24 @@
-{"ultra-sun-ultra-moon": ["Splash learnt at level 1", "Play-nice learnt at level 5", "Rapid-spin learnt at level 9", "Razor-leaf learnt at level 13", "Sweet-scent learnt at level 17", "Magical-leaf learnt at level 21", "Teeter-dance learnt at level 25", "Flail learnt at level 29", "Aromatic-mist learnt at level 33"], "sun-moon": ["Splash learnt at level 1", "Play-nice learnt at level 5", "Rapid-spin learnt at level 9", "Razor-leaf learnt at level 13", "Sweet-scent learnt at level 17", "Magical-leaf learnt at level 21", "Teeter-dance learnt at level 25", "Flail learnt at level 29", "Aromatic-mist learnt at level 33"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Splash learnt at level 1",
+        "Play-nice learnt at level 5",
+        "Rapid-spin learnt at level 9",
+        "Razor-leaf learnt at level 13",
+        "Sweet-scent learnt at level 17",
+        "Magical-leaf learnt at level 21",
+        "Teeter-dance learnt at level 25",
+        "Flail learnt at level 29",
+        "Aromatic-mist learnt at level 33"
+    ],
+    "sun-moon": [
+        "Splash learnt at level 1",
+        "Play-nice learnt at level 5",
+        "Rapid-spin learnt at level 9",
+        "Razor-leaf learnt at level 13",
+        "Sweet-scent learnt at level 17",
+        "Magical-leaf learnt at level 21",
+        "Teeter-dance learnt at level 25",
+        "Flail learnt at level 29",
+        "Aromatic-mist learnt at level 33"
+    ]
+}

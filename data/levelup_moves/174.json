@@ -1,1 +1,123 @@
-{"ultra-sun-ultra-moon": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 3", "Pound learnt at level 5", "Sweet-kiss learnt at level 9", "Copycat learnt at level 11"], "sun-moon": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 3", "Pound learnt at level 5", "Sweet-kiss learnt at level 9", "Copycat learnt at level 11"], "omega-ruby-alpha-sapphire": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 3", "Pound learnt at level 5", "Sweet-kiss learnt at level 9", "Copycat learnt at level 11"], "x-y": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 5", "Pound learnt at level 9", "Sweet-kiss learnt at level 13", "Copycat learnt at level 17"], "black-2-white-2": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 5", "Pound learnt at level 9", "Sweet-kiss learnt at level 13", "Copycat learnt at level 17"], "xd": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 4", "Pound learnt at level 9", "Sweet-kiss learnt at level 14"], "colosseum": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 4", "Pound learnt at level 9", "Sweet-kiss learnt at level 14"], "heartgold-soulsilver": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 5", "Pound learnt at level 9", "Sweet-kiss learnt at level 13", "Copycat learnt at level 17"], "platinum": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 5", "Pound learnt at level 9", "Sweet-kiss learnt at level 13", "Copycat learnt at level 17"], "diamond-pearl": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 5", "Pound learnt at level 9", "Sweet-kiss learnt at level 13", "Copycat learnt at level 17"], "firered-leafgreen": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 4", "Pound learnt at level 9", "Sweet-kiss learnt at level 14"], "emerald": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 4", "Pound learnt at level 9", "Sweet-kiss learnt at level 14"], "ruby-sapphire": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 4", "Pound learnt at level 9", "Sweet-kiss learnt at level 14"], "black-white": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 5", "Pound learnt at level 9", "Sweet-kiss learnt at level 13", "Copycat learnt at level 17"], "crystal": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 4", "Pound learnt at level 9", "Sweet-kiss learnt at level 14"], "gold-silver": ["Sing learnt at level 1", "Charm learnt at level 1", "Defense-curl learnt at level 4", "Pound learnt at level 9", "Sweet-kiss learnt at level 14"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 3",
+        "Pound learnt at level 5",
+        "Sweet-kiss learnt at level 9",
+        "Copycat learnt at level 11"
+    ],
+    "sun-moon": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 3",
+        "Pound learnt at level 5",
+        "Sweet-kiss learnt at level 9",
+        "Copycat learnt at level 11"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 3",
+        "Pound learnt at level 5",
+        "Sweet-kiss learnt at level 9",
+        "Copycat learnt at level 11"
+    ],
+    "x-y": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 5",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 13",
+        "Copycat learnt at level 17"
+    ],
+    "black-2-white-2": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 5",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 13",
+        "Copycat learnt at level 17"
+    ],
+    "xd": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 4",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 14"
+    ],
+    "colosseum": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 4",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 14"
+    ],
+    "heartgold-soulsilver": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 5",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 13",
+        "Copycat learnt at level 17"
+    ],
+    "platinum": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 5",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 13",
+        "Copycat learnt at level 17"
+    ],
+    "diamond-pearl": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 5",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 13",
+        "Copycat learnt at level 17"
+    ],
+    "firered-leafgreen": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 4",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 14"
+    ],
+    "emerald": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 4",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 14"
+    ],
+    "ruby-sapphire": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 4",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 14"
+    ],
+    "black-white": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 5",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 13",
+        "Copycat learnt at level 17"
+    ],
+    "crystal": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 4",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 14"
+    ],
+    "gold-silver": [
+        "Sing learnt at level 1",
+        "Charm learnt at level 1",
+        "Defense-curl learnt at level 4",
+        "Pound learnt at level 9",
+        "Sweet-kiss learnt at level 14"
+    ]
+}

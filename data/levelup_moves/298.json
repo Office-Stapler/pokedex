@@ -1,1 +1,134 @@
-{"ultra-sun-ultra-moon": ["Water-gun learnt at level 1", "Splash learnt at level 1", "Tail-whip learnt at level 2", "Water-sport learnt at level 5", "Bubble learnt at level 7", "Charm learnt at level 10", "Bubble-beam learnt at level 13", "Helping-hand learnt at level 16", "Slam learnt at level 20", "Bounce learnt at level 23"], "sun-moon": ["Water-gun learnt at level 1", "Splash learnt at level 1", "Tail-whip learnt at level 2", "Water-sport learnt at level 5", "Bubble learnt at level 7", "Charm learnt at level 10", "Bubble-beam learnt at level 13", "Helping-hand learnt at level 16", "Slam learnt at level 20", "Bounce learnt at level 23"], "omega-ruby-alpha-sapphire": ["Water-gun learnt at level 1", "Splash learnt at level 1", "Tail-whip learnt at level 2", "Water-sport learnt at level 5", "Bubble learnt at level 7", "Charm learnt at level 10", "Bubble-beam learnt at level 13", "Helping-hand learnt at level 16", "Slam learnt at level 20", "Bounce learnt at level 23"], "black-2-white-2": ["Bubble learnt at level 1", "Splash learnt at level 1", "Tail-whip learnt at level 2", "Water-sport learnt at level 5", "Water-gun learnt at level 7", "Charm learnt at level 10", "Bubble-beam learnt at level 13", "Helping-hand learnt at level 16", "Slam learnt at level 20", "Bounce learnt at level 23"], "xd": ["Splash learnt at level 1", "Charm learnt at level 3", "Tail-whip learnt at level 6", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 21"], "colosseum": ["Splash learnt at level 1", "Charm learnt at level 3", "Tail-whip learnt at level 6", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 21"], "black-white": ["Splash learnt at level 1", "Charm learnt at level 2", "Tail-whip learnt at level 7", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 18"], "heartgold-soulsilver": ["Splash learnt at level 1", "Charm learnt at level 2", "Tail-whip learnt at level 7", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 18"], "platinum": ["Splash learnt at level 1", "Charm learnt at level 2", "Tail-whip learnt at level 7", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 18"], "diamond-pearl": ["Splash learnt at level 1", "Charm learnt at level 2", "Tail-whip learnt at level 7", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 18"], "firered-leafgreen": ["Splash learnt at level 1", "Charm learnt at level 3", "Tail-whip learnt at level 6", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 21"], "x-y": ["Water-gun learnt at level 1", "Splash learnt at level 1", "Tail-whip learnt at level 2", "Water-sport learnt at level 5", "Bubble learnt at level 7", "Charm learnt at level 10", "Bubble-beam learnt at level 13", "Helping-hand learnt at level 16", "Slam learnt at level 20", "Bounce learnt at level 23"], "emerald": ["Splash learnt at level 1", "Charm learnt at level 3", "Tail-whip learnt at level 6", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 21"], "ruby-sapphire": ["Splash learnt at level 1", "Charm learnt at level 3", "Tail-whip learnt at level 6", "Bubble learnt at level 10", "Slam learnt at level 15", "Water-gun learnt at level 21"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Water-gun learnt at level 1",
+        "Splash learnt at level 1",
+        "Tail-whip learnt at level 2",
+        "Water-sport learnt at level 5",
+        "Bubble learnt at level 7",
+        "Charm learnt at level 10",
+        "Bubble-beam learnt at level 13",
+        "Helping-hand learnt at level 16",
+        "Slam learnt at level 20",
+        "Bounce learnt at level 23"
+    ],
+    "sun-moon": [
+        "Water-gun learnt at level 1",
+        "Splash learnt at level 1",
+        "Tail-whip learnt at level 2",
+        "Water-sport learnt at level 5",
+        "Bubble learnt at level 7",
+        "Charm learnt at level 10",
+        "Bubble-beam learnt at level 13",
+        "Helping-hand learnt at level 16",
+        "Slam learnt at level 20",
+        "Bounce learnt at level 23"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Water-gun learnt at level 1",
+        "Splash learnt at level 1",
+        "Tail-whip learnt at level 2",
+        "Water-sport learnt at level 5",
+        "Bubble learnt at level 7",
+        "Charm learnt at level 10",
+        "Bubble-beam learnt at level 13",
+        "Helping-hand learnt at level 16",
+        "Slam learnt at level 20",
+        "Bounce learnt at level 23"
+    ],
+    "black-2-white-2": [
+        "Bubble learnt at level 1",
+        "Splash learnt at level 1",
+        "Tail-whip learnt at level 2",
+        "Water-sport learnt at level 5",
+        "Water-gun learnt at level 7",
+        "Charm learnt at level 10",
+        "Bubble-beam learnt at level 13",
+        "Helping-hand learnt at level 16",
+        "Slam learnt at level 20",
+        "Bounce learnt at level 23"
+    ],
+    "xd": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 3",
+        "Tail-whip learnt at level 6",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 21"
+    ],
+    "colosseum": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 3",
+        "Tail-whip learnt at level 6",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 21"
+    ],
+    "black-white": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 2",
+        "Tail-whip learnt at level 7",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 18"
+    ],
+    "heartgold-soulsilver": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 2",
+        "Tail-whip learnt at level 7",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 18"
+    ],
+    "platinum": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 2",
+        "Tail-whip learnt at level 7",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 18"
+    ],
+    "diamond-pearl": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 2",
+        "Tail-whip learnt at level 7",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 18"
+    ],
+    "firered-leafgreen": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 3",
+        "Tail-whip learnt at level 6",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 21"
+    ],
+    "x-y": [
+        "Water-gun learnt at level 1",
+        "Splash learnt at level 1",
+        "Tail-whip learnt at level 2",
+        "Water-sport learnt at level 5",
+        "Bubble learnt at level 7",
+        "Charm learnt at level 10",
+        "Bubble-beam learnt at level 13",
+        "Helping-hand learnt at level 16",
+        "Slam learnt at level 20",
+        "Bounce learnt at level 23"
+    ],
+    "emerald": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 3",
+        "Tail-whip learnt at level 6",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 21"
+    ],
+    "ruby-sapphire": [
+        "Splash learnt at level 1",
+        "Charm learnt at level 3",
+        "Tail-whip learnt at level 6",
+        "Bubble learnt at level 10",
+        "Slam learnt at level 15",
+        "Water-gun learnt at level 21"
+    ]
+}

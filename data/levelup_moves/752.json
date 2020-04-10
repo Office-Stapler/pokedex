@@ -1,1 +1,42 @@
-{"ultra-sun-ultra-moon": ["Bubble learnt at level 1", "Spider-web learnt at level 1", "Bug-bite learnt at level 1", "Wide-guard learnt at level 1", "Soak learnt at level 1", "Infestation learnt at level 1", "Infestation learnt at level 5", "Spider-web learnt at level 8", "Bug-bite learnt at level 13", "Bubble-beam learnt at level 16", "Bite learnt at level 21", "Aqua-ring learnt at level 26", "Leech-life learnt at level 33", "Crunch learnt at level 38", "Lunge learnt at level 45", "Mirror-coat learnt at level 50", "Liquidation learnt at level 57", "Entrainment learnt at level 62"], "sun-moon": ["Bubble learnt at level 1", "Spider-web learnt at level 1", "Bug-bite learnt at level 1", "Wide-guard learnt at level 1", "Soak learnt at level 1", "Infestation learnt at level 1", "Infestation learnt at level 5", "Spider-web learnt at level 8", "Bug-bite learnt at level 13", "Bubble-beam learnt at level 16", "Bite learnt at level 21", "Aqua-ring learnt at level 26", "Leech-life learnt at level 33", "Crunch learnt at level 38", "Lunge learnt at level 45", "Mirror-coat learnt at level 50", "Liquidation learnt at level 57", "Entrainment learnt at level 62"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Bubble learnt at level 1",
+        "Spider-web learnt at level 1",
+        "Bug-bite learnt at level 1",
+        "Wide-guard learnt at level 1",
+        "Soak learnt at level 1",
+        "Infestation learnt at level 1",
+        "Infestation learnt at level 5",
+        "Spider-web learnt at level 8",
+        "Bug-bite learnt at level 13",
+        "Bubble-beam learnt at level 16",
+        "Bite learnt at level 21",
+        "Aqua-ring learnt at level 26",
+        "Leech-life learnt at level 33",
+        "Crunch learnt at level 38",
+        "Lunge learnt at level 45",
+        "Mirror-coat learnt at level 50",
+        "Liquidation learnt at level 57",
+        "Entrainment learnt at level 62"
+    ],
+    "sun-moon": [
+        "Bubble learnt at level 1",
+        "Spider-web learnt at level 1",
+        "Bug-bite learnt at level 1",
+        "Wide-guard learnt at level 1",
+        "Soak learnt at level 1",
+        "Infestation learnt at level 1",
+        "Infestation learnt at level 5",
+        "Spider-web learnt at level 8",
+        "Bug-bite learnt at level 13",
+        "Bubble-beam learnt at level 16",
+        "Bite learnt at level 21",
+        "Aqua-ring learnt at level 26",
+        "Leech-life learnt at level 33",
+        "Crunch learnt at level 38",
+        "Lunge learnt at level 45",
+        "Mirror-coat learnt at level 50",
+        "Liquidation learnt at level 57",
+        "Entrainment learnt at level 62"
+    ]
+}

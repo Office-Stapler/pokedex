@@ -1,1 +1,112 @@
-{"omega-ruby-alpha-sapphire": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Sucker-punch learnt at level 1", "Night-slash learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Foul-play learnt at level 45", "Night-slash learnt at level 55", "Quash learnt at level 65", "Dark-pulse learnt at level 75"], "x-y": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Sucker-punch learnt at level 1", "Night-slash learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Foul-play learnt at level 45", "Night-slash learnt at level 55", "Quash learnt at level 65", "Dark-pulse learnt at level 75"], "black-2-white-2": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Foul-play learnt at level 45", "Night-slash learnt at level 55", "Quash learnt at level 65", "Dark-pulse learnt at level 75"], "black-white": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Foul-play learnt at level 45", "Night-slash learnt at level 55", "Quash learnt at level 65", "Dark-pulse learnt at level 75"], "heartgold-soulsilver": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Night-slash learnt at level 45", "Dark-pulse learnt at level 55"], "platinum": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Night-slash learnt at level 45", "Dark-pulse learnt at level 55"], "ultra-sun-ultra-moon": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Sucker-punch learnt at level 1", "Night-slash learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Foul-play learnt at level 45", "Night-slash learnt at level 55", "Quash learnt at level 65", "Dark-pulse learnt at level 75"], "sun-moon": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Sucker-punch learnt at level 1", "Night-slash learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Foul-play learnt at level 45", "Night-slash learnt at level 55", "Quash learnt at level 65", "Dark-pulse learnt at level 75"], "diamond-pearl": ["Wing-attack learnt at level 1", "Haze learnt at level 1", "Pursuit learnt at level 1", "Astonish learnt at level 1", "Swagger learnt at level 25", "Nasty-plot learnt at level 35", "Night-slash learnt at level 45", "Dark-pulse learnt at level 55"]}
+{
+    "omega-ruby-alpha-sapphire": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Sucker-punch learnt at level 1",
+        "Night-slash learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Foul-play learnt at level 45",
+        "Night-slash learnt at level 55",
+        "Quash learnt at level 65",
+        "Dark-pulse learnt at level 75"
+    ],
+    "x-y": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Sucker-punch learnt at level 1",
+        "Night-slash learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Foul-play learnt at level 45",
+        "Night-slash learnt at level 55",
+        "Quash learnt at level 65",
+        "Dark-pulse learnt at level 75"
+    ],
+    "black-2-white-2": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Foul-play learnt at level 45",
+        "Night-slash learnt at level 55",
+        "Quash learnt at level 65",
+        "Dark-pulse learnt at level 75"
+    ],
+    "black-white": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Foul-play learnt at level 45",
+        "Night-slash learnt at level 55",
+        "Quash learnt at level 65",
+        "Dark-pulse learnt at level 75"
+    ],
+    "heartgold-soulsilver": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Night-slash learnt at level 45",
+        "Dark-pulse learnt at level 55"
+    ],
+    "platinum": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Night-slash learnt at level 45",
+        "Dark-pulse learnt at level 55"
+    ],
+    "ultra-sun-ultra-moon": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Sucker-punch learnt at level 1",
+        "Night-slash learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Foul-play learnt at level 45",
+        "Night-slash learnt at level 55",
+        "Quash learnt at level 65",
+        "Dark-pulse learnt at level 75"
+    ],
+    "sun-moon": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Sucker-punch learnt at level 1",
+        "Night-slash learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Foul-play learnt at level 45",
+        "Night-slash learnt at level 55",
+        "Quash learnt at level 65",
+        "Dark-pulse learnt at level 75"
+    ],
+    "diamond-pearl": [
+        "Wing-attack learnt at level 1",
+        "Haze learnt at level 1",
+        "Pursuit learnt at level 1",
+        "Astonish learnt at level 1",
+        "Swagger learnt at level 25",
+        "Nasty-plot learnt at level 35",
+        "Night-slash learnt at level 45",
+        "Dark-pulse learnt at level 55"
+    ]
+}

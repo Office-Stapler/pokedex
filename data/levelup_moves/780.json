@@ -1,1 +1,36 @@
-{"ultra-sun-ultra-moon": ["Echoed-voice learnt at level 1", "Play-nice learnt at level 1", "Twister learnt at level 5", "Protect learnt at level 9", "Glare learnt at level 13", "Light-screen learnt at level 17", "Dragon-rage learnt at level 21", "Natural-gift learnt at level 25", "Dragon-breath learnt at level 29", "Safeguard learnt at level 33", "Extrasensory learnt at level 37", "Dragon-pulse learnt at level 41", "Fly learnt at level 45", "Hyper-voice learnt at level 49", "Outrage learnt at level 53"], "sun-moon": ["Echoed-voice learnt at level 1", "Play-nice learnt at level 1", "Twister learnt at level 5", "Protect learnt at level 9", "Glare learnt at level 13", "Light-screen learnt at level 17", "Dragon-rage learnt at level 21", "Natural-gift learnt at level 25", "Dragon-breath learnt at level 29", "Safeguard learnt at level 33", "Extrasensory learnt at level 37", "Dragon-pulse learnt at level 41", "Fly learnt at level 45", "Hyper-voice learnt at level 49", "Outrage learnt at level 53"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Echoed-voice learnt at level 1",
+        "Play-nice learnt at level 1",
+        "Twister learnt at level 5",
+        "Protect learnt at level 9",
+        "Glare learnt at level 13",
+        "Light-screen learnt at level 17",
+        "Dragon-rage learnt at level 21",
+        "Natural-gift learnt at level 25",
+        "Dragon-breath learnt at level 29",
+        "Safeguard learnt at level 33",
+        "Extrasensory learnt at level 37",
+        "Dragon-pulse learnt at level 41",
+        "Fly learnt at level 45",
+        "Hyper-voice learnt at level 49",
+        "Outrage learnt at level 53"
+    ],
+    "sun-moon": [
+        "Echoed-voice learnt at level 1",
+        "Play-nice learnt at level 1",
+        "Twister learnt at level 5",
+        "Protect learnt at level 9",
+        "Glare learnt at level 13",
+        "Light-screen learnt at level 17",
+        "Dragon-rage learnt at level 21",
+        "Natural-gift learnt at level 25",
+        "Dragon-breath learnt at level 29",
+        "Safeguard learnt at level 33",
+        "Extrasensory learnt at level 37",
+        "Dragon-pulse learnt at level 41",
+        "Fly learnt at level 45",
+        "Hyper-voice learnt at level 49",
+        "Outrage learnt at level 53"
+    ]
+}

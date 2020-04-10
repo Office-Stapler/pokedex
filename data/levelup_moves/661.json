@@ -1,1 +1,66 @@
-{"ultra-sun-ultra-moon": ["Tackle learnt at level 1", "Growl learnt at level 1", "Quick-attack learnt at level 6", "Peck learnt at level 10", "Agility learnt at level 13", "Flail learnt at level 16", "Roost learnt at level 21", "Razor-wind learnt at level 25", "Natural-gift learnt at level 29", "Flame-charge learnt at level 34", "Acrobatics learnt at level 39", "Me-first learnt at level 41", "Tailwind learnt at level 45", "Steel-wing learnt at level 48"], "sun-moon": ["Tackle learnt at level 1", "Growl learnt at level 1", "Quick-attack learnt at level 6", "Peck learnt at level 10", "Agility learnt at level 13", "Flail learnt at level 16", "Roost learnt at level 21", "Razor-wind learnt at level 25", "Natural-gift learnt at level 29", "Flame-charge learnt at level 34", "Acrobatics learnt at level 39", "Me-first learnt at level 41", "Tailwind learnt at level 45", "Steel-wing learnt at level 48"], "omega-ruby-alpha-sapphire": ["Tackle learnt at level 1", "Growl learnt at level 1", "Quick-attack learnt at level 6", "Peck learnt at level 10", "Agility learnt at level 13", "Flail learnt at level 16", "Roost learnt at level 21", "Razor-wind learnt at level 25", "Natural-gift learnt at level 29", "Flame-charge learnt at level 34", "Acrobatics learnt at level 39", "Me-first learnt at level 41", "Tailwind learnt at level 45", "Steel-wing learnt at level 48"], "x-y": ["Tackle learnt at level 1", "Growl learnt at level 1", "Quick-attack learnt at level 6", "Peck learnt at level 10", "Agility learnt at level 13", "Flail learnt at level 16", "Roost learnt at level 21", "Razor-wind learnt at level 25", "Natural-gift learnt at level 29", "Flame-charge learnt at level 34", "Acrobatics learnt at level 39", "Me-first learnt at level 41", "Tailwind learnt at level 45", "Steel-wing learnt at level 48"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Tackle learnt at level 1",
+        "Growl learnt at level 1",
+        "Quick-attack learnt at level 6",
+        "Peck learnt at level 10",
+        "Agility learnt at level 13",
+        "Flail learnt at level 16",
+        "Roost learnt at level 21",
+        "Razor-wind learnt at level 25",
+        "Natural-gift learnt at level 29",
+        "Flame-charge learnt at level 34",
+        "Acrobatics learnt at level 39",
+        "Me-first learnt at level 41",
+        "Tailwind learnt at level 45",
+        "Steel-wing learnt at level 48"
+    ],
+    "sun-moon": [
+        "Tackle learnt at level 1",
+        "Growl learnt at level 1",
+        "Quick-attack learnt at level 6",
+        "Peck learnt at level 10",
+        "Agility learnt at level 13",
+        "Flail learnt at level 16",
+        "Roost learnt at level 21",
+        "Razor-wind learnt at level 25",
+        "Natural-gift learnt at level 29",
+        "Flame-charge learnt at level 34",
+        "Acrobatics learnt at level 39",
+        "Me-first learnt at level 41",
+        "Tailwind learnt at level 45",
+        "Steel-wing learnt at level 48"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Tackle learnt at level 1",
+        "Growl learnt at level 1",
+        "Quick-attack learnt at level 6",
+        "Peck learnt at level 10",
+        "Agility learnt at level 13",
+        "Flail learnt at level 16",
+        "Roost learnt at level 21",
+        "Razor-wind learnt at level 25",
+        "Natural-gift learnt at level 29",
+        "Flame-charge learnt at level 34",
+        "Acrobatics learnt at level 39",
+        "Me-first learnt at level 41",
+        "Tailwind learnt at level 45",
+        "Steel-wing learnt at level 48"
+    ],
+    "x-y": [
+        "Tackle learnt at level 1",
+        "Growl learnt at level 1",
+        "Quick-attack learnt at level 6",
+        "Peck learnt at level 10",
+        "Agility learnt at level 13",
+        "Flail learnt at level 16",
+        "Roost learnt at level 21",
+        "Razor-wind learnt at level 25",
+        "Natural-gift learnt at level 29",
+        "Flame-charge learnt at level 34",
+        "Acrobatics learnt at level 39",
+        "Me-first learnt at level 41",
+        "Tailwind learnt at level 45",
+        "Steel-wing learnt at level 48"
+    ]
+}

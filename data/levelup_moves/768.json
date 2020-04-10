@@ -1,1 +1,38 @@
-{"ultra-sun-ultra-moon": ["Sand-attack learnt at level 1", "Fury-cutter learnt at level 1", "Rock-smash learnt at level 1", "Struggle-bug learnt at level 1", "First-impression learnt at level 1", "Fury-cutter learnt at level 4", "Rock-smash learnt at level 7", "Bug-bite learnt at level 10", "Spite learnt at level 13", "Swords-dance learnt at level 16", "Slash learnt at level 21", "Razor-shell learnt at level 26", "Sucker-punch learnt at level 31", "Iron-defense learnt at level 36", "Pin-missile learnt at level 41", "Liquidation learnt at level 48"], "sun-moon": ["Sand-attack learnt at level 1", "Fury-cutter learnt at level 1", "Rock-smash learnt at level 1", "Struggle-bug learnt at level 1", "First-impression learnt at level 1", "Fury-cutter learnt at level 4", "Rock-smash learnt at level 7", "Bug-bite learnt at level 10", "Spite learnt at level 13", "Swords-dance learnt at level 16", "Slash learnt at level 21", "Razor-shell learnt at level 26", "Sucker-punch learnt at level 31", "Iron-defense learnt at level 36", "Pin-missile learnt at level 41", "Liquidation learnt at level 48"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Sand-attack learnt at level 1",
+        "Fury-cutter learnt at level 1",
+        "Rock-smash learnt at level 1",
+        "Struggle-bug learnt at level 1",
+        "First-impression learnt at level 1",
+        "Fury-cutter learnt at level 4",
+        "Rock-smash learnt at level 7",
+        "Bug-bite learnt at level 10",
+        "Spite learnt at level 13",
+        "Swords-dance learnt at level 16",
+        "Slash learnt at level 21",
+        "Razor-shell learnt at level 26",
+        "Sucker-punch learnt at level 31",
+        "Iron-defense learnt at level 36",
+        "Pin-missile learnt at level 41",
+        "Liquidation learnt at level 48"
+    ],
+    "sun-moon": [
+        "Sand-attack learnt at level 1",
+        "Fury-cutter learnt at level 1",
+        "Rock-smash learnt at level 1",
+        "Struggle-bug learnt at level 1",
+        "First-impression learnt at level 1",
+        "Fury-cutter learnt at level 4",
+        "Rock-smash learnt at level 7",
+        "Bug-bite learnt at level 10",
+        "Spite learnt at level 13",
+        "Swords-dance learnt at level 16",
+        "Slash learnt at level 21",
+        "Razor-shell learnt at level 26",
+        "Sucker-punch learnt at level 31",
+        "Iron-defense learnt at level 36",
+        "Pin-missile learnt at level 41",
+        "Liquidation learnt at level 48"
+    ]
+}

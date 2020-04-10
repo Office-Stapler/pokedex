@@ -1,1 +1,113 @@
-{"omega-ruby-alpha-sapphire": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Feint learnt at level 11", "Force-palm learnt at level 15", "Copycat learnt at level 19", "Screech learnt at level 24", "Reversal learnt at level 29", "Nasty-plot learnt at level 47", "Final-gambit learnt at level 50"], "black-2-white-2": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Feint learnt at level 11", "Force-palm learnt at level 15", "Copycat learnt at level 19", "Screech learnt at level 24", "Reversal learnt at level 29", "Nasty-plot learnt at level 47", "Final-gambit learnt at level 55"], "heartgold-soulsilver": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Force-palm learnt at level 11", "Feint learnt at level 15", "Reversal learnt at level 19", "Screech learnt at level 24", "Copycat learnt at level 29"], "platinum": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Force-palm learnt at level 11", "Feint learnt at level 15", "Reversal learnt at level 19", "Screech learnt at level 24", "Copycat learnt at level 29"], "ultra-sun-ultra-moon": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Feint learnt at level 11", "Force-palm learnt at level 15", "Copycat learnt at level 19", "Screech learnt at level 24", "Reversal learnt at level 29", "Nasty-plot learnt at level 47", "Final-gambit learnt at level 50"], "x-y": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Feint learnt at level 11", "Force-palm learnt at level 15", "Copycat learnt at level 19", "Screech learnt at level 24", "Reversal learnt at level 29", "Nasty-plot learnt at level 47", "Final-gambit learnt at level 50"], "black-white": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Force-palm learnt at level 11", "Feint learnt at level 15", "Reversal learnt at level 19", "Screech learnt at level 24", "Copycat learnt at level 29", "Nasty-plot learnt at level 47", "Final-gambit learnt at level 55"], "sun-moon": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Feint learnt at level 11", "Force-palm learnt at level 15", "Copycat learnt at level 19", "Screech learnt at level 24", "Reversal learnt at level 29", "Nasty-plot learnt at level 47", "Final-gambit learnt at level 50"], "diamond-pearl": ["Quick-attack learnt at level 1", "Foresight learnt at level 1", "Endure learnt at level 1", "Counter learnt at level 6", "Force-palm learnt at level 11", "Feint learnt at level 15", "Reversal learnt at level 19", "Screech learnt at level 24", "Copycat learnt at level 29"]}
+{
+    "omega-ruby-alpha-sapphire": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Feint learnt at level 11",
+        "Force-palm learnt at level 15",
+        "Copycat learnt at level 19",
+        "Screech learnt at level 24",
+        "Reversal learnt at level 29",
+        "Nasty-plot learnt at level 47",
+        "Final-gambit learnt at level 50"
+    ],
+    "black-2-white-2": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Feint learnt at level 11",
+        "Force-palm learnt at level 15",
+        "Copycat learnt at level 19",
+        "Screech learnt at level 24",
+        "Reversal learnt at level 29",
+        "Nasty-plot learnt at level 47",
+        "Final-gambit learnt at level 55"
+    ],
+    "heartgold-soulsilver": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Force-palm learnt at level 11",
+        "Feint learnt at level 15",
+        "Reversal learnt at level 19",
+        "Screech learnt at level 24",
+        "Copycat learnt at level 29"
+    ],
+    "platinum": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Force-palm learnt at level 11",
+        "Feint learnt at level 15",
+        "Reversal learnt at level 19",
+        "Screech learnt at level 24",
+        "Copycat learnt at level 29"
+    ],
+    "ultra-sun-ultra-moon": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Feint learnt at level 11",
+        "Force-palm learnt at level 15",
+        "Copycat learnt at level 19",
+        "Screech learnt at level 24",
+        "Reversal learnt at level 29",
+        "Nasty-plot learnt at level 47",
+        "Final-gambit learnt at level 50"
+    ],
+    "x-y": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Feint learnt at level 11",
+        "Force-palm learnt at level 15",
+        "Copycat learnt at level 19",
+        "Screech learnt at level 24",
+        "Reversal learnt at level 29",
+        "Nasty-plot learnt at level 47",
+        "Final-gambit learnt at level 50"
+    ],
+    "black-white": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Force-palm learnt at level 11",
+        "Feint learnt at level 15",
+        "Reversal learnt at level 19",
+        "Screech learnt at level 24",
+        "Copycat learnt at level 29",
+        "Nasty-plot learnt at level 47",
+        "Final-gambit learnt at level 55"
+    ],
+    "sun-moon": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Feint learnt at level 11",
+        "Force-palm learnt at level 15",
+        "Copycat learnt at level 19",
+        "Screech learnt at level 24",
+        "Reversal learnt at level 29",
+        "Nasty-plot learnt at level 47",
+        "Final-gambit learnt at level 50"
+    ],
+    "diamond-pearl": [
+        "Quick-attack learnt at level 1",
+        "Foresight learnt at level 1",
+        "Endure learnt at level 1",
+        "Counter learnt at level 6",
+        "Force-palm learnt at level 11",
+        "Feint learnt at level 15",
+        "Reversal learnt at level 19",
+        "Screech learnt at level 24",
+        "Copycat learnt at level 29"
+    ]
+}

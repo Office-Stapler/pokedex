@@ -1,1 +1,34 @@
-{"ultra-sun-ultra-moon": ["Absorb learnt at level 1", "Astonish learnt at level 4", "Flash learnt at level 8", "Moonlight learnt at level 11", "Mega-drain learnt at level 15", "Sleep-powder learnt at level 18", "Ingrain learnt at level 22", "Confuse-ray learnt at level 25", "Giga-drain learnt at level 29", "Strength-sap learnt at level 32", "Spore learnt at level 36", "Moonblast learnt at level 39", "Dream-eater learnt at level 43", "Spotlight learnt at level 46"], "sun-moon": ["Absorb learnt at level 1", "Astonish learnt at level 4", "Flash learnt at level 8", "Moonlight learnt at level 11", "Mega-drain learnt at level 15", "Sleep-powder learnt at level 18", "Ingrain learnt at level 22", "Confuse-ray learnt at level 25", "Giga-drain learnt at level 29", "Strength-sap learnt at level 32", "Spore learnt at level 36", "Moonblast learnt at level 39", "Dream-eater learnt at level 43", "Spotlight learnt at level 46"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Absorb learnt at level 1",
+        "Astonish learnt at level 4",
+        "Flash learnt at level 8",
+        "Moonlight learnt at level 11",
+        "Mega-drain learnt at level 15",
+        "Sleep-powder learnt at level 18",
+        "Ingrain learnt at level 22",
+        "Confuse-ray learnt at level 25",
+        "Giga-drain learnt at level 29",
+        "Strength-sap learnt at level 32",
+        "Spore learnt at level 36",
+        "Moonblast learnt at level 39",
+        "Dream-eater learnt at level 43",
+        "Spotlight learnt at level 46"
+    ],
+    "sun-moon": [
+        "Absorb learnt at level 1",
+        "Astonish learnt at level 4",
+        "Flash learnt at level 8",
+        "Moonlight learnt at level 11",
+        "Mega-drain learnt at level 15",
+        "Sleep-powder learnt at level 18",
+        "Ingrain learnt at level 22",
+        "Confuse-ray learnt at level 25",
+        "Giga-drain learnt at level 29",
+        "Strength-sap learnt at level 32",
+        "Spore learnt at level 36",
+        "Moonblast learnt at level 39",
+        "Dream-eater learnt at level 43",
+        "Spotlight learnt at level 46"
+    ]
+}

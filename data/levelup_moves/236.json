@@ -1,1 +1,76 @@
-{"firered-leafgreen": ["Tackle learnt at level 1"], "emerald": ["Tackle learnt at level 1"], "heartgold-soulsilver": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "crystal": ["Tackle learnt at level 1"], "gold-silver": ["Tackle learnt at level 1"], "ultra-sun-ultra-moon": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "x-y": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "black-2-white-2": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "xd": ["Tackle learnt at level 1"], "colosseum": ["Tackle learnt at level 1"], "black-white": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "platinum": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "diamond-pearl": ["Tackle learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "ruby-sapphire": ["Tackle learnt at level 1"], "sun-moon": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"], "omega-ruby-alpha-sapphire": ["Tackle learnt at level 1", "Foresight learnt at level 1", "Fake-out learnt at level 1", "Helping-hand learnt at level 1"]}
+{
+    "firered-leafgreen": [
+        "Tackle learnt at level 1"
+    ],
+    "emerald": [
+        "Tackle learnt at level 1"
+    ],
+    "heartgold-soulsilver": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "crystal": [
+        "Tackle learnt at level 1"
+    ],
+    "gold-silver": [
+        "Tackle learnt at level 1"
+    ],
+    "ultra-sun-ultra-moon": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "x-y": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "black-2-white-2": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "xd": [
+        "Tackle learnt at level 1"
+    ],
+    "colosseum": [
+        "Tackle learnt at level 1"
+    ],
+    "black-white": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "platinum": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "diamond-pearl": [
+        "Tackle learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "ruby-sapphire": [
+        "Tackle learnt at level 1"
+    ],
+    "sun-moon": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Tackle learnt at level 1",
+        "Foresight learnt at level 1",
+        "Fake-out learnt at level 1",
+        "Helping-hand learnt at level 1"
+    ]
+}

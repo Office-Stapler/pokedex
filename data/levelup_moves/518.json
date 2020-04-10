@@ -1,1 +1,40 @@
-{"ultra-sun-ultra-moon": ["Psybeam learnt at level 1", "Hypnosis learnt at level 1", "Defense-curl learnt at level 1", "Lucky-chant learnt at level 1", "Psychic-terrain learnt at level 1"], "sun-moon": ["Psybeam learnt at level 1", "Hypnosis learnt at level 1", "Defense-curl learnt at level 1", "Lucky-chant learnt at level 1", "Psychic-terrain learnt at level 1"], "omega-ruby-alpha-sapphire": ["Psybeam learnt at level 1", "Hypnosis learnt at level 1", "Defense-curl learnt at level 1", "Lucky-chant learnt at level 1"], "x-y": ["Psybeam learnt at level 1", "Hypnosis learnt at level 1", "Defense-curl learnt at level 1", "Lucky-chant learnt at level 1"], "black-2-white-2": ["Psybeam learnt at level 1", "Hypnosis learnt at level 1", "Defense-curl learnt at level 1", "Lucky-chant learnt at level 1"], "black-white": ["Psybeam learnt at level 1", "Hypnosis learnt at level 1", "Defense-curl learnt at level 1", "Lucky-chant learnt at level 1"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Psybeam learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Defense-curl learnt at level 1",
+        "Lucky-chant learnt at level 1",
+        "Psychic-terrain learnt at level 1"
+    ],
+    "sun-moon": [
+        "Psybeam learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Defense-curl learnt at level 1",
+        "Lucky-chant learnt at level 1",
+        "Psychic-terrain learnt at level 1"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Psybeam learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Defense-curl learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ],
+    "x-y": [
+        "Psybeam learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Defense-curl learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ],
+    "black-2-white-2": [
+        "Psybeam learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Defense-curl learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ],
+    "black-white": [
+        "Psybeam learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Defense-curl learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ]
+}

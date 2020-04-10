@@ -1,1 +1,66 @@
-{"ultra-sun-ultra-moon": ["Pound learnt at level 1", "Growl learnt at level 1", "Bubble learnt at level 5", "Quick-attack learnt at level 8", "Lick learnt at level 10", "Water-pulse learnt at level 14", "Smokescreen learnt at level 18", "Round learnt at level 21", "Fling learnt at level 25", "Smack-down learnt at level 29", "Substitute learnt at level 35", "Bounce learnt at level 39", "Double-team learnt at level 43", "Hydro-pump learnt at level 48"], "sun-moon": ["Pound learnt at level 1", "Growl learnt at level 1", "Bubble learnt at level 5", "Quick-attack learnt at level 8", "Lick learnt at level 10", "Water-pulse learnt at level 14", "Smokescreen learnt at level 18", "Round learnt at level 21", "Fling learnt at level 25", "Smack-down learnt at level 29", "Substitute learnt at level 35", "Bounce learnt at level 39", "Double-team learnt at level 43", "Hydro-pump learnt at level 48"], "omega-ruby-alpha-sapphire": ["Pound learnt at level 1", "Growl learnt at level 1", "Bubble learnt at level 5", "Quick-attack learnt at level 8", "Lick learnt at level 10", "Water-pulse learnt at level 14", "Smokescreen learnt at level 18", "Round learnt at level 21", "Fling learnt at level 25", "Smack-down learnt at level 29", "Substitute learnt at level 35", "Bounce learnt at level 39", "Double-team learnt at level 43", "Hydro-pump learnt at level 48"], "x-y": ["Pound learnt at level 1", "Growl learnt at level 1", "Bubble learnt at level 5", "Quick-attack learnt at level 8", "Lick learnt at level 10", "Water-pulse learnt at level 14", "Smokescreen learnt at level 18", "Round learnt at level 21", "Fling learnt at level 25", "Smack-down learnt at level 29", "Substitute learnt at level 35", "Bounce learnt at level 39", "Double-team learnt at level 43", "Hydro-pump learnt at level 48"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Pound learnt at level 1",
+        "Growl learnt at level 1",
+        "Bubble learnt at level 5",
+        "Quick-attack learnt at level 8",
+        "Lick learnt at level 10",
+        "Water-pulse learnt at level 14",
+        "Smokescreen learnt at level 18",
+        "Round learnt at level 21",
+        "Fling learnt at level 25",
+        "Smack-down learnt at level 29",
+        "Substitute learnt at level 35",
+        "Bounce learnt at level 39",
+        "Double-team learnt at level 43",
+        "Hydro-pump learnt at level 48"
+    ],
+    "sun-moon": [
+        "Pound learnt at level 1",
+        "Growl learnt at level 1",
+        "Bubble learnt at level 5",
+        "Quick-attack learnt at level 8",
+        "Lick learnt at level 10",
+        "Water-pulse learnt at level 14",
+        "Smokescreen learnt at level 18",
+        "Round learnt at level 21",
+        "Fling learnt at level 25",
+        "Smack-down learnt at level 29",
+        "Substitute learnt at level 35",
+        "Bounce learnt at level 39",
+        "Double-team learnt at level 43",
+        "Hydro-pump learnt at level 48"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Pound learnt at level 1",
+        "Growl learnt at level 1",
+        "Bubble learnt at level 5",
+        "Quick-attack learnt at level 8",
+        "Lick learnt at level 10",
+        "Water-pulse learnt at level 14",
+        "Smokescreen learnt at level 18",
+        "Round learnt at level 21",
+        "Fling learnt at level 25",
+        "Smack-down learnt at level 29",
+        "Substitute learnt at level 35",
+        "Bounce learnt at level 39",
+        "Double-team learnt at level 43",
+        "Hydro-pump learnt at level 48"
+    ],
+    "x-y": [
+        "Pound learnt at level 1",
+        "Growl learnt at level 1",
+        "Bubble learnt at level 5",
+        "Quick-attack learnt at level 8",
+        "Lick learnt at level 10",
+        "Water-pulse learnt at level 14",
+        "Smokescreen learnt at level 18",
+        "Round learnt at level 21",
+        "Fling learnt at level 25",
+        "Smack-down learnt at level 29",
+        "Substitute learnt at level 35",
+        "Bounce learnt at level 39",
+        "Double-team learnt at level 43",
+        "Hydro-pump learnt at level 48"
+    ]
+}

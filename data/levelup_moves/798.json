@@ -1,1 +1,44 @@
-{"ultra-sun-ultra-moon": ["Cut learnt at level 1", "Fury-cutter learnt at level 1", "Air-cutter learnt at level 1", "Vacuum-wave learnt at level 1", "Defog learnt at level 1", "Sacred-sword learnt at level 1", "False-swipe learnt at level 7", "Razor-leaf learnt at level 13", "Synthesis learnt at level 19", "Aerial-ace learnt at level 23", "Laser-focus learnt at level 29", "Night-slash learnt at level 31", "Swords-dance learnt at level 37", "Leaf-blade learnt at level 43", "X-scissor learnt at level 47", "Detect learnt at level 53", "Air-slash learnt at level 59", "Psycho-cut learnt at level 67", "Guillotine learnt at level 73"], "sun-moon": ["Cut learnt at level 1", "Fury-cutter learnt at level 1", "Air-cutter learnt at level 1", "Vacuum-wave learnt at level 1", "Defog learnt at level 1", "Sacred-sword learnt at level 1", "False-swipe learnt at level 7", "Razor-leaf learnt at level 13", "Synthesis learnt at level 19", "Aerial-ace learnt at level 23", "Laser-focus learnt at level 29", "Night-slash learnt at level 31", "Swords-dance learnt at level 37", "Leaf-blade learnt at level 43", "X-scissor learnt at level 47", "Detect learnt at level 53", "Air-slash learnt at level 59", "Psycho-cut learnt at level 67", "Guillotine learnt at level 73"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Cut learnt at level 1",
+        "Fury-cutter learnt at level 1",
+        "Air-cutter learnt at level 1",
+        "Vacuum-wave learnt at level 1",
+        "Defog learnt at level 1",
+        "Sacred-sword learnt at level 1",
+        "False-swipe learnt at level 7",
+        "Razor-leaf learnt at level 13",
+        "Synthesis learnt at level 19",
+        "Aerial-ace learnt at level 23",
+        "Laser-focus learnt at level 29",
+        "Night-slash learnt at level 31",
+        "Swords-dance learnt at level 37",
+        "Leaf-blade learnt at level 43",
+        "X-scissor learnt at level 47",
+        "Detect learnt at level 53",
+        "Air-slash learnt at level 59",
+        "Psycho-cut learnt at level 67",
+        "Guillotine learnt at level 73"
+    ],
+    "sun-moon": [
+        "Cut learnt at level 1",
+        "Fury-cutter learnt at level 1",
+        "Air-cutter learnt at level 1",
+        "Vacuum-wave learnt at level 1",
+        "Defog learnt at level 1",
+        "Sacred-sword learnt at level 1",
+        "False-swipe learnt at level 7",
+        "Razor-leaf learnt at level 13",
+        "Synthesis learnt at level 19",
+        "Aerial-ace learnt at level 23",
+        "Laser-focus learnt at level 29",
+        "Night-slash learnt at level 31",
+        "Swords-dance learnt at level 37",
+        "Leaf-blade learnt at level 43",
+        "X-scissor learnt at level 47",
+        "Detect learnt at level 53",
+        "Air-slash learnt at level 59",
+        "Psycho-cut learnt at level 67",
+        "Guillotine learnt at level 73"
+    ]
+}

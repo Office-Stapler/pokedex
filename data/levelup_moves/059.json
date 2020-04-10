@@ -1,1 +1,135 @@
-{"heartgold-soulsilver": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 39"], "crystal": ["Take-down learnt at level 1", "Leer learnt at level 1", "Roar learnt at level 1", "Flame-wheel learnt at level 1", "Extreme-speed learnt at level 50"], "gold-silver": ["Take-down learnt at level 1", "Leer learnt at level 1", "Roar learnt at level 1", "Flame-wheel learnt at level 1", "Extreme-speed learnt at level 50"], "xd": ["Bite learnt at level 1", "Roar learnt at level 1", "Ember learnt at level 1", "Odor-sleuth learnt at level 1", "Extreme-speed learnt at level 49"], "firered-leafgreen": ["Bite learnt at level 1", "Roar learnt at level 1", "Ember learnt at level 1", "Odor-sleuth learnt at level 1", "Extreme-speed learnt at level 49"], "emerald": ["Bite learnt at level 1", "Roar learnt at level 1", "Ember learnt at level 1", "Odor-sleuth learnt at level 1", "Extreme-speed learnt at level 49"], "yellow": ["Take-down learnt at level 1", "Leer learnt at level 1", "Roar learnt at level 1", "Ember learnt at level 1"], "red-blue": ["Take-down learnt at level 1", "Leer learnt at level 1", "Roar learnt at level 1", "Ember learnt at level 1"], "ultra-sun-ultra-moon": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 34"], "sun-moon": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 34"], "black-2-white-2": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 34"], "colosseum": ["Bite learnt at level 1", "Roar learnt at level 1", "Ember learnt at level 1", "Odor-sleuth learnt at level 1", "Extreme-speed learnt at level 49"], "black-white": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 39"], "ruby-sapphire": ["Bite learnt at level 1", "Roar learnt at level 1", "Ember learnt at level 1", "Odor-sleuth learnt at level 1", "Extreme-speed learnt at level 49"], "omega-ruby-alpha-sapphire": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 34"], "x-y": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 34"], "platinum": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 39"], "diamond-pearl": ["Bite learnt at level 1", "Roar learnt at level 1", "Odor-sleuth learnt at level 1", "Thunder-fang learnt at level 1", "Fire-fang learnt at level 1", "Extreme-speed learnt at level 39"]}
+{
+    "heartgold-soulsilver": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 39"
+    ],
+    "crystal": [
+        "Take-down learnt at level 1",
+        "Leer learnt at level 1",
+        "Roar learnt at level 1",
+        "Flame-wheel learnt at level 1",
+        "Extreme-speed learnt at level 50"
+    ],
+    "gold-silver": [
+        "Take-down learnt at level 1",
+        "Leer learnt at level 1",
+        "Roar learnt at level 1",
+        "Flame-wheel learnt at level 1",
+        "Extreme-speed learnt at level 50"
+    ],
+    "xd": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Ember learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Extreme-speed learnt at level 49"
+    ],
+    "firered-leafgreen": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Ember learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Extreme-speed learnt at level 49"
+    ],
+    "emerald": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Ember learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Extreme-speed learnt at level 49"
+    ],
+    "yellow": [
+        "Take-down learnt at level 1",
+        "Leer learnt at level 1",
+        "Roar learnt at level 1",
+        "Ember learnt at level 1"
+    ],
+    "red-blue": [
+        "Take-down learnt at level 1",
+        "Leer learnt at level 1",
+        "Roar learnt at level 1",
+        "Ember learnt at level 1"
+    ],
+    "ultra-sun-ultra-moon": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 34"
+    ],
+    "sun-moon": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 34"
+    ],
+    "black-2-white-2": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 34"
+    ],
+    "colosseum": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Ember learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Extreme-speed learnt at level 49"
+    ],
+    "black-white": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 39"
+    ],
+    "ruby-sapphire": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Ember learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Extreme-speed learnt at level 49"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 34"
+    ],
+    "x-y": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 34"
+    ],
+    "platinum": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 39"
+    ],
+    "diamond-pearl": [
+        "Bite learnt at level 1",
+        "Roar learnt at level 1",
+        "Odor-sleuth learnt at level 1",
+        "Thunder-fang learnt at level 1",
+        "Fire-fang learnt at level 1",
+        "Extreme-speed learnt at level 39"
+    ]
+}

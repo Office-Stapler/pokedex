@@ -65,6 +65,22 @@ class Pokemon:
                     moves[j['version_group']['name']].append(i['move']['name'])
         return moves
 
+    def get_abilities(self):
+        abilities = []
+        for i in self.abilities:
+            i = i['ability']
+            effect = json.loads(requests.get(i['url']).text)
+            for j in effect['effect_entries']:
+                del j['language']
+            abilities.append({
+                'id': int(i['url'].replace('https://pokeapi.co/api/v2/ability/', '').replace('/', '')),
+                'name': i['name'],
+                'effect_changes': effect['effect_changes'], 
+                'effect_entries': effect['effect_entries']
+            })
+            
+        return abilities
+
     def __convert(self, x):
         number = ''
         for i in x:
@@ -72,8 +88,7 @@ class Pokemon:
         return int(number)
 
 
-
-if __name__ == '__main__':
+'''
     with open('data/pokedex.json', 'r+') as fread:
         pokedex = json.load(fread)
     
@@ -83,5 +98,18 @@ if __name__ == '__main__':
         
         with open(f'data/tutor_moves/{pid:03d}.json', 'w+') as fwrite:
             json.dump(pokemon.get_tutor_moves(), fwrite)
+        print(pokedex[pid - 1]['name']['english'] + ' finished Dumping....')
+        pid += 1
+'''
+
+
+if __name__ == '__main__':
+    pid = len(os.listdir('data/abilities/')) + 1
+    with open('data/pokedex.json', 'r+') as fread:
+        pokedex = json.load(fread)
+    while pid < len(pokedex):
+        pokemon = Pokemon(pid)
+        with open(f'data/abilities/{pid:03d}.json', 'w+') as fwrite:
+            json.dump(pokemon.get_abilities(), fwrite)
         print(pokedex[pid - 1]['name']['english'] + ' finished Dumping....')
         pid += 1

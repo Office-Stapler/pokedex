@@ -1,1 +1,42 @@
-{"ultra-sun-ultra-moon": ["Tackle learnt at level 1", "Rage learnt at level 5", "Pursuit learnt at level 10", "Imprison learnt at level 15", "Aerial-ace learnt at level 20", "Crush-claw learnt at level 25", "Scary-face learnt at level 30", "X-scissor learnt at level 35", "Take-down learnt at level 40", "Metal-sound learnt at level 45", "Iron-head learnt at level 50", "Double-hit learnt at level 55", "Air-slash learnt at level 60", "Punishment learnt at level 65", "Razor-wind learnt at level 70", "Tri-attack learnt at level 75", "Double-edge learnt at level 80", "Heal-block learnt at level 85"], "sun-moon": ["Tackle learnt at level 1", "Rage learnt at level 5", "Pursuit learnt at level 10", "Imprison learnt at level 15", "Aerial-ace learnt at level 20", "Crush-claw learnt at level 25", "Scary-face learnt at level 30", "X-scissor learnt at level 35", "Take-down learnt at level 40", "Metal-sound learnt at level 45", "Iron-head learnt at level 50", "Double-hit learnt at level 55", "Air-slash learnt at level 60", "Punishment learnt at level 65", "Razor-wind learnt at level 70", "Tri-attack learnt at level 75", "Double-edge learnt at level 80", "Heal-block learnt at level 85"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Tackle learnt at level 1",
+        "Rage learnt at level 5",
+        "Pursuit learnt at level 10",
+        "Imprison learnt at level 15",
+        "Aerial-ace learnt at level 20",
+        "Crush-claw learnt at level 25",
+        "Scary-face learnt at level 30",
+        "X-scissor learnt at level 35",
+        "Take-down learnt at level 40",
+        "Metal-sound learnt at level 45",
+        "Iron-head learnt at level 50",
+        "Double-hit learnt at level 55",
+        "Air-slash learnt at level 60",
+        "Punishment learnt at level 65",
+        "Razor-wind learnt at level 70",
+        "Tri-attack learnt at level 75",
+        "Double-edge learnt at level 80",
+        "Heal-block learnt at level 85"
+    ],
+    "sun-moon": [
+        "Tackle learnt at level 1",
+        "Rage learnt at level 5",
+        "Pursuit learnt at level 10",
+        "Imprison learnt at level 15",
+        "Aerial-ace learnt at level 20",
+        "Crush-claw learnt at level 25",
+        "Scary-face learnt at level 30",
+        "X-scissor learnt at level 35",
+        "Take-down learnt at level 40",
+        "Metal-sound learnt at level 45",
+        "Iron-head learnt at level 50",
+        "Double-hit learnt at level 55",
+        "Air-slash learnt at level 60",
+        "Punishment learnt at level 65",
+        "Razor-wind learnt at level 70",
+        "Tri-attack learnt at level 75",
+        "Double-edge learnt at level 80",
+        "Heal-block learnt at level 85"
+    ]
+}

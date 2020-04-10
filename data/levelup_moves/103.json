@@ -1,1 +1,160 @@
-{"ultra-sun-ultra-moon": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Psyshock learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "sun-moon": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Psyshock learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "omega-ruby-alpha-sapphire": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Psyshock learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "x-y": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Psyshock learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "black-2-white-2": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Psyshock learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "heartgold-soulsilver": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Stomp learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "platinum": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Stomp learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "diamond-pearl": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Stomp learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "black-white": ["Stomp learnt at level 1", "Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Seed-bomb learnt at level 1", "Psyshock learnt at level 17", "Egg-bomb learnt at level 27", "Wood-hammer learnt at level 37", "Leaf-storm learnt at level 47"], "firered-leafgreen": ["Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 19", "Egg-bomb learnt at level 31"], "emerald": ["Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 19", "Egg-bomb learnt at level 31"], "ruby-sapphire": ["Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 19", "Egg-bomb learnt at level 31"], "crystal": ["Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 19", "Egg-bomb learnt at level 31"], "gold-silver": ["Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 19", "Egg-bomb learnt at level 31"], "xd": ["Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 19", "Egg-bomb learnt at level 31"], "colosseum": ["Confusion learnt at level 1", "Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 19", "Egg-bomb learnt at level 31"], "yellow": ["Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 28"], "red-blue": ["Hypnosis learnt at level 1", "Barrage learnt at level 1", "Stomp learnt at level 28"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Psyshock learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "sun-moon": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Psyshock learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Psyshock learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "x-y": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Psyshock learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "black-2-white-2": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Psyshock learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "heartgold-soulsilver": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Stomp learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "platinum": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Stomp learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "diamond-pearl": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Stomp learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "black-white": [
+        "Stomp learnt at level 1",
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Seed-bomb learnt at level 1",
+        "Psyshock learnt at level 17",
+        "Egg-bomb learnt at level 27",
+        "Wood-hammer learnt at level 37",
+        "Leaf-storm learnt at level 47"
+    ],
+    "firered-leafgreen": [
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 19",
+        "Egg-bomb learnt at level 31"
+    ],
+    "emerald": [
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 19",
+        "Egg-bomb learnt at level 31"
+    ],
+    "ruby-sapphire": [
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 19",
+        "Egg-bomb learnt at level 31"
+    ],
+    "crystal": [
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 19",
+        "Egg-bomb learnt at level 31"
+    ],
+    "gold-silver": [
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 19",
+        "Egg-bomb learnt at level 31"
+    ],
+    "xd": [
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 19",
+        "Egg-bomb learnt at level 31"
+    ],
+    "colosseum": [
+        "Confusion learnt at level 1",
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 19",
+        "Egg-bomb learnt at level 31"
+    ],
+    "yellow": [
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 28"
+    ],
+    "red-blue": [
+        "Hypnosis learnt at level 1",
+        "Barrage learnt at level 1",
+        "Stomp learnt at level 28"
+    ]
+}

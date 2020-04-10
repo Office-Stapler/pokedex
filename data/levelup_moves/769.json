@@ -1,1 +1,34 @@
-{"ultra-sun-ultra-moon": ["Absorb learnt at level 1", "Harden learnt at level 1", "Astonish learnt at level 5", "Sand-attack learnt at level 9", "Sand-tomb learnt at level 14", "Mega-drain learnt at level 18", "Bulldoze learnt at level 23", "Hypnosis learnt at level 27", "Iron-defense learnt at level 32", "Giga-drain learnt at level 36", "Shadow-ball learnt at level 41", "Earth-power learnt at level 45", "Shore-up learnt at level 50", "Sandstorm learnt at level 54"], "sun-moon": ["Absorb learnt at level 1", "Harden learnt at level 1", "Astonish learnt at level 5", "Sand-attack learnt at level 9", "Sand-tomb learnt at level 14", "Mega-drain learnt at level 18", "Bulldoze learnt at level 23", "Hypnosis learnt at level 27", "Iron-defense learnt at level 32", "Giga-drain learnt at level 36", "Shadow-ball learnt at level 41", "Earth-power learnt at level 45", "Shore-up learnt at level 50", "Sandstorm learnt at level 54"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Absorb learnt at level 1",
+        "Harden learnt at level 1",
+        "Astonish learnt at level 5",
+        "Sand-attack learnt at level 9",
+        "Sand-tomb learnt at level 14",
+        "Mega-drain learnt at level 18",
+        "Bulldoze learnt at level 23",
+        "Hypnosis learnt at level 27",
+        "Iron-defense learnt at level 32",
+        "Giga-drain learnt at level 36",
+        "Shadow-ball learnt at level 41",
+        "Earth-power learnt at level 45",
+        "Shore-up learnt at level 50",
+        "Sandstorm learnt at level 54"
+    ],
+    "sun-moon": [
+        "Absorb learnt at level 1",
+        "Harden learnt at level 1",
+        "Astonish learnt at level 5",
+        "Sand-attack learnt at level 9",
+        "Sand-tomb learnt at level 14",
+        "Mega-drain learnt at level 18",
+        "Bulldoze learnt at level 23",
+        "Hypnosis learnt at level 27",
+        "Iron-defense learnt at level 32",
+        "Giga-drain learnt at level 36",
+        "Shadow-ball learnt at level 41",
+        "Earth-power learnt at level 45",
+        "Shore-up learnt at level 50",
+        "Sandstorm learnt at level 54"
+    ]
+}

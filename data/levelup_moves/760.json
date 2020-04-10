@@ -1,1 +1,33 @@
-{"ultra-sun-ultra-moon": ["Bind learnt at level 1", "Tackle learnt at level 1", "Leer learnt at level 1", "Bide learnt at level 5", "Baby-doll-eyes learnt at level 10", "Brutal-swing learnt at level 14", "Flail learnt at level 19", "Payback learnt at level 23", "Take-down learnt at level 30", "Hammer-arm learnt at level 36", "Thrash learnt at level 43", "Pain-split learnt at level 49", "Double-edge learnt at level 56", "Superpower learnt at level 62"], "sun-moon": ["Tackle learnt at level 1", "Leer learnt at level 1", "Bide learnt at level 5", "Baby-doll-eyes learnt at level 10", "Brutal-swing learnt at level 14", "Flail learnt at level 19", "Payback learnt at level 23", "Take-down learnt at level 30", "Hammer-arm learnt at level 36", "Thrash learnt at level 43", "Pain-split learnt at level 49", "Double-edge learnt at level 56", "Superpower learnt at level 62"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Bind learnt at level 1",
+        "Tackle learnt at level 1",
+        "Leer learnt at level 1",
+        "Bide learnt at level 5",
+        "Baby-doll-eyes learnt at level 10",
+        "Brutal-swing learnt at level 14",
+        "Flail learnt at level 19",
+        "Payback learnt at level 23",
+        "Take-down learnt at level 30",
+        "Hammer-arm learnt at level 36",
+        "Thrash learnt at level 43",
+        "Pain-split learnt at level 49",
+        "Double-edge learnt at level 56",
+        "Superpower learnt at level 62"
+    ],
+    "sun-moon": [
+        "Tackle learnt at level 1",
+        "Leer learnt at level 1",
+        "Bide learnt at level 5",
+        "Baby-doll-eyes learnt at level 10",
+        "Brutal-swing learnt at level 14",
+        "Flail learnt at level 19",
+        "Payback learnt at level 23",
+        "Take-down learnt at level 30",
+        "Hammer-arm learnt at level 36",
+        "Thrash learnt at level 43",
+        "Pain-split learnt at level 49",
+        "Double-edge learnt at level 56",
+        "Superpower learnt at level 62"
+    ]
+}

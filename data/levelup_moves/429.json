@@ -1,1 +1,85 @@
-{"heartgold-soulsilver": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1"], "ultra-sun-ultra-moon": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1", "Power-gem learnt at level 1", "Phantom-force learnt at level 1", "Mystical-fire learnt at level 1"], "sun-moon": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1", "Power-gem learnt at level 1", "Phantom-force learnt at level 1", "Mystical-fire learnt at level 1"], "omega-ruby-alpha-sapphire": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1", "Power-gem learnt at level 1", "Phantom-force learnt at level 1", "Mystical-fire learnt at level 1"], "x-y": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1", "Power-gem learnt at level 1", "Phantom-force learnt at level 1"], "black-2-white-2": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1"], "black-white": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1"], "platinum": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1"], "diamond-pearl": ["Growl learnt at level 1", "Psywave learnt at level 1", "Spite learnt at level 1", "Astonish learnt at level 1", "Magical-leaf learnt at level 1", "Lucky-chant learnt at level 1"]}
+{
+    "heartgold-soulsilver": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ],
+    "ultra-sun-ultra-moon": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1",
+        "Power-gem learnt at level 1",
+        "Phantom-force learnt at level 1",
+        "Mystical-fire learnt at level 1"
+    ],
+    "sun-moon": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1",
+        "Power-gem learnt at level 1",
+        "Phantom-force learnt at level 1",
+        "Mystical-fire learnt at level 1"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1",
+        "Power-gem learnt at level 1",
+        "Phantom-force learnt at level 1",
+        "Mystical-fire learnt at level 1"
+    ],
+    "x-y": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1",
+        "Power-gem learnt at level 1",
+        "Phantom-force learnt at level 1"
+    ],
+    "black-2-white-2": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ],
+    "black-white": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ],
+    "platinum": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ],
+    "diamond-pearl": [
+        "Growl learnt at level 1",
+        "Psywave learnt at level 1",
+        "Spite learnt at level 1",
+        "Astonish learnt at level 1",
+        "Magical-leaf learnt at level 1",
+        "Lucky-chant learnt at level 1"
+    ]
+}

@@ -1,1 +1,30 @@
-{"ultra-sun-ultra-moon": ["Water-gun learnt at level 1", "Astonish learnt at level 4", "Confusion learnt at level 9", "Bite learnt at level 12", "Aqua-jet learnt at level 17", "Disable learnt at level 20", "Psywave learnt at level 25", "Crunch learnt at level 28", "Aqua-tail learnt at level 33", "Screech learnt at level 36", "Psychic-fangs learnt at level 41", "Synchronoise learnt at level 44"], "sun-moon": ["Water-gun learnt at level 1", "Astonish learnt at level 4", "Confusion learnt at level 9", "Bite learnt at level 12", "Aqua-jet learnt at level 17", "Disable learnt at level 20", "Psywave learnt at level 25", "Crunch learnt at level 28", "Aqua-tail learnt at level 33", "Screech learnt at level 36", "Psychic-fangs learnt at level 41", "Synchronoise learnt at level 44"]}
+{
+    "ultra-sun-ultra-moon": [
+        "Water-gun learnt at level 1",
+        "Astonish learnt at level 4",
+        "Confusion learnt at level 9",
+        "Bite learnt at level 12",
+        "Aqua-jet learnt at level 17",
+        "Disable learnt at level 20",
+        "Psywave learnt at level 25",
+        "Crunch learnt at level 28",
+        "Aqua-tail learnt at level 33",
+        "Screech learnt at level 36",
+        "Psychic-fangs learnt at level 41",
+        "Synchronoise learnt at level 44"
+    ],
+    "sun-moon": [
+        "Water-gun learnt at level 1",
+        "Astonish learnt at level 4",
+        "Confusion learnt at level 9",
+        "Bite learnt at level 12",
+        "Aqua-jet learnt at level 17",
+        "Disable learnt at level 20",
+        "Psywave learnt at level 25",
+        "Crunch learnt at level 28",
+        "Aqua-tail learnt at level 33",
+        "Screech learnt at level 36",
+        "Psychic-fangs learnt at level 41",
+        "Synchronoise learnt at level 44"
+    ]
+}

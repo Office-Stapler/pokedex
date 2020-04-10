@@ -1,1 +1,130 @@
-{"crystal": ["Tackle learnt at level 1", "Bubble-beam learnt at level 1", "Recover learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 37"], "gold-silver": ["Tackle learnt at level 1", "Bubble-beam learnt at level 1", "Recover learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 37"], "yellow": ["Tackle learnt at level 1", "Water-gun learnt at level 1", "Harden learnt at level 1"], "red-blue": ["Tackle learnt at level 1", "Water-gun learnt at level 1", "Harden learnt at level 1"], "xd": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 33"], "firered-leafgreen": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 33"], "emerald": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 33"], "omega-ruby-alpha-sapphire": ["Water-gun learnt at level 1", "Hydro-pump learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 40"], "x-y": ["Water-gun learnt at level 1", "Hydro-pump learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 22"], "black-2-white-2": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 22"], "colosseum": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 33"], "black-white": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 28"], "heartgold-soulsilver": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 28"], "platinum": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 28"], "ultra-sun-ultra-moon": ["Water-gun learnt at level 1", "Hydro-pump learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Spotlight learnt at level 1", "Confuse-ray learnt at level 40"], "sun-moon": ["Water-gun learnt at level 1", "Hydro-pump learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Spotlight learnt at level 1", "Confuse-ray learnt at level 40"], "diamond-pearl": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 28"], "ruby-sapphire": ["Water-gun learnt at level 1", "Recover learnt at level 1", "Swift learnt at level 1", "Rapid-spin learnt at level 1", "Confuse-ray learnt at level 33"]}
+{
+    "crystal": [
+        "Tackle learnt at level 1",
+        "Bubble-beam learnt at level 1",
+        "Recover learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 37"
+    ],
+    "gold-silver": [
+        "Tackle learnt at level 1",
+        "Bubble-beam learnt at level 1",
+        "Recover learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 37"
+    ],
+    "yellow": [
+        "Tackle learnt at level 1",
+        "Water-gun learnt at level 1",
+        "Harden learnt at level 1"
+    ],
+    "red-blue": [
+        "Tackle learnt at level 1",
+        "Water-gun learnt at level 1",
+        "Harden learnt at level 1"
+    ],
+    "xd": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 33"
+    ],
+    "firered-leafgreen": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 33"
+    ],
+    "emerald": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 33"
+    ],
+    "omega-ruby-alpha-sapphire": [
+        "Water-gun learnt at level 1",
+        "Hydro-pump learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 40"
+    ],
+    "x-y": [
+        "Water-gun learnt at level 1",
+        "Hydro-pump learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 22"
+    ],
+    "black-2-white-2": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 22"
+    ],
+    "colosseum": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 33"
+    ],
+    "black-white": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 28"
+    ],
+    "heartgold-soulsilver": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 28"
+    ],
+    "platinum": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 28"
+    ],
+    "ultra-sun-ultra-moon": [
+        "Water-gun learnt at level 1",
+        "Hydro-pump learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Spotlight learnt at level 1",
+        "Confuse-ray learnt at level 40"
+    ],
+    "sun-moon": [
+        "Water-gun learnt at level 1",
+        "Hydro-pump learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Spotlight learnt at level 1",
+        "Confuse-ray learnt at level 40"
+    ],
+    "diamond-pearl": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 28"
+    ],
+    "ruby-sapphire": [
+        "Water-gun learnt at level 1",
+        "Recover learnt at level 1",
+        "Swift learnt at level 1",
+        "Rapid-spin learnt at level 1",
+        "Confuse-ray learnt at level 33"
+    ]
+}
