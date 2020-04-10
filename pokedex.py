@@ -132,7 +132,7 @@ class Pokedex:
         for i in list(moves.keys())[::-1]:
             listbox.insert(tkinter.END, f'==={i.upper()}===')
             for j in moves[i]:
-                listbox.insert(tkinter.END, j)
+                listbox.insert(tkinter.END, f'{j[0]} -> {j[1]}')
 
     def list_machine_moves(self, listbox):
         listbox.delete('0', 'end')

@@ -43,6 +43,18 @@ class Pokemon:
         
         with open('pokemon.json', 'w+') as fwrite:
             json.dump(pokemon, fwrite)
+
+    def get_levelup_moves(self):
+        moves = {}
+        for i in self.moves:
+            for j in i['version_group_details']:
+                if j['move_learn_method']['name'] == 'level-up':
+                    if j['version_group']['name'] not in moves:
+                        moves[j['version_group']['name']] = []
+
+                    moves[j['version_group']['name']].append((i['move']['name'].capitalize(), j['level_learned_at']))
+                    moves[j['version_group']['name']].sort(key=lambda x: x[1])
+        return moves
     def get_machine_moves(self):
         moves = {}
         for i in self.moves:
@@ -104,12 +116,14 @@ class Pokemon:
 
 
 if __name__ == '__main__':
-    pid = len(os.listdir('data/abilities/')) + 1
     with open('data/pokedex.json', 'r+') as fread:
         pokedex = json.load(fread)
+    
+    pid = len(os.listdir('data/levelup_moves/')) + 1
     while pid < len(pokedex):
         pokemon = Pokemon(pid)
-        with open(f'data/abilities/{pid:03d}.json', 'w+') as fwrite:
-            json.dump(pokemon.get_abilities(), fwrite)
+        
+        with open(f'data/levelup_moves/{pid:03d}.json', 'w+') as fwrite:
+            json.dump(pokemon.get_levelup_moves(), fwrite, indent=4)
         print(pokedex[pid - 1]['name']['english'] + ' finished Dumping....')
         pid += 1
