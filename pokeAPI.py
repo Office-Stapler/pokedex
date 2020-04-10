@@ -54,6 +54,17 @@ class Pokemon:
                     moves[j['version_group']['name']].append(i['move']['name'])
         return moves
 
+    def get_tutor_moves(self):
+        moves = {}
+        for i in self.moves:
+            for j in i['version_group_details']:
+                if j['move_learn_method']['name'] == 'tutor':
+                    if j['version_group']['name'] not in moves:
+                        moves[j['version_group']['name']] = []
+
+                    moves[j['version_group']['name']].append(i['move']['name'])
+        return moves
+
     def __convert(self, x):
         number = ''
         for i in x:
@@ -66,11 +77,11 @@ if __name__ == '__main__':
     with open('data/pokedex.json', 'r+') as fread:
         pokedex = json.load(fread)
     
-    pid = len(os.listdir('data/machine_moves/')) + 1
+    pid = len(os.listdir('data/tutor_moves/')) + 1
     while pid < len(pokedex):
         pokemon = Pokemon(pid)
         
-        with open(f'data/machine_moves/{pid:03d}.json', 'w+') as fwrite:
-            json.dump(pokemon.get_machine_moves(), fwrite)
+        with open(f'data/tutor_moves/{pid:03d}.json', 'w+') as fwrite:
+            json.dump(pokemon.get_tutor_moves(), fwrite)
         print(pokedex[pid - 1]['name']['english'] + ' finished Dumping....')
         pid += 1

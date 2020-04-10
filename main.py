@@ -42,10 +42,14 @@ btnprev.grid(row=0, column=0, rowspan = 2)
 btnlevelup = tkinter.Button(tk.rightFrame, text='Level up Moves', command = lambda: tk.list_moves(listbox))
 
 btnmachine = tkinter.Button(tk.rightFrame, text='Machine moves', command = lambda: tk.list_machine_moves(listbox))
+
+btntutor = tkinter.Button(tk.rightFrame, text='Tutor Moves', command = lambda: tk.list_tutor_moves(listbox))
+
 btnlevelup.grid(row=0,column=0)
 btnmachine.grid(row=1,column=0)
+btntutor.grid(row=2,column=0)
 
-listbox.grid(row=2,column=0)
+listbox.grid(row=3,column=0)
 btnmoves = tkinter.Button(tk.rightFrame, text='About Move', command= lambda: tk.get_move_info(listbox))
 btnmoves.grid(row=2,column=1)
 tk.list_moves(listbox)

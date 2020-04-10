@@ -144,6 +144,16 @@ class Pokedex:
             for j in moves[i]:
                 listbox.insert(tkinter.END, j.capitalize())
 
+    def list_tutor_moves(self, listbox):
+        listbox.delete('0', 'end')
+        moves = self.get_tutor_moves()
+        if not moves:
+            return
+        for i in list(moves.keys())[::-1]:
+            listbox.insert(tkinter.END, f'==={i.upper()}===')
+            for j in moves[i]:
+                listbox.insert(tkinter.END, j.capitalize())
+
     def get_type(self, pid=None):
         if not pid:
             return [x.lower() for x in self.pokemon[self.url['id'] - 1]['type']]
@@ -158,6 +168,16 @@ class Pokedex:
             with open(f'data/machine_moves/{pid:03d}.json', 'r') as fread:
                 moves =json.load(fread)
         return moves
+
+    def get_tutor_moves(self, pid=None):
+        if not pid:
+            with open(f'data/tutor_moves/{self.url["id"]:03d}.json', 'r') as fread:
+                moves =json.load(fread)
+        else:
+            with open(f'data/tutor_moves/{pid:03d}.json', 'r') as fread:
+                moves =json.load(fread)
+        return moves
+    
     def get_move_info(self, listbox, event=None):
         move = listbox.curselection()
         if move == ():
@@ -172,10 +192,6 @@ class Pokedex:
                 self.movewin = None
         mvstring = mvstring.split(' ')[0]
         self.movewin = Win(mvstring)
-
-
-
-
         self.movewin.win.mainloop()
 
 
