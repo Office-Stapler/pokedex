@@ -12,6 +12,7 @@ img = tkinter.PhotoImage(file=tk.url['url'])
 lblname = tkinter.Label(tk.topFrame, text=f'{tk.pokemon[tk.url["id"] - 1]["name"]["english"]}: 1', font=('Helvetica', 40))
 lbl = tkinter.Label(tk.win, image=img)
 listbox = tkinter.Listbox(tk.rightFrame, width=50, height=20, font=('Helvetica', 12))
+listbox1 = tkinter.Listbox(tk.rightFrame, width=20, height=10, font=('Helvetica', 14))
 
 search = tkinter.Entry(tk.topFrame, width=50, borderwidth=5, font=('Aerial', 20))
 search.pack()
@@ -94,14 +95,21 @@ btnmachine.grid(row=1,column=0)
 btntutor.grid(row=2,column=0)
 
 listbox.grid(row=3,column=0)
+listbox1.grid(row=5,column=0)
+scrollbar1 = tkinter.Scrollbar(tk.rightFrame, orient='vertical')
+scrollbar1.config(command=listbox1.yview)
+
+tk.list_abilities(listbox1)
+
 tk.list_moves(listbox)
 
 scrollbar = tkinter.Scrollbar(tk.rightFrame, orient='vertical')
 scrollbar.config(command=listbox.yview)
 
-tk.win.bind('<Right>', lambda e: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
-tk.win.bind('<Left>', lambda e: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
-tk.win.bind('<Return>', lambda e: [tk.search_pokemon(lbl, lblname, search, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
+tk.win.bind('<Right>', lambda e: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+tk.win.bind('<Left>', lambda e: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+tk.win.bind('<Return>', lambda e: [tk.search_pokemon(lbl, lblname, search, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
 listbox.bind('<Double-1>', lambda e: tk.get_move_info(listbox))
+listbox1.bind('<Double-1>', lambda e: tk.get_abl_info(listbox1))
 
 tk.win.mainloop()

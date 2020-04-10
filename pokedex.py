@@ -9,7 +9,9 @@ class Win:
     def __init__(self, name):
         self.win = tkinter.Tk()
         self.win.title(name.replace('-',' '))
-        self.win.geometry('250x250')
+        self.win.geometry('300x300')
+
+    def display_move(self, name):
         with open('data/moves.json') as fread:
             moves = json.load(fread)
 
@@ -35,6 +37,20 @@ class Win:
         lblpp = tkinter.Label(self.win, text=f'PP: {self.move["pp"]}', font=('Arial', 15))
         lblpp.pack()
 
+    def display_ability(self, name, pid):
+        with open(f'data/abilities/{pid:03d}.json') as fread:
+            abl = json.load(fread)
+        self.win.geometry('200x200')
+        for i in abl:
+            if i['name'] == name.lower():
+                self.abl = i
+                break
+
+        lblname = tkinter.Label(self.win, text=f'About {name.replace("-"," ")}', font=('Arial', 15))
+        lblname.pack()
+        lbleffect = tkinter.Label(self.win, text=f'{self.abl["effect_entries"][0]["short_effect"]}', font=('Arial', 13), wraplengt=100)
+        lbleffect.pack()
+
     def quit(self):
         self.win.destroy()
 
@@ -59,6 +75,7 @@ class Pokedex:
         self.rightFrame.pack(side=tkinter.RIGHT)
 
         self.movewin = None
+        self.ablwin = None
 
     def next_image(self, lbl, lblname, lbltype1, lbltype2, event=None):
         nxt = self.url['id'] + 1
@@ -192,8 +209,17 @@ class Pokedex:
                 self.movewin = None
         mvstring = mvstring.split(' ')[0]
         self.movewin = Win(mvstring)
+        self.movewin.display_move(mvstring)
         self.movewin.win.mainloop()
 
+    def get_abilities(self, pid=None):
+        if not pid:
+            with open(f'data/abilities/{self.url["id"]:03d}.json', 'r') as fread:
+                abl =json.load(fread)
+        else:
+            with open(f'data/abilities/{pid:03d}.json', 'r') as fread:
+                abl =json.load(fread)
+        return abl
 
     def __change_types(self, lbltype1, lbltype2):
         types = self.get_type()
@@ -223,3 +249,30 @@ class Pokedex:
         stats[9]['value'] = base['Sp. Defense'] / 255 * 100
         stats[10].config(text = f'Speed: {base["Speed"]}')
         stats[11]['value'] = base['Speed'] / 255 * 100
+
+    def list_abilities(self, listbox, event=None):
+        listbox.delete('0', 'end')
+        abl = self.get_abilities()
+        if not abl:
+            return
+        listbox.insert(tkinter.END, '==Abilities==')
+        for i in abl:
+            listbox.insert(tkinter.END, i['name'].capitalize())
+
+    def get_abl_info(self, listbox, event=None):
+        abl = listbox.curselection()
+        if abl == ():
+            return
+        abstring = listbox.get(abl[0])
+        if '==' in abstring:
+            return
+        
+        if self.ablwin:
+            try:
+                self.ablwin.quit()
+            except:
+                self.ablin = None
+        abstring = abstring.split(' ')[0]
+        self.ablwin = Win(abstring)
+        self.ablwin.display_ability(abstring, self.url['id'])
+        self.ablwin.win.mainloop()
