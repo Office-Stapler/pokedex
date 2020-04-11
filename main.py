@@ -78,8 +78,8 @@ statusspd.pack()
 
 stats = [lblhp, statushp, lblattack, statusattack, lbldef, statusdef, lblspatk, statusspatk, lblspdef, statusspdef, lblspd, statusspd]
 
-btnnext = tkinter.Button(tk.bottomFrame, text='>', fg='darkblue', bg='white', command=lambda: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
-btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats)])
+btnnext = tkinter.Button(tk.bottomFrame, text='>', fg='darkblue', bg='white', command=lambda: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
 btnnext.grid(row=0, column=1, rowspan = 2)
 btnprev.grid(row=0, column=0, rowspan = 2)
 
