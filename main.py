@@ -1,16 +1,14 @@
 import tkinter
 from tkinter.ttk import Progressbar
-import pokedex
-import pokeAPI
+from pokedex import pokeGUI
 
 
-tk = pokedex.Pokedex()
+tk = pokeGUI()
 tk.win.title('Pokedex')
 
-
-img = tkinter.PhotoImage(file=tk.url['url'])
-lblname = tkinter.Label(tk.topFrame, text=f'{tk.pokemon[tk.url["id"] - 1]["name"]["english"]}: 1', font=('Helvetica', 40))
-lbl = tkinter.Label(tk.win, image=img)
+img = tkinter.PhotoImage(file='data/images/001.png')
+lblname = tkinter.Label(tk.topFrame, text='Bulbasaur: 1', font=('Helvetica', 40))
+lblimg = tkinter.Label(tk.win, image=img)
 listbox = tkinter.Listbox(tk.rightFrame, width=50, height=20, font=('Helvetica', 12))
 listbox1 = tkinter.Listbox(tk.rightFrame, width=20, height=10, font=('Helvetica', 14))
 
@@ -19,17 +17,18 @@ search.pack()
 
 type1 = tkinter.PhotoImage(file='data/types_images/grass.png')
 type2 = tkinter.PhotoImage(file='data/types_images/poison.png')
+
 lbltype1 = tkinter.Label(tk.win, image=type1)
 lbltype2 = tkinter.Label(tk.win, image=type2)
 
-btnseach = tkinter.Button(tk.topFrame, text='Search Pokemon', command=lambda: [tk.search_pokemon(lbl, lblname, search, lbltype1, lbltype2), tk.list_moves(listbox)])
+btnseach = tkinter.Button(tk.topFrame, text='Search Pokemon', command=lambda: [tk.command_search(lblimg, lblname, search, lbltype1, lbltype2), tk.list_levelup_moves(listbox)])
 btnseach.pack()
 
 
 lblname.pack()
 
 
-lbl.pack()
+lblimg.pack()
 
 lbltype1.pack()
 lbltype2.pack()
@@ -78,8 +77,8 @@ statusspd.pack()
 
 stats = [lblhp, statushp, lblattack, statusattack, lbldef, statusdef, lblspatk, statusspatk, lblspdef, statusspdef, lblspd, statusspd]
 
-btnnext = tkinter.Button(tk.bottomFrame, text='>', fg='darkblue', bg='white', command=lambda: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
-btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+btnnext = tkinter.Button(tk.bottomFrame, text='>', fg='darkblue', bg='white', command=lambda: [tk.command_next(lblimg, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+btnprev = tkinter.Button(tk.bottomFrame, text='<', fg='darkblue', bg='white', command=lambda: [tk.command_prev(lblimg, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
 btnnext.grid(row=0, column=1, rowspan = 2)
 btnprev.grid(row=0, column=0, rowspan = 2)
 
@@ -101,14 +100,14 @@ scrollbar1.config(command=listbox1.yview)
 
 tk.list_abilities(listbox1)
 
-tk.list_moves(listbox)
+tk.list_levelup_moves(listbox)
 
 scrollbar = tkinter.Scrollbar(tk.rightFrame, orient='vertical')
 scrollbar.config(command=listbox.yview)
 
-tk.win.bind('<Right>', lambda e: [tk.next_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
-tk.win.bind('<Left>', lambda e: [tk.prev_image(lbl, lblname, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
-tk.win.bind('<Return>', lambda e: [tk.search_pokemon(lbl, lblname, search, lbltype1, lbltype2), tk.list_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+tk.win.bind('<Right>', lambda e: [tk.command_next(lblimg, lblname, lbltype1, lbltype2), tk.list_levelup_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+tk.win.bind('<Left>', lambda e: [tk.command_prev(lblimg, lblname, lbltype1, lbltype2), tk.list_levelup_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
+tk.win.bind('<Return>', lambda e: [tk.command_search(lblimg, lblname, search, lbltype1, lbltype2), tk.list_levelup_moves(listbox), tk.label_stats(stats), tk.list_abilities(listbox1)])
 listbox.bind('<Double-1>', lambda e: tk.get_move_info(listbox))
 listbox1.bind('<Double-1>', lambda e: tk.get_abl_info(listbox1))
 
