@@ -56,7 +56,6 @@ class Pokedex:
     def __init__(self):
         with open('data/pokedex.json', 'r+', encoding='utf-8') as f:
             self.pokemon = json.loads(f.read())
-
         self.curr = {'name': 'Bulbasaur', 'id': 1}
     
     def next_pokemon(self):
@@ -107,7 +106,7 @@ class Pokedex:
     def get_machine_moves(self, pid=None):
         ''' get a list of moves learnt by machine of the current pokemon or of pokemon with id 'pid' '''
         if not pid:
-            with open(f'data/machine_moves/{self.url["id"]:03d}.json', 'r') as fread:
+            with open(f'data/machine_moves/{self.curr["id"]:03d}.json', 'r') as fread:
                 moves =json.load(fread)
         else:
             with open(f'data/machine_moves/{pid:03d}.json', 'r') as fread:
@@ -117,7 +116,7 @@ class Pokedex:
     def get_tutor_moves(self, pid=None):
         ''' get a list of moves learnt by tutors of the current pokemon or of pokemon with id 'pid' '''
         if not pid:
-            with open(f'data/tutor_moves/{self.url["id"]:03d}.json', 'r') as fread:
+            with open(f'data/tutor_moves/{self.curr["id"]:03d}.json', 'r') as fread:
                 moves =json.load(fread)
         else:
             with open(f'data/tutor_moves/{pid:03d}.json', 'r') as fread:
